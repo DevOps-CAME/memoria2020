@@ -1,0 +1,160 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Handling Updates
+-----------------------------------------------------------------*/
+
+.titulo_seccion {
+    font-size: 1.8em;
+    color: #5fd0ba;
+    border-bottom: #5fd0ba 5px solid;
+    padding: 1% 5% 0.5% 1%;
+    text-transform: uppercase;
+    float: right;
+    background-color: #dcf5f0;
+    text-align: right;
+}
+
+.prologo_editorial {
+    position: relative;
+    right: 0;
+}
+
+p {
+    text-align: justify;
+}
+
+.prensa_grid {
+    background-color: #e8e8e8;
+    border-radius: 20px 20px 0px 0px;
+    border: 2px solid #ccc;
+    text-align: center;
+    max-height: 890px;
+}
+
+.portfolio-desc>span {
+    font-size: 13px;
+}
+
+.menu-link {
+    font-size: 0.9rem;
+    padding: 1em 0.3em 0em 0.3em;
+}
+
+.menu-item{
+    font-size: 0.9rem;
+}
+
+.entry-meta {
+    overflow: visible;
+    margin: 0px;
+}
+
+.entry-meta alignleft {
+    margin: 0px;
+}
+
+img.alignleft,
+div.alignleft {
+    margin: 5px 20px 5px 0;
+}
+
+.entry-image {
+    margin-bottom: 5px;
+}
+
+.epigrafe {
+    font-size: 0.9rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #333;
+    margin: 5px 5px 15px 5px;
+    border-left: 2px solid #999;
+    padding-left: 5px;
+    display: inline-block;
+}
+
+.flip-card-front::after,
+.flip-card-back::after {
+    opacity: 0.3;
+    background-color: #828181;
+}
+
+
+.tarjeta-exportaciones {
+    background-color: #dcf5f0;
+    border: solid 1px #1abc9c;
+    border-radius: 0.4em;
+    padding: 1rem;
+    margin-right: 0.5rem;
+}
+
+.tarjeta-importaciones {
+    background-color: #cbf3eb;
+    border: solid 1px #179c82;
+    border-radius: 0.4em;
+    padding: 1rem;
+    margin-right: 0.5rem;
+}
+
+.tarjeta-saldo {
+    background-color: #9ddace;
+    border: solid 1px #328e7c;
+    border-radius: 0.4em;
+    padding: 1rem;
+    margin-right: 0.5rem;
+}
+
+.exportaciones-ia {
+    font-size: 0.9rem;
+    line-height: 0.4rem;
+}
+
+.heading-block h3 {
+    font-size: 1.55rem;
+}
+
+.mes-izk {
+    float: left;
+    color: #5fd0ba;
+    font-weight: 700;
+    border-left: 2px solid #5fd0ba;
+    padding-right: 5px;
+    background-color: #dcf5f0;
+    padding-left: 5px;
+    text-transform: uppercase;
+    font-size: 1.15rem;
+    margin-bottom: 0.25rem;
+
+}
+
+.mes-der {
+    text-align: right;
+    float: right;
+    color: #5fd0ba;
+    font-weight: 700;
+    border-right: 2px solid #5fd0ba;
+    padding-right: 5px;
+    background-color:#dcf5f0;
+    padding-left: 4px;
+    text-transform: uppercase;
+    font-size: 1.15rem;
+    margin-bottom: 0.25rem;
+
+}
+.counter{
+    font-size: 2.1em;
+}
+
+@media (max-width:629px) {
+    .hideonmobile {
+      display: none;
+    }
+  }
+
+  @media (max-width:629px) {
+    .showonmobile {
+      display: block !important;
+    }
+  }
