@@ -168,3 +168,17 @@ div.alignleft {
 .menu_labor {
   width: 20rem;
 }
+
+.sec_top {
+  display: inline-block;
+}
+.sec_top img {
+  width: 7rem;
+  float: left;
+}
+.sec_top h2 {
+  font-size: 2.5rem;
+  line-height: 3.5rem;
+  display: inline-block;
+  padding-left: 1.5rem;
+}

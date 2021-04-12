@@ -1,919 +1,747 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="es-AR">
-  <head>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-    <meta name="author" content="Multimedia CAME" />
 
-    <!-- Stylesheets
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="author" content="Multimedia CAME" />
+
+  <!-- Stylesheets
+    ============================================= -->
+  <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,400i,500,600,700&display=swap" rel="stylesheet"
+    type="text/css" />
+  <link rel="stylesheet" href="../css/bootstrap.css" type="text/css" />
+  <link rel="stylesheet" href="../style.css" type="text/css" />
+  <link rel="stylesheet" href="../css/dark.css" type="text/css" />
+
+  <link rel="stylesheet" href="../css/font-icons.css" type="text/css" />
+  <link rel="stylesheet" href="../css/animate.css" type="text/css" />
+  <link rel="stylesheet" href="../css/magnific-popup.css" type="text/css" />
+
+  <link rel="stylesheet" href="../css/custom.css" type="text/css" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <!-- Workspace Demo Specific Stylesheet -->
+  <link rel="stylesheet" href="../css/colors.php?color=267DF4" type="text/css" />
+  <!-- Theme Color -->
+  <link rel="stylesheet" href="../demos/coworking/css/fonts.css" type="text/css" />
+  <!-- Theme Font -->
+  <link rel="stylesheet" href="../demos/coworking/coworking.css" type="text/css" />
+  <!-- Theme CSS -->
+  <!-- / -->
+
+  <!-- Document Title
+    ============================================= -->
+  <!-- Primary Meta Tags -->
+  <title>CAME | Memoria 2020</title>
+  <meta name="title" content="CAME | Memoria 2020" />
+  <meta name="description" content="Memoria del año 2020 de la Confederación Argentina de la Mediana Empresa" />
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="http://came.org.ar/memoria2020/" />
+  <meta property="og:title" content="CAME | Memoria 2020" />
+  <meta property="og:description" content="Memoria del año 2020 de la Confederación Argentina de la Mediana Empresa" />
+  <meta property="og:image" content="http://came.org.ar/memoria2020/imgs/tapa_cel.jpg" />
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image" />
+  <meta property="twitter:url" content="http://came.org.ar/memoria2020/" />
+  <meta property="twitter:title" content="CAME | Memoria 2020" />
+  <meta property="twitter:description"
+    content="Memoria del año 2020 de la Confederación Argentina de la Mediana Empresa" />
+  <meta property="twitter:image" content="http://came.org.ar/memoria2020/imgs/tapa_cel.jpg" />
+
+  <!-- FAVICO -->
+  <link rel="apple-touch-icon" sizes="180x180" href="../imgs/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="../imgs/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../imgs/favicon-16x16.png">
+  <link rel="manifest" href="../imgs/site.webmanifest">
+  <link rel="mask-icon" href="../imgs/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+</head>
+
+<body class="stretched">
+  <!-- Document Wrapper
 	============================================= -->
-    <link
-      href="https://fonts.googleapis.com/css?family=Poppins:300,400,400i,500,600,700&display=swap"
-      rel="stylesheet"
-      type="text/css"
-    />
-    <link rel="stylesheet" href="../css/bootstrap.css" type="text/css" />
-    <link rel="stylesheet" href="../style.css" type="text/css" />
-    <link rel="stylesheet" href="../css/dark.css" type="text/css" />
-
-    <link rel="stylesheet" href="../css/font-icons.css" type="text/css" />
-    <link rel="stylesheet" href="../css/animate.css" type="text/css" />
-    <link rel="stylesheet" href="../css/magnific-popup.css" type="text/css" />
-
-    <link rel="stylesheet" href="../css/custom.css" type="text/css" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-
-    <!-- Workspace Demo Specific Stylesheet -->
-    <link rel="stylesheet" href="../css/colors.php?color=267DF4" type="text/css" />
-    <!-- Theme Color -->
-    <link
-      rel="stylesheet"
-      href="../demos/coworking/css/fonts.css"
-      type="text/css"
-    />
-    <!-- Theme Font -->
-    <link
-      rel="stylesheet"
-      href="../demos/coworking/coworking.css"
-      type="text/css"
-    />
-    <!-- Theme CSS -->
-    <!-- / -->
-
-    <!-- Document Title
-	============================================= -->
-    <title>One Page HTML5 Video Light Overlay | Canvas</title>
-
-    <!-- Primary Meta Tags -->
-    <title>CAME | Memoria 2020</title>
-    <meta name="title" content="CAME | Memoria 2020" />
-    <meta
-      name="description"
-      content="Memoria del año 2020 de la Confederación Argentina de la Mediana Empresa"
-    />
-
-    <!-- Open Graph / Facebook -->
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="http://came.org.ar/memoria2020/" />
-    <meta property="og:title" content="CAME | Memoria 2020" />
-    <meta
-      property="og:description"
-      content="Memoria del año 2020 de la Confederación Argentina de la Mediana Empresa"
-    />
-    <meta
-      property="og:image"
-      content="http://came.org.ar/memoria2020/imgs/tapa_cel.jpg"
-    />
-
-    <!-- Twitter -->
-    <meta property="twitter:card" content="summary_large_image" />
-    <meta property="twitter:url" content="http://came.org.ar/memoria2020/" />
-    <meta property="twitter:title" content="CAME | Memoria 2020" />
-    <meta
-      property="twitter:description"
-      content="Memoria del año 2020 de la Confederación Argentina de la Mediana Empresa"
-    />
-    <meta
-      property="twitter:image"
-      content="http://came.org.ar/memoria2020/imgs/tapa_cel.jpg"
-    />
-
-    <!-- FAVICO -->
-    <link
-      rel="apple-touch-icon"
-      sizes="57x57"
-      href="../imgs/apple-icon-57x57.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="60x60"
-      href="../imgs/apple-icon-60x60.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="72x72"
-      href="../imgs/apple-icon-72x72.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="76x76"
-      href="../imgs/apple-icon-76x76.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="114x114"
-      href="../imgs/apple-icon-114x114.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="120x120"
-      href="../imgs/apple-icon-120x120.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="144x144"
-      href="../imgs/apple-icon-144x144.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="152x152"
-      href="../imgs/apple-icon-152x152.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="180x180"
-      href="../imgs/apple-icon-180x180.png"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="192x192"
-      href="../imgs/android-icon-192x192.png"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="32x32"
-      href="../imgs/favicon-32x32.png"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="96x96"
-      href="../imgs/favicon-96x96.png"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="16x16"
-      href="../imgs/favicon-16x16.png"
-    />
-    <meta name="msapplication-TileColor" content="#ffffff" />
-    <meta name="msapplication-TileImage" content="../imgs/ms-icon-144x144.png" />
-    <meta name="theme-color" content="#ffffff" />
-  </head>
-
-  <body class="stretched">
-    <!-- Document Wrapper
-	============================================= -->
-    <div id="wrapper" class="clearfix">
-      <!-- Header
+  <div id="wrapper" class="clearfix">
+    <!-- Header
 		============================================= -->
-      <header id="header" class="border-bottom-0" data-sticky-shrink="false">
-        <div id="header-wrap">
-          <div class="container">
-            <div class="header-row">
-              <!-- Logo
+    <header id="header">
+      <div id="header-wrap">
+        <div class="container">
+          <div class="header-row justify-content-lg-between">
+
+            <!-- Logo
 						============================================= -->
-              <div id="logo">
-                <a
-                  href="../index.html"
-                  class="standard-logo"
-                  data-sticky-logo="../imgs/CAME-logo-b.png"
-                  ><img src="../imgs/CAME-logo.png" alt="CAME"
-                /></a>
-                <a
-                  href="index.html"
-                  class="retina-logo"
-                  data-sticky-logo="../imgs/CAME-logo-b.png"
-                  ><img src="../imgs/CAME-logo.png" alt="CAME"
-                /></a>
-              </div>
-              <!-- #logo end -->
-              <div id="primary-menu-trigger">
-                <svg class="svg-trigger" viewBox="0 0 100 100">
-                  <path
-                    d="m 30,33 h 40 c 3.722839,0 7.5,3.126468 7.5,8.578427 0,5.451959 -2.727029,8.421573 -7.5,8.421573 h -20"
-                  ></path>
-                  <path d="m 30,50 h 40"></path>
-                  <path
-                    d="m 70,67 h -40 c 0,0 -7.5,-0.802118 -7.5,-8.365747 0,-7.563629 7.5,-8.634253 7.5,-8.634253 h 20"
-                  ></path>
-                </svg>
-              </div>
+            <div id="logo" class="order-lg-2 col-auto px-0 mr-lg-0">
+              <a href="../index.html" class="standard-logo" data-dark-logo="../imgs/CAME-logo-b.png"><img
+                  src="../imgs/CAME-logo.png" alt="CAME"></a>
+              <a href="../index.html" class="retina-logo" data-dark-logo="../imgs/CAME-logo-b-ret.png"><img
+                  src="../imgs/CAME-logo-ret.png" alt="CAME"></a>
+            </div><!-- #logo end -->
 
-              <!-- Menú de navegación 
-            ============================================= -->
-            
-              
-
-            <nav class="primary-menu style-4 menu-spacing-margin">
-
-              <ul class="menu-container">
-                <li class="menu-item sub-menu">
-                  <a class="menu-link" href="index.html" style=""><div>Home<i class="icon-angle-down"></i></div></a>
-                  <ul class="sub-menu-container" style="display: none;">
-                    <li class="menu-item" style="">
-                      <a class="menu-link" href="Prese/prologo.html"><div>Prólogo</div></a>
-                    </li>
-                    <li class="menu-item" style="">
-                      <a class="menu-link" href="Prese/editorial.html"><div>Editorial</div></a>
-                    </li>
-                    <li class="menu-item sub-menu" style="">
-                      <a class="menu-link" href="Prese/mis_vis_val.html"><div>Misión, Visión y Valores</i></div></a>
-                       
-                      <li class="menu-item" style="">
-                          <a class="menu-link" href="Prese/recursos.html"><div>Recursos Humanos </div></a>
-                        </li>                       
-                       
-                    
-                  </ul>
-
-                <button class="sub-menu-trigger icon-chevron-right"></button></li>
-                <li class="menu-item sub-menu">
-                  <a class="menu-link" href="LI/index.html" style="">  <div>Labor institucional</div></a>
-                  <ul class="sub-menu-container" style="display: none;">
-                    <li class="menu-item" style="">
-                      <a class="menu-link" href="LI/gest_gob.html"><div>Gestiones y acciones de Gobierno</div></a>
-                    </li>
-
-                    <li class="menu-item" style="">
-                      <a class="menu-link" href="LI/cal_transp.html"><div>Calidad y Transparencia </div></a>
-                    </li>
-
-                    <li class="menu-item" style="">
-                      <a class="menu-link" href="LI/informes.html"><div>Informes, estadísticas y comunicación</div></a>
-                    </li>
-
-                    <li class="menu-item" style="">
-                      <a class="menu-link" href="LI/teipesa.html"><div>Modernización para pymes (TEIPESA)</div></a>
-                    </li>
-
-                    <li class="menu-item" style="">
-                      <a class="menu-link" href="LI/sello.html"><div>Sello CAME Sustentable</div></a>
-                    </li>
-
-                    <li class="menu-item" style="">
-                      <a class="menu-link" href="LI/weps.html"><div>Adhesión a los Principios para el Empoderamiento de la Mujer (WEP’s), </div></a>
-                    </li>
-                                           
-                  </ul> 
-                
-              
-
-                  <button class="sub-menu-trigger icon-chevron-right"></button></li>
-                  <li class="menu-item sub-menu">
-                    <a class="menu-link" href="index.html" style="">  <div>Sectores  y Secretarías</div></a>
-                    <ul class="sub-menu-container" style="display: none;">
-                      <li class="menu-item" style="">
-                        <a class="menu-link" href="com_serv.html"><div>Comercio y Servicios</div></a>
-                      </li>
-    
-                      <li class="menu-item" style="">
-                        <a class="menu-link" href="turismo.html"><div>Turismo</div></a>
-                      </li>
-    
-                      <li class="menu-item" style="">
-                        <a class="menu-link" href="industria.html"><div>Industria</div></a>
-                      </li>
-    
-                      <li class="menu-item" style="">
-                        <a class="menu-link" href="par_ind.html"><div>Parques Industriales</div></a>
-                      </li>
-    
-                      <li class="menu-item" style="">
-                        <a class="menu-link" href="eco_reg.html"><div>Economías Regionales</div></a>
-                      </li>
-    
-                      <li class="menu-item" style="">
-                        <a class="menu-link" href="construccion.html"><div>Construcción </div></a>
-                      </li>
-    
-                      <li class="menu-item" style="">
-                        <a class="menu-link" href="mujeres.html"><div>Mujeres Empresarias</div></a>
-                      </li>
-    
-                      <li class="menu-item" style="">
-                        <a class="menu-link" href="came_joven.html"><div>CAME Joven</div></a>
-                      </li>
-    
-                      <li class="menu-item" style="">
-                        <a class="menu-link" href="rse.html"><div>RSE</div></a>
-                      </li>
-    
-                      <li class="menu-item" style="">
-                        <a class="menu-link" href="capacitacion.html"><div>Capacitación</div></a>
-                      </li>
-    
-                      <li class="menu-item" style="">
-                        <a class="menu-link" href="financiamiento.html"><div>Financiamiento y Competitividad</div></a>
-                      </li>
-                                 
-                      <li class="menu-item" style="">
-                        <a class="menu-link" href="comex.html"><div>Comercio Exterior</div></a>
-                      </li>
-    
-                      <li class="menu-item" style="">
-                        <a class="menu-link" href="rondas.html"><div>Rondas de Negocios</div></a>
-                      </li>
-              
-                </ul>
+            <div id="primary-menu-trigger">
+              <svg class="svg-trigger" viewBox="0 0 100 100">
+                <path
+                  d="m 30,33 h 40 c 3.722839,0 7.5,3.126468 7.5,8.578427 0,5.451959 -2.727029,8.421573 -7.5,8.421573 h -20">
+                </path>
+                <path d="m 30,50 h 40"></path>
+                <path
+                  d="m 70,67 h -40 c 0,0 -7.5,-0.802118 -7.5,-8.365747 0,-7.563629 7.5,-8.634253 7.5,-8.634253 h 20">
+                </path>
+              </svg>
+            </div>
 
 
+
+
+
+            <!-- Primary Navigation
+						============================================= -->
+            <nav class="primary-menu order-lg-1 col-lg-5 px-0" style="position:inherit;">
+
+              <ul class="menu-container justify-content-lg-end">
+                <li class="menu-item">
+                  <a class="menu-link" href="prologo.html">
+                    <div>Prólogo</div>
+                  </a>
+                </li>
+                <li class="menu-item mega-menu">
+                  <a class="menu-link" href="editorial.html">
+                    <div>Editorial</div>
+                  </a>
+                </li>
+                <li class="menu-item mega-menu">
+                  <a class="menu-link" href="mision_vision_valores.html">
+                    <div>Misión, Visión y Valores</div>
+                  </a>
+                </li>
               </ul>
+
+            </nav>
+
+            <nav class="primary-menu order-lg-3 col-lg-5 px-0" style="position:inherit;">
+              <div class="menu-container">
+
+
+
+
+                <li class="menu-item">
+                  <a class="menu-link" href="labor_institucional.html">
+                    <div>Labor institucional</div>
+                  </a>
+
+                  <ul class="sub-menu-container menu_labor">
+
+
+                    <li class="menu-item" style="">
+                      <a class="menu-link" href="gestiones_gobierno.html">
+                        <div>Gestiones y acciones de Gobierno</div>
+                      </a>
+                    </li>
+
+                    <li class="menu-item" style="">
+                      <a class="menu-link" href="calidad_transparencia.html">
+                        <div>Calidad y Transparencia </div>
+                      </a>
+                    </li>
+
+                    <li class="menu-item" style="">
+                      <a class="menu-link" href="informes.html">
+                        <div>Informes, estadísticas y comunicación</div>
+                      </a>
+                    </li>
+
+                    <li class="menu-item" style="">
+                      <a class="menu-link" href="teipesa.html">
+                        <div>Modernización para pymes (TEIPESA)</div>
+                      </a>
+                    </li>
+
+                    <li class="menu-item" style="">
+                      <a class="menu-link" href="sello_sustentable.html">
+                        <div>Sello CAME Sustentable</div>
+                      </a>
+                    </li>
+
+                    <li class="menu-item" style="">
+                      <a class="menu-link" href="weps.html">
+                        <div>Adhesión a los Principios para el Empoderamiento de la Mujer (WEP’s), </div>
+                      </a>
+                    </li>
+
+
+                  </ul>
+                </li>
+
+
+                <li class="menu-item mega-menu">
+                  <a class="menu-link" href="#">
+                    <div>Sectores y Secretarías</div>
+                  </a>
+
+                  <div class="mega-menu-content mega-menu-style-2">
+                    <div class="container">
+                      <div class="row">
+                        <ul class="sub-menu-container mega-menu-column col-lg-4">
+                          <li class="menu-item mega-menu-title">
+                            <a class="menu-link" href="#">
+                              <div>Sectores</div>
+                            </a>
+                            <ul class="sub-menu-container">
+
+
+                              <li class="menu-item" style="">
+                                <a class="menu-link sec" href="sector/comercio_servicios.html">
+                                  <img src="../imgs/sec/comercio_servicios.png">
+                                  <div>Comercio y Servicios</div>
+                                </a>
+                              </li>
+
+                              <li class="menu-item" style="">
+                                <a class="menu-link sec" href="sector/turismo.html">
+                                  <img src="../imgs/sec/turismo.png">
+                                  <div>Turismo</div>
+                                </a>
+                              </li>
+
+                              <li class="menu-item" style="">
+                                <a class="menu-link sec" href="sector/industria.html">
+                                  <img src="../imgs/sec/industria.png">
+                                  <div>Industria</div>
+                                </a>
+                              </li>
+
+                              <li class="menu-item" style="">
+                                <a class="menu-link sec" href="sector/parques_industriales.html">
+                                  <img src="../imgs/sec/fapi.png">
+                                  <div>Parques Industriales</div>
+                                </a>
+                              </li>
+
+
+
+                            </ul>
+                          </li>
+                        </ul>
+                        <ul class="sub-menu-container mega-menu-column col-lg-4">
+                          <li class="menu-item mega-menu-title">
+                            <a class="menu-link" href="#">
+                              <div> &nbsp;</div>
+                            </a>
+                            <ul class="sub-menu-container">
+
+
+                              <li class="menu-item" style="">
+                                <a class="menu-link sec" href="sector/economias_regionales.html">
+                                  <img src="../imgs/sec/regionales.png">
+                                  <div>Economías Regionales</div>
+                                </a>
+                              </li>
+
+                              <li class="menu-item" style="">
+                                <a class="menu-link sec" href="sector/construccion.html">
+                                  <img src="../imgs/sec/construccion.png">
+                                  <div>Construcción</div>
+                                </a>
+                              </li>
+
+                              <li class="menu-item" style="">
+                                <a class="menu-link sec" href="sector/mujeres.html">
+                                  <img src="../imgs/sec/mujeres.png">
+                                  <div>Mujeres Empresarias</div>
+                                </a>
+                              </li>
+
+                              <li class="menu-item" style="">
+                                <a class="menu-link sec" href="sector/came_joven.html">
+                                  <img src="../imgs/sec/jovenes.png">
+                                  <div>CAME Joven</div>
+                                </a>
+                              </li>
+
+                            </ul>
+                          </li>
+                        </ul>
+
+
+                        <ul class="sub-menu-container mega-menu-column col-lg-4">
+                          <li class="menu-item mega-menu-title">
+                            <a class="menu-link" href="#">
+                              <div>Secretarías</div>
+                            </a>
+                            <ul class="sub-menu-container">
+
+                              <li class="menu-item" style="">
+                                <a class="menu-link sec" href="secretaria/rse.html">
+                                  <img src="../imgs/sec/rse.png">
+                                  <div>RSE</div>
+                                </a>
+                              </li>
+
+                              <li class="menu-item" style="">
+                                <a class="menu-link sec" href="secretaria/capacitacion.html">
+                                  <img src="../imgs/sec/capacication.png">
+                                  <div>Capacitación</div>
+                                </a>
+                              </li>
+
+                              <li class="menu-item" style="">
+                                <a class="menu-link sec" href="secretaria/financiamiento.html">
+                                  <img src="../imgs/sec/financiamiento.png">
+                                  <div>Financiamiento y Competitividad</div>
+                                </a>
+                              </li>
+
+                              <li class="menu-item" style="">
+                                <a class="menu-link sec" href="secretaria/comex.html">
+                                  <img src="../imgs/sec/comex.png">
+                                  <div>Comercio Exterior</div>
+                                </a>
+                              </li>
+
+                              <li class="menu-item" style="">
+                                <a class="menu-link sec" href="secretaria/rondas.html">
+                                  <img src="../imgs/sec/rondas.png">
+                                  <div>Rondas de Negocios</div>
+                                </a>
+                              </li>
+                            </ul>
+                          </li>
+                        </ul>
+
+                      </div>
+                    </div>
+                  </div>
+                </li>
+
+
 
 
             </nav>
-  <!-- fin de meni -->
+            <!-- #primary-menu end -->
 
-            
-
-            </div>
           </div>
         </div>
-        <div class="header-wrap-clone"></div>
-      </header>
-      <!-- #header end -->
+      </div>
+      <div class="header-wrap-clone"></div>
+    </header>
+    <!-- #header end -->
 
-      <!-- Content
+    <!-- Content
 		============================================= -->
-      <section id="content">
-        <div class="content-wrap pt-3 pb-0">
-         
-          <!-- Banner texto
+    <section id="content">
+      <div class="content-wrap pt-0 pb-0">
+
+
+
+        <!-- Bienvenida
 		============================================= -->
-          <div class="section bg-transparent py-2">
+        <section class="overflow-hidden parallax" style="background-image: url('../imgs/tapa.jpg');
+        background-size: cover;
+        height: 40vh;
+        width: 100%;" data-bottom-top="background-position:0px 200px;"
+          data-top-bottom="background-position:0px -400px;">
+
+
+          <div class=" d-flex align-items-center" style="
+        height: 40vh;
+        width: 100%;">
             <div class="container">
               <div class="row">
-                <div class="col-md-7">
-                  <h2 class="display-4 font-weight-semibold ls--2">
-                    Representamos a 1491
-                    <span
-                      class="text-rotater"
-                      data-separator="|"
-                      data-rotate="fadeIn"
-                      data-speed="2000"
-                    >
-                      <span class="t-rotate"
-                        >Federaciones|Cámaras|Centros industriales|Parques
-                        Industriales|Comercio y Servicios|Turismo|Economías
-                        Regionales|Construcción|Jóvenes Empresarios|Mujeres
-                        Empresarias|</span
-                      >
-                    </span>
-                   </br>
+
+                <div class="col-md-11 center">
+
+
+                  <h2 data-animate="fadeInUp" class="display-2 font-weight-semibold ls--4 mb-0">
+                    INFORME DE GESTIÓN </h2>
+                  <h2 data-animate="fadeInUp" data-delay="200" class="display-2 ls--6 mb-2">
+                    2020
                   </h2>
                 </div>
-                <div class="col-md-5">
-                  <p class="lead text-muted">
-                    <b>de todo el país</b> que agrupan a más 600.000 empresas pymes y dan trabajo a
-                    4.200.000 personas.
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- /Banner texto
-		============================================= -->
-
-   
-    
-    
-
-    <!-- Contenido 1
-		============================================= -->
-          <div class="section mt-0 pt-md-5 pt-0">
-            <div class="container clearfix">
-              <div class="row align-items-md-center mb-5">
-                <div class="col-md-6 pr-5">
-                  <div class="heading-block mb-4 border-bottom-0">                   
-                    <h2 class="nott font-weight-semibold">
-                      2020, un año de desafíos históricos
-                    </h2>
-                  </div>
-                  <div class="row">
-                    <div class="col-6 col-sm-6 mb-4">
-                      <div class="counter color font-weight-semibold">
-                        <span
-                          data-from="1"
-                          data-to="150"
-                          data-refresh-interval="2"
-                          data-speed="600"
-                        ></span
-                        >+
-                      </div>
-                      <h5 class="mt-0 font-weight-medium">Gestiones realizadas para morigerar impacto de la pandemia</h5>
-                    </div>
-
-                    <div class="col-6 col-sm-6 mb-4">
-                      <div class="counter color font-weight-semibold">
-                        <span
-                          data-from="1"
-                          data-to="80"
-                          data-refresh-interval="11"
-                          data-speed="900"
-                        ></span
-                        >+
-                      </div>
-                      <h5 class="mt-0 font-weight-medium">Personas capacitadas a través de la oferta de cursos regular de CAME Educativa, en relación con 2019, impulsando la modernización de las pymes, clave en el nuevo contexto mundial.</h5>
-                    </div>
-
-                    <div class="col-6 col-sm-6 mb-4">
-                      <div class="counter color font-weight-semibold">
-                        <span
-                          data-from="1"
-                          data-to="53"
-                          data-refresh-interval="3"
-                          data-speed="1000"
-                        ></span
-                        >+
-                      </div>
-                      <h5 class="mt-0 font-weight-medium">Nuevos seminarios web (webinars) para satisfacer la demanda de formación y comunicación de nuestras entidades adheridas.</h5>
-                    </div>
-
-                    <div class="col-6 col-sm-6 mb-4">
-                      <div class="counter color font-weight-semibold">
-                        <span
-                          data-from="1"
-                          data-to="15"
-                          data-refresh-interval="2"
-                          data-speed="1500"
-                        ></span
-                        >+
-                      </div>
-                      <h5 class="mt-0 font-weight-medium">Reuniones de Consejo Directivo, para fortalecer la gremial empresaria y generar sinergias que resulten en propuestas concretas para la defensa del sector.</h5>
-                    </div>
-                  </div>
-                  
-                </div>
-                <div class="col-md-3 col-sm-6">
-                  <div class="card shadow-sm border-light">
-                    <img
-                      src="../demos/coworking/images/features/3.jpg"
-                      alt="Featured image 1"
-                      class="card-img-top"
-                    />
-                    <div class="card-body">
-                      <h5 class="card-title font-weight-semibold color">
-                        CAPACITACIÓN
-                      </h5>
-                      <p class="card-text">
-                        Nos orientamos al rediseño de cursos, talleres y conferencias presenciales, 
-                        enfocándonos en desarrollar principalmente formaciones sobre aspectos sensibles a 
-                        la coyuntura, como el Comercio Electrónico, Ventas Digitales, Teletrabajo, Oficina virtual,
-                         entre otros temas.
-                      </p>
-                    </div>
-                  </div>
-
-                  <div class="card shadow-sm border-light mt-4">
-                    <img
-                      src="../demos/coworking/images/features/2.jpg"
-                      alt="Featured image 2"
-                      class="card-img-top"
-                    />
-                    <div class="card-body">
-                      <h5 class="card-title font-weight-semibold color">
-                        RELEVAMIENTOS ESPECIALES
-                      </h5>
-                      <p class="card-text">
-                        En el marco de la crisis económica que produjo la pandemia, llevamos a cabo relevamientos
-                        periódicos para conocer la situación del sector pyme y proponer medidas para su recuperación.
-                      </p>
-                    </div>
-                  </div>
-                </div>
-
-                <div class="col-md-3 col-sm-6 pl-sm-3 mt-3 mt-sm-0">
-                  <div class="card shadow-sm border-light">
-                    <img
-                      src="../demos/coworking/images/features/1.jpg"
-                      alt="Featured image 3"
-                      class="card-img-top"
-                    />
-                    <div class="card-body">
-                      <h5 class="card-title font-weight-semibold color">
-                        INNOVACIÓN RESPONSABLE
-                      </h5>
-                      <p class="card-text">
-                        Incorporamos el Premio Emprendedor Solidario COVID-19, con el objetivo de promover proyectos
-                         sustentables, valorando la solidaridad y el esfuerzo de los jóvenes que, en circunstancias
-                          tan complejas como las actuales, piensan en lo colectivo y en el bien común
-                      </p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-           <!-- /Contenido 1
-		============================================= -->
- 
-    <!-- Contenido 2
-		============================================= -->
-          <div class="container">
-            <div class="row justify-content-between">
-              <!-- Feature Box
-						============================================= -->
-              <div class="col-lg-4 col-md-6 my-4">
-                <i
-                  class="icon-wifi-full color ml-0 mb-4 i-plain d-block float-none"
-                ></i>
-                <h4 class="mb-3">Modernización</h4>
-                <p class="text-muted">
-                  En 2020 lanzamos CAME PAGOS, aplicación digital de gestión de pagos orientada a pymes que, 
-                  durante el pasado año mejoró en su funcionalidad, integrándose con CAME TIENDAS, potenciando 
-                  el ecosistema. Además, sumó nuevas tarjetas como TUYA, Naranja, CABAL y PLATA.
-                </p>
               </div>
 
-              <!-- Feature Box
-						============================================= -->
-              <div class="col-lg-4 col-md-6 my-4">
-                <i
-                  class="icon-line2-cup color ml-0 mb-3 i-plain d-block float-none"
-                ></i>
-                <h4 class="mb-3">Economías Regionales</h4>
-                <p class="text-muted">
-                  Como miembro permanente de la Comisión Nacional de Trabajo Agrario (CNTA) y la Comisión Nacional 
-                  de Emergencias y Desastres Agropecuarios (CNEyDA), el sector participó de los debates paritarios y 
-                  analizó el alcance de diversas inclemencias climáticas sufridas a lo largo y ancho del país. En la CNTA,
-                   la postura de CAME fue clara: no permitir que durante la pospandemia sigan desapareciendo empresas, pudiendo 
-                   así conservarse las fuentes de trabajo. 
-
-                </p>
-              </div>
-
-              <!-- Feature Box
-						============================================= -->
-              <div class="col-lg-4 col-md-6 my-4">
-                <i
-                  class="icon-line2-screen-desktop color ml-0 mb-3 i-plain d-block float-none"
-                ></i>
-                <h4 class="mb-3">Comercio</h4>
-                <p class="text-muted">
-                  Participamos de las comisiones de Comercio y de Finanzas de la Honorable Cámara de Diputados 
-                  de la Nación Argentina impulsando la sanción de la Ley de Acreditación Inmediata de Pagos con Tarjetas de Débito, 
-                  normativa busca desalentar el uso de efectivo, y brindar mayor liquidez al comercio pyme.
-                </p>
-              </div>
-
-              <!-- Feature Box
-						============================================= -->
-              <div class="col-lg-4 col-md-6 my-4">
-                <i
-                  class="icon-line2-lock color ml-0 mb-3 i-plain d-block float-none"
-                ></i>
-                <h4 class="mb-3">Financiamiento</h4>
-                <p class="text-muted">
-                  Recibimos más de 2897 consultas de entidades, pymes y emprendedores de todo el país en relación con los programas existentes. 
-                  Además, ingresaron a nuestra plataforma online, 280 nuevos proyectos de empresas y emprendedores.
-                </p>
-              </div>
-
-              <!-- Feature Box
-						============================================= -->
-              <div class="col-lg-4 col-md-6 my-4">
-                <i
-                  class="icon-fingerprint color ml-0 mb-3 i-plain d-block float-none"
-                ></i>
-                <h4 class="mb-3">Industria</h4>
-                <p class="text-muted">
-                  Participamos en las reuniones mensuales de la Comisión Pymes del Ente Regulador del Gas (ENARGAS), transmitiendo 
-                  la necesidad de reducir costos energéticos para las pymes, afectadas por la recesión que produjo la pandemia.
-                </p>
-              </div>
-
-              <!-- Feature Box
-						============================================= -->
-              <div class="col-lg-4 col-md-6 my-4">
-                <i
-                  class="icon-line2-printer color ml-0 mb-3 i-plain d-block float-none"
-                ></i>
-                <h4 class="mb-3">Turismo</h4>
-                <p class="text-muted">
-                  Presentamos un plan integral y federal de promoción y recuperación de la actividad,
-                   denominado “Las pymes turísticas y comerciales en un contexto de coyuntura, 
-                   adaptación tecnológica y cambio social”.
-                </p>
-              </div>
-
-              <!-- Feature Box
-						============================================= -->
-              <div class="col-lg-4 col-md-6 my-4">
-                <i
-                  class="icon-couch color ml-0 mb-3 i-plain d-block float-none"
-                ></i>
-                <h4 class="mb-3">Mujeres </h4>
-                <p class="text-muted">
-                  En un esfuerzo institucional transversal, CAME adhirió a los Principios para el 
-                  Empoderamiento de la Mujer (WEP’s), convirtiéndonos así en la primera entidad gremial empresaria del país en sumarse a esta iniciativa internacional 
-                  que propone generar oportunidades de desarrollo para las mujeres dentro de las empresas y entidades públicas y privadas.
-                </p>
-              </div>
-
-              <!-- Feature Box
-						============================================= -->
-              <div class="col-lg-4 col-md-6 my-4">
-                <i
-                  class="icon-line-clock color ml-0 mb-3 i-plain d-block float-none"
-                ></i>
-                <h4 class="mb-3">Rondas de Negocios</h4>
-                <p class="text-muted">
-                  En 2020, de manera virtual, se 7 Rondas de Negocios, en las que participaron 386 empresas, 
-                  de cuatro países (Argentina, Paraguay, Chile y EEUU). Como fruto de ello, se concretaron 
-                  2.380 entrevistas.
-                </p>
-              </div>
-
-              <!-- Feature Box
-						============================================= -->
-              <div class="col-lg-4 col-md-6 my-4">
-                <i
-                  class="icon-playstation color ml-0 mb-3 i-plain d-block float-none"
-                ></i>
-                <h4 class="mb-3">Exportación</h4>
-                <p class="text-muted">
-                  En el 2020, CAME emitió 11.084 Certificados de Origen, un 30% más respecto del año anterior, 
-                  para empresas radicadas en 20 provincias del país, promoviendo la internacionalización de la
-                   producción nacional.
-                </p>
-              </div>
-            </div>
-          </div>
-   <!-- /Contenido 2
-		============================================= -->
-
-  
-
-   
-
-    <!-- Contenido 6 
-		============================================= -->
-          <div class="section bg-transparent clearfix" style="padding: 80px 0">
-            <div class="container">
-              <div class="row justify-content-between align-items-center">
-                <div
-                  class="col-lg-8 col-md-10 offset-lg-2 offset-md-1 bottommargin-lg"
-                >
-                  <a
-                    href="https://www.youtube.com/watch?v=P3Huse9K6Xs"
-                    data-lightbox="iframe"
-                    class="play-video position-relative"
-                    ><img
-                      src="../demos/coworking/images/video-bg.jpg"
-                      alt="Video Image"
-                      class="rounded-lg shadow-lg"
-                    />
-                    <i class="icon-play"></i>
-                  </a>
-                </div>
-                <div class="col-lg-5 col-md-6 mt-0 mt-md-4">
-                  <div class="feature-box fbox-plain fbox-sm">
-                    <div class="fbox-icon">
-                      <i class="icon-line2-magic-wand"></i>
-                    </div>
-                    <div class="fbox-content">
-                      <h3>Dr. Gerardo Díaz Beltrán</h3>
-                      <p>
-                        “Apostamos por el país, como lo hemos hecho siempre, y lo seguiremos haciendo. 
-                        Porque estamos convencidos de que el desarrollo de la pequeña y mediana industria,                     
-                        así como del turismo, el sector comercial, las economías regionales, la construcción, 
-                        los parques industriales, los jóvenes empresarios y las mujeres que se dedican a la actividad,
-                         constituyen el programa de crecimiento vertebral que la nación demanda en esta inédita etapa”. 
-                      </p>
-                    </div>
-                  </div>
-
-                  <div class="feature-box fbox-plain fbox-sm">
-                    <div class="fbox-icon">
-                      <i class="icon-line2-clock"></i>
-                    </div>
-                    <div class="fbox-content">
-                      <h3>Dr. Gerardo Díaz Beltrán</h3>
-                      <p>
-                        “Tenemos la certeza de que la pandemia no acabará en 2021, y por ello reivindicamos el diálogo con 
-                        todos los sectores y la genuina demanda de asistencia para que nuestras pymes, que representan más del 
-                        40 % del PBI nacional y el 70 % del empleo registrado, puedan salir adelante”.
-                      </p>
-                    </div>
-                  </div>
-
-                  <div class="feature-box fbox-plain fbox-sm mb-0">
-                    <div class="fbox-icon">
-                      <i class="icon-line2-speech"></i>
-                    </div>
-                    <div class="fbox-content">
-                      <h3>Great Community</h3>
-                      <p>
-                        Proactively evolve user-centric paradigms rather than
-                        exceptional core. Authoritatively brand unique.
-                      </p>
-                    </div>
-                  </div>
-                </div>
-
-                <div class="col-lg-5 col-md-6 mt-5 mt-md-0">
-                  <h2 class="ls0">Get One Day Free Trial.</h2>
-                  <p class="text-muted mb-5" style="font-size: 18px">
-                    Enthusiastically embrace diverse e-markets after sustainable
-                    applications. Collaboratively impact intermandated systems
-                    vis-a-vis progressive information.
-                  </p>
-                  <div class="d-flex">
-                    <a
-                      href="#"
-                      class="button button-rounded button-xlarge d-block flex-fill m-0 center nott font-weight-semibold ls0"
-                      >Sign Up</a
-                    >
-                    <a
-                      href="#"
-                      class="button button-rounded button-xlarge d-block flex-fill button-border m-0 ml-3 center nott font-weight-semibold ls0"
-                      >Contact Us</a
-                    >
-                  </div>
-                </div>
-              </div>
             </div>
           </div>
 
-          <!-- /Contenido 6 
+
+        </section>
+        <!--  /Bienvenida
+		=============================================  -->
+
+
+
+        <!-- Contenido
 		============================================= -->
-
-          <div class="line"></div>
-
-        </div>
-      </section>
-      <!-- #content end -->
-
-      <!-- Footer
-		============================================= -->
-      <footer
-        id="footer"
-        class="border-0"
-        style="background-color: #155bbc; padding-top: 80px"
-      >
-        <div class="container">
-          <!-- Footer Widgets
-				============================================= -->
-          <div class="footer-widgets-wrap dark pb-5 clearfix">
-            <div class="row">
-              <div class="col-lg-2 col-md-2 col-6">
-                <div class="widget clearfix">
-                  <h4 class="ls0 mb-4 nott text-white">Features</h4>
-
-                  <ul class="list-unstyled ml-0">
-                    <li class="mb-2"><a href="#">Help Center</a></li>
-                    <li class="mb-2"><a href="#">Paid with Moblie</a></li>
-                    <li class="mb-2"><a href="#">Status</a></li>
-                    <li class="mb-2"><a href="#">Contact Support</a></li>
-                  </ul>
-                </div>
-              </div>
-              <div class="col-lg-2 col-md-2 col-6">
-                <div class="widget clearfix">
-                  <h4 class="ls0 mb-4 nott text-white">Support</h4>
-
-                  <ul class="list-unstyled ml-0">
-                    <li class="mb-2"><a href="#">Home</a></li>
-                    <li class="mb-2"><a href="#">About</a></li>
-                    <li class="mb-2"><a href="#">FAQs</a></li>
-                    <li class="mb-2"><a href="#">Support</a></li>
-                  </ul>
-                </div>
-              </div>
-              <div class="col-lg-2 col-md-2 col-6">
-                <div class="widget clearfix">
-                  <h4 class="ls0 mb-4 nott text-white">Trending</h4>
-
-                  <ul class="list-unstyled ml-0">
-                    <li class="mb-2"><a href="#">Shop</a></li>
-                    <li class="mb-2"><a href="#">Portfolio</a></li>
-                    <li class="mb-2"><a href="#">Blog</a></li>
-                  </ul>
-                </div>
-              </div>
-              <div class="col-lg-2 col-md-2 col-6">
-                <div class="widget clearfix">
-                  <h4 class="ls0 mb-4 nott text-white">Get to Know us</h4>
-
-                  <ul class="list-unstyled ml-0">
-                    <li class="mb-2"><a href="#">Corporate</a></li>
-                    <li class="mb-2"><a href="#">Agency</a></li>
-                    <li class="mb-2"><a href="#">eCommerce</a></li>
-                    <li class="mb-2"><a href="#">Personal</a></li>
-                  </ul>
-                </div>
-              </div>
-
-              <div class="col-lg-4 col-md-4">
-                <div id="instagram" class="widget clearfix">
-                  <h4 class="ls0 mb-4 nott text-white">Instagram Photos</h4>
-                  <div
-                    id="instagram-photos"
-                    class="instagram-photos masonry-thumbs grid-5"
-                    data-user="blog.canvastemplate"
-                    data-count="10"
-                  ></div>
-                </div>
-              </div>
-
-              <div class="line"></div>
-
-              <div class="row">
-                <div class="col-sm-3">
-                  <a href="index.html"
-                    ><img
-                      src="../demos/coworking/images/logo-footer.png"
-                      alt="Logo Footer"
-                      class="mb-4"
-                      height="20"
-                  /></a>
-                  <p class="text-white-50">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  </p>
-                  <a
-                    href="#"
-                    class="social-icon si-small si-light si-facebook"
-                    title="Facebook"
-                  >
-                    <i class="icon-facebook"></i>
-                    <i class="icon-facebook"></i>
-                  </a>
-                  <a
-                    href="#"
-                    class="social-icon si-small si-light si-twitter"
-                    title="Twitter"
-                  >
-                    <i class="icon-twitter"></i>
-                    <i class="icon-twitter"></i>
-                  </a>
-                  <a
-                    href="#"
-                    class="social-icon si-small si-light si-github"
-                    title="Github"
-                  >
-                    <i class="icon-github"></i>
-                    <i class="icon-github"></i>
-                  </a>
-                  <a
-                    href="#"
-                    class="social-icon si-small si-light si-instagram"
-                    title="instagram"
-                  >
-                    <i class="icon-instagram"></i>
-                    <i class="icon-instagram"></i>
-                  </a>
-                </div>
-                <div class="col-sm-9">
-                  <ul class="list-numbers">
-                    <li class="text-white-50 font-weight-light">
-                      Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                      Dolores voluptatum corporis, repellat assumenda, cumque
-                      labore nam fuga deserunt harum, magni asperiores iure?
-                      Quos nobis molestiae dolorum obcaecati ad omnis, sint.
-                    </li>
-                    <li class="text-white-50 font-weight-light mb-0">
-                      Completely embrace real-time systems whereas fully tested
-                      schemas. Synergistically actualize state of the art
-                      functionalities vis-a-vis cross-platform data.
-                      Conveniently reinvent web-enabled bandwidth via cost
-                      effective e-tailers. Proactively engage compelling
-                      outsourcing after virtual synergy. Distinctively formulate
-                      granular.
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <!-- Copyrights
-			============================================= -->
-        <div id="copyrights" class="bg-transparent dark pt-0">
-          <div class="line mt-0"></div>
+        <div id="section-about" class="center page-section col-lg-12 col-md-12">
 
           <div class="container clearfix">
-            <div class="row">
-              <div class="col-12">
-                <p class="mb-2 text-white-50">
-                  Copyrights &copy; 2020 All Rights Reserved by Canvas Inc.
-                </p>
-                <div class="copyright-links text-white-50">
-                  <a href="#" class="text-white-50">Terms of Use</a> /
-                  <a href="#" class="text-white-50">Privacy Policy</a>
+            <div class="heading-block center sec_top"><img src="../imgs/sec/comercio_servicios.png">
+              <h2>Comercio <br>y Servicios</h2>
+            </div>
+            <h2 class="display-4 nott ls0 font-primary color text-left">Asistencia y acompañamiento al comercio
+              minorista nacional</h2>
+
+            <p class="lead mx-auto bottommargin" >En un difícil año para el sector comercial a
+              nivel federal, en el que el aislamiento y las medidas de restricción ante el avance de la pandemia
+              limitaron la actividad en todo el país, paralizando parcialmente su entramado, desde el sector Comercio y
+              Servicios de CAME impulsamos acciones y gestiones, tanto regionales como nacionales, orientadas a
+              preservar el tejido pyme y las fuentes de empleo que de él dependen.</p>
+
+            <div class="clear"></div>
+          </div>
+        </div>
+
+        <div class="container clearfix col-lg-12 col-md-12">
+          <div class="row justify-content-between">
+            <div class="col-lg-10 col-md-10 mb-0"> <h2>Logros de gestión:</h2></div>
+            <div class="clear"></div>
+       
+            <div class="col-lg-3 col-md-4 my-4">
+              <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
+              <p class="text-muted">
+                Sanción de la Ley de Acreditación Inmediata de Pagos con Tarjetas de Débito.
+              </p>
+            </div>
+            <div class="col-lg-3 col-md-4 my-4">
+              <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
+              <p class="text-muted">
+               Convenio de colaboración para desarrollar CCA con el Gobierno de la Provincia de Santa Fe, suscripto por CAME, AER, FSCCA, FECECO y el Ministerio de Producción de la provincia.
+              </p>
+            </div>
+            <div class="col-lg-3 col-md-4 my-4">
+              <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
+              <p class="text-muted">
+                Acompañamiento a la Federación Económica de Tucumán (FET) y rechazo del accionar del Sindicato de Empleados de Comercio (SEOC) que imposibilitó aperturas en la provincia.              </p>
+            </div>
+            <div class="col-lg-3 col-md-4 my-4">
+              <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
+              <p class="text-muted">
+               Apoyo para el lanzamiento de promociones de Fin de Año, para 87 CCA y entidades de 12 provincias. 
+                            </p>
+            </div>
+
+           
+
+       
+
+         
+          </div>
+        </div>
+
+        <div class="container clearfix">
+          <div class="row justify-content-center">
+            <div class="col-md-12">
+              <div class="row col-mb-30 mb-5">
+                <div class="col-lg-10 col-md-10 mb-0"> <h2>Acciones en números:</h2></div>
+                <div class="clear"></div>
+
+
+                <div class="col-md-4">
+                  <div class="feature-box fbox-small fbox-effect">
+                    
+                    <div class="fbox-content">
+                      <div class="counter color"><span data-from="1" data-to="10" data-refresh-interval="10" data-speed="1600">10</span> </div>
+                     
+                      <p><bold class="display-5 color font-weight-medium">entidades y CCA</bold> recibieron asistencia para actualizar y potenciar plataformas digitales de fidelización de clientes.</p>
+                    </div>
+                  </div>
                 </div>
+  
+                <div class="col-md-4">
+                  <div class="feature-box fbox-small fbox-effect">
+                    
+                    <div class="fbox-content">
+                      <div class="counter color"><span data-from="1" data-to="2700" data-refresh-interval="10" data-speed="1600">2700</span> </div>
+                     
+                      <p><bold class="display-5 color font-weight-medium">participantes</bold> en el XIX Foro Internacional sobre Ciudad, Comercio y Turismo, realizado en formato virtual.</p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-md-4">
+                  <div class="feature-box fbox-small fbox-effect">
+                    
+                    <div class="fbox-content">
+                      <div class="counter color"><span data-from="1" data-to="6" data-refresh-interval="10" data-speed="1600">6</span> </div>
+                     
+                      <p><bold class="display-5 color font-weight-medium">campañas audiovisuales de concientización</bold> que destacan el rol del comercio en la comunidad y apelan a la responsabilidad sanitaria. </p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-md-6">
+                  <div class="feature-box fbox-small fbox-effect">
+                    
+                    <div class="fbox-content">
+                      <div class="counter color"><span data-from="1" data-to="15" data-refresh-interval="10" data-speed="1600">15</span> </div>
+                     
+                      <p><bold class="display-5 color font-weight-medium">ciudades</bold> de 6 provincias recibieron propuestas técnicas para proyectos de CCA en desarrollo.  </p>
+                    </div>
+                  </div>
+                </div>
+
+                
+                <div class="col-md-6">
+                  <div class="feature-box fbox-small fbox-effect">
+                    
+                    <div class="fbox-content">
+                      <div class="counter color"><span data-from="1" data-to="16" data-refresh-interval="10" data-speed="1600">16</span> </div>
+                     
+                      <p><bold class="display-5 color font-weight-medium">ciudades</bold> de 7 provincias recibieron asistencia técnica para CCA ya establecidos.   </p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-md-6">
+                  <div class="feature-box fbox-small fbox-effect">
+                    
+                    <div class="fbox-content">
+                      <div class="counter color"><span data-from="1" data-to="2" data-refresh-interval="10" data-speed="1600">2</span> </div>
+                     
+                      <p><bold class="display-5 color font-weight-medium">coloquios internacionales:</bold> “Los Centros Comerciales Abiertos en cuarentena” (con 220 participantes) y “Los desafíos pospandemia para el Comercio Minorista y los CCA” (con 115 participantes).</p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-md-6">
+                  <div class="feature-box fbox-small fbox-effect">
+                    
+                    <div class="fbox-content">
+                      <div class="counter color"><span data-from="1" data-to="4" data-refresh-interval="10" data-speed="1600">4</span> </div>
+                     
+                      <p><bold class="display-5 color font-weight-medium">encuentros</bold> en el marco del ciclo de CCA Sustentables, iniciativa desarrollada junto con el Departamento de RSE de CAME. </p>
+                    </div>
+                  </div>
+                </div>
+                
               </div>
+            </div>
+  
+          </div>
+        </div>
+
+      
+
+      <!-- fin Contenido
+    ============================================= -->
+
+
+
+
+  </div>
+  </section>
+  <!-- #content end -->
+
+  <!-- Footer
+		============================================= -->
+  <footer id="footer" class="dark border-0" style="background-color: #155bbc; padding-top: 80px">
+    <div class="container">
+
+      <!-- Footer Widgets
+				============================================= -->
+      <div class="footer-widgets-wrap pb-4">
+
+        <div class="row">
+
+          <div class="col-lg-3 col-md-4 col-6">
+            <div class="widget widget_links clearfix">
+              <h4 class="ls0 mb-4 nott">ÍNDICE</h4>
+              <ul class="list-unstyled iconlist ml-0">
+
+                <li><a href="#" data-scrollto="#">
+                    <div>Prólogo</div>
+                  </a></li>
+                <li><a href="#" data-scrollto="#">
+                    <div>Editorial</div>
+                  </a></li>
+                <li><a href="#" data-scrollto="#">
+                    <div>Misión, Visión y Valores</div>
+                  </a></li>
+                Labor Institucional
+                <li><a href="#" data-scrollto="#">
+                    <div>Gestiones y acciones de gobierno</div>
+                  </a></li>
+                <li><a href="#" data-scrollto="#">
+                    <div>Calidad y transparencia</div>
+                  </a></li>
+                <li><a href="#" data-scrollto="#">
+                    <div>Informes, estadísticas y comunicación</div>
+                  </a></li>
+                <li><a href="#" data-scrollto="#">
+                    <div>Modernización para Pymes (TEIPESA)</div>
+                  </a></li>
+                <li><a href="#" data-scrollto="#">
+                    <div>Sello CAME sustentable</div>
+                  </a></li>
+                Sectores y secretarías
+                <li><a href="#" data-scrollto="#">
+                    <div>Comercio y Servicios </div>
+                  </a></li>
+                <li><a href="#" data-scrollto="#">
+                    <div>Turismo </div>
+                  </a></li>
+                <li><a href="#" data-scrollto="#">
+                    <div>Industria </div>
+                  </a></li>
+                <li><a href="#" data-scrollto="#">
+                    <div>Parques Industriales </div>
+                  </a></li>
+                <li><a href="#" data-scrollto="#">
+                    <div>Economías Regionales </div>
+                  </a></li>
+                <li><a href="#" data-scrollto="#">
+                    <div>Construcción </div>
+                  </a></li>
+                <li><a href="#" data-scrollto="#">
+                    <div>Mujeres Empresarias </div>
+                  </a></li>
+                <li><a href="#" data-scrollto="#">
+                    <div>CAME Joven </div>
+                  </a></li>
+                <li><a href="#" data-scrollto="#">
+                    <div>RSE </div>
+                  </a></li>
+                <li><a href="#" data-scrollto="#">
+                    <div>Capacitación </div>
+                  </a></li>
+                <li><a href="#" data-scrollto="#">
+                    <div>Financiamiento y Competitividad </div>
+                  </a></li>
+                <li><a href="#" data-scrollto="#">
+                    <div>Comercio Exterior </div>
+                  </a></li>
+                <li><a href="#" data-scrollto="#">
+                    <div>Rondas de Negocios </div>
+                  </a></li>
+
+                <a href="http://www.redcame.org.ar/" target="_blank" class="social-icon si-small si-paypal si-colored"
+                  title="CAME">
+                  <i class=""><img src="../imgs/CAME.png" alt="CAME"></i>
+                  <i class=""><img src="../imgs/CAME.png" alt="CAME"></i>
+                </a>
+
+                <a href="https://www.facebook.com/redcame" target="_blank"
+                  class="social-icon si-small si-facebook si-colored" title="Facebook">
+                  <i class="icon-facebook"></i>
+                  <i class="icon-facebook"></i>
+                </a>
+                <a href="https://twitter.com/redcame" target="_blank" class="social-icon si-small si-twitter si-colored"
+                  title="Twitter">
+                  <i class="icon-twitter"></i>
+                  <i class="icon-twitter"></i>
+                </a>
+
+                <a href="https://www.instagram.com/redcame/" target="_blank"
+                  class="social-icon si-small si-instagram si-colored" title="Instagram">
+                  <i class="icon-instagram"></i>
+                  <i class="icon-instagram"></i>
+                </a>
+              </ul>
+
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-4 col-6">
+            <div class="widget">
+              <h4 class="ls0 mb-4 nott">STAFF</h4>
+              <ul class="list-unstyled iconlist ml-0">
+                <li class="mb-2"><strong>Presidente</strong><br>Gerardo Díaz Beltrán</li>
+                <li class="mb-2"><strong>Sec. de Organización</strong><br>Camilo Alberto Kahale</li>
+                <li class="mb-2"><strong>Sec. de Hacienda</strong><br>José Luis Valdés</li>
+              </ul>
+            </div>
+
+            <div class="widget">
+              <h4 class="ls0 mb-4 nott">ECONOMÍAS REGIONALES</h4>
+              <ul class="list-unstyled iconlist ml-0">
+                <li class="mb-2"><strong>Presidente</strong><br>José Eduardo Rodríguez</li>
+                <li class="mb-2"><strong>Director ejecutivo</strong><br>Pablo G. Vernengo</li>
+                <li class="mb-2"><strong>Asistentes</strong><br>Estefanía Salamone<br>Alejandra
+                  Zavattaro</li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="col-lg-2 col-md-4 col-6">
+            <div class="widget">
+              <h4 class="ls0 mb-4 nott">DISEÑO Y ARTE</h4>
+              <ul class="list-unstyled iconlist ml-0">
+                <li class="mb-2"><strong>Ilustración</strong><br>Sabrina Abadi Akebat</li>
+                <li class="mb-2"><strong>Desarrollo</strong><br>Gastón Martín Gracis<br> Enzo Paolo Salvo</li>
+              </ul>
+
+            </div>
+          </div>
+
+
+          <div class="col-lg-4 col-md-4 text-md-right alig">
+            <div class="widget">
+
+              <a href="http://www.redcame.org.ar" target="_blank"><img src="../imgs/CAME-blanco.png" alt="CAME"
+                  class="mb-3" style="width: 16rem;"></a>
+
+              <p>
+                <bold>60 años de compromiso con las PYMES</bold><br>
+                La Confederación Argentina de la Mediana Empresa (CAME) es una entidad gremial empresaria, sin fines de
+                lucro, que representa a 1491 federaciones, cámaras, centros y uniones de la Industria y los Parques
+                Industriales, el Comercio y los Servicios, el Turismo, las Economías Regionales, la Construcción, los
+                Jóvenes y las Mujeres Empresarias de todo el país, que agrupan a más 600.000 empresas pymes y dan
+                trabajo a 4.200.000 personas.
+              </p>
+
+
+            </div>
+          </div>
+
+        </div>
+
+
+
+
+
+
+      </div><!-- .footer-widgets-wrap end -->
+    </div>
+
+    <!-- Copyrights
+			============================================= -->
+    <div id="copyrights">
+      <div class="container">
+
+        <div class="row justify-content-between align-items-center">
+          <div class="col-md-6">
+            CAME &copy; 2020 Todos los derechos reservados
+          </div>
+
+          <div class="col-md-6 d-md-flex flex-md-column align-items-md-end mt-4 mt-md-0">
+            <div class="copyrights-menu copyright-links">
+              <a href="http://www.redcame.org.ar/sectores/10/economias-regionales">Acerca de
+                EERR</a>/<a href="http://www.redcame.org.ar/">CAME</a>/<a
+                href="http://www.redcame.org.ar/contacto">Contacto</a>
             </div>
           </div>
         </div>
-        <!-- #copyrights end -->
-      </footer>
-      <!-- #footer end -->
-    </div>
-    <!-- #wrapper end -->
 
-    <!-- Go To Top
-	============================================= -->
-    <div id="gotoTop" class="icon-angle-up"></div>
+      </div>
+    </div><!-- #copyrights end -->
+  </footer><!-- #footer end -->
+  </div>
+  <!-- #wrapper end -->
 
-    <!-- JavaScripts
+  <!-- Go To Top
 	============================================= -->
-    <script src="../js/jquery.js"></script>
-    <script src="../js/plugins.min.js"></script>
+  <div id="gotoTop" class="icon-angle-up"></div>
 
-    <!-- Footer Scripts
+  <!-- JavaScripts
 	============================================= -->
-    <script src="../js/functions.js"></script>
-  </body>
+  <script src="../js/jquery.js"></script>
+  <script src="../js/plugins.min.js"></script>
+
+  <!-- Footer Scripts
+	============================================= -->
+  <script src="../js/functions.js"></script>
+</body>
+
 </html>
