@@ -39,11 +39,13 @@
             <h2 class="display-4 nott ls0 font-primary color text-left">Hacia una mirada responsable, sustentable e inclusiva de la gestión pyme
             </h2>
 
-            <p class="lead mx-auto bottommargin" >En 2020, ante un contexto totalmente desconocido que exigía grandes cambios y que nos invitó a repensar nuestra forma de interactuar, producir y consumir, hemos reforzado el acompañamiento a entidades, pymes y emprendedores en su proceso de incorporación de la gestión sustentable en su labor cotidiana, motivando así el desarrollo económico con inclusión social y cuidado del medio ambiente, en todos los sectores de la comunidad.</br>
-<p>En ese sentido, durante el 2020 continuamos ejecutando – a través de cooperación internacional- la 5° Red de Aprendizaje en Gestión de la Energía junto a la Secretaría de Energía de la Nación y a la Confederación Economica de Misiones (CEM), por la que 14 pymes de la región NEA participaron en diferentes encuentros virtuales donde trabajaron la planificación e implementación de mejoras en eficiencia energética en sus instalaciones.
-</p>
-
+            <p class="lead mx-auto bottommargin" >En 2020, ante un contexto totalmente desconocido que exigía grandes cambios y que nos invitó a repensar nuestra forma de interactuar, producir y consumir, hemos reforzado el acompañamiento a entidades, pymes y emprendedores en su proceso de incorporación de la gestión sustentable en su labor cotidiana, motivando así el desarrollo económico con inclusión social y cuidado del medio ambiente, en todos los sectores de la comunidad. 
+              
             </p>
+            <p class="lead mx-auto bottommargin" >En ese sentido, durante el 2020 continuamos ejecutando – a través de cooperación internacional- la 5° Red de Aprendizaje en Gestión de la Energía junto a la Secretaría de Energía de la Nación y a la Confederación Economica de Misiones (CEM), por la que 14 pymes de la región NEA participaron en diferentes encuentros virtuales donde trabajaron la planificación e implementación de mejoras en eficiencia energética en sus instalaciones.
+             </p>
+
+           
 
             <div class="clear"></div>
           </div>
@@ -61,9 +63,9 @@
                   <div class="feature-box fbox-small fbox-effect">
                     
                     <div class="fbox-content">
-                      <div class="counter color"><span data-from="1" data-to="16" data-refresh-interval="10" data-speed="1600">16</span> </div>
+                      <div class="counter color"><span data-from="1" data-to="2600" data-refresh-interval="300" data-speed="1600">16</span> </div>
                      
-                      <p><bold class="display-5 color font-weight-medium">reuniones, virtuales y presenciales, del sector</bold> </p>
+                      <p><bold class="display-5 color font-weight-medium">beneficiarios</bold> de las acciones solidarias impulsadas por CAME.</p>
                     </div>
                   </div>
                 </div>
@@ -72,9 +74,20 @@
                   <div class="feature-box fbox-small fbox-effect">
                     
                     <div class="fbox-content">
-                      <div class="counter color"><span data-from="1" data-to="7" data-refresh-interval="10" data-speed="1600">7</span> </div>
+                      <div class="counter color"><span data-from="1" data-to="2600" data-refresh-interval="30" data-speed="1600">7</span> </div>
                      
-                      <p><bold class="display-5 color font-weight-medium">encuentros regionales: </bold> un encuentro presencial en la Región NEA y 6 virtuales, para las regiones NEA, NOA, Centro, Patagonia Sur, Norte y Cuyo
+                      <p><bold class="display-5 color font-weight-medium">inscriptos</bold> en nuestros cursos gratuitos y a distancia sobre responsabilidad social y desarrollo sustentable.   </p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-md-4">
+                  <div class="feature-box fbox-small fbox-effect">
+                    
+                    <div class="fbox-content">
+                      <div class="counter color"><span data-from="1" data-to="1700" data-refresh-interval="100" data-speed="1600">58</span> </div>
+                     
+                      <p><bold class="display-5 color font-weight-medium">kilos de materiales reciclables</bold> recuperados gracias a nuestro programa interno Oficina Verde.
                       </p>
                     </div>
                   </div>
@@ -84,15 +97,14 @@
                   <div class="feature-box fbox-small fbox-effect">
                     
                     <div class="fbox-content">
-                      <div class="counter color"><span data-from="1" data-to="58" data-refresh-interval="10" data-speed="1600">58</span> </div>
+                      <div class="counter color"><span data-from="1" data-to="600" data-refresh-interval="20" data-speed="1600">7</span> </div>
                      
-                      <p><bold class="display-5 color font-weight-medium">publicaciones de interés,</bold> entre las que se cuentan notas en la Revista Comerciar, circulares institucionales y publicaciones en redes sociales
-                      </p>
+                      <p><bold class="display-5 color font-weight-medium">asistentes</bold> a encuentros online sobre diversos temas como: comercio responsable, género, emprendedurismo de triple impacto, eficiencia energética, Buenas Prácticas Manufactureras (BPM) y trazabilidad, entre otros.   </p>
                     </div>
                   </div>
                 </div>
 
-               
+
                
 
                
