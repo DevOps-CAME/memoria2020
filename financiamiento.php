@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="es-AR">
 
-  <?php
+<?php
   include "head.html";
   ?>
 
@@ -12,8 +12,8 @@
     <!-- Header
 		============================================= -->
     <?php
-    include "header.html";
-    ?>
+  include "header.html";
+  ?>
     <!-- #header end -->
 
     <!-- Content
@@ -28,72 +28,173 @@
     <?php include "bienvenida.html"; ?>
 
         <!--  /Bienvenida
-		=============================================  --> 
-    
-    
-       <!-- 
-    Contenido 5 Prologo 
+		=============================================  -->
+
+
+
+        <!-- Contenido
 		============================================= -->
-    <div class="section m-0 p-0 testimonials clearfix">
-      <div class="container" style="padding: 120px 0">
-        <div class="heading-block border-bottom-0 center">
-          
-          <h2 class="nott font-weight-semibold">Editorial</h2>
-         
+        <div id="section-about" class="center page-section col-lg-12 col-md-12">
+
+          <div class="container clearfix">
+            <div class="heading-block center sec_top"><img src="imgs/sec/financiamiento.png">
+              <h2>Financiamiento y competitividad </h2>
+              <div class="clear"></div>
+            </div>
+            <h2 class="display-4 nott ls0 font-primary color text-left">Defensa y promoción de la matriz industrial federal</h2>
+
+            <p class="lead mx-auto bottommargin" >Durante el 2020, con el propósito de morigerar la situación de las pymes industriales afectadas por las medidas de prevención que se dispusieron ante la pandemia, desde el Sector Industrial elaboramos un completo informe que presentamos al Poder Ejecutivo planteando los principales desafíos en los ámbitos laborales, económicos y financieros de la actividad.<br>
+              Con el mismo espíritu, solicitamos a la Secretaría de Energía de la Nación la reducción de los costos energéticos para comercios e industrias, atendiendo la situación de emergencia. Esta gestión llevó al sector Industrial de CAME a integrarse a la <bold class="color">Comisión Pymes de ENARGAS,</bold> asistiendo a las reuniones mensuales.<br>
+              
+              Durante este especial período, también, se creó la <bold class="color">Comisión de Minería</bold> del Sector Industrial, que se propone elaborar un Manual de Procedimientos, así como un completo análisis de aspectos de la actividad como: la competitividad de la cadena de valor minera, la posibilidad de sustitución de importaciones, el registro de proveedores mineros, entre otros.
+              </p>
+
+            <div class="clear"></div>
+          </div>
         </div>
+        
+        <div class="container clearfix">
+          <div class="row justify-content-center">
+            <div class="col-md-12">
+              <div class="row col-mb-30 mb-5">
+                <div class="col-lg-10 col-md-10 mb-0"> <h2>En 2020, además, realizamos:</h2></div>
+                <div class="clear"></div>
 
-        <div
-          class="testimonial testimonial-full bg-transparent border-0 shadow-none p-0 mx-auto text-left clearfix"
-          data-animate-in="fadeIn"
-          data-animate-out="fadeOut"
-          data-margin="24"
-          data-nav="false"
-          data-pagi="true"
-          data-items="1"
-          style="max-width: 740px"
-        >
-         
-            <div>
-             
-              <p>El 2020 ha sido un año sin precedentes en la historia mundial, producto de una pandemia que hizo colapsar los sistemas sanitarios, primero, y los económicos después, en la mayoría de los países occidentales, y que, como correlato en nuestro país implicó, entre otras consecuencias, la profundización de la recesión industrial y comercial a raíz de la abrupta caída de la actividad, y el cierre de decenas de miles de pymes a lo largo y a lo ancho de todo el territorio nacional.</br></br>
-              Este difícil panorama, cuyo horizonte aún es incierto, nos ha obligado a reinventar y renovar estrategias al ritmo de la coyuntura, acelerando procesos de digitalización, incorporando nuevos protocolos de trabajo e impulsando la modernización de la gestión tanto en CAME como en sus entidades afiliadas, y en las pequeñas y medianas empresas por ellas representadas.</br></br>
-              Este aprendizaje, que implicó desafíos individuales y colectivos para cientos de miles de trabajadores de nuestra actividad, pregnó también la labor dirigencial que, comprometida, proactiva y responsable, se materializó en más de 150 acciones concretas impulsadas por CAME con el propósito de impulsar medidas económicas, fiscales, crediticias y laborales, que mitiguen los gravosos efectos de la emergencia.</br></br>
-              En este marco, además, y considerando el federalismo en la representación como norte de nuestra identidad y tradición de administración, sostuvimos las reuniones mensuales de Consejo Directivo como espacio democrático de debate y gestión, esencial en el espíritu democrático que signa el nuevo tiempo de esta Confederación.</br></br>
-              Tenemos la certeza de que la pandemia no acabará en 2021, y por ello reivindicamos el diálogo con todos los sectores y la genuina demanda de asistencia para que nuestras pymes, que representan más del 40 % del PBI nacional y el 70 % del empleo registrado, puedan salir adelante. Porque apostamos por el país, como lo hemos hecho siempre, y lo seguiremos haciendo. Porque estamos convencidos de que el desarrollo de la pequeña y mediana industria, así como del turismo, el sector comercial, las economías regionales, la construcción, los parques industriales, los jóvenes empresarios y las mujeres que se dedican a la actividad, constituyen el programa de crecimiento vertebral que la nación demanda en esta inédita etapa. Por todo ello, en honor a ese rol protagónico que nuestro sector representa, los convoco a seguir trabajando con valentía y convicción, en unión, con entrega y vocación, por un futuro mejor para todos.</br></p>
 
-              <div class="testi-meta mt-4">
-                Gerardo Díaz Beltrán
-                <span class="ls0">Presidente de la Confederación Argentina de la Mediana Empresa (CAME)</span>
+                <div class="col-md-4">
+                  <div class="feature-box fbox-small fbox-effect">
+                    
+                    <div class="fbox-content">
+                      <div class="counter color"><span data-from="1" data-to="12" data-refresh-interval="10" data-speed="1600">12</span> </div>
+                     
+                      <p><bold class="display-5 color font-weight-medium">encuentros de Comité Industrial.</bold></p>
+                    </div>
+                  </div>
+                </div>
+  
+                <div class="col-md-4">
+                  <div class="feature-box fbox-small fbox-effect">
+                    
+                    <div class="fbox-content">
+                      <div class="counter color"><span data-from="1" data-to="32" data-refresh-interval="10" data-speed="1600">32</span> </div>
+                     
+                      <p><bold class="display-5 color font-weight-medium">circulares</bold> de interés general para pymes industriales.</p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-md-4">
+                  <div class="feature-box fbox-small fbox-effect">
+                    
+                    <div class="fbox-content">
+                      <div class="counter color"><span data-from="1" data-to="12" data-refresh-interval="10" data-speed="1600">12</span> </div>
+                     
+                      <p><bold class="display-5 color font-weight-medium">informes del índice de Producción Industrial Pyme (IPIP).</bold> </p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-md-6">
+                  <div class="feature-box fbox-small fbox-effect">
+                    
+                    <div class="fbox-content">
+                      <div class="counter color"><span data-from="1" data-to="1" data-refresh-interval="10" data-speed="1600">1</span> </div>
+                     
+                      <p> reunión especial de Comité, realizada de manera virtual, en conmemoración del <bold class="display-5 color font-weight-medium">Día de la Industria.
+
+                      </bold>  </p>
+                    </div>
+                  </div>
+                </div>
+
+                
+                <div class="col-md-6">
+                  <div class="feature-box fbox-small fbox-effect">
+                    
+                    <div class="fbox-content">
+                      <div class="counter color"><span data-from="1" data-to="16" data-refresh-interval="10" data-speed="1600">16</span> </div>
+                     
+                      <p><bold class="display-5 color font-weight-medium">ciudades</bold> de 7 provincias recibieron asistencia técnica para CCA ya establecidos.   </p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-md-6">
+                  <div class="feature-box fbox-small fbox-effect">
+                    
+                    <div class="fbox-content">
+                      <div class="counter color"><span data-from="1" data-to="2" data-refresh-interval="10" data-speed="1600">2</span> </div>
+                     
+                      <p><bold class="display-5 color font-weight-medium">coloquios internacionales:</bold> “Los Centros Comerciales Abiertos en cuarentena” (con 220 participantes) y “Los desafíos pospandemia para el Comercio Minorista y los CCA” (con 115 participantes).</p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-md-6">
+                  <div class="feature-box fbox-small fbox-effect">
+                    
+                    <div class="fbox-content">
+                      <div class="counter color"><span data-from="1" data-to="4" data-refresh-interval="10" data-speed="1600">4</span> </div>
+                     
+                      <p><bold class="display-5 color font-weight-medium">encuentros</bold> en el marco del ciclo de CCA Sustentables, iniciativa desarrollada junto con el Departamento de RSE de CAME. </p>
+                    </div>
+                  </div>
+                </div>
+                
               </div>
             </div>
-
+  
+          </div>
         </div>
-      </div>
-    </div>
 
+        <div class="container clearfix">
+        
+          <p class="lead mx-auto bottommargin" >Asimismo, el sector participó en <bold class="color">eventos virtuales</bold> afines a la actividad, entre los que se destacan el webinar “Economía circular, energía y residuos: desafíos para la nueva década"; la videoconferencia de UADA "¿Cómo actuar ante un caso de COVID-19 en mi empresa?”; y la Convención CEMA 2020. 
+
+            Por su parte la Comisión de Ambiente del Sector Industrial, realizó 12 encuentros a lo largo del año, y mantuvo una <bold class="color">audiencia virtual con el Ministerio de Ambiente y Desarrollo Sostenible de la Nación,</bold> Sr. Juan Cabandié, en la que abordamos inquietudes vinculadas a los residuos industriales, entre otros temas relacionados con la industria pyme y el ambiente.
+            
+            Como proyecto especial, trabajamos durante el 2020 en una <bold class="color">Zonificación del sector industrial</bold> en todo el país. Esta agrupación se generó pensando en la producción y las distintas problemáticas de cada rubro. A su vez, se resolvió designar referentes zonales para atender con mayores herramientas sus necesidades, hacer un mejor seguimiento del trabajo y poder llevar adelante encuentros regionales. 
+            
+            </p>
+
+          <div class="clear"></div>
         </div>
-      </section>
-      <!-- #content end -->
 
-    	<!-- Footer
+      
+      
+
+      
+
+      <!-- fin Contenido
+    ============================================= -->
+
+
+
+
+  </div>
+  </section>
+  <!-- #content end -->
+
+  <!-- Footer
 		============================================= -->
     <?php
-    include "footer.html";
-    ?><!-- #footer end -->
-    </div>
-    <!-- #wrapper end -->
+  include "footer.html";
+  ?><!-- #footer end -->
+  </div>
+  <!-- #wrapper end -->
 
-    <!-- Go To Top
+  <!-- Go To Top
 	============================================= -->
-    <div id="gotoTop" class="icon-angle-up"></div>
+  <div id="gotoTop" class="icon-angle-up"></div>
 
-    <!-- JavaScripts
+  <!-- JavaScripts
 	============================================= -->
-    <script src="js/jquery.js"></script>
-    <script src="js/plugins.min.js"></script>
+  <script src="js/jquery.js"></script>
+  <script src="js/plugins.min.js"></script>
 
-    <!-- Footer Scripts
+  <!-- Footer Scripts
 	============================================= -->
-    <script src="js/functions.js"></script>
-  </body>
+  <script src="js/functions.js"></script>
+</body>
+
 </html>
