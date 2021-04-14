@@ -36,10 +36,12 @@
             <div class="heading-block center sec_top"><img src="imgs/sec/rse.png">
               <h2>RSE           </h2>
             </div>
-            <h2 class="display-4 nott ls0 font-primary color text-left">Gestión para fortalecer el desarrollo de Parques Industriales en todo el país
+            <h2 class="display-4 nott ls0 font-primary color text-left">Hacia una mirada responsable, sustentable e inclusiva de la gestión pyme
             </h2>
 
-            <p class="lead mx-auto bottommargin" >A los efectos de promover a un sector pujante del aparato productivo nacional que contribuye al desarrollo económico y social del país, a través de la representación de nuestra asociada, la Federación Argentina de Parques Industriales, asistimos brindando fortalecimiento institucional, apoyo técnico y acompañamiento de gestión para la implementación de programas, proyectos e instrumentos, que motoricen su desarrollo, así como el de las empresas que los componen y el de las localidades en las que estas unidades productivas se radican.
+            <p class="lead mx-auto bottommargin" >En 2020, ante un contexto totalmente desconocido que exigía grandes cambios y que nos invitó a repensar nuestra forma de interactuar, producir y consumir, hemos reforzado el acompañamiento a entidades, pymes y emprendedores en su proceso de incorporación de la gestión sustentable en su labor cotidiana, motivando así el desarrollo económico con inclusión social y cuidado del medio ambiente, en todos los sectores de la comunidad.</br>
+En ese sentido, durante el 2020 continuamos ejecutando – a través de cooperación internacional- la 5° Red de Aprendizaje en Gestión de la Energía junto a la Secretaría de Energía de la Nación y a la Confederación Economica de Misiones (CEM), por la que 14 pymes de la región NEA participaron en diferentes encuentros virtuales donde trabajaron la planificación e implementación de mejoras en eficiencia energética en sus instalaciones.
+
 
             </p>
 
@@ -51,7 +53,7 @@
           <div class="row justify-content-center">
             <div class="col-md-12">
               <div class="row col-mb-30 mb-5">
-                <div class="col-lg-10 col-md-10 mb-0"> <h2>Con ese propósito, en 2020, realizamos:</h2></div>
+                <div class="col-lg-10 col-md-10 mb-0"> <h2>Por otro lado, y en lo que respecta a la comunidad, llevamos adelante acciones solidarias en diferentes puntos del país:</h2></div>
                 <div class="clear"></div>
 
 
