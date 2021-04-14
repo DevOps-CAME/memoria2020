@@ -40,8 +40,8 @@
             </h2>
 
             <p class="lead mx-auto bottommargin" >En 2020, ante un contexto totalmente desconocido que exigía grandes cambios y que nos invitó a repensar nuestra forma de interactuar, producir y consumir, hemos reforzado el acompañamiento a entidades, pymes y emprendedores en su proceso de incorporación de la gestión sustentable en su labor cotidiana, motivando así el desarrollo económico con inclusión social y cuidado del medio ambiente, en todos los sectores de la comunidad.</br>
-En ese sentido, durante el 2020 continuamos ejecutando – a través de cooperación internacional- la 5° Red de Aprendizaje en Gestión de la Energía junto a la Secretaría de Energía de la Nación y a la Confederación Economica de Misiones (CEM), por la que 14 pymes de la región NEA participaron en diferentes encuentros virtuales donde trabajaron la planificación e implementación de mejoras en eficiencia energética en sus instalaciones.
-
+<p>En ese sentido, durante el 2020 continuamos ejecutando – a través de cooperación internacional- la 5° Red de Aprendizaje en Gestión de la Energía junto a la Secretaría de Energía de la Nación y a la Confederación Economica de Misiones (CEM), por la que 14 pymes de la región NEA participaron en diferentes encuentros virtuales donde trabajaron la planificación e implementación de mejoras en eficiencia energética en sus instalaciones.
+</p>
 
             </p>
 
