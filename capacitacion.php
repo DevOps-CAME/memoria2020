@@ -117,7 +117,7 @@
 
         <div class="container clearfix col-lg-12 col-md-12">
           <div class="row justify-content-between">
-            <div class="col-lg-10 col-md-10 mb-0"> <h4>Durante 2020, CAME ha brindado directa e indirectamente un total de 2500 actividades de capacitación a través de la plataforma Zoom, con más de 115.000 participantes de todo el país. Sumando ello a los 130.000 participantes de los cursos online de CAME Educativa, resultaron más de 245.000 personas capacitadas durante el año a través de la gestión de CAME.</h4></div>
+            <div class="col-lg-12 col-md-10 mb-0"> <h4>Durante 2020, CAME ha brindado directa e indirectamente un total de 2500 actividades de capacitación a través de la plataforma Zoom, con más de 115.000 participantes de todo el país. Sumando ello a los 130.000 participantes de los cursos online de CAME Educativa, resultaron más de 245.000 personas capacitadas durante el año a través de la gestión de CAME.</h4></div>
             <div class="clear"></div>
             <div class="col-lg-5 col-md-6 mt-0 mt-md-4">
                 <div class="feature-box fbox-plain fbox-sm">
@@ -140,10 +140,10 @@
                   </div>
                   <div class="fbox-content">
                     <h3>ALIANZAS Y ACTIVIDADES CON EL SECTOR PRIVADO</h3>
-                    <p> Renovamos el convenio con Microsoft Argentina enfocado principalmente en colaborar con las pymes de la red CAME en el proceso de transformación digital que se vio acelerado en 2020. Ello se materializó a través de dos aspectos concretos: </br>
+                    <p> Renovamos el convenio con Microsoft Argentina enfocado principalmente en colaborar con las pymes de la red CAME en el proceso de transformación digital que se vio acelerado en 2020. Ello se materializó a través de dos aspectos concretos: </p></br>
 
-•	Infraestructura: acercar productos de Microsoft a las Pymes de la red CAME, con beneficios y descuentos, para poder implementar mejoras que les permitan adaptarse a las nuevas exigencias; </br>
-•	Capacitación: realización de diferentes actividades de capacitación. En ese sentido participamos en conjunto con Microsoft de dos importantes eventos: “La transformación digital de las Pymes argentinas”, y “Reimaginando el futuro de las Pymes”.
+                      <p>•	Infraestructura: acercar productos de Microsoft a las Pymes de la red CAME, con beneficios y descuentos, para poder implementar mejoras que les permitan adaptarse a las nuevas exigencias; </p></br>
+                      <p>•	Capacitación: realización de diferentes actividades de capacitación. En ese sentido participamos en conjunto con Microsoft de dos importantes eventos: “La transformación digital de las Pymes argentinas”, y “Reimaginando el futuro de las Pymes”.
 
                     </p>
                   </div>
@@ -163,7 +163,7 @@
          
           </div>
         </div>
-
+        </div>
        
          
 
