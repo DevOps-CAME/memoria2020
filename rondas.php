@@ -36,13 +36,12 @@
             <div class="heading-block center sec_top"><img src="imgs/sec/rondas.png">
               <h2>Ronda de Negocios           </h2>
             </div>
-            <h2 class="display-4 nott ls0 font-primary color text-left">Gestión para fortalecer el desarrollo de Parques Industriales en todo el país
+            <h2 class="display-4 nott ls0 font-primary color text-left">Vinculación estratégica de las pequeñas y medianas empresas argentinas
             </h2>
 
-            <p class="lead mx-auto bottommargin" >A los efectos de promover a un sector pujante del aparato productivo nacional que contribuye al desarrollo económico y social del país, a través de la representación de nuestra asociada, la Federación Argentina de Parques Industriales, asistimos brindando fortalecimiento institucional, apoyo técnico y acompañamiento de gestión para la implementación de programas, proyectos e instrumentos, que motoricen su desarrollo, así como el de las empresas que los componen y el de las localidades en las que estas unidades productivas se radican.
+            <p class="lead mx-auto bottommargin" >Frente al desafío de trasladarnos a la virtualidad, sin ocasión de desarrollar encuentros presenciales en los que el intercambio cara a cara propiciaba la camaradería y afianzaban las relaciones, nos propusimos trabajar sobre nuestra herramienta @RondasCame, manteniendo los estándares de calidad y servicio que caracterizan nuestra labor.       </p>
 
-            </p>
-
+            <p class="lead mx-auto bottommargin" > En ese sentido, el equipo técnico de Rondas de Negocios trabajó en cada paso para que los convocados a las reuniones se sintieran acompañados y asistidos, buscaran volver a participar y recomendaran esta actividad a otras pymes, con el objeto de que incrementen sus contactos comerciales, puedan concretar ventas y realicen alianzas estratégicas con empresas tanto nacionales como extranjeras.</p>
             <div class="clear"></div>
           </div>
         </div>
@@ -51,7 +50,7 @@
           <div class="row justify-content-center">
             <div class="col-md-12">
               <div class="row col-mb-30 mb-5">
-                <div class="col-lg-10 col-md-10 mb-0"> <h2>Con ese propósito, en 2020, realizamos:</h2></div>
+                <div class="col-lg-10 col-md-10 mb-0"> <h2>En virtud de ello, en 2020:</h2></div>
                 <div class="clear"></div>
 
 
@@ -59,9 +58,9 @@
                   <div class="feature-box fbox-small fbox-effect">
                     
                     <div class="fbox-content">
-                      <div class="counter color"><span data-from="1" data-to="16" data-refresh-interval="10" data-speed="1600">16</span> </div>
+                      <div class="counter color"><span data-from="1" data-to="7" data-refresh-interval="1" data-speed="1600">+ 7</span> </div>
                      
-                      <p><bold class="display-5 color font-weight-medium">reuniones, virtuales y presenciales, del sector</bold> </p>
+                      <p><bold class="display-5 color font-weight-medium">Rondas de Negocios se desarrollaron en formato virtual</bold> </p>
                     </div>
                   </div>
                 </div>
@@ -70,9 +69,20 @@
                   <div class="feature-box fbox-small fbox-effect">
                     
                     <div class="fbox-content">
-                      <div class="counter color"><span data-from="1" data-to="7" data-refresh-interval="10" data-speed="1600">7</span> </div>
+                      <div class="counter color"><span data-from="1" data-to="386" data-refresh-interval="40" data-speed="1600">+ 386</span> </div>
                      
-                      <p><bold class="display-5 color font-weight-medium">encuentros regionales: </bold> un encuentro presencial en la Región NEA y 6 virtuales, para las regiones NEA, NOA, Centro, Patagonia Sur, Norte y Cuyo
+                      <p><bold class="display-5 color font-weight-medium">empresas participaron de los encuentros </bold>                       </p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-md-4">
+                  <div class="feature-box fbox-small fbox-effect">
+                    
+                    <div class="fbox-content">
+                      <div class="counter color"><span data-from="1" data-to="2380" data-refresh-interval="400" data-speed="1600">+ 2380</span> </div>
+                     
+                      <p><bold class="display-5 color font-weight-medium">entrevistas fueron concretadas</bold> 
                       </p>
                     </div>
                   </div>
@@ -82,15 +92,13 @@
                   <div class="feature-box fbox-small fbox-effect">
                     
                     <div class="fbox-content">
-                      <div class="counter color"><span data-from="1" data-to="58" data-refresh-interval="10" data-speed="1600">58</span> </div>
+                      <div class="counter color"><span data-from="1" data-to="4" data-refresh-interval="1" data-speed="1600">+ 4</span> </div>
                      
-                      <p><bold class="display-5 color font-weight-medium">publicaciones de interés,</bold> entre las que se cuentan notas en la Revista Comerciar, circulares institucionales y publicaciones en redes sociales
+                      <p><bold class="display-5 color font-weight-medium">países participantes: </bold> Paraguay, Chile, EEUU y Argentina, que contó con representación de las provincias de Buenos Aires, CABA, Mendoza, Santa Fe, Córdoba, Chaco, Corrientes, Entre Ríos, Misiones, Río Negro, Santa Cruz y Tierra del Fuego.
                       </p>
                     </div>
                   </div>
                 </div>
-
-               
                
 
                
