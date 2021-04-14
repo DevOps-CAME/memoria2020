@@ -45,15 +45,46 @@
             <p class="lead mx-auto bottommargin" >Diseñamos 53 seminarios web para brindar a todas las entidades adheridas a CAME ante la imposibilidad de dictar actividades presenciales.</p>
 
 
+            <div class="col-lg-10 col-md-10 mb-0"> <h3>PLATAFORMA E-LEARNING CAME EDUCATIVA</h3></div>
+            <p class="lead mx-auto bottommargin" >A través de CAME Educativa, durante el año 2020 se implementaron seis (6) promociones de capacitación a distancia, con una oferta final de 85 títulos, en las que participaron 130.000 personas.</p>
+            
+
+            <div class="col-lg-10 col-md-10 mb-0"> <h3>ESCUELA DE NEGOCIOS CAME EDUCATIVA</h3></div>
+            <p class="lead mx-auto bottommargin" >Dentro de la Escuela de Negocios de CAME dictamos programas de capacitación a distancia de alto valor agregado y con certificación universitaria, entre ellas cinco Diplomaturas:</p>
+            <p class="lead mx-auto bottommargin" >-	Diplomatura en Gestión de Recursos Humanos para Pymes
+-	Diplomatura en Habilidades Gerenciales
+-	Diplomatura en Gestión de Herramientas Digitales para le Pyme 4.0
+-	Diplomatura para Emprendedores –Tu Mapa de Ruta- 
+-	Diplomatura en Desarrollo Integral de Franquicias (certificada por AAMyF)
+
+Total de personas inscriptas durante 2020: 260
+</p>
+
+
+            <div class="col-lg-10 col-md-10 mb-0"> <h3>PLATAFORMA ZOOM CAME EDUCATIVA</h3></div>
+            <p class="lead mx-auto bottommargin" >En 2020 diseñamos una nueva oferta de 53 seminarios web (Webinars) para brindar a todas las entidades adheridas a CAME ante la imposibilidad de dictar actividades presenciales. </p>
+            <p class="lead mx-auto bottommargin" >Asimismo procedimos al rediseño de cursos, talleres y conferencias presenciales para adaptarse a la modalidad webinar. Nos hemos enfocado en desarrollar principalmente cursos sobre Comercio Electrónico, Ventas Digitales, Teletrabajo, Oficina virtual, entre otros temas.</p>
+
+
             <div class="clear"></div>
           </div>
         </div>
+
+
+
+
+
+
+
+
+
+
 
         <div class="container clearfix">
           <div class="row justify-content-center">
             <div class="col-md-12">
               <div class="row col-mb-30 mb-5">
-                <div class="col-lg-10 col-md-10 mb-0"> <h2>Con ese propósito, en 2020, realizamos:</h2></div>
+                <div class="col-lg-10 col-md-10 mb-0"> <h2>En dicho formato directamente brindamos:</h2></div>
                 <div class="clear"></div>
 
 
