@@ -51,11 +51,11 @@
 
             <div class="col-lg-10 col-md-10 mb-0"> <h3>ESCUELA DE NEGOCIOS CAME EDUCATIVA</h3></div>
             <p class="lead mx-auto bottommargin" >Dentro de la Escuela de Negocios de CAME dictamos programas de capacitación a distancia de alto valor agregado y con certificación universitaria, entre ellas cinco Diplomaturas:</p>
-            <p>Diplomatura en Gestión de Recursos Humanos para Pymes</br>
+            <p>- Diplomatura en Gestión de Recursos Humanos para Pymes</br>
               -	Diplomatura en Habilidades Gerenciales</br>
               -	Diplomatura en Gestión de Herramientas Digitales para le Pyme 4.0</br>
               -	Diplomatura para Emprendedores –Tu Mapa de Ruta- </br>
-              -	Diplomatura en Desarrollo Integral de Franquicias (certificada por AAMyF)</br>
+              -	Diplomatura en Desarrollo Integral de Franquicias (certificada por AAMyF)</br></br>
 
               Total de personas inscriptas durante 2020: 260
                    </p>
