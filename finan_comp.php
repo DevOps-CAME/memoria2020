@@ -34,8 +34,7 @@
 
           <div class="container clearfix">
             <div class="heading-block center sec_top"><img src="imgs/sec/fapi.png">
-              <h2>Federación Argentina<br> de Parques Industriales
-                </h2>
+              <h2>Financiamiento y competitividad        </h2>
             </div>
             <h2 class="display-4 nott ls0 font-primary color text-left">Gestión para fortalecer el desarrollo de Parques Industriales en todo el país
             </h2>
