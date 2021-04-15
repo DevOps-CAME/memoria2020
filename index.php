@@ -57,40 +57,41 @@ include "header.html";
         <!--  /Bienvenida
 		=============================================  -->
 
- 
-<section class="section m-0 p-5">
-<div class="container">
 
-<div class="row">
-<div class="col-md-6">
-<div class="video-wrap">
-						<video poster="imgs/video.jpg" preload="auto" loop autoplay muted>
-							<source src='imgs/video.mp4' type='video/mp4' />
-							<!-- <source src='images/videos/explore.webm' type='video/webm' /> -->
-						</video>
-					</div>
-</div>  
-<div class="col-md-6">
-    <h2 class="display-4 font-weight-semibold ls--2">
-      Representamos a 1491
-      <span class="text-rotater" data-separator="|" data-rotate="fadeIn" data-speed="2000">
-        <span class="t-rotate">Federaciones|Cámaras|Centros industriales|Parques Industriales|Comercio y Servicios|Turismo|Economías Regionales|Construcción|Jóvenes Empresarios|Mujeres Empresarias</span>
-      </span>
-      </br>
-    </h2>
+        <section class="section m-0 p-5">
+          <div class="container">
 
-    <p class="lead text-muted">
-      <b>de todo el país</b> que agrupan a más 600.000 empresas pymes y dan trabajo a
-      4.200.000 personas.
-    </p>
-  </div>
-</div>
-</div>
-</section>
+            <div class="row">
+              <div class="col-md-6">
+                <div class="video-wrap">
+                  <video poster="imgs/video.jpg" preload="auto" loop autoplay muted>
+                    <source src='imgs/video.mp4' type='video/mp4' />
+                    <!-- <source src='images/videos/explore.webm' type='video/webm' /> -->
+                  </video>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <h2 class="display-4 font-weight-semibold ls--2">
+                  Representamos a 1491
+                  <span class="text-rotater" data-separator="|" data-rotate="fadeIn" data-speed="2000">
+                    <span class="t-rotate">Federaciones|Cámaras|Centros industriales|Parques Industriales|Comercio y
+                      Servicios|Turismo|Economías Regionales|Construcción|Jóvenes Empresarios|Mujeres Empresarias</span>
+                  </span>
+                  </br>
+                </h2>
+
+                <p class="lead text-muted">
+                  <b>de todo el país</b> que agrupan a más 600.000 empresas pymes y dan trabajo a
+                  4.200.000 personas.
+                </p>
+              </div>
+            </div>
+          </div>
+        </section>
 
 
 
-        
+
 
 
 
@@ -322,103 +323,110 @@ include "header.html";
 
         <!-- Contenido 6 
 		============================================= -->
-        <div class="section bg-transparent clearfix" style="padding: 80px 0">
+        <div class="section mb-0">
           <div class="container">
             <div class="row justify-content-between align-items-center">
-           
+              <div class="fslider testimonial testimonial-full bottommargin" data-animation="fade" data-arrows="false">
+                <div class="flexslider">
+                  <div class="slider-wrap">
 
-          <div class="fslider testimonial testimonial-full bottommargin" data-animation="fade" data-arrows="false">
-						<div class="flexslider">
-							<div class="slider-wrap">
 
-								<div class="slide">
-									<div class="testi-image">
-                  <a href="#"><img src="imgs/GerardoDiazBeltran.jpg" alt="Dr. Gerardo Díaz Beltrán"></a>
-									</div>
-									<div class="testi-content">
-										<p>Apostamos por el país, como lo hemos hecho siempre, y lo seguiremos haciendo.
-                      Porque estamos convencidos de que el desarrollo de la pequeña y mediana industria,
-                      así como del turismo, el sector comercial, las economías regionales, la construcción,
-                      los parques industriales, los jóvenes empresarios y las mujeres que se dedican a la actividad,
-                      constituyen el programa de crecimiento vertebral que la nación demanda en esta inédita etapa</p>
-										<div class="testi-meta">
-                    Dr. Gerardo Díaz Beltrán
-											<span>Presidente CAME</span>
-										</div>
-									</div>
-								</div>
+                    <div class="slide">
+                      <div class="testi-content">
+                        <div class="col-lg-4 col-md-6 col-sm-6" style="float: left;">
+                          <img src="imgs/GerardoDiazBeltran.jpg" alt="Dr. Gerardo Díaz Beltrán"
+                            style="border-radius: 5px;">
+                        </div>
+                        <div>
+                          <p>Apostamos por el país, como lo hemos hecho siempre, y lo seguiremos haciendo.
+                            Porque estamos convencidos de que el desarrollo de la pequeña y mediana industria,
+                            así como del turismo, el sector comercial, las economías regionales, la construcción,
+                            los parques industriales, los jóvenes empresarios y las mujeres que se dedican a la
+                            actividad, constituyen el programa de crecimiento vertebral que la nación demanda en esta
+                            inédita etapa
+                          </p>
+                          <div class="testi-meta text-left">
+                            Gerardo Díaz Beltrán<span>Presidente de la Confederación Argentina de la Mediana Empresa
+                              (CAME)</span>
+                          </div>
+                        </div>
+                      </div>
 
-								<div class="slide">
-									<div class="testi-image">
-										<a href="#"><img src="imgs/GerardoDiazBeltran.jpg" alt="Dr. Gerardo Díaz Beltrán"></a>
-									</div>
-									<div class="testi-content">
-										<p>Tenemos la certeza de que la pandemia no acabará en 2021, y por ello reivindicamos el diálogo con
-                      todos los sectores y la genuina demanda de asistencia para que nuestras pymes, que representan más
-                      del
-                      40 % del PBI nacional y el 70 % del empleo registrado, puedan salir adelante</p>
-										<div class="testi-meta">
-										Dr. Gerardo Díaz Beltrán
-											<span>Presidente CAME</span>
-										</div>
-									</div>
-								</div>
-								
-							</div>
-						</div>
-					</div>
+                    </div>
 
-          <div class="row">
-          <div class="col-lg-6 bottommargin-lg">
-                <a href="https://vimeo.com/518728139" data-lightbox="iframe"
-                  class="play-video position-relative">
-                  <img data-animate="fadeInLeft" data-delay="2600" src="imgs/video_vimeo.png" alt="Video Image"  class="fadeInLeft animated rounded-lg shadow-lg" />
-                  <i class="icon-play"></i>
-                </a>
-              </div>
-              
-              
+                    <div class="slide">
+                      <div class="testi-content">
+                        <div class="col-lg-4 col-md-6 col-sm-6" style="float: left;">
+                          <img src="imgs/GerardoDiazBeltran.jpg" alt="Dr. Gerardo Díaz Beltrán"
+                            style="border-radius: 5px;">
+                        </div>
+                        <div>
+                          <p>Tenemos la certeza de que la pandemia no acabará en 2021, y por ello reivindicamos el
+                            diálogo con
+                            todos los sectores y la genuina demanda de asistencia para que nuestras pymes, que
+                            representan más
+                            del 40 % del PBI nacional y el 70 % del empleo registrado, puedan salir adelante
+                          </p>
+                          <div class="testi-meta text-left">
+                            Gerardo Díaz Beltrán<span>Presidente de la Confederación Argentina de la Mediana Empresa
+                              (CAME)</span>
+                          </div>
+                        </div>
+                      </div>
 
-              <div class="col-lg-6 ">
-                <h2 class="ls0">Get One Day Free Trial.</h2>
-                <p class="text-muted mb-5" style="font-size: 18px">
-                  Enthusiastically embrace diverse e-markets after sustainable
-                  applications. Collaboratively impact intermandated systems
-                  vis-a-vis progressive information.
-                </p>
-                <div class="d-flex">
-                  <a href="#"
-                    class="button button-rounded button-xlarge d-block flex-fill m-0 center nott font-weight-semibold ls0">Sign
-                    Up</a>
-                  <a href="#"
-                    class="button button-rounded button-xlarge d-block flex-fill button-border m-0 ml-3 center nott font-weight-semibold ls0">Contact
-                    Us</a>
+
+                    </div>
+
+                  </div>
                 </div>
               </div>
-</div>
+
+              <div class="row">
+                <div class="col-lg-6 bottommargin-lg">
+                  <a href="https://vimeo.com/518728139" data-lightbox="iframe" class="play-video position-relative">
+                    <img data-animate="fadeInLeft" data-delay="2600" src="imgs/video_vimeo.png" alt="Video Image"
+                      class="fadeInLeft animated rounded-lg shadow-lg" />
+                    <i class="icon-play"></i>
+                  </a>
+                </div>
+
+
+
+                <div class="col-lg-6 ">
+                  <h2 class="ls0">Get One Day Free Trial.</h2>
+                  <p class="text-muted mb-5" style="font-size: 18px">
+                    Enthusiastically embrace diverse e-markets after sustainable
+                    applications. Collaboratively impact intermandated systems
+                    vis-a-vis progressive information.
+                  </p>
+                  <div class="d-flex">
+                    <a href="#"
+                      class="button button-rounded button-xlarge d-block flex-fill m-0 center nott font-weight-semibold ls0">Sign
+                      Up</a>
+                    <a href="#"
+                      class="button button-rounded button-xlarge d-block flex-fill button-border m-0 ml-3 center nott font-weight-semibold ls0">Contact
+                      Us</a>
+                  </div>
+                </div>
+              </div>
 
             </div>
           </div>
         </div>
 
-     
-        <div class="line"></div>
-
-
-
       </div>
-    </section>
-    <!-- #content end -->
+
+      <!-- #content end -->
 
 
 
-    	<!-- Footer
+      <!-- Footer
 		============================================= -->
-    <?php
+      <?php
 include "footer.html";
 ?>
 
-		<!-- #footer end -->
+      <!-- #footer end -->
 
 
   </div>

@@ -45,7 +45,7 @@
         </div>
 
         <div 
-          class="col-lg-10 col-md-6 my-4 bg-transparent border-0 shadow-none p-0 mx-auto text-left clearfix"
+          class="col-lg-12 col-md-6 my-4 bg-transparent border-0 shadow-none p-0 mx-auto text-left clearfix"
           data-animate-in="fadeIn"
           data-animate-out="fadeOut"
           data-margin="24"
@@ -70,7 +70,7 @@ A su vez, se nutre y realiza un trabajo transversal con sus secretarías de Capa
         <!-- Feature Box
         ============================================= -->
         <div class="col-lg-4 col-md-6 my-4">
-          <i class="icon-wifi-full color ml-0 mb-4 i-plain d-block float-none"></i>
+          <i class="icon-certificate1 color ml-0 mb-4 i-plain d-block float-none"></i>
           <h4 class="mb-3">MISIÓN</h4>
           <p class="text-muted">
             Defender los derechos e intereses de las entidades asociadas y sus pequeñas y medianas empresas, de los distintos sectores productivos, a lo largo de todo el país, de forma apartidaria, ética y representativa.
@@ -80,7 +80,7 @@ A su vez, se nutre y realiza un trabajo transversal con sus secretarías de Capa
         <!-- Feature Box
         ============================================= -->
         <div class="col-lg-4 col-md-6 my-4">
-          <i class="icon-line2-cup color ml-0 mb-3 i-plain d-block float-none"></i>
+          <i class="icon-certificate1 color ml-0 mb-3 i-plain d-block float-none"></i>
           <h4 class="mb-3">VISIÓN</h4>
           <p class="text-muted">
             Ser la entidad gremial empresaria que impulsa la modernización de las pymes, fomentando su crecimiento sustentable y brindándole las herramientas necesarias para que puedan fortalecerse y adoptar un panorama innovador con conciencia social y ambiental que les permita desarrollarse en el plano nacional e internacional.
@@ -91,7 +91,7 @@ A su vez, se nutre y realiza un trabajo transversal con sus secretarías de Capa
         <!-- Feature Box
         ============================================= -->
         <div class="col-lg-4 col-md-6 my-4">
-          <i class="icon-line2-screen-desktop color ml-0 mb-3 i-plain d-block float-none"></i>
+          <i class="icon-certificate1 color ml-0 mb-3 i-plain d-block float-none"></i>
           <h4 class="mb-3">VALORES</h4>
           <p class="text-muted">
            
@@ -113,7 +113,7 @@ A su vez, se nutre y realiza un trabajo transversal con sus secretarías de Capa
 
         
         <div 
-          class="col-lg-10 col-md-6 my-4 bg-transparent border-0 shadow-none p-0 mx-auto text-left clearfix"
+          class="col-lg-12 col-md-6 my-4 bg-transparent border-0 shadow-none p-0 mx-auto text-left clearfix"
           data-animate-in="fadeIn"
           data-animate-out="fadeOut"
           data-margin="24"

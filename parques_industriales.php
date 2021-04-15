@@ -108,14 +108,14 @@
             <div class="col-lg-10 col-md-10 mb-0"> <h2>Asimismo, llevamos a cabo acciones y encuentros estratégicos para atender la situación de nuestras entidades asociadas:</h2></div>
             <div class="clear"></div>
        
-            <div class="col-lg-4 col-md-4 my-4">
+            <div class="col-lg-6 col-md-4 my-4">
               <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
               <p class="text-muted">
                 Reunión entre el Ministro de Industria, Trabajo y Comercio de la Provincia de Corrientes y las autoridades de la Federación Económica de Corrientes, la Asociación de la Producción, Industria y Comercio de Corrientes y la Federación Empresaria de Corrientes.
 
               </p>
             </div>
-            <div class="col-lg-4 col-md-4 my-4">
+            <div class="col-lg-6 col-md-4 my-4">
               <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
               <p class="text-muted">
                 Audiencia con el Dr. Gerardo Gabriel Girón, Subsecretario de Articulación Territorial, y el Sr. Manuel Luaces, jefe de Agencia Territorial San Martin, ambos funcionarios del Ministerio de Trabajo de la Nación, en el marco de la Presentación de Programas: Acciones de Entrenamiento para el Trabajo (EPT) y Programa de Inserción Laboral (PIL) modalidad común / PIL Empalme.
@@ -136,20 +136,24 @@
             <div class="col-lg-4 col-md-4 my-4">
               <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
               <p class="text-muted">
-                Presentación de la reglamentación y modelos de formularios del Programa Nacional Para el Desarrollo de Parques/ reunión técnica <bold class="color">“Programa Desarrollo de Parques Industriales”, creado en el Decreto 716/2020.</bold>
+              Stand de FAPI en la 6ta. Exposición de Parques Industriales, EPIBA 2020 
                             </p>
             </div>
-            <div class="col-lg-4 col-md-4 my-4">
+            <div class="col-lg-6 col-md-4 my-4">
               <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
               <p class="text-muted">
-                Stand de FAPI en la 6ta. Exposición de Parques Industriales, EPIBA 2020 
+              Coorganización y participación del panel “Desarrollo provincial de parques industriales” en EPIBA 2020, en el cual se abordó la temática de la planificación y desarrollo de agrupamientos como herramienta valiosa para el impulso de políticas públicas de los gobiernos provinciales. Presencia de Gobernadores de Mendoza y Córdoba.
+
+                
+
                             </p>
             </div>
-            <div class="col-lg-4 col-md-4 my-4">
+            <div class="col-lg-6 col-md-4 my-4">
               <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
               <p class="text-muted">
-               Coorganización y participación del panel “Desarrollo provincial de parques industriales” en EPIBA 2020, en el cual se abordó la temática de la planificación y desarrollo de agrupamientos como herramienta valiosa para el impulso de políticas públicas de los gobiernos provinciales. Presencia de Gobernadores de Mendoza y Córdoba.
-                            </p>
+              Presentación de la reglamentación y modelos de formularios del Programa Nacional Para el Desarrollo de Parques/ reunión técnica <bold class="color">“Programa Desarrollo de Parques Industriales”, creado en el Decreto 716/2020.</bold>
+
+            </p>
             </div>
 
 
