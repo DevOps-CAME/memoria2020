@@ -41,23 +41,30 @@
               <h2>Financiamiento y competitividad </h2>
               <div class="clear"></div>
             </div>
-            <h2 class="display-4 nott ls0 font-primary color text-left">Defensa y promoción de la matriz industrial federal</h2>
+            
+              <h2 class="display-4 nott ls0 font-primary color text-left">FINANCAME: Principales Objetivos – Planificación 2021</h2>
 
-            <p class="lead mx-auto bottommargin" >Durante el 2020, con el propósito de morigerar la situación de las pymes industriales afectadas por las medidas de prevención que se dispusieron ante la pandemia, desde el Sector Industrial elaboramos un completo informe que presentamos al Poder Ejecutivo planteando los principales desafíos en los ámbitos laborales, económicos y financieros de la actividad.<br>
-              Con el mismo espíritu, solicitamos a la Secretaría de Energía de la Nación la reducción de los costos energéticos para comercios e industrias, atendiendo la situación de emergencia. Esta gestión llevó al sector Industrial de CAME a integrarse a la <bold class="color">Comisión Pymes de ENARGAS,</bold> asistiendo a las reuniones mensuales.<br>
-              
-              Durante este especial período, también, se creó la <bold class="color">Comisión de Minería</bold> del Sector Industrial, que se propone elaborar un Manual de Procedimientos, así como un completo análisis de aspectos de la actividad como: la competitividad de la cadena de valor minera, la posibilidad de sustitución de importaciones, el registro de proveedores mineros, entre otros.
-              </p>
+              <p class="lead mx-auto bottommargin" >
+              Para este nuevo año 2021, desde nuestro Departamento perseguiremos los siguientes objetivos principales y acciones vinculadas: </p>
+              <p class="lead mx-auto bottommargin" >1. Profundizar el trabajo de CAME INCUBA hacia emprendedores: Comunidad de Mentores 2021 y su vínculo con entidades; Participación en ciclo de videos CAME “Saldremos Adelante” y nuevos Instagram Live; Desarrollo de contenidos de Pre Incubación para la Red de entidades CAME; Organización de una Feria – Expo virtual para emprendedores; Convenio de Colaboración Mutua con organizaciones de inversiones privadas (inversores ángeles) en emprendimientos. </p>
+              <p class="lead mx-auto bottommargin" >2. Continuar trabajando en el asesoramiento técnico acerca del financiamiento disponible y seguimiento de proyectos presentados y en ejecución: Organización de un Encuentro Federal FINANCAME 2021 para dar continuidad a los Regionales 2020; Lanzamiento de un “Programa de Educación Financiera FINANCAME” que otorgue herramientas prácticas y ejecutemos junto con organismos públicos y especialistas; Realización de nuevos "Talleres interactivos FINANCAME 2021" orientados a actividades prácticas para luego aplicar en los negocios.  </p>
+              <p class="lead mx-auto bottommargin" >3. Desarrollar una nueva edición (la cuarta) del Índice estadístico IMAF FINANCAME 2021 para obtener información cuantitativa que fortalezca nuestra Planificación de actividades 2021. </p>
+
+
+
+             </p>
+
+
 
             <div class="clear"></div>
           </div>
         </div>
-        
+
         <div class="container clearfix">
           <div class="row justify-content-center">
             <div class="col-md-12">
               <div class="row col-mb-30 mb-5">
-                <div class="col-lg-10 col-md-10 mb-0"> <h2>En 2020, además, realizamos:</h2></div>
+                <div class="col-lg-10 col-md-10 mb-0"> <h2>Durante el 2020, desde FINANCAME hemos alcanzado los siguientes resultados en cifras: </h2></div>
                 <div class="clear"></div>
 
 
@@ -65,9 +72,9 @@
                   <div class="feature-box fbox-small fbox-effect">
                     
                     <div class="fbox-content">
-                      <div class="counter color"><span data-from="1" data-to="12" data-refresh-interval="10" data-speed="1600">12</span> </div>
+                      <div class="counter color"><span data-from="1" data-to="2897" data-refresh-interval="300" data-speed="1600">2897</span> </div>
                      
-                      <p><bold class="display-5 color font-weight-medium">encuentros de Comité Industrial.</bold></p>
+                      <p><bold class="display-5 color font-weight-medium">Consultas atendidas </bold> de entidades, pymes y emprendedores de todo el país</p>
                     </div>
                   </div>
                 </div>
@@ -76,9 +83,9 @@
                   <div class="feature-box fbox-small fbox-effect">
                     
                     <div class="fbox-content">
-                      <div class="counter color"><span data-from="1" data-to="32" data-refresh-interval="10" data-speed="1600">32</span> </div>
+                      <div class="counter color"><span data-from="1" data-to="280" data-refresh-interval="30" data-speed="1600">280</span> </div>
                      
-                      <p><bold class="display-5 color font-weight-medium">circulares</bold> de interés general para pymes industriales.</p>
+                      <p><bold class="display-5 color font-weight-medium">Nuevos Proyectos</bold> de pymes y emprendedores acercados a nuestra Plataforma online </p>
                     </div>
                   </div>
                 </div>
@@ -87,78 +94,73 @@
                   <div class="feature-box fbox-small fbox-effect">
                     
                     <div class="fbox-content">
-                      <div class="counter color"><span data-from="1" data-to="12" data-refresh-interval="10" data-speed="1600">12</span> </div>
+                      <div class="counter color"><span data-from="1" data-to="3683" data-refresh-interval="400" data-speed="1600">3683</span> </div>
                      
-                      <p><bold class="display-5 color font-weight-medium">informes del índice de Producción Industrial Pyme (IPIP).</bold> </p>
+                      <p><bold class="display-5 color font-weight-medium">Reproducciones</bold> en Youtube de nuestras Videoconferencias, Talleres, Encuentros interactivos y Consultorios Regionales
+                      </p>
                     </div>
                   </div>
                 </div>
 
-                <div class="col-md-6">
+                <div class="col-md-4">
                   <div class="feature-box fbox-small fbox-effect">
                     
                     <div class="fbox-content">
-                      <div class="counter color"><span data-from="1" data-to="1" data-refresh-interval="10" data-speed="1600">1</span> </div>
+                      <div class="counter color"><span data-from="1" data-to="30" data-refresh-interval="50" data-speed="1600">30</span> </div>
                      
-                      <p> reunión especial de Comité, realizada de manera virtual, en conmemoración del <bold class="display-5 color font-weight-medium">Día de la Industria.
-
-                      </bold>  </p>
+                      <p><bold class="display-5 color font-weight-medium">Mentorías virtuales personalizadas </bold> de especialistas y pymes a emprendedores en el marco del Programa Comunidad de Mentores, ejecutado en conjunto con el Ministerio de Desarrollo Productivo de la Nación. </p>
                     </div>
                   </div>
                 </div>
 
-                
-                <div class="col-md-6">
+                <div class="col-md-4">
                   <div class="feature-box fbox-small fbox-effect">
                     
                     <div class="fbox-content">
-                      <div class="counter color"><span data-from="1" data-to="16" data-refresh-interval="10" data-speed="1600">16</span> </div>
+                      <div class="counter color"><span data-from="1" data-to="100" data-refresh-interval="5" data-speed="1600">+ 100</span> </div>
                      
-                      <p><bold class="display-5 color font-weight-medium">ciudades</bold> de 7 provincias recibieron asistencia técnica para CCA ya establecidos.   </p>
+                      <p><bold class="display-5 color font-weight-medium">consultas recibidas de emprendedores </bold> acerca del Programa PAC Reactivación Productiva de Aportes No Reembolsables (ANR). 10 Proyectos seleccionados, formulados y presentados, por una solicitud total de $8.484.908,91 </p>
                     </div>
                   </div>
                 </div>
 
-                <div class="col-md-6">
+                <div class="col-md-4">
                   <div class="feature-box fbox-small fbox-effect">
                     
                     <div class="fbox-content">
-                      <div class="counter color"><span data-from="1" data-to="2" data-refresh-interval="10" data-speed="1600">2</span> </div>
+                      <div class="counter color"><span data-from="1" data-to="23" data-refresh-interval="2" data-speed="1600">23</span> </div>
                      
-                      <p><bold class="display-5 color font-weight-medium">coloquios internacionales:</bold> “Los Centros Comerciales Abiertos en cuarentena” (con 220 participantes) y “Los desafíos pospandemia para el Comercio Minorista y los CCA” (con 115 participantes).</p>
+                      <p><bold class="display-5 color font-weight-medium">Encuentros Interactivos y Talleres temáticos </bold> realizados virtualmente y 8 Consultorios Regionales que nos acercaron a todas las entidades, pymes y emprendedores de la Red CAME, trabajando en conjunto con otros sectores y secretarías de CAME.  </p>
                     </div>
                   </div>
                 </div>
 
-                <div class="col-md-6">
-                  <div class="feature-box fbox-small fbox-effect">
-                    
-                    <div class="fbox-content">
-                      <div class="counter color"><span data-from="1" data-to="4" data-refresh-interval="10" data-speed="1600">4</span> </div>
-                     
-                      <p><bold class="display-5 color font-weight-medium">encuentros</bold> en el marco del ciclo de CCA Sustentables, iniciativa desarrollada junto con el Departamento de RSE de CAME. </p>
-                    </div>
-                  </div>
-                </div>
+
+               
+
+               
                 
               </div>
             </div>
   
           </div>
         </div>
-
-        <div class="container clearfix">
         
-          <p class="lead mx-auto bottommargin" >Asimismo, el sector participó en <bold class="color">eventos virtuales</bold> afines a la actividad, entre los que se destacan el webinar “Economía circular, energía y residuos: desafíos para la nueva década"; la videoconferencia de UADA "¿Cómo actuar ante un caso de COVID-19 en mi empresa?”; y la Convención CEMA 2020. 
+       
 
-            Por su parte la Comisión de Ambiente del Sector Industrial, realizó 12 encuentros a lo largo del año, y mantuvo una <bold class="color">audiencia virtual con el Ministerio de Ambiente y Desarrollo Sostenible de la Nación,</bold> Sr. Juan Cabandié, en la que abordamos inquietudes vinculadas a los residuos industriales, entre otros temas relacionados con la industria pyme y el ambiente.
-            
-            Como proyecto especial, trabajamos durante el 2020 en una <bold class="color">Zonificación del sector industrial</bold> en todo el país. Esta agrupación se generó pensando en la producción y las distintas problemáticas de cada rubro. A su vez, se resolvió designar referentes zonales para atender con mayores herramientas sus necesidades, hacer un mejor seguimiento del trabajo y poder llevar adelante encuentros regionales. 
-            
-            </p>
 
-          <div class="clear"></div>
-        </div>
+               
+  
+
+              
+
+
+               
+
+               
+                
+          
+
 
       
       
