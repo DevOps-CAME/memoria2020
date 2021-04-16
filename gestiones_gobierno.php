@@ -449,28 +449,141 @@
                 <div id="section-about" class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
                     <div class="container clearfix">
                         <h2 class="display-4 nott ls0 font-primary color text-left">
-                            CAME contra la especulación financiera en el marco de la pandemia
+                            CAME contra la informalidad
                         </h2>
                         <p class="lead mx-auto bottommargin">
-                            Desde la CAME, en el marco de la batalla contra la pandemia y sus imprevisibles pero
-                            angustiantes consecuencias, impulsamos gestiones para con las autoridades financieras, a fin
-                            de lograr la supervivencia de las micro, pequeñas y mediana empresas, evitando agravar su
-                            compleja situación.
+                            La bandera de CAME en pos de la formalidad sigue vigente, hoy más que nunca. La importancia
+                            de luchar contra la comercialización de mercaderías sin control y que evaden obligaciones
+                            fiscales, sin posibilidad de trazabilidad, va de la mano, como la otra cara de la moneda
+                            para las pymes, con las imposibilidades que acarrean la logística, la excesiva presión
+                            tributaria, el acceso al financiamiento, la competencia desleal, la cadena de valor y sus
+                            costos. Una entidad gremial empresaria que bregue por el cuidado diario de las pymes es
+                            nuestro rol defender.
+
+                            Con dirigentes de todo el país que trabajaron propuestas concretas elevadas a Ministerios,
+                            Organismos de seguridad nacionales y provinciales y gobernadores, la Comisión de CAME contra
+                            la Ilegalidad continúa en su ardua y constante labor para la erradicación de esta
+                            problemática que azota al país.
+
                         </p>
 
-
-                        <div class="center">
-                            <a href="gestiones_bcra.php" class="button button-xlarge text-right">Más información<i
-                                    class="icon-circle-arrow-right"></i></a>
+                        <div class="row justify-content-between mb-5">
+                            <div class="col-md-6 text-center">
+                                <div class="feature-box fbox-small fbox-effect">
+                                    <div class="fbox-content">
+                                        <div class="counter color">
+                                            <span data-from="1" data-to="10" data-refresh-interval="10"
+                                                data-speed="1600" class="display-2 ls3 font-weight-medium">10</span>
+                                        </div>
+                                        <h3>reuniones de la Comisión contra la Ilegalidad</h3>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="feature-box fbox-small fbox-effect">
+                                    <iframe src="https://player.vimeo.com/video/521106812" width="500" height="281"
+                                        allow="autoplay; fullscreen" allowfullscreen></iframe>
+                                </div>
+                            </div>
                         </div>
-                        <div class="clear"></div>
+                        <div class="row justify-content-between">
+                            <div class="col-md-12">
+
+                                <h3>Crece la venta ilegal, aumenta la preocupación de las pymes</h3>
+                                <div class="fancy-title title-center title-border mt-0 mb-2">
+                                    <h4>Relevamiento sobre Percepción Empresaria de Venta Ilegal (PEVI)<br>Rubros más
+                                        afectados</h4>
+                                </div>
+                            </div>
+
+                            <div class="row col-md-12 col-mb-50">
+                                <div class="col-sm-6 col-lg-4 text-center">
+                                    <i class="i-plain i-xlarge mx-auto mb-0 icon-diamond"></i>
+                                    <div class="counter counter-large" style="color: #e74c3c;"><span data-comma="true"
+                                            data-sep="," data-places="2" data-from="0" data-to="6420"
+                                            data-refresh-interval="50" data-speed="2000">64,2</span>%
+                                    </div>
+                                    <h3>Indumentaria</h3>
+                                </div>
+                                <div class="col-sm-6 col-lg-4 text-center">
+                                    <i class="i-plain i-xlarge mx-auto mb-0 icon-diamond"></i>
+                                    <div class="counter counter-large" style="color: #e74c3c;"><span data-comma="true"
+                                            data-sep="," data-places="1" data-from="0" data-to="1360"
+                                            data-refresh-interval="50" data-speed="2000">13,6</span>%
+                                    </div>
+                                    <h3>Alimentos</h3>
+                                </div>
+                                <div class="col-sm-6 col-lg-4 text-center">
+                                    <i class="i-plain i-xlarge mx-auto mb-0 icon-diamond"></i>
+                                    <div class="counter counter-large" style="color: #e74c3c;"><span data-comma="true"
+                                            data-sep="," data-places="1" data-from="0" data-to="49"
+                                            data-refresh-interval="50" data-speed="2000">4,9</span>%
+                                    </div>
+                                    <h3>Bijouterie</h3>
+                                </div>
+                                <div class="col-sm-6 col-lg-4 text-center">
+                                    <i class="i-plain i-xlarge mx-auto mb-0 icon-diamond"></i>
+                                    <div class="counter counter-large" style="color: #e74c3c;"><span data-comma="true"
+                                            data-sep="," data-places="1" data-from="0" data-to="49"
+                                            data-refresh-interval="50" data-speed="2000">4,9</span>%
+                                    </div>
+                                    <h3>Otro</h3>
+                                </div>
+                                <div class="col-sm-6 col-lg-4 text-center">
+                                    <i class="i-plain i-xlarge mx-auto mb-0 icon-diamond"></i>
+                                    <div class="counter counter-large" style="color: #e74c3c;"><span data-comma="true"
+                                            data-sep="," data-places="1" data-from="0" data-to="37"
+                                            data-refresh-interval="50" data-speed="2000">3,7</span>%
+                                    </div>
+                                    <h3>Bazar</h3>
+                                </div>
+                                <div class="col-sm-6 col-lg-4 text-center">
+                                    <i class="i-plain i-xlarge mx-auto mb-0 icon-diamond"></i>
+                                    <div class="counter counter-large" style="color: #e74c3c;"><span data-comma="true"
+                                            data-sep="," data-places="1" data-from="0" data-to="37"
+                                            data-refresh-interval="50" data-speed="2000">3,7</span>%
+                                    </div>
+                                    <h3>Tecnología</h3>
+                                </div>
+                                <div class="col-sm-6 col-lg-4 text-center">
+                                    <i class="i-plain i-xlarge mx-auto mb-0 icon-diamond"></i>
+                                    <div class="counter counter-large" style="color: #e74c3c;"><span data-comma="true"
+                                            data-sep="," data-places="1" data-from="0" data-to="25"
+                                            data-refresh-interval="50" data-speed="2000">2,5</span>%
+                                    </div>
+                                    <h3>Calzados y Marroquineria</h3>
+                                </div>
+                                <div class="col-sm-6 col-lg-4 text-center">
+                                    <i class="i-plain i-xlarge mx-auto mb-0 icon-diamond"></i>
+                                    <div class="counter counter-large" style="color: #e74c3c;"><span data-comma="true"
+                                            data-sep="," data-places="1" data-from="0" data-to="12"
+                                            data-refresh-interval="50" data-speed="2000">1,2</span>%
+                                    </div>
+                                    <h3>Deportes</h3>
+                                </div>
+                                <div class="col-sm-6 col-lg-4 text-center">
+                                    <i class="i-plain i-xlarge mx-auto mb-0 icon-diamond"></i>
+                                    <div class="counter counter-large" style="color: #e74c3c;"><span data-comma="true"
+                                            data-sep="," data-places="1" data-from="0" data-to="12"
+                                            data-refresh-interval="50" data-speed="2000">1,2</span>%
+                                    </div>
+                                    <h3>Electrodomésticos</h3>
+                                </div>
+
+
+
+
+
+
+                            </div>
+                        </div>
                     </div>
+
+
+
+
+                    <!-- fin Contenido    ============================================= -->
                 </div>
-
-
-
-                <!-- fin Contenido    ============================================= -->
-            </div>
         </section>
 
 
