@@ -248,10 +248,232 @@
                     </div>
                 </div>
 
-                <!-- fin Contenido
-    ============================================= -->
+
+                <div id="section-about" class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
+                    <div class="container clearfix">
+                        <h2 class="display-4 nott ls0 font-primary color text-left">
+                            Trabajamos por el impulso del consumo como camino de desarrollo comercial
+                        </h2>
+                        <p class="lead mx-auto bottommargin">
+                            Desde CAME, tenemos la premisa de que las pequeñas y medianas empresas propulsan la
+                            economía, por lo que el sostenimiento de este programa es capital para mantener el consumo
+                            en el comercio minorista, al cual representamos.
+                        </p>
+
+
+
+                        <div class="position-relative">
+
+                            <div class="timeline-border"></div>
+
+                            <!-- Posts ============================================= -->
+                            <div id="posts" class="post-grid grid-container row post-timeline col-mb-50"
+                                data-basewidth=".entry:not(.entry-date-section):eq(0)">
+
+                                <div class="entry entry-date-section col-12 m-0 p-0"><span>Diciembre de 2019</span>
+                                </div>
+
+                                <div class="entry col-lg-6 col-12 m-0">
+                                    <div class="entry-timeline">
+                                        <div class="timeline-divider"></div>
+                                    </div>
+                                    <div class="grid-inner">
+
+                                        <h3>Solicitamos la renovación del programa “Ahora 12”</h3>
+
+                                    </div>
+                                </div>
+
+
+                                <div class="entry col-lg-6 col-12 mt-5 alt m-0">
+                                    <div class="entry-timeline">
+                                        <div class="timeline-divider"></div>
+                                    </div>
+                                    <div class="grid-inner">
+
+                                        <h3>Se estableció su extensión hasta el 31 de marzo del 2020</h3>
+
+                                    </div>
+                                </div>
+
+                                <div class="entry entry-date-section col-12 m-0 p-0"><span>Junio de 2020</span></div>
+                                <div class="entry col-lg-6 col-12 m-0">
+                                    <div class="entry-timeline">
+                                        <div class="timeline-divider"></div>
+                                    </div>
+                                    <div class="grid-inner">
+
+                                        <h3>Solicitamos la prórroga del Ahora 12 en todo el país</h3>
+
+                                    </div>
+                                </div>
+
+                                <div class="entry entry-date-section col-12 m-0 p-0"><span>Julio de 2020</span></div>
+                                <div class="entry col-lg-6 col-12 m-0">
+
+                                    <div class="grid-inner">
+
+                                        <h3></h3>
+
+                                    </div>
+                                </div>
+                                <div class="entry col-lg-6 col-12 m-0 alt">
+                                    <div class="entry-timeline">
+                                        <div class="timeline-divider"></div>
+                                    </div>
+                                    <div class="grid-inner">
+
+                                        <h3>Se prorrogó el programa Ahora 12 hasta fin de año</h3>
+
+                                    </div>
+                                </div>
+
+                                <div class="entry entry-date-section col-12 m-0 p-0"><span>Septiembre de 2020</span>
+                                </div>
+                                <div class="entry col-lg-6 col-12 m-0">
+                                    <div class="entry-timeline">
+                                        <div class="timeline-divider"></div>
+                                    </div>
+                                    <div class="grid-inner">
+
+                                        <h3>Solicitamos la inclusión del rubro Enseñanza privada</h3>
+
+                                    </div>
+                                </div>
+
+                                <div class="entry entry-date-section col-12 m-0 p-0"><span>Octubre de 2020</span></div>
+                                <div class="entry col-lg-6 col-12 m-0">
+                                    <div class="entry-timeline">
+                                        <div class="timeline-divider"></div>
+                                    </div>
+                                    <div class="grid-inner">
+
+                                        <h3>Solicitamos sostener el Ahora 12 con 3 meses de gracia para el sector
+                                            turístico para el año 2021</h3>
+
+                                    </div>
+                                </div>
+                                <div class="entry col-lg-6 col-12 m-0  mt-5 alt">
+                                    <div class="entry-timeline">
+                                        <div class="timeline-divider"></div>
+                                    </div>
+                                    <div class="grid-inner">
+
+                                        <h3>Se elevaron notas de pedido de incorporación del rubro ortopedia al
+                                            Programa Ahora 12 y Ahora 18</h3>
+
+                                    </div>
+                                </div>
+
+
+
+
+
+
+
+                            </div><!-- #posts end -->
+                            <div class="clear"></div>
+
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+                </div>
+
+                <div class="center page-section col-lg-12 col-md-12 mb-4">
+                    <div class="container clearfix">
+                        <h2 class="display-4 nott ls0 font-primary color text-left">
+                            La voz de las pymes en la negociación de la paritaria mercantil
+                        </h2>
+                        <div class="col-md-8 float-left">
+                            <p class="lead mx-auto bottommargin">
+                                CAME, entidad cúpula del país, en representación de sus asociadas y de las pymes a
+                                estas
+                                adheridas, propuso, analizó y acordó puntos específicos de las paritarias, en pos de
+                                lograr el consenso entre la gremial empresaria y el sindicato para buscar el
+                                equilibrio
+                                de sostener las empresas y a sus trabajadores y familias en un contexto tan
+                                delicado.
+                            </p>
+                        </div>
+                        <div class="col-md-4 float-left">
+                            <img src="imgs/voz_pymes.jpg"
+                                alt="La voz de las pymes en la negociación de la paritaria mercantil" />
+                        </div>
+
+                        <div class="col-sm-6 col-md-6 float-left">
+                            <div class="feature-box fbox-border fbox-light fbox-effect my-4">
+                                <div class="fbox-icon">
+                                    <a
+                                        href="https://www.redcame.org.ar/novedades/10084/se-firmo-el-acuerdo-paritario-mercantil-2020"><i
+                                            class="icon-ok"></i></a>
+                                </div>
+                                <div class="fbox-content">
+                                    <a
+                                        href="http://www.redcame.org.ar/novedades/10491/exitosa-gestion-en-la-revision-de-la-paritaria-de-comercio">
+                                        <h3 style="line-height: 4rem;" class="color">Se firmó el acuerdo paritario
+                                            mercantil 2020
+                                        </h3>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-6 col-md-6 float-left">
+                            <div class="feature-box fbox-border fbox-light fbox-effect my-4">
+                                <div class="fbox-icon">
+                                    <a
+                                        href="http://www.redcame.org.ar/novedades/10491/exitosa-gestion-en-la-revision-de-la-paritaria-de-comercio"><i
+                                            class="icon-ok"></i></a>
+                                </div>
+                                <div class="fbox-content">
+                                    <a
+                                        href="http://www.redcame.org.ar/novedades/10491/exitosa-gestion-en-la-revision-de-la-paritaria-de-comercio">
+                                        <h3 style="line-height: 4rem;" class="color">Exitosa gestión en la revisión
+                                            de la
+                                            paritaria de
+                                            Comercio</h3>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+
+
+
+
+
+
+                        <div class="clear"></div>
+                    </div>
+                </div>
+
+                <div id="section-about" class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
+                    <div class="container clearfix">
+                        <h2 class="display-4 nott ls0 font-primary color text-left">
+                            CAME contra la especulación financiera en el marco de la pandemia
+                        </h2>
+                        <p class="lead mx-auto bottommargin">
+                            Desde la CAME, en el marco de la batalla contra la pandemia y sus imprevisibles pero
+                            angustiantes consecuencias, impulsamos gestiones para con las autoridades financieras, a fin
+                            de lograr la supervivencia de las micro, pequeñas y mediana empresas, evitando agravar su
+                            compleja situación.
+                        </p>
+
+
+                        <div class="center">
+                            <a href="gestiones_bcra.php" class="button button-xlarge text-right">Más información<i
+                                    class="icon-circle-arrow-right"></i></a>
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+                </div>
+
+
+
+                <!-- fin Contenido    ============================================= -->
             </div>
         </section>
+
+
         <!-- #content end -->
 
         <!-- Footer
