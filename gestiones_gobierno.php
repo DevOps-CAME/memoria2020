@@ -227,6 +227,27 @@
                     </div>
                 </div>
 
+                <div id="section-about" class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
+                    <div class="container clearfix">
+                        <h2 class="display-4 nott ls0 font-primary color text-left">
+                            CAME contra la especulación financiera en el marco de la pandemia
+                        </h2>
+                        <p class="lead mx-auto bottommargin">
+                            Desde la CAME, en el marco de la batalla contra la pandemia y sus imprevisibles pero
+                            angustiantes consecuencias, impulsamos gestiones para con las autoridades financieras, a fin
+                            de lograr la supervivencia de las micro, pequeñas y mediana empresas, evitando agravar su
+                            compleja situación.
+                        </p>
+
+
+                        <div class="center">
+                            <a href="gestiones_bcra.php" class="button button-xlarge text-right">Más información<i
+                                    class="icon-circle-arrow-right"></i></a>
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+                </div>
+
                 <!-- fin Contenido
     ============================================= -->
             </div>
