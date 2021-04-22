@@ -80,7 +80,7 @@
                   <div class="feature-box fbox-small fbox-effect">
                     
                     <div class="fbox-content">
-                      <div class="counter color"><span data-from="1" data-to="7188" data-refresh-interval="500" data-speed="1600">+ 7188</span> </div>
+                      <div class="counter color"><span data-from="1" data-to="7188" data-refresh-interval="500" data-speed="1600"> + 7188</span> </div>
                      
                       <p><bold class="display-5 color font-weight-medium">consultas atendidas desde la Oficina de Apoyo a las Pymes de CAME en Aduana  </bold> 
                       </p>
@@ -92,9 +92,9 @@
                   <div class="feature-box fbox-small fbox-effect">
                     
                     <div class="fbox-content">
-                      <div class="counter color"><span data-from="1" data-to="30" data-refresh-interval="5" data-speed="1600">+ 30%</span> </div>
+                      <div class="counter color"><span data-from="1" data-to="30" data-refresh-interval="5" data-speed="1600">+ 30 %</span> </div>
                      
-                      <p><bold class="display-5 color font-weight-medium">% más Certificados en Origen realizados en 2020, respecto del año anterior.</bold> Se realizaron 11.084 Certificados en Origen para empresas radicadas en 20 provincias.
+                      <p><bold class="display-5 color font-weight-medium"> más Certificados en Origen realizados en 2020, respecto del año anterior.</bold> Se realizaron 11.084 Certificados en Origen para empresas radicadas en 20 provincias.
 Regularmente, esta área atiende a 233 empresas usuarias de Certificados de Origen. Durante pandemia, 96 empresas decidieron comenzar a realizar los Certificados de Origen en CAME.
 
                       </p>
