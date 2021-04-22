@@ -61,10 +61,16 @@
                          (pyme olivícola y vitivinícola de San Martín, San Juan).
                         </p>
 
-                        <div class="center">
-                            <a href="propuestas_gob.php" class="button button-xlarge text-right">Video</a>
-                        </div>
-                        <p></p>
+                        <div class="col-lg-12 bottommargin-lg">
+                <a href="https://vimeo.com/491344203" data-lightbox="iframe"
+                  class="play-video position-relative">
+                  <img data-animate="fadeInLeft" data-delay="2600" src="imgs/sello.png" alt="Video Image"  class="fadeInLeft animated rounded-lg shadow-lg" />
+                  <i class="icon-play"></i>
+                </a>
+              </div>
+
+
+                        
                         <p class="lead mx-auto bottommargin">
                         En febrero de 2021 presentamos esta certificación ante el Embajador <bold class="color">Pablo Sívori</bold>, subsecretario de Promoción del Comercio e Inversiones del Ministerio
                          de Relaciones Exteriores, Comercio Internacional y Culto, en una fructífera reunión con una comitiva de CAME.

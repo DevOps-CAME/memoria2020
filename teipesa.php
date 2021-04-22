@@ -71,10 +71,16 @@
                         proyectada para 2021, incorporamos una nueva plataforma tecnológica, migrando el sistema sin 
                         impactar el servicio.
                         </p>
-                        <div class="center">
-                            <a href="propuestas_gob.php" class="button button-xlarge text-right">CAME TIENDAS Logo<i
-                                    class="icon-circle-arrow-right"></i></a>
+                        <div class="widget">
+                                 <a href="http://www.cametiendas.com.ar" target="_blank"
+                             ><img
+                            src="imgs/Logo-CAME-Tiendas.png"
+                                alt="CAME"
+                                class="mb-3"
+                                style="width: 16rem"
+                                 /></a>
                         </div>
+
                         <div class="clear"></div>
                     </div>
                 </div>
@@ -96,13 +102,33 @@
                         </p>
                        
 
-                        <div class="center">
-                            <a href="gestiones_trib.php" class="button button-xlarge text-right">CAME PAGOS Logo <i
-                                    class="icon-circle-arrow-right"></i></a>
+                        <div class="widget">
+                                 <a href="http://www.camepagos.com.ar" target="_blank"
+                             ><img
+                            src="imgs/Logo-CAME-Pagos.png"
+                                alt="CAME"
+                                class="mb-3"
+                                style="width: 16rem"
+                                 /></a>
                         </div>
-                        <div class="clear"></div>
-                    </div>
-                </div>
+
+
+                       
+
+                <div class="col-lg-12 bottommargin-lg">
+                <a href="https://www.youtube.com/watch?v=oRsAodqTM_Y" data-lightbox="iframe"
+                  class="play-video position-relative">
+                  <img data-animate="fadeInLeft" data-delay="2600" src="imgs/video_came_pagos.png" alt="Video Image"  class="fadeInLeft animated rounded-lg shadow-lg" />
+                  <i class="icon-play"></i>
+                </a>
+              </div>
+
+
+              <div class="clear"></div>
+             </div>
+         </div> 
+
+
 
                 <div id="section-about" class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
                     <div class="container clearfix">
@@ -117,10 +143,18 @@
                         </p>
 
 
-                        <div class="center">
-                            <a href="gestiones_bcra.php" class="button button-xlarge text-right">CAME ENVÍOS Logo  <i
-                                    class="icon-circle-arrow-right"></i></a>
+                        
+                        <div class="widget">
+                                 <a href="http://www.cameenvios.com.ar" target="_blank"
+                             ><img
+                            src="imgs/Logo-CAME-Envíos.png"
+                                alt="CAME"
+                                class="mb-3"
+                                style="width: 16rem"
+                                 /></a>
                         </div>
+
+
                         <div class="clear"></div>
                     </div>
                 </div>
@@ -171,10 +205,17 @@
                         </p>
 
 
-                        <div class="center">
-                            <a href="gestiones_bcra.php" class="button button-xlarge text-right">PILAR CAME Logo   <i
-                                    class="icon-circle-arrow-right"></i></a>
-                        </div>
+                        
+
+                        <div class="col-lg-12 bottommargin-lg">
+                <a href="https://youtu.be/PbFQXepUGO8 " data-lightbox="iframe"
+                  class="play-video position-relative">
+                  <img data-animate="fadeInLeft" data-delay="2600" src="imgs/video_pilar.png" alt="Video Image"  class="fadeInLeft animated rounded-lg shadow-lg" />
+                  <i class="icon-play"></i>
+                </a>
+              </div>
+
+
                         <div class="clear"></div>
                     </div>
                 </div>
