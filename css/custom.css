@@ -38,8 +38,7 @@ p {
 }
 
 .menu-link {
-  font-size: 0.9rem;
-  padding: 1em 0.3em 0em 0.3em;
+  text-transform: none !important;
 }
 
 .menu-item {
@@ -167,6 +166,12 @@ div.alignleft {
 
 .menu_labor {
   width: 20rem;
+}
+.menu_sec1 {
+  width: 13rem;
+}
+.menu_sec2 {
+  width: 17rem;
 }
 
 .sec_top {
