@@ -918,77 +918,74 @@
         },
     };
 
+
+
     var config3 = {
-        type: "line",
+        type: "bar",
         data: {
             labels: [
-                "Muy insuficientes",
-                "Insuficientes",
-                "Ni insuficientes ni suficientes",
-                "Suficientes",
-                "Muy suficientes",
-                "Ns/Nc",
+                "% Controles municipales",
+                "% Rentas provincial y AFIP",
+                "% Policia provincial",
+                "% Gendarmeria",
+                "% Prefectura",
+                "Promedio",
             ],
             datasets: [{
-                    label: "% Controles municipales",
+                    label: "Muy insuficientes",
                     backgroundColor: window.chartColors.red,
                     borderColor: window.chartColors.red,
-                    data: [38.3, 22.2, 19.8, 13.6, 6.2, 0],
+                    data: [38.3, 45.7, 35.8, 28.4, 33.3, 36.2],
                     fill: false,
                 },
                 {
-                    label: "% Rentas provincial y AFIP",
+                    label: "Insuficientes",
                     backgroundColor: window.chartColors.orange,
                     borderColor: window.chartColors.orange,
-                    data: [45.7, 22.2, 18.5, 11.1, 2.5, 0],
+                    data: [22.2, 22.2, 27.2, 21, 23.5, 22.8],
                     fill: false,
                 },
                 {
-                    label: "% Policia provincial",
+                    label: "Ni insuficientes ni suficientes",
                     backgroundColor: window.chartColors.yellow,
                     borderColor: window.chartColors.yellow,
-                    data: [35.8, 27.2, 19.8, 9.9, 2.5, 4.9],
+                    data: [19.8, 18.5, 19.8, 28.4, 18.5, 21.4],
                     fill: false,
                 },
                 {
-                    label: "% Gendarmeria",
+                    label: "Suficientes",
                     backgroundColor: window.chartColors.green,
                     borderColor: window.chartColors.green,
-                    data: [28.4, 21, 28.4, 17.3, 2.5, 2.5],
+                    data: [13.6, 11.1, 9.9, 17.3, 11.1, 12.6],
                     fill: false,
                 },
                 {
-                    label: "% Prefectura",
+                    label: "Muy suficientes",
                     backgroundColor: window.chartColors.purple,
                     borderColor: window.chartColors.purple,
-                    data: [33.3, 23.5, 18.5, 11.1, 1.2, 12.3],
+                    data: [6.2, 2.5, 2.5, 2.5, 1.2, 2.9],
                     fill: false,
                 },
                 {
-                    label: "Promedio",
-                    backgroundColor: window.chartColors.blue,
-                    borderColor: window.chartColors.blue,
-                    data: [36.2, 22.8, 21.4, 12.6, 2.9, 6.2],
+                    label: "Ns/Nc",
+                    backgroundColor: window.chartColors.gray,
+                    borderColor: window.chartColors.gray,
+                    data: [0, 0, 4.9, 2.5, 12.3, 6.2],
                     fill: false,
                 },
             ],
         },
+
+
         options: {
             responsive: true,
-            title: {
-                display: true,
-                text: "Min and Max Settings",
-            },
             scales: {
+                xAxes: [{
+                    stacked: true,
+                }],
                 yAxes: [{
-                    ticks: {
-                        // the data minimum used for determining the ticks is Math.min(dataMin, suggestedMin)
-                        suggestedMin: 10,
-
-                        // the data maximum used for determining the ticks is Math.max(dataMax, suggestedMax)
-                        suggestedMax: 50,
-                    },
-                }, ],
+                    stacked: true
+                }]
             },
         },
     };
@@ -1002,6 +999,8 @@
 
         var ctx3 = document.getElementById("chart-2").getContext("2d");
         window.myLine = new Chart(ctx3, config3);
+
+
     };
     </script>
 </body>
