@@ -72,7 +72,7 @@
 							</div>
 
 							<div class="col-lg-3">
-								<i class=" i-circled icon-refresh inline-block" style="margin-bottom: 15px;"></i>
+								<i class=" i-circled icon-refresh inline-block " style="margin-bottom: 15px;"></i>
 								<div class="heading-block border-bottom-0" style="margin-bottom: 15px;">
 																		
 								</div>
@@ -175,177 +175,66 @@
 
                         
                         <p class="lead mx-auto bottommargin">
-                            En un año que ha ejercido presión en muchas aristas, seguimos desde esta Confederación
-                            bregando por generar acuerdos con las autoridades tributarias, que brinden herramientas para
-                            mejorar la situación impositiva, financiera, de competitividad y de rentabilidad de nuestras
-                            pymes, así como mitigar el impacto de la pandemia en esta arista.
-                        </p>
-                        <div class="promo promo-light p-4 p-md-5 mb-5">
-                            <div class="row align-items-center">
-                                <div class="col-12 col-lg">
-                                    <p class="m-0">Destacamos la incansable labor de la Comisión de Asuntos Tributarios,
-                                        encabezada
-                                        por Salvador Femenía, cuyo rol está enfocado en el análisis, tratamiento y
-                                        generación de propuestas virtuosas en todo lo referente a este espacio
-                                        específico</p>
-                                </div>
-
-                            </div>
-                        </div>
-
-                        <div class="center">
-                            <a href="gestiones_trib.php" class="button button-xlarge text-right">Más información<i
-                                    class="icon-circle-arrow-right"></i></a>
-                        </div>
-                        <div class="clear"></div>
-                    </div>
-                </div>
-
-                <div id="section-about" class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
-                    <div class="container clearfix">
-                        <h2 class="display-4 nott ls0 font-primary color text-left">
-                            CAME contra la especulación financiera en el marco de la pandemia
-                        </h2>
-                        <p class="lead mx-auto bottommargin">
-                            Desde la CAME, en el marco de la batalla contra la pandemia y sus imprevisibles pero
-                            angustiantes consecuencias, impulsamos gestiones para con las autoridades financieras, a fin
-                            de lograr la supervivencia de las micro, pequeñas y mediana empresas, evitando agravar su
-                            compleja situación.
+                        Desde el sector Administración de Presupuestos se realizó una gestión enfocada en dos aristas: responder
+                         en tiempo y forma y con calidad y claridad a las entidades asociadas por temas presupuestarios, y, 
+                         asimismo, seguir generando mecanismos para dar cada vez mayor transparencia a la distribución de los 
+                         fondos destinados al fortalecimiento institucional y a la capacitación de nuestras asociadas. 
                         </p>
 
 
-                        <div class="center">
-                            <a href="gestiones_bcra.php" class="button button-xlarge text-right">Más información<i
-                                    class="icon-circle-arrow-right"></i></a>
-                        </div>
-                        <div class="clear"></div>
-                    </div>
-                </div>
+                        <div class="container" >
 
+                                <div class="row mt-3 col-mb-50">
 
-                <div id="section-about" class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
-                    <div class="container clearfix">
-                        <h2 class="display-4 nott ls0 font-primary color text-left">
-                            Trabajamos por el impulso del consumo como camino de desarrollo comercial
-                        </h2>
-                        <p class="lead mx-auto bottommargin">
-                            Desde CAME, tenemos la premisa de que las pequeñas y medianas empresas propulsan la
-                            economía, por lo que el sostenimiento de este programa es capital para mantener el consumo
-                            en el comercio minorista, al cual representamos.
-                        </p>
+                                    <div class="col-lg-4">
+                                        <i class="i-circled icon-bar-chart inline-block" style="margin-bottom:15px;"></i>
+                                        <div class="heading-block border-bottom-0" style="margin-bottom: 15px;">
+                                        </div>
+                                        <h4 class=" text-left">Exitosa Auditoría de Seguimiento del Instituto Argentino de 
+                                        Normalización y Certificación (IRAM), quien evaluó el grado de cumplimiento de los 
+                                        exigentes requisitos normativos de la Norma ISO 9001:2015, aplicable a la administración
+                                         de partidas presupuestarias para capacitación y fortalecimiento institucional de las 
+                                         entidades gremiales pymes argentinas.</h4>
+                                        </div>
 
-
-
-                        <div class="position-relative">
-
-                            <div class="timeline-border"></div>
-
-                            <!-- Posts ============================================= -->
-                            <div id="posts" class="post-grid grid-container row post-timeline col-mb-50"
-                                data-basewidth=".entry:not(.entry-date-section):eq(0)">
-
-                                <div class="entry entry-date-section col-12 m-0 p-0"><span>Diciembre de 2019</span>
-                                </div>
-
-                                <div class="entry col-lg-6 col-12 m-0">
-                                    <div class="entry-timeline">
-                                        <div class="timeline-divider"></div>
+                                    <div class="col-lg-4">
+                                        <i class=" i-circled icon-refresh inline-block" style="margin-bottom: 15px;"></i>
+                                        <div class="heading-block border-bottom-0" style="margin-bottom: 15px;">
+                                                                                
+                                        </div>
+                                        <h4 class=" text-left">Se establecieron objetivos de velocidad en la respuesta, 
+                                        tanto en la gestión de comprobantes como en la respuesta a solicitudes concretas, 
+                                        logrando sostenerlos durante todo el año. </h4>
                                     </div>
-                                    <div class="grid-inner">
 
-                                        <h3>Solicitamos la renovación del programa “Ahora 12”</h3>
-
+                                    <div class="col-lg-4">
+                                        <i class="i-circled icon-calendar inline-block" style="margin-bottom: 15px;"></i>
+                                        <div class="heading-block border-bottom-0" style="margin-bottom: 15px;">
+                                            
+                                        </div>
+                                        <h4 class=" text-left">Encuesta de satisfacción a las entidades a las que se brinda 
+                                        apoyo:</h4>
+                                        <p>* 73 % de respuestas</p>
+                                        <p>* Resultado promedio de 9.20 entre los ítems: Velocidad de respuesta a solicitudes, Atención del personal y Calidad del servicio prestado.</p>
+                                        <p>* Encuesta interna a los directivos involucrados. Su resultado fue un promedio de 9.33 entre los puntos: Gestión de autorizaciones y Reportes de gestión.
+                                            </p>
+                                              </div>
+                                    
+                                    
                                     </div>
-                                </div>
-
-
-                                <div class="entry col-lg-6 col-12 mt-5 alt m-0">
-                                    <div class="entry-timeline">
-                                        <div class="timeline-divider"></div>
-                                    </div>
-                                    <div class="grid-inner">
-
-                                        <h3>Se estableció su extensión hasta el 31 de marzo del 2020</h3>
-
-                                    </div>
-                                </div>
-
-                                <div class="entry entry-date-section col-12 m-0 p-0"><span>Junio de 2020</span></div>
-                                <div class="entry col-lg-6 col-12 m-0">
-                                    <div class="entry-timeline">
-                                        <div class="timeline-divider"></div>
-                                    </div>
-                                    <div class="grid-inner">
-
-                                        <h3>Solicitamos la prórroga del Ahora 12 en todo el país</h3>
-
-                                    </div>
-                                </div>
-
-                                <div class="entry entry-date-section col-12 m-0 p-0"><span>Julio de 2020</span></div>
-                                <div class="entry col-lg-6 col-12 m-0">
-
-                                    <div class="grid-inner">
-
-                                        <h3></h3>
-
-                                    </div>
-                                </div>
-                                <div class="entry col-lg-6 col-12 m-0 alt">
-                                    <div class="entry-timeline">
-                                        <div class="timeline-divider"></div>
-                                    </div>
-                                    <div class="grid-inner">
-
-                                        <h3>Se prorrogó el programa Ahora 12 hasta fin de año</h3>
-
-                                    </div>
-                                </div>
-
-                                <div class="entry entry-date-section col-12 m-0 p-0"><span>Septiembre de 2020</span>
-                                </div>
-                                <div class="entry col-lg-6 col-12 m-0">
-                                    <div class="entry-timeline">
-                                        <div class="timeline-divider"></div>
-                                    </div>
-                                    <div class="grid-inner">
-
-                                        <h3>Solicitamos la inclusión del rubro Enseñanza privada</h3>
-
-                                    </div>
-                                </div>
-
-                                <div class="entry entry-date-section col-12 m-0 p-0"><span>Octubre de 2020</span></div>
-                                <div class="entry col-lg-6 col-12 m-0">
-                                    <div class="entry-timeline">
-                                        <div class="timeline-divider"></div>
-                                    </div>
-                                    <div class="grid-inner">
-
-                                        <h3>Solicitamos sostener el Ahora 12 con 3 meses de gracia para el sector
-                                            turístico para el año 2021</h3>
-
-                                    </div>
-                                </div>
-                                <div class="entry col-lg-6 col-12 m-0  mt-5 alt">
-                                    <div class="entry-timeline">
-                                        <div class="timeline-divider"></div>
-                                    </div>
-                                    <div class="grid-inner">
-
-                                        <h3>Se elevaron notas de pedido de incorporación del rubro ortopedia al
-                                            Programa Ahora 12 y Ahora 18</h3>
-
-                                    </div>
-                                </div>
+            
+                                   
+                      </div>  
 
 
 
+                      
 
 
 
+                   
 
-                            </div><!-- #posts end -->
+                       
                             <div class="clear"></div>
 
                         </div>
@@ -353,208 +242,7 @@
                     </div>
                 </div>
 
-                <div class="center page-section col-lg-12 col-md-12 mb-4">
-                    <div class="container clearfix">
-                        <h2 class="display-4 nott ls0 font-primary color text-left">
-                            La voz de las pymes en la negociación de la paritaria mercantil
-                        </h2>
-                        <div class="col-md-8 float-left">
-                            <p class="lead mx-auto bottommargin">
-                                CAME, entidad cúpula del país, en representación de sus asociadas y de las pymes a
-                                estas
-                                adheridas, propuso, analizó y acordó puntos específicos de las paritarias, en pos de
-                                lograr el consenso entre la gremial empresaria y el sindicato para buscar el
-                                equilibrio
-                                de sostener las empresas y a sus trabajadores y familias en un contexto tan
-                                delicado.
-                            </p>
-                        </div>
-                        <div class="col-md-4 float-left">
-                            <img src="imgs/voz_pymes.jpg"
-                                alt="La voz de las pymes en la negociación de la paritaria mercantil" />
-                        </div>
-
-                        <div class="col-sm-6 col-md-6 float-left">
-                            <div class="feature-box fbox-border fbox-light fbox-effect my-4">
-                                <div class="fbox-icon">
-                                    <a
-                                        href="https://www.redcame.org.ar/novedades/10084/se-firmo-el-acuerdo-paritario-mercantil-2020"><i
-                                            class="icon-ok"></i></a>
-                                </div>
-                                <div class="fbox-content">
-                                    <a
-                                        href="http://www.redcame.org.ar/novedades/10491/exitosa-gestion-en-la-revision-de-la-paritaria-de-comercio">
-                                        <h3 style="line-height: 4rem;" class="color">Se firmó el acuerdo paritario
-                                            mercantil 2020
-                                        </h3>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-sm-6 col-md-6 float-left">
-                            <div class="feature-box fbox-border fbox-light fbox-effect my-4">
-                                <div class="fbox-icon">
-                                    <a
-                                        href="http://www.redcame.org.ar/novedades/10491/exitosa-gestion-en-la-revision-de-la-paritaria-de-comercio"><i
-                                            class="icon-ok"></i></a>
-                                </div>
-                                <div class="fbox-content">
-                                    <a
-                                        href="http://www.redcame.org.ar/novedades/10491/exitosa-gestion-en-la-revision-de-la-paritaria-de-comercio">
-                                        <h3 style="line-height: 4rem;" class="color">Exitosa gestión en la revisión
-                                            de la
-                                            paritaria de
-                                            Comercio</h3>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-
-
-
-
-
-
-                        <div class="clear"></div>
-                    </div>
-                </div>
-
-                <div id="section-about" class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
-                    <div class="container clearfix">
-                        <h2 class="display-4 nott ls0 font-primary color text-left">
-                            CAME contra la informalidad
-                        </h2>
-                        <p class="lead mx-auto bottommargin">
-                            La bandera de CAME en pos de la formalidad sigue vigente, hoy más que nunca. La importancia
-                            de luchar contra la comercialización de mercaderías sin control y que evaden obligaciones
-                            fiscales, sin posibilidad de trazabilidad, va de la mano, como la otra cara de la moneda
-                            para las pymes, con las imposibilidades que acarrean la logística, la excesiva presión
-                            tributaria, el acceso al financiamiento, la competencia desleal, la cadena de valor y sus
-                            costos. Una entidad gremial empresaria que bregue por el cuidado diario de las pymes es
-                            nuestro rol defender.
-
-                            Con dirigentes de todo el país que trabajaron propuestas concretas elevadas a Ministerios,
-                            Organismos de seguridad nacionales y provinciales y gobernadores, la Comisión de CAME contra
-                            la Ilegalidad continúa en su ardua y constante labor para la erradicación de esta
-                            problemática que azota al país.
-
-                        </p>
-
-                        <div class="row justify-content-between mb-5">
-                            <div class="col-md-6 text-center">
-                                <div class="feature-box fbox-small fbox-effect">
-                                    <div class="fbox-content">
-                                        <div class="counter color">
-                                            <span data-from="1" data-to="10" data-refresh-interval="10"
-                                                data-speed="1600" class="display-2 ls3 font-weight-medium">10</span>
-                                        </div>
-                                        <h3>reuniones de la Comisión contra la Ilegalidad</h3>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="feature-box fbox-small fbox-effect">
-                                    <iframe src="https://player.vimeo.com/video/521106812" width="500" height="281"
-                                        allow="autoplay; fullscreen" allowfullscreen></iframe>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row justify-content-between">
-                            <div class="col-md-12">
-
-                                <h3>Crece la venta ilegal, aumenta la preocupación de las pymes</h3>
-                                <div class="fancy-title title-center title-border mt-0 mb-2">
-                                    <h4>Relevamiento sobre Percepción Empresaria de Venta Ilegal (PEVI)<br>Rubros más
-                                        afectados</h4>
-                                </div>
-                            </div>
-
-                            <div class="row col-md-12 col-mb-50">
-                                <div class="col-sm-6 col-lg-4 text-center">
-                                    <i class="i-plain i-xlarge mx-auto mb-0 icon-diamond"></i>
-                                    <div class="counter counter-large" style="color: #e74c3c;"><span data-comma="true"
-                                            data-sep="," data-places="2" data-from="0" data-to="6420"
-                                            data-refresh-interval="50" data-speed="2000">64,2</span>%
-                                    </div>
-                                    <h3>Indumentaria</h3>
-                                </div>
-                                <div class="col-sm-6 col-lg-4 text-center">
-                                    <i class="i-plain i-xlarge mx-auto mb-0 icon-diamond"></i>
-                                    <div class="counter counter-large" style="color: #e74c3c;"><span data-comma="true"
-                                            data-sep="," data-places="1" data-from="0" data-to="1360"
-                                            data-refresh-interval="50" data-speed="2000">13,6</span>%
-                                    </div>
-                                    <h3>Alimentos</h3>
-                                </div>
-                                <div class="col-sm-6 col-lg-4 text-center">
-                                    <i class="i-plain i-xlarge mx-auto mb-0 icon-diamond"></i>
-                                    <div class="counter counter-large" style="color: #e74c3c;"><span data-comma="true"
-                                            data-sep="," data-places="1" data-from="0" data-to="49"
-                                            data-refresh-interval="50" data-speed="2000">4,9</span>%
-                                    </div>
-                                    <h3>Bijouterie</h3>
-                                </div>
-                                <div class="col-sm-6 col-lg-4 text-center">
-                                    <i class="i-plain i-xlarge mx-auto mb-0 icon-diamond"></i>
-                                    <div class="counter counter-large" style="color: #e74c3c;"><span data-comma="true"
-                                            data-sep="," data-places="1" data-from="0" data-to="49"
-                                            data-refresh-interval="50" data-speed="2000">4,9</span>%
-                                    </div>
-                                    <h3>Otro</h3>
-                                </div>
-                                <div class="col-sm-6 col-lg-4 text-center">
-                                    <i class="i-plain i-xlarge mx-auto mb-0 icon-diamond"></i>
-                                    <div class="counter counter-large" style="color: #e74c3c;"><span data-comma="true"
-                                            data-sep="," data-places="1" data-from="0" data-to="37"
-                                            data-refresh-interval="50" data-speed="2000">3,7</span>%
-                                    </div>
-                                    <h3>Bazar</h3>
-                                </div>
-                                <div class="col-sm-6 col-lg-4 text-center">
-                                    <i class="i-plain i-xlarge mx-auto mb-0 icon-diamond"></i>
-                                    <div class="counter counter-large" style="color: #e74c3c;"><span data-comma="true"
-                                            data-sep="," data-places="1" data-from="0" data-to="37"
-                                            data-refresh-interval="50" data-speed="2000">3,7</span>%
-                                    </div>
-                                    <h3>Tecnología</h3>
-                                </div>
-                                <div class="col-sm-6 col-lg-4 text-center">
-                                    <i class="i-plain i-xlarge mx-auto mb-0 icon-diamond"></i>
-                                    <div class="counter counter-large" style="color: #e74c3c;"><span data-comma="true"
-                                            data-sep="," data-places="1" data-from="0" data-to="25"
-                                            data-refresh-interval="50" data-speed="2000">2,5</span>%
-                                    </div>
-                                    <h3>Calzados y Marroquineria</h3>
-                                </div>
-                                <div class="col-sm-6 col-lg-4 text-center">
-                                    <i class="i-plain i-xlarge mx-auto mb-0 icon-diamond"></i>
-                                    <div class="counter counter-large" style="color: #e74c3c;"><span data-comma="true"
-                                            data-sep="," data-places="1" data-from="0" data-to="12"
-                                            data-refresh-interval="50" data-speed="2000">1,2</span>%
-                                    </div>
-                                    <h3>Deportes</h3>
-                                </div>
-                                <div class="col-sm-6 col-lg-4 text-center">
-                                    <i class="i-plain i-xlarge mx-auto mb-0 icon-diamond"></i>
-                                    <div class="counter counter-large" style="color: #e74c3c;"><span data-comma="true"
-                                            data-sep="," data-places="1" data-from="0" data-to="12"
-                                            data-refresh-interval="50" data-speed="2000">1,2</span>%
-                                    </div>
-                                    <h3>Electrodomésticos</h3>
-                                </div>
-
-
-
-
-
-
-                            </div>
-                        </div>
-                    </div>
-
-
-
+ 
 
                     <!-- fin Contenido    ============================================= -->
                 </div>
