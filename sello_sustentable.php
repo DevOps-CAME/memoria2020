@@ -33,7 +33,7 @@
                         <div class="heading-block center sec_top">
                             <h2>SELLO CAME SUSTENTABLE</h2>
                         </div>
-                        <h2 class="display-4 nott ls0 font-primary color text-left">
+                        <h2 class="subtitulo">
                         Certificación de Triple Impacto para garantizar la seguridad alimentaria y ambiental
                         </h2>
                         <p class="lead mx-auto bottommargin">

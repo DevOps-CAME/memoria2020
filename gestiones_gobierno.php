@@ -33,7 +33,7 @@
                         <div class="heading-block center sec_top">
                             <h2>Gestiones y acciones de Gobierno</h2>
                         </div>
-                        <h2 class="display-4 nott ls0 font-primary color text-left">
+                        <h2 class="subtitulo">
                             Consolidación de los espacios democráticos y federales de
                             decisión
                         </h2>
@@ -55,8 +55,8 @@
                     </div>
                 </div>
 
-                <div class="container clearfix col-lg-12 col-md-12">
-                    <div class="row justify-content-between">
+                <div class="container clearfix col-lg-12">
+                    <div class="row justify-content-between center ml-4 mr-4">
                         <div class="col-sm-6 col-lg-3">
                             <div class="feature-box fbox-small fbox-effect">
                                 <div class="fbox-content">
@@ -64,7 +64,7 @@
                                         <span data-from="1" data-to="11" data-refresh-interval="10"
                                             data-speed="1600">11</span>
                                     </div>
-                                    <p>reuniones de Consejo Directivo</p>
+                                    <p class="text-center">reuniones de Consejo Directivo</p>
                                 </div>
                             </div>
                         </div>
@@ -75,7 +75,7 @@
                                         <span data-from="1" data-to="90" data-refresh-interval="10"
                                             data-speed="1600">90</span>
                                     </div>
-                                    <p>Consejeros titulares</p>
+                                    <p class="text-center"> Consejeros titulares</p>
                                 </div>
                             </div>
                         </div>
@@ -86,18 +86,18 @@
                                         <span data-from="1" data-to="24" data-refresh-interval="10"
                                             data-speed="1600">24</span>
                                     </div>
-                                    <p>distritos</p>
+                                    <p class="text-center">distritos</p>
                                 </div>
                             </div>
                         </div>
                         <div class="col-sm-6 col-lg-3">
-                            <div class="feature-box fbox-small fbox-effect my-4">
+                            <div class="feature-box fbox-small fbox-effect">
                                 <div class="fbox-content">
                                     <div class="counter color">
                                         +<span data-from="1" data-to="15" data-refresh-interval="10"
                                             data-speed="1600">15</span>
                                     </div>
-                                    <p>reuniones de Comité de Presidencia</p>
+                                    <p class="text-center">reuniones de Comité de Presidencia</p>
                                 </div>
                             </div>
                         </div>
@@ -171,7 +171,7 @@
                 <hr>
                 <div class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
                     <div class="container clearfix">
-                        <h2 class="display-4 nott ls0 font-primary color text-left">
+                        <h2 class="subtitulo">
                             CAME a la vanguardia: propuestas para las pymes en el escenario
                             de la pandemia
                         </h2>
@@ -199,7 +199,7 @@
                 <hr>
                 <div class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
                     <div class="container clearfix">
-                        <h2 class="display-4 nott ls0 font-primary color text-left">
+                        <h2 class="subtitulo">
                             Gestiones de CAME ante autoridades tributarias, en pos de
                             generar herramientas salvaguarden la delicada situación de las
                             pymes
@@ -236,7 +236,7 @@
                 <hr>
                 <div class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
                     <div class="container clearfix">
-                        <h2 class="display-4 nott ls0 font-primary color text-left">
+                        <h2 class="subtitulo">
                             CAME contra la especulación financiera en el marco de la
                             pandemia
                         </h2>
@@ -258,7 +258,7 @@
                 <hr>
                 <div class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
                     <div class="container clearfix">
-                        <h2 class="display-4 nott ls0 font-primary color text-left">
+                        <h2 class="subtitulo">
                             Trabajamos por el impulso del consumo como camino de desarrollo
                             comercial
                         </h2>
@@ -379,7 +379,7 @@
                 <hr>
                 <div class="center page-section col-lg-12 col-md-12 mb-4">
                     <div class="container clearfix">
-                        <h2 class="display-4 nott ls0 font-primary color text-left">
+                        <h2 class="subtitulo">
                             La voz de las pymes en la negociación de la paritaria mercantil
                         </h2>
                         <div class="col-md-8 float-left">
@@ -440,7 +440,7 @@
                 <hr>
                 <div class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
                     <div class="container clearfix">
-                        <h2 class="display-4 nott ls0 font-primary color text-left">
+                        <h2 class="subtitulo">
                             CAME contra la informalidad
                         </h2>
                         <p class="lead mx-auto bottommargin">
@@ -462,24 +462,21 @@
                         </p>
 
                         <div class="row justify-content-between mb-5">
-                            <div class="col-md-6 text-center">
-                                <div class="feature-box fbox-small fbox-effect">
-                                    <div class="fbox-content">
-                                        <div class="counter color">
-                                            <span data-from="1" data-to="10" data-refresh-interval="10"
-                                                data-speed="1600" class="display-2 ls3 font-weight-medium">10</span>
-                                        </div>
-                                        <h3>reuniones de la Comisión contra la Ilegalidad</h3>
+                            <div class="col-md-6 text-center d-flex align-items-center">
+                                <div class="fbox-content">
+                                    <div class="counter color">
+                                        <span data-from="1" data-to="10" data-refresh-interval="10" data-speed="1600"
+                                            class="display-2 ls3 font-weight-medium">10</span>
                                     </div>
+                                    <h3>reuniones de la Comisión contra la Ilegalidad</h3>
                                 </div>
                             </div>
                             <div class="col-md-6">
-                                <div class="feature-box fbox-small fbox-effect">
-                                    <iframe src="https://player.vimeo.com/video/521106812" width="500" height="281"
-                                        allow="autoplay; fullscreen" allowfullscreen></iframe>
-                                </div>
+                                <iframe src="https://player.vimeo.com/video/521106812" width="500" height="281"
+                                    allow="autoplay; fullscreen" allowfullscreen></iframe>
                             </div>
                         </div>
+
                         <div class="row justify-content-between">
                             <div class="col-md-12">
                                 <h3>
@@ -599,7 +596,7 @@
                 <hr>
                 <div class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
                     <div class="container clearfix">
-                        <h2 class="display-4 nott ls0 font-primary color text-left">
+                        <h2 class="subtitulo">
                             Encuentros estratégicos para fomentar la sinergia en el marco de
                             la pandemia
                         </h2>
@@ -623,7 +620,7 @@
                 <hr>
                 <div class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
                     <div class="container clearfix">
-                        <h2 class="display-4 nott ls0 font-primary color text-left">
+                        <h2 class="subtitulo">
                             Gestión integral de la cadena productiva
                         </h2>
                         <div class="col-md-4 imagen-nota pl-5 pr-5 pt-2 float-left">

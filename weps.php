@@ -33,7 +33,7 @@
                         <div class="heading-block center sec_top">
                             <h2>Adhesión de CAME a los Principios para el Empoderamiento de la Mujer</h2>
                         </div>
-                        <h2 class="display-4 nott ls0 font-primary color text-left">
+                        <h2 class="subtitulo">
                         Plan de acción de igualdad de género aprobado por ONU Mujeres
                         </h2>
                         <p class="lead mx-auto bottommargin">

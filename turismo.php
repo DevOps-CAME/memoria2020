@@ -36,7 +36,7 @@
             <div class="heading-block center sec_top"><img src="imgs/sec/turismo.png">
               <h2>Turismo</h2>
             </div>
-            <h2 class="display-4 nott ls0 font-primary color text-left">Acciones propositivas para el sostenimiento de las pymes turísticas</h2>
+            <h2 class="subtitulo">Acciones propositivas para el sostenimiento de las pymes turísticas</h2>
 
             <p class="lead mx-auto bottommargin" >Con el norte de morigerar el grave impacto que la pandemia tuvo sobre la actividad, con una mirada federal y espíritu propositivo, desde CAME Turismo se impulsaron las siguientes acciones:</p>
 

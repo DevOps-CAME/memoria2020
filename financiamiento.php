@@ -42,7 +42,7 @@
               <div class="clear"></div>
             </div>
             
-              <h2 class="display-4 nott ls0 font-primary color text-left">FINANCAME: Principales Objetivos – Planificación 2021</h2>
+              <h2 class="subtitulo">FINANCAME: Principales Objetivos – Planificación 2021</h2>
 
               <p class="lead mx-auto bottommargin" >
               Para este nuevo año 2021, desde nuestro Departamento perseguiremos los siguientes objetivos principales y acciones vinculadas: </p>

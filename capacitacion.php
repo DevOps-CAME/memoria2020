@@ -36,7 +36,7 @@
             <div class="heading-block center sec_top"><img src="imgs/sec/capacication.png">
               <h2>capacitación    </h2>
             </div>
-            <h2 class="display-4 nott ls0 font-primary color text-left">Formación para la modernización de nuestros asociados y sus pymes
+            <h2 class="subtitulo">Formación para la modernización de nuestros asociados y sus pymes
             </h2>
 
             <p class="lead mx-auto bottommargin" >Más de 245.000 personas fueron capacitadas durante 2020 a través de la oferta de capacitación que brinda CAME.</p>

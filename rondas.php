@@ -36,7 +36,7 @@
             <div class="heading-block center sec_top"><img src="imgs/sec/rondas.png">
               <h2>Ronda de Negocios           </h2>
             </div>
-            <h2 class="display-4 nott ls0 font-primary color text-left">Vinculación estratégica de las pequeñas y medianas empresas argentinas
+            <h2 class="subtitulo">Vinculación estratégica de las pequeñas y medianas empresas argentinas
             </h2>
 
             <p class="lead mx-auto bottommargin" >Frente al desafío de trasladarnos a la virtualidad, sin ocasión de desarrollar encuentros presenciales en los que el intercambio cara a cara propiciaba la camaradería y afianzaban las relaciones, nos propusimos trabajar sobre nuestra herramienta @RondasCame, manteniendo los estándares de calidad y servicio que caracterizan nuestra labor.       </p>

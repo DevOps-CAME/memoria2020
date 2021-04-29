@@ -41,7 +41,7 @@
               <h2>Industria</h2>
               <div class="clear"></div>
             </div>
-            <h2 class="display-4 nott ls0 font-primary color text-left">Defensa y promoción de la matriz industrial federal</h2>
+            <h2 class="subtitulo">Defensa y promoción de la matriz industrial federal</h2>
 
             <p class="lead mx-auto bottommargin" >Durante el 2020, con el propósito de morigerar la situación de las pymes industriales afectadas por las medidas de prevención que se dispusieron ante la pandemia, desde el Sector Industrial elaboramos un completo informe que presentamos al Poder Ejecutivo planteando los principales desafíos en los ámbitos laborales, económicos y financieros de la actividad.<br>
               Con el mismo espíritu, solicitamos a la Secretaría de Energía de la Nación la reducción de los costos energéticos para comercios e industrias, atendiendo la situación de emergencia. Esta gestión llevó al sector Industrial de CAME a integrarse a la <bold class="color">Comisión Pymes de ENARGAS,</bold> asistiendo a las reuniones mensuales.<br>

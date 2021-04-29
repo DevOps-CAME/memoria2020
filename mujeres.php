@@ -37,7 +37,7 @@
               <h2>Mujeres<br> CAME
               </h2>
             </div>
-            <h2 class="display-4 nott ls0 font-primary color text-left">Articulación transversal para el empoderamiento
+            <h2 class="subtitulo">Articulación transversal para el empoderamiento
               de la mujer empresaria
             </h2>
 

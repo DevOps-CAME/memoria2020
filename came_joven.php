@@ -37,7 +37,7 @@
               <h2>CAME JOVEN
                 </h2>
             </div>
-            <h2 class="display-4 nott ls0 font-primary color text-left">Formación de nuevos líderes para la renovación y fortalecimiento de la gremial empresaria
+            <h2 class="subtitulo">Formación de nuevos líderes para la renovación y fortalecimiento de la gremial empresaria
             </h2>
 
             <div class="clear"></div>

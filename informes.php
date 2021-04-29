@@ -57,10 +57,10 @@
 
                 <div class="container clearfix col-lg-12 col-md-12">
 
-                    <h2 class="display-4 nott ls0 font-primary color text-left">
+                    <h2 class="subtitulo">
                         Gestión de correspondencia</h2>
 
-                    <div class="row justify-content-between">
+                    <div class="row justify-content-between center ml-4 mr-4">
 
                         <div class="col-sm-4 col-lg-3">
                             <div class="feature-box fbox-small fbox-effect">
@@ -69,7 +69,7 @@
                                         <span data-from="1" data-to="3361" data-refresh-interval="10"
                                             data-speed="1000">3361</span>
                                     </div>
-                                    <p>Cartas y solicitudes recibidas</p>
+                                    <p class="text-center">Cartas y solicitudes recibidas</p>
                                 </div>
                             </div>
                         </div>
@@ -80,7 +80,7 @@
                                         <span data-from="1" data-to="1801" data-refresh-interval="10"
                                             data-speed="1300">1801</span>
                                     </div>
-                                    <p>Consejeros titulares</p>
+                                    <p class="text-center">Consejeros titulares</p>
                                 </div>
                             </div>
                         </div>
@@ -91,7 +91,7 @@
                                         <span data-from="1" data-to="255" data-refresh-interval="10"
                                             data-speed="1600">255</span>
                                     </div>
-                                    <p>Invitaciones recibidas y gestionadas</p>
+                                    <p class="text-center">Invitaciones recibidas y gestionadas</p>
                                 </div>
                             </div>
                         </div>
@@ -102,7 +102,7 @@
 
                 <div class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
                     <div class="container clearfix">
-                        <h2 class="display-4 nott ls0 font-primary color text-left">
+                        <h2 class="subtitulo">
                             CAME a la vanguardia: propuestas para las pymes en el escenario
                             de la pandemia
                         </h2>

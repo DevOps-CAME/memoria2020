@@ -36,7 +36,7 @@
             <div class="heading-block center sec_top"><img src="imgs/sec/rse.png">
               <h2>RSE           </h2>
             </div>
-            <h2 class="display-4 nott ls0 font-primary color text-left">Hacia una mirada responsable, sustentable e inclusiva de la gestión pyme
+            <h2 class="subtitulo">Hacia una mirada responsable, sustentable e inclusiva de la gestión pyme
             </h2>
 
             <p class="lead mx-auto bottommargin" >En 2020, ante un contexto totalmente desconocido que exigía grandes cambios y que nos invitó a repensar nuestra forma de interactuar, producir y consumir, hemos reforzado el acompañamiento a entidades, pymes y emprendedores en su proceso de incorporación de la gestión sustentable en su labor cotidiana, motivando así el desarrollo económico con inclusión social y cuidado del medio ambiente, en todos los sectores de la comunidad. 

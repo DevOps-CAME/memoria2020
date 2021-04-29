@@ -37,7 +37,7 @@
               <h2>Construcción
                 </h2>
             </div>
-            <h2 class="display-4 nott ls0 font-primary color text-left">Bregando por la representación de las pymes constructoras
+            <h2 class="subtitulo">Bregando por la representación de las pymes constructoras
             </h2>
 
             <p class="lead mx-auto bottommargin" >A través de nuestra asociada, la Confederación de Pymes Constructoras de la República Argentina (CPC), representante del sector Construcción de CAME, desplegamos acciones tendientes a fortalecer a las las pymes constructoras con el objeto de impulsar el desarrollo sustentable de las regiones donde estas empresas se encuentran radicadas. 

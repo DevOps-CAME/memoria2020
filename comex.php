@@ -36,7 +36,7 @@
             <div class="heading-block center sec_top"><img src="imgs/sec/comex.png">
               <h2>Comercio Exterior               </h2>
             </div>
-            <h2 class="display-4 nott ls0 font-primary color text-left">Impulso a la internacionalización de la producción nacional pyme
+            <h2 class="subtitulo">Impulso a la internacionalización de la producción nacional pyme
             </h2>
 
             <p class="lead mx-auto bottommargin" >En el marco de un proyecto de internacionalización que CAME viene realizando en los últimos años, en 2020:

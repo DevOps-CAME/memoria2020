@@ -41,7 +41,7 @@
             <div class="heading-block center sec_top"><img src="imgs/sec/regionales.png">
               <h2>Economías <br>Regionales</h2>
             </div>
-            <h2 class="display-4 nott ls0 font-primary color text-left">Hacia una matriz federal, sustentable y competitiva de nuestras Economías Regionales</h2>
+            <h2 class="subtitulo">Hacia una matriz federal, sustentable y competitiva de nuestras Economías Regionales</h2>
 
             <p class="lead mx-auto bottommargin" >El 2020 fue el año que no solo dejó en claro que sin productores no hay alimentos, sino también visibilizó el compromiso del sector agroalimentario para garantizar el abastecimiento de la mesa diaria de todos los argentinos. 
 Desde el área de Economías Regionales de CAME se gestionó, un año más, en defensa de la rentabilidad y competitividad de la pyme agropecuaria, procurando políticas públicas integrales y medidas diferenciales que contemplaran tanto las asimetrías de la estructura productiva nacional como la heterogeneidad regional.  

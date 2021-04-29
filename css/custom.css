@@ -5,6 +5,17 @@
 	Overwriting Default Theme Styles for Better Handling Updates
 -----------------------------------------------------------------*/
 
+body {
+  color: #000000 !important;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #000000;
+}
 .titulo_seccion {
   font-size: 1.8em;
   color: #5fd0ba;
@@ -23,6 +34,7 @@
 
 p {
   text-align: justify;
+  font-size: 1rem;
 }
 
 .prensa_grid {
@@ -38,7 +50,12 @@ p {
 }
 
 .menu-link {
+  color: #000000;
   text-transform: none !important;
+  font-size: 0.9rem !important;
+}
+.sub-menu-container .menu-item > .menu-link {
+  font-size: 0.85rem !important;
 }
 
 .menu-item {
@@ -192,4 +209,23 @@ div.alignleft {
   float: left;
   width: 26rem;
   margin: 1rem;
+}
+
+.text-muted {
+  color: #00000 !important;
+}
+
+.subtitulo {
+  color: #267df4;
+  letter-spacing: 0px;
+  text-transform: none;
+  text-align: left;
+  font-size: 2rem;
+  font-weight: 500;
+}
+.lead {
+  font-size: 1.1rem;
+}
+.testi-meta span {
+  font-size: 0.9rem;
 }

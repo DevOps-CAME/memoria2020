@@ -37,7 +37,7 @@
               <h2>Federación Argentina<br> de Parques Industriales
                 </h2>
             </div>
-            <h2 class="display-4 nott ls0 font-primary color text-left">Gestión para fortalecer el desarrollo de Parques Industriales en todo el país
+            <h2 class="subtitulo">Gestión para fortalecer el desarrollo de Parques Industriales en todo el país
             </h2>
 
             <p class="lead mx-auto bottommargin" >A los efectos de promover a un sector pujante del aparato productivo nacional que contribuye al desarrollo económico y social del país, a través de la representación de nuestra asociada, la Federación Argentina de Parques Industriales, asistimos brindando fortalecimiento institucional, apoyo técnico y acompañamiento de gestión para la implementación de programas, proyectos e instrumentos, que motoricen su desarrollo, así como el de las empresas que los componen y el de las localidades en las que estas unidades productivas se radican.

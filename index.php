@@ -82,7 +82,7 @@ include "header.html";
 
                                 </h2>
 
-                                <p class="lead text-muted">
+                                <p class="lead">
                                     que agrupan a más 600.000 empresas pymes
                                     dan trabajo a 4.200.000 personas.
                                 </p>
@@ -160,9 +160,9 @@ include "header.html";
                                     <img src="demos/coworking/images/features/3.jpg" alt="Featured image 1"
                                         class="card-img-top" />
                                     <div class="card-body">
-                                        <h5 class="card-title font-weight-semibold color">
+                                        <h4 class="card-title font-weight-semibold color">
                                             CAPACITACIÓN
-                                        </h5>
+                                        </h4>
                                         <p class="card-text">
                                             Nos orientamos al rediseño de cursos, talleres y conferencias presenciales,
                                             enfocándonos en desarrollar principalmente formaciones sobre aspectos
@@ -178,9 +178,9 @@ include "header.html";
                                     <img src="demos/coworking/images/features/2.jpg" alt="Featured image 2"
                                         class="card-img-top" />
                                     <div class="card-body">
-                                        <h5 class="card-title font-weight-semibold color">
+                                        <h4 class="card-title font-weight-semibold color">
                                             RELEVAMIENTOS ESPECIALES
-                                        </h5>
+                                        </h4>
                                         <p class="card-text">
                                             En el marco de la crisis económica que produjo la pandemia, llevamos a cabo
                                             relevamientos
@@ -196,9 +196,9 @@ include "header.html";
                                     <img src="demos/coworking/images/features/1.jpg" alt="Featured image 3"
                                         class="card-img-top" />
                                     <div class="card-body">
-                                        <h5 class="card-title font-weight-semibold color">
+                                        <h4 class="card-title font-weight-semibold color">
                                             INNOVACIÓN RESPONSABLE
-                                        </h5>
+                                        </h4>
                                         <p class="card-text">
                                             Incorporamos el Premio Emprendedor Solidario COVID-19, con el objetivo de
                                             promover proyectos
@@ -224,7 +224,7 @@ include "header.html";
                         <div class="col-lg-4 col-md-6 my-4">
                             <i class="icon-wifi-full color ml-0 mb-4 i-plain d-block float-none"></i>
                             <h4 class="mb-3">Modernización</h4>
-                            <p class="text-muted">
+                            <p>
                                 En 2020 lanzamos CAME PAGOS, aplicación digital de gestión de pagos orientada a pymes
                                 que,
                                 durante el pasado año mejoró en su funcionalidad, integrándose con CAME TIENDAS,
@@ -238,7 +238,7 @@ include "header.html";
                         <div class="col-lg-4 col-md-6 my-4">
                             <i class="icon-leaf color ml-0 mb-3 i-plain d-block float-none"></i>
                             <h4 class="mb-3">Economías Regionales</h4>
-                            <p class="text-muted">
+                            <p>
                                 Como miembro permanente de la CNTA y la CNEyDA, participamos de
                                 los debates paritarios, analizando el alcance de diversas inclemencias climáticas
                                 sufridas a lo largo y ancho del país. En los debates nuestra postura fue no permitir que
@@ -253,7 +253,7 @@ include "header.html";
                         <div class="col-lg-4 col-md-6 my-4">
                             <i class="icon-line-trending-up color ml-0 mb-3 i-plain d-block float-none"></i>
                             <h4 class="mb-3">Comercio</h4>
-                            <p class="text-muted">
+                            <p>
                                 Participamos de las comisiones de Comercio y de Finanzas de la Honorable Cámara de
                                 Diputados
                                 de la Nación Argentina impulsando la sanción de la Ley de Acreditación Inmediata de
@@ -269,7 +269,7 @@ include "header.html";
                         <div class="col-lg-4 col-md-6 my-4">
                             <i class="icon-money-bill-wave-alt color ml-0 mb-3 i-plain d-block float-none"></i>
                             <h4 class="mb-3">Financiamiento</h4>
-                            <p class="text-muted">
+                            <p>
                                 Recibimos más de 2897 consultas de entidades, pymes y emprendedores de todo el país en
                                 relación con los
                                 programas existentes.
@@ -283,7 +283,7 @@ include "header.html";
                         <div class="col-lg-4 col-md-6 my-4">
                             <i class="icon-industry color ml-0 mb-3 i-plain d-block float-none"></i>
                             <h4 class="mb-3">Industria</h4>
-                            <p class="text-muted">
+                            <p>
                                 Participamos en las reuniones mensuales de la Comisión Pymes del Ente Regulador del Gas
                                 (ENARGAS),
                                 transmitiendo
@@ -298,7 +298,7 @@ include "header.html";
                         <div class="col-lg-4 col-md-6 my-4">
                             <i class="icon-plane1 color ml-0 mb-3 i-plain d-block float-none"></i>
                             <h4 class="mb-3">Turismo</h4>
-                            <p class="text-muted">
+                            <p>
                                 Presentamos un plan integral y federal de promoción y recuperación de la actividad,
                                 denominado “Las pymes turísticas y comerciales en un contexto de coyuntura,
                                 adaptación tecnológica y cambio social”.
@@ -310,7 +310,7 @@ include "header.html";
                         <div class="col-lg-4 col-md-6 my-4">
                             <i class="icon-line2-user-female color ml-0 mb-3 i-plain d-block float-none"></i>
                             <h4 class="mb-3">Mujeres</h4>
-                            <p class="text-muted">
+                            <p>
                                 CAME adhirió a los Principios para el Empoderamiento de la Mujer (WEP’s),
                                 convirtiéndonos en la primera entidad gremial empresaria del país en sumarse a esta
                                 iniciativa internacional que propone generar oportunidades de desarrollo para las
@@ -323,7 +323,7 @@ include "header.html";
                         <div class="col-lg-4 col-md-6 my-4">
                             <i class="icon-people-arrows color ml-0 mb-3 i-plain d-block float-none"></i>
                             <h4 class="mb-3">Rondas de Negocios</h4>
-                            <p class="text-muted">
+                            <p>
                                 En 2020, de manera virtual, se 7 Rondas de Negocios, en las que participaron 386
                                 empresas,
                                 de cuatro países (Argentina, Paraguay, Chile y EEUU). Como fruto de ello, se concretaron
@@ -336,7 +336,7 @@ include "header.html";
                         <div class="col-lg-4 col-md-6 my-4">
                             <i class="icon-ship color ml-0 mb-3 i-plain d-block float-none"></i>
                             <h4 class="mb-3">Exportación</h4>
-                            <p class="text-muted">
+                            <p>
                                 En el 2020, CAME emitió 11.084 Certificados de Origen, un 30% más respecto del año
                                 anterior,
                                 para empresas radicadas en 20 provincias del país, promoviendo la internacionalización
@@ -423,22 +423,15 @@ include "header.html";
                                 </div>
                             </div>
 
-                            <div class="row">
-                                <div class="col-lg-4 bottommargin-lg">
+                            <div class="row section mt-0 mb-4 bg-transparent">
+                                <div class="col-lg-4">
                                     <h1>texto</h1>
                                 </div>
-                                <div class="col-lg-8 bottommargin-lg">
-                                    <a href="https://vimeo.com/518728139" data-lightbox="iframe"
-                                        class="play-video position-relative">
-                                        <img data-animate="fadeInLeft" data-delay="2600" src="imgs/video_vimeo.png"
-                                            alt="Video Image" class="fadeInLeft animated rounded-lg shadow-lg" />
-                                        <i class="icon-play"></i>
-                                    </a>
+                                <div class="col-lg-8">
+                                    <iframe src="https://player.vimeo.com/video/518728139" width="500" height="281"
+                                        allow="autoplay; fullscreen" allowfullscreen></iframe>
+
                                 </div>
-
-
-
-
                             </div>
 
                         </div>

@@ -40,7 +40,7 @@
             <div class="heading-block center sec_top"><img src="imgs/sec/comercio_servicios.png">
               <h2>Comercio <br>y Servicios</h2>
             </div>
-            <h2 class="display-4 nott ls0 font-primary color text-left">Asistencia y acompañamiento al comercio
+            <h2 class="subtitulo">Asistencia y acompañamiento al comercio
               minorista nacional</h2>
 
             <p class="lead mx-auto bottommargin" >En un difícil año para el sector comercial a

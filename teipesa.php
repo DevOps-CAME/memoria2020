@@ -33,7 +33,7 @@
                         <div class="heading-block center sec_top">
                             <h2>Modernización para pymes (TEIPESA)</h2>
                         </div>
-                        <h2 class="display-4 nott ls0 font-primary color text-left">
+                        <h2 class="subtitulo">
                         Modernización para potenciar la competitividad
                         </h2>
                         <p class="lead mx-auto bottommargin">
@@ -59,7 +59,7 @@
 
                 <div id="section-about" class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
                     <div class="container clearfix">
-                        <h2 class="display-4 nott ls0 font-primary color text-left">
+                        <h2 class="subtitulo">
                         CAME TIENDAS
                         </h2>
                         <p class="lead mx-auto bottommargin">
@@ -88,7 +88,7 @@
 
                 <div id="section-about" class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
                     <div class="container clearfix">
-                        <h2 class="display-4 nott ls0 font-primary color text-left">
+                        <h2 class="subtitulo">
                         CAME PAGOS 
                         </h2>
                         <p class="lead mx-auto bottommargin">
@@ -132,7 +132,7 @@
 
                 <div id="section-about" class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
                     <div class="container clearfix">
-                        <h2 class="display-4 nott ls0 font-primary color text-left">
+                        <h2 class="subtitulo">
                         CAME ENVÍOS 
                         </h2>
                         <p class="lead mx-auto bottommargin">
@@ -161,7 +161,7 @@
 
                 <div id="section-about" class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
                     <div class="container clearfix">
-                        <h2 class="display-4 nott ls0 font-primary color text-left">
+                        <h2 class="subtitulo">
                         NEGOCIO CERCANO 
                         </h2>
                         <p class="lead mx-auto bottommargin">
@@ -195,7 +195,7 @@
 
                 <div id="section-about" class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
                     <div class="container clearfix">
-                        <h2 class="display-4 nott ls0 font-primary color text-left">
+                        <h2 class="subtitulo">
                         PILAR CAME 
                         </h2>
                         <p class="lead mx-auto bottommargin">
@@ -222,7 +222,7 @@
 
                 <div id="section-about" class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
                     <div class="container clearfix">
-                        <h2 class="display-4 nott ls0 font-primary color text-left">
+                        <h2 class="subtitulo">
                         INFODATA
                         </h2>
                         <p class="lead mx-auto bottommargin">
