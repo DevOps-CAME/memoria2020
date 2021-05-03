@@ -225,7 +225,7 @@ include "header.html";
                     <div class="row justify-content-between">
 
                         <div class="col-lg-4 col-md-6 my-4">
-                            <i class="icon-line-shopping-cart color ml-0 mb-3 i-plain d-block float-none"></i>
+                            <i class="icon-shopping-cart1s color ml-0 mb-3 i-plain d-block float-none"></i>
                             <h4 class="mb-3">Comercio</h4>
                             <p>
                                 Participamos de las comisiones de Comercio y de Finanzas de la Honorable Cámara de
