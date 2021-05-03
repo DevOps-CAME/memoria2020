@@ -91,7 +91,8 @@ include "header.html";
                     </div>
                 </section>
 
-
+                <?php include "mensaje_presidente.php" ?>
+                <?php include "mision_vision_valores.php" ?>
 
 
 

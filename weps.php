@@ -34,53 +34,63 @@
                             <h2>Adhesión de CAME a los Principios para el Empoderamiento de la Mujer</h2>
                         </div>
                         <h2 class="subtitulo">
-                        Plan de acción de igualdad de género aprobado por ONU Mujeres
+                            Plan de acción de igualdad de género aprobado por ONU Mujeres
                         </h2>
                         <p class="lead mx-auto bottommargin">
-                        En 2020, fruto de la articulación entre el sector de Mujeres Empresarias, 
-                        el Departamento de Responsabilidad Social y Desarrollo Sustentable y el Departamento de 
-                        Recursos Humanos de la entidad, CAME adhirió a los Principios para el Empoderamiento de 
-                        las Mujeres (WEP´S -  por sus siglas en inglés), convirtiéndose así en la primera entidad 
-                        gremial empresaria del país en recibir dicho reconocimiento el cual es otorgado por el Programa
-                         Ganar -  Ganar: "la igualdad de género es un buen negocio".
+                            En 2020, fruto de la articulación entre el sector de Mujeres Empresarias,
+                            el Departamento de Responsabilidad Social y Desarrollo Sustentable y el Departamento de
+                            Recursos Humanos de la entidad, CAME adhirió a los Principios para el Empoderamiento de
+                            las Mujeres (WEP´S - por sus siglas en inglés), convirtiéndose así en la primera entidad
+                            gremial empresaria del país en recibir dicho reconocimiento el cual es otorgado por el
+                            Programa
+                            Ganar - Ganar: "la igualdad de género es un buen negocio".
                         </p>
                         <p class="lead mx-auto bottommargin">
-                        Esta iniciativa, impulsada por ONU Mujeres en alianza con la Unión Europea y la Organización
-                         Internacional del Trabajo (OIT), propone generar oportunidades de desarrollo para las mujeres 
-                         dentro de las empresas, entidades públicas y privadas,
-                         su participación en el liderazgo y la toma de decisiones como base para un crecimiento sostenible, 
-                         conjunto y equitativo; además de realizar un aporte concreto a los Objetivos de Desarrollo 
-                         Sostenible (ODS) de las Naciones Unidas, especialmente el 5 "Igualdad de género", el 8 "Trabajo decente
-                          y crecimiento económico" y el 17 "Alianzas para lograr los Objetivos".
+                            Esta iniciativa, impulsada por ONU Mujeres en alianza con la Unión Europea y la Organización
+                            Internacional del Trabajo (OIT), propone generar oportunidades de desarrollo para las
+                            mujeres
+                            dentro de las empresas, entidades públicas y privadas,
+                            su participación en el liderazgo y la toma de decisiones como base para un crecimiento
+                            sostenible,
+                            conjunto y equitativo; además de realizar un aporte concreto a los Objetivos de Desarrollo
+                            Sostenible (ODS) de las Naciones Unidas, especialmente el 5 "Igualdad de género", el 8
+                            "Trabajo decente
+                            y crecimiento económico" y el 17 "Alianzas para lograr los Objetivos".
                         </p>
-                        
-                        <div class="col-lg-12 bottommargin-lg">
-                <a href="https://vimeo.com/469885948" data-lightbox="iframe"
-                  class="play-video position-relative">
-                  <img data-animate="fadeInLeft" data-delay="2600" src="imgs/muj.png" alt="Video Image"  class="fadeInLeft animated rounded-lg shadow-lg" />
-                  <i class="icon-play"></i>
-                </a>
-              </div>
+
+
+                        <div class="col-lg-12 d-flex justify-content-center mb-4">
+                            <div class="col-lg-8">
+                                <iframe src="https://player.vimeo.com/video/469885948" width="500" height="281"
+                                    allow="autoplay; fullscreen" allowfullscreen></iframe>
+                            </div>
+                        </div>
+
+
+
 
 
                         <p class="lead mx-auto bottommargin">
-                        Una de las principales ventajas del mencionado programa para instituciones gremiales empresarias 
-                        como CAME es el incentivo y el acompañamiento a explorar y medir internamente el estado de la 
-                        institución en términos de equidad de género, así como también participar de espacios formativos 
-                        respecto a la temática.
+                            Una de las principales ventajas del mencionado programa para instituciones gremiales
+                            empresarias
+                            como CAME es el incentivo y el acompañamiento a explorar y medir internamente el estado de
+                            la
+                            institución en términos de equidad de género, así como también participar de espacios
+                            formativos
+                            respecto a la temática.
                         </p>
 
-                        
+
 
 
                         <div class="clear"></div>
                     </div>
                 </div>
 
-                
 
-                    <!-- fin Contenido    ============================================= -->
-                </div>
+
+                <!-- fin Contenido    ============================================= -->
+            </div>
         </section>
 
 
