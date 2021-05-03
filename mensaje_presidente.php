@@ -1,6 +1,6 @@
 <div class="section m-0 p-0 testimonials clearfix bg-color dark">
     <div class="container" style="padding: 120px 0">
-        <div class="heading-block border-bottom-0 center">
+        <div id="mensaje_presidente" class="heading-block border-bottom-0 center">
 
             <h2 class="nott font-weight-semibold">Mensaje del Presidente</h2>
 
@@ -34,18 +34,23 @@
                     mensuales de Consejo Directivo como espacio democrático de debate y gestión,
                     esencial en el espíritu democrático que signa el nuevo tiempo de esta
                     Confederación.</br></br>
-                    Tenemos la certeza de que la pandemia no acabará en 2021, y por ello reivindicamos
-                    el diálogo con todos los sectores y la genuina demanda de asistencia para que
-                    nuestras pymes, que representan más del 40 % del PBI nacional y el 70 % del empleo
-                    registrado, puedan salir adelante. Porque apostamos por el país, como lo hemos hecho
-                    siempre, y lo seguiremos haciendo. Porque estamos convencidos de que el desarrollo
-                    de la pequeña y mediana industria, así como del turismo, el sector comercial, las
-                    economías regionales, la construcción, los parques industriales, los jóvenes
-                    empresarios y las mujeres que se dedican a la actividad, constituyen el programa de
-                    crecimiento vertebral que la nación demanda en esta inédita etapa. Por todo ello, en
+                    <bold> Tenemos la certeza de que la pandemia no acabará en 2021, y por ello reivindicamos el diálogo
+                        con todos los sectores y la genuina demanda de asistencia para que nuestras pymes, que
+                        representan más del 40 % del PBI nacional y el 70 % del empleo registrado, puedan salir
+                        adelante.</br></br>
+
+                        Apostamos por el país, como lo hemos hecho siempre, y lo seguiremos haciendo. Porque estamos
+                        convencidos de que el desarrollo de la pequeña y mediana industria, así como del turismo, el
+                        sector comercial, las economías regionales, la construcción, los parques industriales, los
+                        jóvenes empresarios y las mujeres que se dedican a la actividad, constituyen el programa de
+                        crecimiento vertebral que la nación demanda en esta inédita etapa.</br></br></bold>
+
+
+                    Por todo ello, en
                     honor a ese rol protagónico que nuestro sector representa, los convoco a seguir
                     trabajando con valentía y convicción, en unión, con entrega y vocación, por un
-                    futuro mejor para todos.</br></p>
+                    futuro mejor para todos.</br>
+                </p>
 
                 <div class="testi-meta mt-4">
                     Gerardo Díaz Beltrán

@@ -25,6 +25,7 @@ include "header.html";
 
                 <!-- Bienvenida
 		============================================= -->
+
                 <section class="overflow-hidden parallax" style="
         background-image: url('imgs/tapa.jpg');
         background-size: cover;
@@ -33,9 +34,7 @@ include "header.html";
                     data-top-bottom="background-position:0px -100px;">
 
 
-                    <div class=" d-flex align-items-center" style="
-        height: 55vh;
-        width: 100%;">
+                    <div class=" d-flex align-items-center" style="height: 55vh; width: 100%;">
                         <div class="container">
                             <div class="row">
 
@@ -58,6 +57,8 @@ include "header.html";
 		=============================================  -->
 
 
+                <!-- Representamos a...
+		============================================= -->
                 <section class="section m-0 p-5">
                     <div class="container">
 
@@ -90,16 +91,18 @@ include "header.html";
                         </div>
                     </div>
                 </section>
+                <!-- /Representamos a...
+		============================================= -->
 
+                <!-- Editorial
+		============================================= -->
                 <?php include "mensaje_presidente.php" ?>
                 <?php include "mision_vision_valores.php" ?>
+                <?php include "rrhh.php" ?>
+                <!-- / Editorial
+		============================================= -->
 
-
-
-
-
-
-                <!-- Contenido 1
+                <!-- 2020 un año de... y cuadros
 		============================================= -->
                 <div class="section mt-0 pt-md-5 pt-0">
                     <div class="container clearfix">
@@ -213,46 +216,16 @@ include "header.html";
                         </div>
                     </div>
                 </div>
-                <!-- /Contenido 1
+                <!-- /2020 un año de... y cuadros
 		============================================= -->
 
-                <!-- Contenido 2
+                <!-- Cuadros de sectores 
 		============================================= -->
                 <div class="container">
                     <div class="row justify-content-between">
-                        <!-- Feature Box
-						============================================= -->
-                        <div class="col-lg-4 col-md-6 my-4">
-                            <i class="icon-wifi-full color ml-0 mb-4 i-plain d-block float-none"></i>
-                            <h4 class="mb-3">Modernización</h4>
-                            <p>
-                                En 2020 lanzamos CAME PAGOS, aplicación digital de gestión de pagos orientada a pymes
-                                que,
-                                durante el pasado año mejoró en su funcionalidad, integrándose con CAME TIENDAS,
-                                potenciando
-                                el ecosistema. Además, sumó nuevas tarjetas como TUYA, Naranja, CABAL y PLATA.
-                            </p>
-                        </div>
 
-                        <!-- Feature Box
-						============================================= -->
                         <div class="col-lg-4 col-md-6 my-4">
-                            <i class="icon-leaf color ml-0 mb-3 i-plain d-block float-none"></i>
-                            <h4 class="mb-3">Economías Regionales</h4>
-                            <p>
-                                Como miembro permanente de la CNTA y la CNEyDA, participamos de
-                                los debates paritarios, analizando el alcance de diversas inclemencias climáticas
-                                sufridas a lo largo y ancho del país. En los debates nuestra postura fue no permitir que
-                                durante la pospandemia sigan desapareciendo empresas, pudiendo así conservarse las
-                                fuentes de trabajo.
-
-                            </p>
-                        </div>
-
-                        <!-- Feature Box
-						============================================= -->
-                        <div class="col-lg-4 col-md-6 my-4">
-                            <i class="icon-line-trending-up color ml-0 mb-3 i-plain d-block float-none"></i>
+                            <i class="icon-line-shopping-cart color ml-0 mb-3 i-plain d-block float-none"></i>
                             <h4 class="mb-3">Comercio</h4>
                             <p>
                                 Participamos de las comisiones de Comercio y de Finanzas de la Honorable Cámara de
@@ -265,22 +238,6 @@ include "header.html";
                             </p>
                         </div>
 
-                        <!-- Feature Box
-						============================================= -->
-                        <div class="col-lg-4 col-md-6 my-4">
-                            <i class="icon-money-bill-wave-alt color ml-0 mb-3 i-plain d-block float-none"></i>
-                            <h4 class="mb-3">Financiamiento</h4>
-                            <p>
-                                Recibimos más de 2897 consultas de entidades, pymes y emprendedores de todo el país en
-                                relación con los
-                                programas existentes.
-                                Además, ingresaron a nuestra plataforma online, 280 nuevos proyectos de empresas y
-                                emprendedores.
-                            </p>
-                        </div>
-
-                        <!-- Feature Box
-						============================================= -->
                         <div class="col-lg-4 col-md-6 my-4">
                             <i class="icon-industry color ml-0 mb-3 i-plain d-block float-none"></i>
                             <h4 class="mb-3">Industria</h4>
@@ -294,8 +251,29 @@ include "header.html";
                             </p>
                         </div>
 
-                        <!-- Feature Box
-						============================================= -->
+                        <div class="col-lg-4 col-md-6 my-4">
+                            <i class="icon-people-arrows color ml-0 mb-3 i-plain d-block float-none"></i>
+                            <h4 class="mb-3">Parques Industriales</h4>
+                            <p>
+                                FAPI y RedParques acordaron el inicio de un trabajo conjunto con el objetivo de generar
+                                la agenda sectorial que fortalezca el sector de agrupamientos industriales, logísticos y
+                                tecnológicos de todo el país.
+                            </p>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6 my-4">
+                            <i class="icon-leaf color ml-0 mb-3 i-plain d-block float-none"></i>
+                            <h4 class="mb-3">Economías Regionales</h4>
+                            <p>
+                                Como miembro permanente de la CNTA y la CNEyDA, participamos de
+                                los debates paritarios, analizando el alcance de diversas inclemencias climáticas
+                                sufridas a lo largo y ancho del país. En los debates nuestra postura fue no permitir que
+                                durante la pospandemia sigan desapareciendo empresas, pudiendo así conservarse las
+                                fuentes de trabajo.
+
+                            </p>
+                        </div>
+
                         <div class="col-lg-4 col-md-6 my-4">
                             <i class="icon-plane1 color ml-0 mb-3 i-plain d-block float-none"></i>
                             <h4 class="mb-3">Turismo</h4>
@@ -306,8 +284,27 @@ include "header.html";
                             </p>
                         </div>
 
-                        <!-- Feature Box
-						============================================= -->
+                        <div class="col-lg-4 col-md-6 my-4">
+                            <i class="icon-ship color ml-0 mb-3 i-plain d-block float-none"></i>
+                            <h4 class="mb-3">Construcción</h4>
+                            <p>
+                                Presentamos una propuesta sustentable y federal de construcción de viviendas dirigidos a
+                                la clase media mediante financiamiento público-privado, con la convicción de que
+                                resultará una herramienta clave en la dinamización del sector y en la disminución del
+                                déficit habitacional.
+                            </p>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6 my-4">
+                            <i class="icon-money-bill-wave-alt color ml-0 mb-3 i-plain d-block float-none"></i>
+                            <h4 class="mb-3">Jóvenes</h4>
+                            <p>
+                                Incorporamos el Premio Emprendedor Solidario COVID-19 con el objetivo de promover
+                                proyectos sustentables, valorando la solidaridad y el esfuerzo de los jóvenes que, en
+                                circunstancias complejas, piensan en lo colectivo y en el bien común.
+                            </p>
+                        </div>
+
                         <div class="col-lg-4 col-md-6 my-4">
                             <i class="icon-line2-user-female color ml-0 mb-3 i-plain d-block float-none"></i>
                             <h4 class="mb-3">Mujeres</h4>
@@ -319,156 +316,54 @@ include "header.html";
                             </p>
                         </div>
 
-                        <!-- Feature Box
-						============================================= -->
                         <div class="col-lg-4 col-md-6 my-4">
-                            <i class="icon-people-arrows color ml-0 mb-3 i-plain d-block float-none"></i>
-                            <h4 class="mb-3">Rondas de Negocios</h4>
+                            <i class="icon-wifi-full color ml-0 mb-4 i-plain d-block float-none"></i>
+                            <h4 class="mb-3">Modernización</h4>
                             <p>
-                                En 2020, de manera virtual, se 7 Rondas de Negocios, en las que participaron 386
-                                empresas,
-                                de cuatro países (Argentina, Paraguay, Chile y EEUU). Como fruto de ello, se concretaron
-                                2.380 entrevistas.
+                                En 2020 lanzamos CAME PAGOS, aplicación digital de gestión de pagos orientada a pymes
+                                que,
+                                durante el pasado año mejoró en su funcionalidad, integrándose con CAME TIENDAS,
+                                potenciando
+                                el ecosistema. Además, sumó nuevas tarjetas como TUYA, Naranja, CABAL y PLATA.
                             </p>
                         </div>
 
-                        <!-- Feature Box
-						============================================= -->
-                        <div class="col-lg-4 col-md-6 my-4">
-                            <i class="icon-ship color ml-0 mb-3 i-plain d-block float-none"></i>
-                            <h4 class="mb-3">Exportación</h4>
-                            <p>
-                                En el 2020, CAME emitió 11.084 Certificados de Origen, un 30% más respecto del año
-                                anterior,
-                                para empresas radicadas en 20 provincias del país, promoviendo la internacionalización
-                                de la
-                                producción nacional.
-                            </p>
-                        </div>
                     </div>
                 </div>
-                <!-- /Contenido 2
+                <!-- / Cuadros de sectores 
 		============================================= -->
 
 
 
 
-                <!-- Contenido 6 
+
+
+
+
+                <!-- Footer
 		============================================= -->
-                <div class="section mb-0">
-                    <div class="container">
-                        <div class="row justify-content-between align-items-center">
-                            <div class="fslider testimonial testimonial-full bottommargin" data-animation="fade"
-                                data-arrows="false">
-                                <div class="flexslider">
-                                    <div class="slider-wrap">
-
-
-                                        <div class="slide">
-                                            <div class="testi-content">
-                                                <div class="col-lg-4 col-md-6 col-sm-6" style="float: left;">
-                                                    <img src="imgs/GerardoDiazBeltran.jpg"
-                                                        alt="Dr. Gerardo Díaz Beltrán" style="border-radius: 5px;">
-                                                </div>
-                                                <div>
-                                                    <p>Apostamos por el país, como lo hemos hecho siempre, y lo
-                                                        seguiremos haciendo.
-                                                        Porque estamos convencidos de que el desarrollo de la pequeña y
-                                                        mediana industria,
-                                                        así como del turismo, el sector comercial, las economías
-                                                        regionales, la construcción,
-                                                        los parques industriales, los jóvenes empresarios y las mujeres
-                                                        que se dedican a la
-                                                        actividad, constituyen el programa de crecimiento vertebral que
-                                                        la nación demanda en esta
-                                                        inédita etapa
-                                                    </p>
-                                                    <div class="testi-meta text-left">
-                                                        Gerardo Díaz Beltrán<span>Presidente de la Confederación
-                                                            Argentina de la Mediana Empresa
-                                                            (CAME)</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-
-                                        </div>
-
-                                        <div class="slide">
-                                            <div class="testi-content">
-                                                <div class="col-lg-4 col-md-6 col-sm-6" style="float: left;">
-                                                    <img src="imgs/GerardoDiazBeltran.jpg"
-                                                        alt="Dr. Gerardo Díaz Beltrán" style="border-radius: 5px;">
-                                                </div>
-                                                <div>
-                                                    <p>Tenemos la certeza de que la pandemia no acabará en 2021, y por
-                                                        ello reivindicamos el
-                                                        diálogo con
-                                                        todos los sectores y la genuina demanda de asistencia para que
-                                                        nuestras pymes, que
-                                                        representan más
-                                                        del 40 % del PBI nacional y el 70 % del empleo registrado,
-                                                        puedan salir adelante
-                                                    </p>
-                                                    <div class="testi-meta text-left">
-                                                        Gerardo Díaz Beltrán<span>Presidente de la Confederación
-                                                            Argentina de la Mediana Empresa
-                                                            (CAME)</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-
-
-                                        </div>
-
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="row section mt-0 mb-4 bg-transparent">
-                                <div class="col-lg-4">
-                                    <h1>texto</h1>
-                                </div>
-                                <div class="col-lg-8">
-                                    <iframe src="https://player.vimeo.com/video/518728139" width="500" height="281"
-                                        allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-
-            <!-- #content end -->
-
-
-
-            <!-- Footer
-		============================================= -->
-            <?php
+                <?php
 include "footer.html";
 ?>
 
-            <!-- #footer end -->
+                <!-- #footer end -->
 
 
-    </div>
-    <!-- #wrapper end -->
+            </div>
+            <!-- #wrapper end -->
 
-    <!-- Go To Top
+            <!-- Go To Top
 	============================================= -->
-    <div id="gotoTop" class="icon-angle-up"></div>
+            <div id="gotoTop" class="icon-angle-up"></div>
 
-    <!-- JavaScripts
+            <!-- JavaScripts
 	============================================= -->
-    <script src="js/jquery.js"></script>
-    <script src="js/plugins.min.js"></script>
+            <script src="js/jquery.js"></script>
+            <script src="js/plugins.min.js"></script>
 
-    <!-- Footer Scripts
+            <!-- Footer Scripts
 	============================================= -->
-    <script src="js/functions.js"></script>
+            <script src="js/functions.js"></script>
 </body>
 
 </html>
