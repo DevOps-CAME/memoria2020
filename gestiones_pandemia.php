@@ -22,6 +22,7 @@
                 <!-- Bienvenida
 		============================================= -->
                 <?php include "bienvenida.html"; ?>
+                <?php include "breadcrumbs.php"; ?>
 
                 <!--  /Bienvenida
 		=============================================  -->

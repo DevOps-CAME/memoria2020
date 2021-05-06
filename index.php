@@ -94,14 +94,7 @@ include "header.html";
                 <!-- /Representamos a...
 		============================================= -->
 
-                <!-- Editorial
-		============================================= -->
                 <?php include "mensaje_presidente.php" ?>
-                <?php include "mision_vision_valores.php" ?>
-                <?php include "rrhh.php" ?>
-                <!-- / Editorial
-		============================================= -->
-
                 <!-- 2020 un año de... y cuadros
 		============================================= -->
                 <div class="section mt-0 pt-md-5 pt-0">
@@ -164,9 +157,7 @@ include "header.html";
                                     <img src="demos/coworking/images/features/3.jpg" alt="Featured image 1"
                                         class="card-img-top" />
                                     <div class="card-body">
-                                        <h4 class="card-title font-weight-semibold color">
-                                            CAPACITACIÓN
-                                        </h4>
+
                                         <p class="card-text">
                                             Orgullosos de nuestro órgano de participación colegiada de toma de
                                             decisiones, el Consejo Directivo de la CAME, destacamos que sostenidamente
@@ -180,9 +171,7 @@ include "header.html";
                                     <img src="demos/coworking/images/features/2.jpg" alt="Featured image 2"
                                         class="card-img-top" />
                                     <div class="card-body">
-                                        <h4 class="card-title font-weight-semibold color">
-                                            RELEVAMIENTOS ESPECIALES
-                                        </h4>
+
                                         <p class="card-text">
                                             Elevamos propuestas de vanguardia sobre los ejes impositivo, tributario y
                                             financiero al Gobierno nacional, alentando el consumo y generando alianzas,
@@ -190,6 +179,8 @@ include "header.html";
                                         </p>
                                     </div>
                                 </div>
+
+
                             </div>
 
                             <div class="col-md-3 col-sm-6 pl-sm-3 mt-3 mt-sm-0">
@@ -197,9 +188,7 @@ include "header.html";
                                     <img src="demos/coworking/images/features/1.jpg" alt="Featured image 3"
                                         class="card-img-top" />
                                     <div class="card-body">
-                                        <h4 class="card-title font-weight-semibold color">
-                                            INNOVACIÓN RESPONSABLE
-                                        </h4>
+
                                         <p class="card-text">
                                             Continuamos visibilizando la falta de colaboración del sector financiero
                                             para con las pymes. “Ante la agonía de las pequeñas y medianas empresas, los
@@ -208,12 +197,38 @@ include "header.html";
                                         </p>
                                     </div>
                                 </div>
+                                <div class="card shadow-sm border-light mt-4">
+                                    <img src="demos/coworking/images/features/2.jpg" alt="Featured image 2"
+                                        class="card-img-top" />
+                                    <div class="card-body">
+
+                                        <p class="card-text">
+                                            En el marco de la crisis económica que produjo la pandemia, llevamos a cabo
+                                            relevamientos periódicos para conocer la situación del sector pyme y
+                                            proponer medidas para su recuperación.
+                                        </p>
+                                    </div>
+                                </div>
                             </div>
+
                         </div>
                     </div>
                 </div>
                 <!-- /2020 un año de... y cuadros
 		============================================= -->
+
+
+                <div class="row section mt-0 mb-4 bg-transparent">
+                    <div class="col-lg-5 d-flex justify-content-center text-right">
+                        <h3>El 2020 nos trajo incertidumbre y angustia, pero también compromiso y solidaridad: nos
+                            reinventamos y seguimos adelante, apostando por el futuro y por Argentina.</h3>
+                    </div>
+                    <div class="col-lg-7">
+                        <iframe src="https://player.vimeo.com/video/518728139" width="500" height="281"
+                            allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+                    </div>
+                </div>
 
                 <!-- Cuadros de sectores 
 		============================================= -->
@@ -319,6 +334,9 @@ include "header.html";
                 </div>
                 <!-- / Cuadros de sectores 
 		============================================= -->
+                <?php include "mision_vision_valores.php" ?>
+                <?php include "rrhh.php" ?>
+
 
 
                 <!-- Cuadros flip

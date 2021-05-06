@@ -247,4 +247,5 @@ div.alignleft {
 
 .breadcrumbs .actual {
   font-weight: 600;
+  text-decoration: underline !important;
 }

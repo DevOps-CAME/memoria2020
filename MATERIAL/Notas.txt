@@ -1,23 +1,22 @@
-Bueno Debo ya esta subido lo ultimo te digo lo que falta (que no esta en el sitio directamente):
-- Labor institucional
---- Word 7 (incompleto > grafico final)
 
+- Labor institucional
 -- Calidad y Transparencia  
 -- Informes, estadísticas y comunicación
 
-Falta lo de unir Prólogo, Editorial, Misión... 
 Falta ponerle onda y retocar Sectores y Secretarías (toda la info esta puesta) 
 Falta ponerle onda y retocar RRHH (toda la info esta puesta) 
-Faltan los interlinks
+
+
 Falta retocar footer
 Falta revisar todo desde celular
 
-
 - cambiar fotos destacados masonry
 
+Faltan los interlinks
 80% > capacitacion
 150+ > gestiones
 11 > gestiones > reuniones
+
 innovacion responsable > joven
 Relevamientos especiales > comunicación (labor inst)
 Sita de Beltran > Ver más a editorial
@@ -28,14 +27,9 @@ Secretarias y sectores interconectados al final
 engordar la letra no cambiar color
 Relevamiento sobre Percepción Empresaria de Venta Ilegal (PEVI) < tabla al lado del video
 
-
-
-
-
-Indicaciones Diego
-
-
-
-
-
+- foto de beltran en mensaje
+- menu > mensaje (index.php/mensaje) #mensaje_presidente
+- Consolidación de los espacios democráticos y federales de decisión > hacer dos columnas, una de contadores otra de tildes, cambiar icono, uno solo
+- gestiones_gobierno fotos en destacados ; meses en mansonry
+- teipesa.php Twitter teipesa ; 3 columnas donde sea posible
 
