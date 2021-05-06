@@ -189,7 +189,7 @@ div.alignleft {
   width: 20rem;
 }
 .menu_sec1 {
-  width: 13rem;
+  width: 14rem;
 }
 .menu_sec2 {
   width: 17rem;
@@ -236,4 +236,15 @@ div.alignleft {
 
 .dark .testi-meta span {
   color: #e8e8e8;
+}
+
+.breadcrumbs {
+  font-size: 0.8rem;
+  font-style: italic;
+  text-align: right;
+  margin: 2rem 1rem 2rem 0rem;
+}
+
+.breadcrumbs .actual {
+  font-weight: 600;
 }

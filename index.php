@@ -168,12 +168,10 @@ include "header.html";
                                             CAPACITACIÓN
                                         </h4>
                                         <p class="card-text">
-                                            Nos orientamos al rediseño de cursos, talleres y conferencias presenciales,
-                                            enfocándonos en desarrollar principalmente formaciones sobre aspectos
-                                            sensibles a
-                                            la coyuntura, como el Comercio Electrónico, Ventas Digitales, Teletrabajo,
-                                            Oficina virtual,
-                                            entre otros temas.
+                                            Orgullosos de nuestro órgano de participación colegiada de toma de
+                                            decisiones, el Consejo Directivo de la CAME, destacamos que sostenidamente
+                                            se reunió durante el 2020, en pos de buscar estratégicas soluciones para las
+                                            pymes.
                                         </p>
                                     </div>
                                 </div>
@@ -186,10 +184,9 @@ include "header.html";
                                             RELEVAMIENTOS ESPECIALES
                                         </h4>
                                         <p class="card-text">
-                                            En el marco de la crisis económica que produjo la pandemia, llevamos a cabo
-                                            relevamientos
-                                            periódicos para conocer la situación del sector pyme y proponer medidas para
-                                            su recuperación.
+                                            Elevamos propuestas de vanguardia sobre los ejes impositivo, tributario y
+                                            financiero al Gobierno nacional, alentando el consumo y generando alianzas,
+                                            en un momento histórico por su complejidad para la matriz productiva.
                                         </p>
                                     </div>
                                 </div>
@@ -204,11 +201,10 @@ include "header.html";
                                             INNOVACIÓN RESPONSABLE
                                         </h4>
                                         <p class="card-text">
-                                            Incorporamos el Premio Emprendedor Solidario COVID-19, con el objetivo de
-                                            promover proyectos
-                                            sustentables, valorando la solidaridad y el esfuerzo de los jóvenes que, en
-                                            circunstancias
-                                            tan complejas como las actuales, piensan en lo colectivo y en el bien común
+                                            Continuamos visibilizando la falta de colaboración del sector financiero
+                                            para con las pymes. “Ante la agonía de las pequeñas y medianas empresas, los
+                                            bancos no muestran ningún gesto solidario para salvaguardar al sector más
+                                            importante generador de empleo privado”, por Díaz Beltrán.
                                         </p>
                                     </div>
                                 </div>
@@ -225,16 +221,13 @@ include "header.html";
                     <div class="row justify-content-between">
 
                         <div class="col-lg-4 col-md-6 my-4">
-                            <i class="icon-shopping-cart1s color ml-0 mb-3 i-plain d-block float-none"></i>
-                            <h4 class="mb-3">Comercio</h4>
+                            <i class="icon-shopping-cart color ml-0 mb-3 i-plain d-block float-none"></i>
+                            <h4 class="mb-3">Comercio y Servicios</h4>
                             <p>
-                                Participamos de las comisiones de Comercio y de Finanzas de la Honorable Cámara de
-                                Diputados
-                                de la Nación Argentina impulsando la sanción de la Ley de Acreditación Inmediata de
-                                Pagos con Tarjetas
-                                de Débito,
-                                normativa busca desalentar el uso de efectivo, y brindar mayor liquidez al comercio
-                                pyme.
+                                Brindamos asistencia técnica con foco en los procesos de digitalización, incluyendo la
+                                integración de los formatos presenciales y digitales de los comercios. De esta manera,
+                                generamos recursos para afrontar los desafíos del contexto actual en los Centros
+                                Comerciales Abiertos de todo el país.
                             </p>
                         </div>
 
@@ -243,11 +236,8 @@ include "header.html";
                             <h4 class="mb-3">Industria</h4>
                             <p>
                                 Participamos en las reuniones mensuales de la Comisión Pymes del Ente Regulador del Gas
-                                (ENARGAS),
-                                transmitiendo
-                                la necesidad de reducir costos energéticos para las pymes, afectadas por la recesión que
-                                produjo la
-                                pandemia.
+                                (ENARGAS), transmitiendo la necesidad de reducir costos energéticos para las pymes,
+                                afectadas por la recesión que produjo la pandemia.
                             </p>
                         </div>
 
@@ -265,11 +255,9 @@ include "header.html";
                             <i class="icon-leaf color ml-0 mb-3 i-plain d-block float-none"></i>
                             <h4 class="mb-3">Economías Regionales</h4>
                             <p>
-                                Como miembro permanente de la CNTA y la CNEyDA, participamos de
-                                los debates paritarios, analizando el alcance de diversas inclemencias climáticas
-                                sufridas a lo largo y ancho del país. En los debates nuestra postura fue no permitir que
-                                durante la pospandemia sigan desapareciendo empresas, pudiendo así conservarse las
-                                fuentes de trabajo.
+                                Como miembro permanente de la CNTA, participamos de los debates paritarios y nuestra
+                                postura fue no permitir que durante la pospandemia sigan desapareciendo empresas,
+                                pudiendo así conservarse las fuentes de trabajo.
 
                             </p>
                         </div>
@@ -279,8 +267,8 @@ include "header.html";
                             <h4 class="mb-3">Turismo</h4>
                             <p>
                                 Presentamos un plan integral y federal de promoción y recuperación de la actividad,
-                                denominado “Las pymes turísticas y comerciales en un contexto de coyuntura,
-                                adaptación tecnológica y cambio social”.
+                                denominado “Las pymes turísticas y comerciales en un contexto de coyuntura, adaptación
+                                tecnológica y cambio social”.
                             </p>
                         </div>
 
@@ -321,10 +309,9 @@ include "header.html";
                             <h4 class="mb-3">Modernización</h4>
                             <p>
                                 En 2020 lanzamos CAME PAGOS, aplicación digital de gestión de pagos orientada a pymes
-                                que,
-                                durante el pasado año mejoró en su funcionalidad, integrándose con CAME TIENDAS,
-                                potenciando
-                                el ecosistema. Además, sumó nuevas tarjetas como TUYA, Naranja, CABAL y PLATA.
+                                que, durante el pasado año mejoró en su funcionalidad, integrándose con CAME TIENDAS,
+                                potenciando el ecosistema. Además, sumó nuevas tarjetas como TUYA, Naranja, CABAL y
+                                PLATA.
                             </p>
                         </div>
 
@@ -334,8 +321,131 @@ include "header.html";
 		============================================= -->
 
 
+                <!-- Cuadros flip
+		============================================= -->
+                <section id="content">
+                    <div class="content-wrap">
+                        <div class="container clearfix">
+                            <div class="heading-block border-bottom-0 center">
+
+                                <h2 class="nott font-weight-semibold">Conocé las principales gestiones institucionales
+                                    de 2020</h2>
+
+                            </div>
+
+                            <div class="row grid-container" data-layout="masonry" style="overflow: visible">
+
+                                <div class="col-lg-3">
+                                    <div class="flip-card text-center top-to-bottom">
+                                        <div class="flip-card-front dark" style="background-image: url('imgs/pandemia.jpg');      -webkit-filter: grayscale(35%) saturate(2);
+                                        filter: grayscale(35%) saturate(2);">
+                                            <div class="flip-card-inner">
+                                                <div class="card bg-transparent border-0 text-center">
+                                                    <div class="card-body">
+
+                                                        <h3 class="card-title">Propuestas en el escenario de la pandemia
+                                                        </h3>
+
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="flip-card-back" style="background-color:#1E8BC3">
+                                            <div class="flip-card-inner">
+                                                <p class="mb-2 text-white center">Propuestas en el escenario de la
+                                                    pandemia</p>
+                                                <button type="button" class="btn btn-outline-light mt-2">Ver
+                                                    más</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-3">
+                                    <div class="flip-card text-center top-to-bottom">
+                                        <div class="flip-card-front dark" style="background-image: url('imgs/tributaria.jpg');     -webkit-filter: grayscale(35%);
+                                        filter: grayscale(35%);">
+                                            <div class="flip-card-inner">
+                                                <div class="card bg-transparent border-0 text-center">
+                                                    <div class="card-body">
 
 
+                                                        <h3 class="card-title">Gestiones en materia tributaria</h3>
+
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="flip-card-back" style="background-color:#1E8BC3">
+                                            <div class="flip-card-inner">
+                                                <p class="mb-2 text-white center">Gestiones en materia tributaria</p>
+                                                <button type="button" class="btn btn-outline-light mt-2">Ver
+                                                    más</button>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+
+
+                                <div class="col-lg-3">
+                                    <div class="flip-card text-center top-to-bottom">
+                                        <div class="flip-card-front dark" style="background-image: url('imgs/consumo.jpg');     -webkit-filter: grayscale(35%);
+                                        filter: grayscale(35%);">
+                                            <div class="flip-card-inner">
+                                                <div class="card bg-transparent border-0">
+                                                    <div class="card-body">
+
+
+                                                        <h3 class="card-title mb-0">Promoción del consumo</h3>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="flip-card-back" style="background-color:#1E8BC3">
+                                            <div class="flip-card-inner">
+                                                <p class="mb-2 text-white center">Promoción del consumo</p>
+                                                <button type="button" class="btn btn-outline-light mt-2">Ver
+                                                    más</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-3">
+                                    <div class="flip-card text-center top-to-bottom">
+                                        <div class="flip-card-front dark" style="
+                                            background-image: url('imgs/paritaria_mercantil.jpg');
+                                            -webkit-filter: grayscale(35%) saturate(2);
+                                            filter: grayscale(35%) saturate(2);">
+                                            <div class="flip-card-inner">
+                                                <div class="card bg-transparent border-0">
+                                                    <div class="card-body">
+                                                        <h3 class="card-title mb-0">Paritaria Mercantil</h3>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="flip-card-back" style="background-color:#1E8BC3">
+                                            <div class="flip-card-inner">
+                                                <p class="mb-2 text-white center">Paritaria Mercantil</p>
+                                                <button type="button" class="btn btn-outline-light mt-2">Ver
+                                                    más</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- / Cuadros flip
+		============================================= -->
 
 
 
