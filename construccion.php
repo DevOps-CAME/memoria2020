@@ -64,7 +64,7 @@
                             <p class="text-muted">
                                 Con el propósito de que el Estado Nacional, a través del Ministerio de Trabajo, Empleo y
                                 Seguridad Social de la Nación, nos reconozca como co-representante del sector de la
-                                construcción y nos incluya definitivamente en la <bold class="color font-weight-medium">
+                                construcción y nos incluya definitivamente en la <bold>
                                     Mesa de la Construcción Nacional,</bold> en el mes de septiembre de 2020 presentamos
                                 un detallado documento argumentando esta solicitud ante la cartera de Trabajo, donde se
                                 gestiona su tratamiento, aceptación y resolución.
@@ -74,8 +74,8 @@
                         <div class="col-lg-6 col-md-4 my-4">
                             <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
                             <p class="text-muted">
-                                Convocados por la cartera que gestiona el área, nos incorporamos al <bold
-                                    class="color font-weight-medium">Observatorio de Obras Públicas de la Nación,</bold>
+                                Convocados por la cartera que gestiona el área, nos incorporamos al <bold>Observatorio
+                                    de Obras Públicas de la Nación,</bold>
                                 junto con universidades, cámaras, organizaciones y sindicatos, con el objetivo de
                                 monitorear y dotar de transparente a las contrataciones que lleva adelante el Estado.
 
@@ -84,7 +84,7 @@
                         <div class="col-lg-6 col-md-4 my-4">
                             <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
                             <p class="text-muted">
-                                Suscribimos un <bold class="color font-weight-medium">convenio con la Unión Obrera de la
+                                Suscribimos un <bold>convenio con la Unión Obrera de la
                                     Construcción de la República Argentina (UOCRA)</bold> a los efectos de inaugurar un
                                 espacio de diálogo conducente a mejorar las relaciones institucionales del sector, el
                                 cual contempla beneficios para las pymes constructoras.
@@ -92,7 +92,7 @@
                         <div class="col-lg-6 col-md-4 my-4">
                             <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
                             <p class="text-muted">
-                                Elevamos a las autoridades competentes una <bold class="color font-weight-medium">
+                                Elevamos a las autoridades competentes una <bold>
                                     propuesta sustentable de construcción de viviendas</bold> (con subsidios variables)
                                 dirigidos a la clase media mediante financiamiento público-privado. Este trabajo fue
                                 analizado por empresarios y dirigentes de diferentes regiones y se concluyó que podría
@@ -113,7 +113,7 @@
                             <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
                             <p class="text-muted">
                                 En el mes de enero de 2020, mantuvimos un encuentro con el ministro de Obras Públicas de
-                                la Nación, <bold class="color font-weight-medium">Dr. Gabriel Katopodis,</bold> en el
+                                la Nación, <bold>Dr. Gabriel Katopodis,</bold> en el
                                 que se mencionó a la obra pública como punta de lanza de la reactivación económica
                                 nacional.
 

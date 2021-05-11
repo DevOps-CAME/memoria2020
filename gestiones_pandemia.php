@@ -31,22 +31,81 @@
 		============================================= -->
                 <div id="section-about" class="center page-section col-lg-12 col-md-12 mt-5">
                     <div class="container clearfix">
-                        <div class="heading-block center sec_top">
-                            <h2>
-                                Encuentros estratégicos para fomentar la sinergia en el marco
-                                de la pandemia
-                            </h2>
+                        <div class="entry event col-12">
+                            <div class="grid-inner row align-items-center no-gutters p-4">
+
+
+                                <div class="col-md-12 pl-md-4">
+
+                                    <div class="col-md-7 imagen-nota p-4 float-left">
+                                        <a href="http://www.redcame.org.ar/novedades/7892/cheques-rechazados-y-apertura-regular-de-bancos-solicitamos-al-bcra-medidas-urgentes-para-las-pymes"
+                                            target="_blank">
+                                            <img src="imgs/2EncuentroConvergencia.jpg"
+                                                alt="II Encuentro Iberoamericano de Convergencia Empresarial" />
+                                            <!-- <div class="entry-date"><span>Marzo</span></div> -->
+                                        </a>
+                                    </div>
+                                    <div>
+                                        <p></br>
+                                            Dirigentes empresarios representantes de las cámaras del Norte argentino,
+                                            adheridas a la Confederación Argentina de la Mediana Empresa (CAME), junto
+                                            al presidente de la entidad, Gerardo Díaz Beltrán, se reunieron con el
+                                            presidente pro tempore del Consejo Regional del Norte Grande y gobernador
+                                            del Chaco, Jorge Capitanich, a fin de intercambiar propuestas vinculadas al
+                                            sector pyme regional.
+                                        </p>
+                                        <div class="clear"></div>
+
+                                        <div class="testimonial ml-4 mr-4 mb-5" style="border: 1px solid #0293d6;">
+
+                                            <div class="testi-content">
+                                                <div class="col-lg-3 col-md-6 col-sm-6" style="float: right;">
+                                                    <img src="imgs/GerardoDiazBeltran.jpg" alt="Gerardo Díaz Beltrán"
+                                                        style="border-radius: 5px;">
+                                                </div>
+                                                <p>Vemos con mucho entusiasmo esta alianza con los gobernadores de las
+                                                    10 provincias que conforman el Norte Grande, nos alienta a redoblar
+                                                    el trabajo empresario e impulsar la integración regional. Debemos
+                                                    colaborar y participar con aportes, ideas, trabajo y responsabilidad
+                                                    sabiendo las claras asimetrías que tiene esta zona respecto al resto
+                                                    del país. Estamos en un momento de inflexión para el mundo entero, y
+                                                    esto lo vemos como una gran oportunidad para, en conjunto y con la
+                                                    sinergia del sector público-privado, traccionar y buscar soluciones
+                                                    a los problemas estructurales que tenemos en Argentina hace muchos
+                                                    años</p>
+                                                <div class="testi-meta">
+                                                    Gerardo Díaz Beltrán
+                                                    <span>Presidente de la Confederación Argentina de la Mediana
+                                                        Empresa
+                                                        (CAME)</span>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="md-12">
+                                            <a href="http://www.redcame.org.ar/novedades/10367/historica-jornada-internacional-de-came-junto-a-adm-en-el-ii-encuentro-iberoamericano-de-convergencia-empresarial"
+                                                target="_blank" class="button text-right center">Ver más<i
+                                                    class="icon-circle-arrow-right"></i></a>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+                            </div>
                         </div>
-                        <div class="row">
-                            <div class="entry event col-12">
-                                <div class="grid-inner row align-items-center no-gutters p-4">
-                                    <div class="entry-image col-md-2 mb-md-0">
+                        <div id="posts" class="post-grid row grid-container gutter-40 clearfix has-init-isotope">
+
+
+
+                            <div class="entry col-md-4 col-sm-6 col-12">
+                                <div class="grid-inner">
+                                    <div class="entry-image">
                                         <a href="http://www.redcame.org.ar/novedades/9794/came-participo-de-la-reunion-la-cancilleria-como-promotora-de-las-exportaciones-argentinas"
                                             target="_blank">
                                             <img src="imgs/ejemplo.jpg" alt="" />
                                         </a>
                                     </div>
-                                    <div class="col-md-10 pl-md-4">
+                                    <div>
                                         <div>
                                             <p>
                                                 Participamos de la reunión de trabajo organizada por
@@ -60,22 +119,22 @@
                                                 medianas empresas argentinas.
                                             </p>
                                             <a href="http://www.redcame.org.ar/novedades/9794/came-participo-de-la-reunion-la-cancilleria-como-promotora-de-las-exportaciones-argentinas"
-                                                target="_blank" class="button button-xlarge text-right">Ver más<i
+                                                target="_blank" class="button text-right center btn-block">Ver más<i
                                                     class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="entry event col-12">
-                                <div class="grid-inner row align-items-center no-gutters p-4">
-                                    <div class="entry-image col-md-2 mb-md-0">
+                            <div class="entry col-md-4 col-sm-6 col-12">
+                                <div class="grid-inner">
+                                    <div class="entry-image">
                                         <a href="http://www.redcame.org.ar/novedades/10032/came-participo-de-la-mesa-sectorial-binacional"
                                             target="_blank">
                                             <img src="imgs/ejemplo.jpg" alt="" />
                                         </a>
                                     </div>
-                                    <div class="col-md-10 pl-md-4">
+                                    <div>
                                         <div>
                                             <p>
                                                 Se llevó adelante la Mesa Sectorial Binacional en el
@@ -94,22 +153,22 @@
                                                 flujo de bienes y servicios.
                                             </p>
                                             <a href="http://www.redcame.org.ar/novedades/10032/came-participo-de-la-mesa-sectorial-binacional"
-                                                target="_blank" class="button button-xlarge text-right">Ver más<i
+                                                target="_blank" class="button text-right center btn-block">Ver más<i
                                                     class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="entry event col-12">
-                                <div class="grid-inner row align-items-center no-gutters p-4">
-                                    <div class="entry-image col-md-2 mb-md-0">
+                            <div class="entry col-md-4 col-sm-6 col-12">
+                                <div class="grid-inner">
+                                    <div class="entry-image">
                                         <a href="http://www.redcame.org.ar/novedades/10279/came-se-reunio-con-uatre-para-analizar-medidas-que-beneficien-a-empresarios-y-trabajadores-rurales"
                                             target="_blank">
                                             <img src="imgs/UATRE-CAME.jpg" alt="" />
                                         </a>
                                     </div>
-                                    <div class="col-md-10 pl-md-4">
+                                    <div>
                                         <div>
                                             <p>
                                                 El secretario general de la Unión Argentina de
@@ -125,22 +184,22 @@
                                                 encuentra en niveles muy bajos.
                                             </p>
                                             <a href="http://www.redcame.org.ar/novedades/10279/came-se-reunio-con-uatre-para-analizar-medidas-que-beneficien-a-empresarios-y-trabajadores-rurales"
-                                                target="_blank" class="button button-xlarge text-right">Ver más<i
+                                                target="_blank" class="button text-right center btn-block">Ver más<i
                                                     class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="entry event col-12">
-                                <div class="grid-inner row align-items-center no-gutters p-4">
-                                    <div class="entry-image col-md-2 mb-md-0">
+                            <div class="entry col-md-4 col-sm-6 col-12">
+                                <div class="grid-inner">
+                                    <div class="entry-image">
                                         <a href="http://www.redcame.org.ar/novedades/10295/agustin-rossi-presento-en-came-el-fondo-nacional-de-la-defensa-fondef"
                                             target="_blank">
                                             <img src="imgs/FONDEF-CAME.png" alt="" />
                                         </a>
                                     </div>
-                                    <div class="col-md-10 pl-md-4">
+                                    <div>
                                         <div>
                                             <p>
                                                 El ministro de Defensa de la Nación, Agustín Rossi,
@@ -152,104 +211,45 @@
                                                 Díaz Beltrán.
                                             </p>
                                             <a href="http://www.redcame.org.ar/novedades/10295/agustin-rossi-presento-en-came-el-fondo-nacional-de-la-defensa-fondef"
-                                                target="_blank" class="button button-xlarge text-right">Ver más<i
+                                                target="_blank" class="button text-right center btn-block">Ver más<i
                                                     class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="entry event col-12">
-                                <div class="grid-inner row align-items-center no-gutters p-4">
-                                    <div class="entry-image col-md-2 mb-md-0">
+                            <div class="entry col-md-4 col-sm-6 col-12">
+                                <div class="grid-inner">
+                                    <div class="entry-image">
                                         <a href="http://www.redcame.org.ar/novedades/10316/nos-reunimos-con-la-secretaria-de-planificacion-para-trabajar-en-temas-de-movilidad-y-transporte"
                                             target="_blank">
                                             <img src="imgs/SecretariaPlanificacion-CAME.jpg" alt="" />
                                         </a>
                                     </div>
-                                    <div class="col-md-10 pl-md-4">
+                                    <div>
                                         <div>
                                             <p>
                                                 Nos reunimos con la Secretaría de Planificación para
                                                 trabajar en temas de movilidad y transporte
                                             </p>
                                             <a href="http://www.redcame.org.ar/novedades/10316/nos-reunimos-con-la-secretaria-de-planificacion-para-trabajar-en-temas-de-movilidad-y-transporte"
-                                                target="_blank" class="button button-xlarge text-right">Ver más<i
+                                                target="_blank" class="button text-right center btn-block">Ver más<i
                                                     class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="entry event col-12">
-                                <div class="grid-inner row align-items-center no-gutters p-4">
-                                    <div class="entry-image col-md-2 mb-md-0">
-                                        <a href="http://www.redcame.org.ar/novedades/10371/came-junto-a-capitanich-por-el-impulso-de-las-pymes-del-norte-grande"
-                                            target="_blank">
-                                            <img src="imgs/ejemplo.jpg" alt="" />
-                                        </a>
-                                    </div>
-                                    <div class="col-md-10 pl-md-4">
-                                        <div>
-                                            <p>
-                                                Dirigentes empresarios representantes de las cámaras
-                                                del Norte argentino, adheridas a la Confederación
-                                                Argentina de la Mediana Empresa (CAME), junto al
-                                                presidente de la entidad, Gerardo Díaz Beltrán, se
-                                                reunieron con el presidente pro tempore del Consejo
-                                                Regional del Norte Grande y gobernador del Chaco,
-                                                Jorge Capitanich, a fin de intercambiar propuestas
-                                                vinculadas al sector pyme regional.
-                                            </p>
-                                        </div>
-                                    </div>
-                                    <div class="testimonial ml-4 mr-4 mb-5 mt-4" style="border: 1px solid #0293d6;">
 
-                                        <div class="testi-content">
-                                            <div class="col-lg-3 col-md-6 col-sm-6" style="float: right;">
-                                                <img src="imgs/GerardoDiazBeltran.jpg" alt="Gerardo Díaz Beltrán"
-                                                    style="border-radius: 5px;">
-                                            </div>
-                                            <p>Vemos con mucho entusiasmo esta alianza con los
-                                                gobernadores de las 10 provincias que conforman el Norte
-                                                Grande, nos alienta a redoblar el trabajo empresario e
-                                                impulsar la integración regional. Debemos colaborar y
-                                                participar con aportes, ideas, trabajo y responsabilidad
-                                                sabiendo las claras asimetrías que tiene esta zona
-                                                respecto al resto del país. Estamos en un momento de
-                                                inflexión para el mundo entero, y esto lo vemos como una
-                                                gran oportunidad para, en conjunto y con la sinergia del
-                                                sector público-privado, traccionar y buscar soluciones a
-                                                los problemas estructurales que tenemos en Argentina
-                                                hace muchos años</p>
-                                            <div class="testi-meta">
-                                                Gerardo Díaz Beltrán
-                                                <span>Presidente de la Confederación Argentina de la Mediana
-                                                    Empresa
-                                                    (CAME)</span>
-                                            </div>
-                                        </div>
-                                    </div>
-
-
-                                    <div class="col-md-12">
-                                        <a href="http://www.redcame.org.ar/novedades/10371/came-junto-a-capitanich-por-el-impulso-de-las-pymes-del-norte-grande "
-                                            target="_blank" class="button button-xlarge text-right">Ver más<i
-                                                class="icon-circle-arrow-right"></i></a>
-
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="entry event col-12">
-                                <div class="grid-inner row align-items-center no-gutters p-4">
-                                    <div class="entry-image col-md-2 mb-md-0">
+                            <div class="entry col-md-4 col-sm-6 col-12">
+                                <div class="grid-inner">
+                                    <div class="entry-image">
                                         <a href="http://www.redcame.org.ar/novedades/10372/el-fmi-convoco-a-came-para-analizar-la-situacion-de-las-pymes-argentina"
                                             target="_blank">
                                             <img src="imgs/ejemplo.jpg" alt="" />
                                         </a>
                                     </div>
-                                    <div class="col-md-10 pl-md-4">
+                                    <div>
                                         <div>
                                             <p>
                                                 Dirigentes de la Confederación Argentina de la Mediana
@@ -262,7 +262,7 @@
                                                 organismo con el Gobierno nacional.
                                             </p>
                                             <a href="http://www.redcame.org.ar/novedades/10372/el-fmi-convoco-a-came-para-analizar-la-situacion-de-las-pymes-argentina"
-                                                target="_blank" class="button button-xlarge text-right">Ver más<i
+                                                target="_blank" class="button text-right center btn-block">Ver más<i
                                                     class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -348,7 +348,7 @@
 
                                             <div class="md-12">
                                                 <a href="http://www.redcame.org.ar/novedades/10367/historica-jornada-internacional-de-came-junto-a-adm-en-el-ii-encuentro-iberoamericano-de-convergencia-empresarial"
-                                                    target="_blank" class="button button-xlarge text-right">Ver más<i
+                                                    target="_blank" class="button text-right center ">Ver más<i
                                                         class="icon-circle-arrow-right"></i></a>
                                             </div>
 
@@ -357,6 +357,8 @@
                                     </div>
                                 </div>
                             </div>
+
+
                         </div>
                     </div>
                 </div>

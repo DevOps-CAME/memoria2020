@@ -31,9 +31,7 @@
 		============================================= -->
                 <div id="section-about" class="center page-section col-lg-12 col-md-12">
                     <div class="container clearfix">
-                        <div class="heading-block center sec_top">
-                            <h2>SELLO CAME SUSTENTABLE</h2>
-                        </div>
+
                         <h2 class="subtitulo">
                             Certificación de Triple Impacto para garantizar la seguridad alimentaria y ambiental
                         </h2>
@@ -69,7 +67,7 @@
                             año y medio de investigación,
                             se concretaron las auditorías piloto de la tercera parte, bajo la modalidad virtual. Así en
                             el mes de octubre,
-                            luego de meses de trabajo <bold class="color">se entregaron las dos primeras certificaciones
+                            luego de meses de trabajo <bold>se entregaron las dos primeras certificaciones
                                 del sello de Triple Impacto CAME Sustentable</bold> a
                             las pymes: Capilla del Señor (empresa láctea de Villa María, Córdoba) y El Desafío del
                             Inmigrante
@@ -87,7 +85,7 @@
 
 
                         <p class="lead mx-auto bottommargin">
-                            En febrero de 2021 presentamos esta certificación ante el Embajador <bold class="color">
+                            En febrero de 2021 presentamos esta certificación ante el Embajador <bold>
                                 Pablo Sívori</bold>, subsecretario de Promoción del Comercio e Inversiones del
                             Ministerio
                             de Relaciones Exteriores, Comercio Internacional y Culto, en una fructífera reunión con una

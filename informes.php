@@ -31,9 +31,7 @@
 		============================================= -->
                 <div class="center page-section col-lg-12 col-md-12">
                     <div class="container clearfix">
-                        <div class="heading-block center sec_top">
-                            <h2>Informes, estadísticas y comunicación</h2>
-                        </div>
+
 
                         <p class="lead mx-auto bottommargin">
                             Iniciado el Aislamiento Social, Preventivo y Obligatorio (ASPO)

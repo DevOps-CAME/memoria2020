@@ -153,7 +153,7 @@ include "header.html";
 
                             </div>
                             <div class="col-md-3 col-sm-6">
-                                <div class="card shadow-sm border-light">
+                                <div data-animate="fadeInUp" class="card shadow-sm border-light">
                                     <img src="demos/coworking/images/features/3.jpg" alt="Featured image 1"
                                         class="card-img-top" />
                                     <div class="card-body">
@@ -167,7 +167,7 @@ include "header.html";
                                     </div>
                                 </div>
 
-                                <div class="card shadow-sm border-light mt-4">
+                                <div data-animate="fadeInUp" data-delay="200" class="card shadow-sm border-light mt-4">
                                     <img src="demos/coworking/images/features/2.jpg" alt="Featured image 2"
                                         class="card-img-top" />
                                     <div class="card-body">
@@ -184,7 +184,7 @@ include "header.html";
                             </div>
 
                             <div class="col-md-3 col-sm-6 pl-sm-3 mt-3 mt-sm-0">
-                                <div class="card shadow-sm border-light">
+                                <div data-animate="fadeInUp" data-delay="200" class="card shadow-sm border-light">
                                     <img src="demos/coworking/images/features/1.jpg" alt="Featured image 3"
                                         class="card-img-top" />
                                     <div class="card-body">
@@ -197,7 +197,7 @@ include "header.html";
                                         </p>
                                     </div>
                                 </div>
-                                <div class="card shadow-sm border-light mt-4">
+                                <div data-animate="fadeInUp" data-delay="400" class="card shadow-sm border-light mt-4">
                                     <img src="demos/coworking/images/features/2.jpg" alt="Featured image 2"
                                         class="card-img-top" />
                                     <div class="card-body">
@@ -218,13 +218,17 @@ include "header.html";
 		============================================= -->
 
 
-                <div class="row section mt-0 mb-4 bg-transparent">
-                    <div class="col-lg-5 d-flex justify-content-center text-right">
-                        <h3>El 2020 nos trajo incertidumbre y angustia, pero también compromiso y solidaridad: nos
-                            reinventamos y seguimos adelante, apostando por el futuro y por Argentina.</h3>
+                <div class="row section mt-0 mb-4 bg-transparent d-flex align-items-center">
+                    <div class="col-lg-6 text-right">
+
+                        <h2 data-animate="fadeInUp">El 2020 nos trajo incertidumbre y angustia,</br>
+                            pero también compromiso y solidaridad:</h2>
+                        <h1 data-animate="fadeInUp" data-delay="200">nos
+                            reinventamos y seguimos adelante, apostando por el futuro y por Argentina.</h1>
                     </div>
-                    <div class="col-lg-7">
-                        <iframe src="https://player.vimeo.com/video/518728139" width="500" height="281"
+                    <div class="col-lg-6">
+                        <iframe data-animate="fadeInRight" data-delay="400"
+                            src="https://player.vimeo.com/video/518728139" width="500" height="281"
                             allow="autoplay; fullscreen" allowfullscreen></iframe>
 
                     </div>
@@ -232,106 +236,130 @@ include "header.html";
 
                 <!-- Cuadros de sectores 
 		============================================= -->
-                <div class="container">
-                    <div class="row justify-content-between">
 
-                        <div class="col-lg-4 col-md-6 my-4">
-                            <i class="icon-shopping-cart color ml-0 mb-3 i-plain d-block float-none"></i>
-                            <h4 class="mb-3">Comercio y Servicios</h4>
-                            <p>
-                                Brindamos asistencia técnica con foco en los procesos de digitalización, incluyendo la
-                                integración de los formatos presenciales y digitales de los comercios. De esta manera,
-                                generamos recursos para afrontar los desafíos del contexto actual en los Centros
-                                Comerciales Abiertos de todo el país.
-                            </p>
-                        </div>
+                <div class="content-wrap section m-0 p-0">
+                    <div class="container clearfix">
+                        <div class="row justify-content-between mt-4 mb-4">
 
-                        <div class="col-lg-4 col-md-6 my-4">
-                            <i class="icon-industry color ml-0 mb-3 i-plain d-block float-none"></i>
-                            <h4 class="mb-3">Industria</h4>
-                            <p>
-                                Participamos en las reuniones mensuales de la Comisión Pymes del Ente Regulador del Gas
-                                (ENARGAS), transmitiendo la necesidad de reducir costos energéticos para las pymes,
-                                afectadas por la recesión que produjo la pandemia.
-                            </p>
-                        </div>
+                            <div class="col-lg-4 col-md-6 my-4" data-animate="bounceInUp" data-delay="50">
+                                <i class="icon-shopping-cart color ml-0 mb-3 i-plain d-block float-none"></i>
+                                <h4 class="mb-3">Comercio y Servicios</h4>
+                                <p>
+                                    Brindamos asistencia técnica con foco en los procesos de digitalización,
+                                    incluyendo la
+                                    integración de los formatos presenciales y digitales de los comercios. De esta
+                                    manera,
+                                    generamos recursos para afrontar los desafíos del contexto actual en los Centros
+                                    Comerciales Abiertos de todo el país.
+                                </p>
+                            </div>
 
-                        <div class="col-lg-4 col-md-6 my-4">
-                            <i class="icon-people-arrows color ml-0 mb-3 i-plain d-block float-none"></i>
-                            <h4 class="mb-3">Parques Industriales</h4>
-                            <p>
-                                FAPI y RedParques acordaron el inicio de un trabajo conjunto con el objetivo de generar
-                                la agenda sectorial que fortalezca el sector de agrupamientos industriales, logísticos y
-                                tecnológicos de todo el país.
-                            </p>
-                        </div>
+                            <div class="col-lg-4 col-md-6 my-4" data-animate="bounceInUp" data-delay="100">
+                                <i class="icon-industry color ml-0 mb-3 i-plain d-block float-none"></i>
+                                <h4 class="mb-3">Industria</h4>
+                                <p>
+                                    Participamos en las reuniones mensuales de la Comisión Pymes del Ente Regulador
+                                    del Gas
+                                    (ENARGAS), transmitiendo la necesidad de reducir costos energéticos para las
+                                    pymes,
+                                    afectadas por la recesión que produjo la pandemia.
+                                </p>
+                            </div>
 
-                        <div class="col-lg-4 col-md-6 my-4">
-                            <i class="icon-leaf color ml-0 mb-3 i-plain d-block float-none"></i>
-                            <h4 class="mb-3">Economías Regionales</h4>
-                            <p>
-                                Como miembro permanente de la CNTA, participamos de los debates paritarios y nuestra
-                                postura fue no permitir que durante la pospandemia sigan desapareciendo empresas,
-                                pudiendo así conservarse las fuentes de trabajo.
+                            <div class="col-lg-4 col-md-6 my-4" data-animate="bounceInUp" data-delay="150">
+                                <i class="icon-people-arrows color ml-0 mb-3 i-plain d-block float-none"></i>
+                                <h4 class="mb-3">Parques Industriales</h4>
+                                <p>
+                                    FAPI y RedParques acordaron el inicio de un trabajo conjunto con el objetivo de
+                                    generar
+                                    la agenda sectorial que fortalezca el sector de agrupamientos industriales,
+                                    logísticos y
+                                    tecnológicos de todo el país.
+                                </p>
+                            </div>
 
-                            </p>
-                        </div>
+                            <div class="col-lg-4 col-md-6 my-4" data-animate="bounceInUp" data-delay="50">
+                                <i class="icon-leaf color ml-0 mb-3 i-plain d-block float-none"></i>
+                                <h4 class="mb-3">Economías Regionales</h4>
+                                <p>
+                                    Como miembro permanente de la CNTA, participamos de los debates paritarios y
+                                    nuestra
+                                    postura fue no permitir que durante la pospandemia sigan desapareciendo
+                                    empresas,
+                                    pudiendo así conservarse las fuentes de trabajo.
 
-                        <div class="col-lg-4 col-md-6 my-4">
-                            <i class="icon-plane1 color ml-0 mb-3 i-plain d-block float-none"></i>
-                            <h4 class="mb-3">Turismo</h4>
-                            <p>
-                                Presentamos un plan integral y federal de promoción y recuperación de la actividad,
-                                denominado “Las pymes turísticas y comerciales en un contexto de coyuntura, adaptación
-                                tecnológica y cambio social”.
-                            </p>
-                        </div>
+                                </p>
+                            </div>
 
-                        <div class="col-lg-4 col-md-6 my-4">
-                            <i class="icon-ship color ml-0 mb-3 i-plain d-block float-none"></i>
-                            <h4 class="mb-3">Construcción</h4>
-                            <p>
-                                Presentamos una propuesta sustentable y federal de construcción de viviendas dirigidos a
-                                la clase media mediante financiamiento público-privado, con la convicción de que
-                                resultará una herramienta clave en la dinamización del sector y en la disminución del
-                                déficit habitacional.
-                            </p>
-                        </div>
+                            <div class="col-lg-4 col-md-6 my-4" data-animate="bounceInUp" data-delay="100">
+                                <i class="icon-plane1 color ml-0 mb-3 i-plain d-block float-none"></i>
+                                <h4 class="mb-3">Turismo</h4>
+                                <p>
+                                    Presentamos un plan integral y federal de promoción y recuperación de la
+                                    actividad,
+                                    denominado “Las pymes turísticas y comerciales en un contexto de coyuntura,
+                                    adaptación
+                                    tecnológica y cambio social”.
+                                </p>
+                            </div>
 
-                        <div class="col-lg-4 col-md-6 my-4">
-                            <i class="icon-money-bill-wave-alt color ml-0 mb-3 i-plain d-block float-none"></i>
-                            <h4 class="mb-3">Jóvenes</h4>
-                            <p>
-                                Incorporamos el Premio Emprendedor Solidario COVID-19 con el objetivo de promover
-                                proyectos sustentables, valorando la solidaridad y el esfuerzo de los jóvenes que, en
-                                circunstancias complejas, piensan en lo colectivo y en el bien común.
-                            </p>
-                        </div>
+                            <div class="col-lg-4 col-md-6 my-4" data-animate="bounceInUp" data-delay="150">
+                                <i class="icon-ship color ml-0 mb-3 i-plain d-block float-none"></i>
+                                <h4 class="mb-3">Construcción</h4>
+                                <p>
+                                    Presentamos una propuesta sustentable y federal de construcción de viviendas
+                                    dirigidos a
+                                    la clase media mediante financiamiento público-privado, con la convicción de que
+                                    resultará una herramienta clave en la dinamización del sector y en la
+                                    disminución del
+                                    déficit habitacional.
+                                </p>
+                            </div>
 
-                        <div class="col-lg-4 col-md-6 my-4">
-                            <i class="icon-line2-user-female color ml-0 mb-3 i-plain d-block float-none"></i>
-                            <h4 class="mb-3">Mujeres</h4>
-                            <p>
-                                CAME adhirió a los Principios para el Empoderamiento de la Mujer (WEP’s),
-                                convirtiéndonos en la primera entidad gremial empresaria del país en sumarse a esta
-                                iniciativa internacional que propone generar oportunidades de desarrollo para las
-                                mujeres dentro de las empresas y entidades públicas y privadas.
-                            </p>
-                        </div>
+                            <div class="col-lg-4 col-md-6 my-4" data-animate="bounceInUp" data-delay="50">
+                                <i class="icon-money-bill-wave-alt color ml-0 mb-3 i-plain d-block float-none"></i>
+                                <h4 class="mb-3">Jóvenes</h4>
+                                <p>
+                                    Incorporamos el Premio Emprendedor Solidario COVID-19 con el objetivo de
+                                    promover
+                                    proyectos sustentables, valorando la solidaridad y el esfuerzo de los jóvenes
+                                    que, en
+                                    circunstancias complejas, piensan en lo colectivo y en el bien común.
+                                </p>
+                            </div>
 
-                        <div class="col-lg-4 col-md-6 my-4">
-                            <i class="icon-wifi-full color ml-0 mb-4 i-plain d-block float-none"></i>
-                            <h4 class="mb-3">Modernización</h4>
-                            <p>
-                                En 2020 lanzamos CAME PAGOS, aplicación digital de gestión de pagos orientada a pymes
-                                que, durante el pasado año mejoró en su funcionalidad, integrándose con CAME TIENDAS,
-                                potenciando el ecosistema. Además, sumó nuevas tarjetas como TUYA, Naranja, CABAL y
-                                PLATA.
-                            </p>
+                            <div class="col-lg-4 col-md-6 my-4" data-animate="bounceInUp" data-delay="100">
+                                <i class="icon-line2-user-female color ml-0 mb-3 i-plain d-block float-none"></i>
+                                <h4 class="mb-3">Mujeres</h4>
+                                <p>
+                                    CAME adhirió a los Principios para el Empoderamiento de la Mujer (WEP’s),
+                                    convirtiéndonos en la primera entidad gremial empresaria del país en sumarse a
+                                    esta
+                                    iniciativa internacional que propone generar oportunidades de desarrollo para
+                                    las
+                                    mujeres dentro de las empresas y entidades públicas y privadas.
+                                </p>
+                            </div>
+
+                            <div class="col-lg-4 col-md-6 my-4" data-animate="bounceInUp" data-delay="150">
+                                <i class="icon-wifi-full color ml-0 mb-4 i-plain d-block float-none"></i>
+                                <h4 class="mb-3">Modernización</h4>
+                                <p>
+                                    En 2020 lanzamos CAME PAGOS, aplicación digital de gestión de pagos orientada a
+                                    pymes
+                                    que, durante el pasado año mejoró en su funcionalidad, integrándose con CAME
+                                    TIENDAS,
+                                    potenciando el ecosistema. Además, sumó nuevas tarjetas como TUYA, Naranja,
+                                    CABAL y
+                                    PLATA.
+                                </p>
+                            </div>
+
                         </div>
 
                     </div>
                 </div>
+
                 <!-- / Cuadros de sectores 
 		============================================= -->
                 <?php include "mision_vision_valores.php" ?>
@@ -341,7 +369,7 @@ include "header.html";
 
                 <!-- Cuadros flip
 		============================================= -->
-                <section id="content">
+                <section>
                     <div class="content-wrap">
                         <div class="container clearfix">
                             <div class="heading-block border-bottom-0 center">
@@ -353,7 +381,7 @@ include "header.html";
 
                             <div class="row grid-container" data-layout="masonry" style="overflow: visible">
 
-                                <div class="col-lg-3">
+                                <div class="col-lg-3" data-animate="flipInX" data-delay="50">
                                     <div class="flip-card text-center top-to-bottom">
                                         <div class="flip-card-front dark" style="background-image: url('imgs/pandemia.jpg');      -webkit-filter: grayscale(35%) saturate(2);
                                         filter: grayscale(35%) saturate(2);">
@@ -379,7 +407,7 @@ include "header.html";
                                     </div>
                                 </div>
 
-                                <div class="col-lg-3">
+                                <div class="col-lg-3" data-animate="flipInX" data-delay="100">
                                     <div class="flip-card text-center top-to-bottom">
                                         <div class="flip-card-front dark" style="background-image: url('imgs/tributaria.jpg');     -webkit-filter: grayscale(35%);
                                         filter: grayscale(35%);">
@@ -408,7 +436,7 @@ include "header.html";
 
 
 
-                                <div class="col-lg-3">
+                                <div class="col-lg-3" data-animate="flipInX" data-delay="150">
                                     <div class="flip-card text-center top-to-bottom">
                                         <div class="flip-card-front dark" style="background-image: url('imgs/consumo.jpg');     -webkit-filter: grayscale(35%);
                                         filter: grayscale(35%);">
@@ -432,7 +460,7 @@ include "header.html";
                                     </div>
                                 </div>
 
-                                <div class="col-lg-3">
+                                <div class="col-lg-3" data-animate="flipInX" data-delay="200">
                                     <div class="flip-card text-center top-to-bottom">
                                         <div class="flip-card-front dark" style="
                                             background-image: url('imgs/paritaria_mercantil.jpg');

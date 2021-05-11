@@ -31,9 +31,7 @@
 		============================================= -->
                 <div id="section-about" class="center page-section col-lg-12 col-md-12">
                     <div class="container clearfix">
-                        <div class="heading-block center sec_top">
-                            <h2>Adhesión de CAME a los Principios para el Empoderamiento de la Mujer</h2>
-                        </div>
+
                         <h2 class="subtitulo">
                             Plan de acción de igualdad de género aprobado por ONU Mujeres
                         </h2>

@@ -29,18 +29,14 @@
 
                 <!-- Contenido
 		============================================= -->
-                <div id="section-about" class="center page-section col-lg-12 col-md-12 m-5">
+                <div class="center page-section col-lg-12 col-md-12 m-5">
                     <div class="container clearfix">
-                        <div class="heading-block center sec_top">
-                            <h2>
-                                CAME contra la especulación financiera en el marco de la
-                                pandemia
-                            </h2>
-                        </div>
-                        <div class="row">
-                            <div class="entry event col-12">
-                                <div class="grid-inner row align-items-center no-gutters p-4">
-                                    <div class="entry-image col-md-2 mb-md-0">
+
+                        <div id="posts" class="post-grid row grid-container gutter-40 has-init-isotope">
+
+                            <div class="entry col-md-4 col-sm-6 col-12">
+                                <div class="grid-inner">
+                                    <div class="entry-image">
                                         <a href="http://www.redcame.org.ar/novedades/7985/came-pide-reperfilar-deudas-de-las-pymes-con-los-bancos"
                                             target="_blank">
                                             <img src="imgs/reperfilar_deudas.jpg"
@@ -48,15 +44,15 @@
                                             <!-- <div class="entry-date"><span>Marzo</span></div> -->
                                         </a>
                                     </div>
-                                    <div class="col-md-10 pl-md-4">
-                                        <div class="entry-title title-sm">
+                                    <div>
+                                        <div class="entry-title">
                                             <h2>
                                                 <a href="http://www.redcame.org.ar/novedades/7985/came-pide-reperfilar-deudas-de-las-pymes-con-los-bancos"
                                                     target="_blank">CAME PIDE REPERFILAR DEUDAS DE LAS PYMES CON LOS
                                                     BANCOS</a>
                                             </h2>
                                         </div>
-                                        <div class="entry-content">
+                                        <div>
                                             <p>
                                                 En un contexto donde muy pocos negocios están dando
                                                 rentabilidad que permita afrontar semejantes costos,
@@ -65,16 +61,16 @@
                                                 esas deudas.
                                             </p>
                                             <a href="http://www.redcame.org.ar/novedades/7985/came-pide-reperfilar-deudas-de-las-pymes-con-los-bancos"
-                                                target="_blank" class="button button-xlarge text-right">Ver más<i
+                                                target="_blank" class="button text-right center btn-block">Ver más<i
                                                     class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="entry event col-12">
-                                <div class="grid-inner row align-items-center no-gutters p-4">
-                                    <div class="entry-image col-md-2 mb-md-0">
+                            <div class="entry col-md-4 col-sm-6 col-12">
+                                <div class="grid-inner">
+                                    <div class="entry-image">
                                         <a href="http://www.redcame.org.ar/novedades/7955/came-le-envi-una-carta-al-bcra-con-una-propuesta-para-priorizar-el-abastecimiento-de-artculos-de-primera-necesidad"
                                             target="_blank">
                                             <img src="imgs/carta_bcra.jpg"
@@ -82,8 +78,8 @@
                                             <!-- <div class="entry-date"><span>Marzo</span></div> -->
                                         </a>
                                     </div>
-                                    <div class="col-md-10 pl-md-4">
-                                        <div class="entry-title title-sm">
+                                    <div>
+                                        <div class="entry-title">
                                             <h2>
                                                 <a href="http://www.redcame.org.ar/novedades/7955/came-le-envi-una-carta-al-bcra-con-una-propuesta-para-priorizar-el-abastecimiento-de-artculos-de-primera-necesidad"
                                                     target="_blank">CAME LE ENVIÓ UNA CARTA AL BCRA CON UNA PROPUESTA
@@ -91,7 +87,7 @@
                                                     PRIMERA NECESIDAD</a>
                                             </h2>
                                         </div>
-                                        <div class="entry-content">
+                                        <div>
                                             <p>
                                                 Esta propuesta, acercada desde la entidad, tuvo como
                                                 objetivo contribuir con la continuidad de la cadena de
@@ -100,16 +96,16 @@
                                                 de pymes en todo el territorio.
                                             </p>
                                             <a href="http://www.redcame.org.ar/novedades/7955/came-le-envi-una-carta-al-bcra-con-una-propuesta-para-priorizar-el-abastecimiento-de-artculos-de-primera-necesidad"
-                                                target="_blank" class="button button-xlarge text-right">Ver más<i
+                                                target="_blank" class="button text-right center btn-block">Ver más<i
                                                     class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="entry event col-12">
-                                <div class="grid-inner row align-items-center no-gutters p-4">
-                                    <div class="entry-image col-md-2 mb-md-0">
+                            <div class="entry col-md-4 col-sm-6 col-12">
+                                <div class="grid-inner">
+                                    <div class="entry-image">
                                         <a href="http://www.redcame.org.ar/novedades/7952/reflejando-el-pedido-de-came-y-sus-entidades-el-bcra-anunci-crditos-y-flexibilizacin-para-deudores"
                                             target="_blank">
                                             <img src="imgs/bcra_creditos.jpg"
@@ -117,8 +113,8 @@
                                             <!-- <div class="entry-date"><span>Marzo</span></div> -->
                                         </a>
                                     </div>
-                                    <div class="col-md-10 pl-md-4">
-                                        <div class="entry-title title-sm">
+                                    <div>
+                                        <div class="entry-title">
                                             <h2>
                                                 <a href="http://www.redcame.org.ar/novedades/7952/reflejando-el-pedido-de-came-y-sus-entidades-el-bcra-anunci-crditos-y-flexibilizacin-para-deudores"
                                                     target="_blank">REFLEJANDO EL PEDIDO DE CAME Y SUS ENTIDADES, EL
@@ -126,7 +122,7 @@
                                                     DEUDORES</a>
                                             </h2>
                                         </div>
-                                        <div class="entry-content">
+                                        <div>
                                             <p>
                                                 Desde la Confederación Argentina de la Mediana Empresa
                                                 (CAME) informamos que el Banco Central de la República
@@ -137,16 +133,16 @@
                                                 pandemia del coronavirus.
                                             </p>
                                             <a href="http://www.redcame.org.ar/novedades/7952/reflejando-el-pedido-de-came-y-sus-entidades-el-bcra-anunci-crditos-y-flexibilizacin-para-deudores"
-                                                target="_blank" class="button button-xlarge text-right">Ver más<i
+                                                target="_blank" class="button text-right center btn-block">Ver más<i
                                                     class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="entry event col-12">
-                                <div class="grid-inner row align-items-center no-gutters p-4">
-                                    <div class="entry-image col-md-2 mb-md-0">
+                            <div class="entry col-md-4 col-sm-6 col-12">
+                                <div class="grid-inner">
+                                    <div class="entry-image">
                                         <a href="http://www.redcame.org.ar/novedades/7945/solicitamos-al-bcra-que-disponga-una-tasa-0-para-saldos-deudores"
                                             target="_blank">
                                             <img src="imgs/bcra_tasa0.jpg"
@@ -155,15 +151,15 @@
                                         </a>
                                     </div>
 
-                                    <div class="col-md-10 pl-md-4">
-                                        <div class="entry-title title-sm">
+                                    <div>
+                                        <div class="entry-title">
                                             <h2>
                                                 <a href="http://www.redcame.org.ar/novedades/7945/solicitamos-al-bcra-que-disponga-una-tasa-0-para-saldos-deudores"
                                                     target="_blank">SOLICITAMOS AL BCRA QUE DISPONGA UNA TASA 0% PARA
                                                     SALDOS DEUDORES</a>
                                             </h2>
                                         </div>
-                                        <div class="entry-content">
+                                        <div>
                                             <p>
                                                 Solicitamos que las entidades financieras y no
                                                 financieras apliquen una tasa 0% a los saldos deudores
@@ -175,16 +171,16 @@
                                                 pequeñas y medianas empresas.
                                             </p>
                                             <a href="http://www.redcame.org.ar/novedades/7945/solicitamos-al-bcra-que-disponga-una-tasa-0-para-saldos-deudores"
-                                                target="_blank" class="button button-xlarge text-right">Ver más<i
+                                                target="_blank" class="button text-right center btn-block">Ver más<i
                                                     class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="entry event col-12">
-                                <div class="grid-inner row align-items-center no-gutters p-4">
-                                    <div class="entry-image col-md-2 mb-md-0">
+                            <div class="entry col-md-4 col-sm-6 col-12">
+                                <div class="grid-inner">
+                                    <div class="entry-image">
                                         <a href="http://www.redcame.org.ar/novedades/7935/came-envi-una-carta-al-bcra-solicitando-regular-la-apertura-del-clearing-bancario"
                                             target="_blank">
                                             <img src="imgs/bcra_clearing.jpg"
@@ -193,15 +189,15 @@
                                         </a>
                                     </div>
 
-                                    <div class="col-md-10 pl-md-4">
-                                        <div class="entry-title title-sm">
+                                    <div>
+                                        <div class="entry-title">
                                             <h2>
                                                 <a href="http://www.redcame.org.ar/novedades/7935/came-envi-una-carta-al-bcra-solicitando-regular-la-apertura-del-clearing-bancario"
                                                     target="_blank">CAME ENVIÓ UNA CARTA AL BCRA SOLICITANDO REGULAR LA
                                                     APERTURA DEL <em>CLEARING</em> BANCARIO</a>
                                             </h2>
                                         </div>
-                                        <div class="entry-content">
+                                        <div>
                                             <p>
                                                 Solicitamos la regulación del
                                                 <em>clearing</em> bancario para frenar el cimbronazo
@@ -209,23 +205,23 @@
                                                 sobre todo.
                                             </p>
                                             <a href="http://www.redcame.org.ar/novedades/7935/came-envi-una-carta-al-bcra-solicitando-regular-la-apertura-del-clearing-bancario"
-                                                target="_blank" class="button button-xlarge text-right">Ver más<i
+                                                target="_blank" class="button text-right center btn-block">Ver más<i
                                                     class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="entry event col-12">
-                                <div class="grid-inner row align-items-center no-gutters p-4">
-                                    <div class="entry-image col-md-2 mb-md-0">
+                            <div class="entry col-md-4 col-sm-6 col-12">
+                                <div class="grid-inner">
+                                    <div class="entry-image">
                                         <a href="http://www.redcame.org.ar/novedades/7914/nueva-gestin-de-came-el-bcra-extendi-los-plazos-de-presentacin-de-cheques-y-elimin-comisiones"
                                             target="_blank"><img src="imgs/bcra_plazos.jpg"
                                                 alt="NUEVA GESTIÓN DE CAME: EL BCRA EXTENDIÓ LOS PLAZOS DE PRESENTACIÓN DE CHEQUES Y ELIMINÓ COMISIONES" /></a>
                                     </div>
 
-                                    <div class="col-md-10 pl-md-4">
-                                        <div class="entry-title title-sm">
+                                    <div>
+                                        <div class="entry-title">
                                             <a href="http://www.redcame.org.ar/novedades/7914/nueva-gestin-de-came-el-bcra-extendi-los-plazos-de-presentacin-de-cheques-y-elimin-comisiones"
                                                 target="_blank">
                                                 <h2>
@@ -252,7 +248,7 @@
                                                 Pagos - Cheques y Otros Instrumentos Compensables".
                                             </p>
                                             <a href="http://www.redcame.org.ar/novedades/7914/nueva-gestin-de-came-el-bcra-extendi-los-plazos-de-presentacin-de-cheques-y-elimin-comisiones"
-                                                target="_blank" class="button button-xlarge text-right">Ver más<i
+                                                target="_blank" class="button text-right center btn-block">Ver más<i
                                                     class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -261,8 +257,8 @@
 
                             <div class="entry event col-12">
                                 <div class="grid-inner row align-items-center no-gutters p-4">
-                                    <div class="col-md-10 pl-md-4">
-                                        <div class="entry-title title-sm">
+                                    <div>
+                                        <div class="entry-title">
                                             <h2>
                                                 <a href="http://www.redcame.org.ar/novedades/8026/la-falta-de-colaboracin-de-los-bancos-est-matando-a-las-pymes"
                                                     target="_blank">LA FALTA DE COLABORACIÓN DE LOS BANCOS ESTÁ MATANDO
@@ -306,7 +302,7 @@
                                     <div class="col-md-8 pl-md-4">
 
                                         <div>
-                                            <div class="entry-title title-sm">
+                                            <div class="entry-title">
                                                 <h2> CAME exigió al BCRA:
                                                 </h2>
                                             </div>
@@ -337,9 +333,9 @@
                                 </div>
                             </div>
 
-                            <div class="entry event col-12">
-                                <div class="grid-inner row align-items-center no-gutters p-4">
-                                    <div class="entry-image col-md-2 mb-md-0">
+                            <div class="entry col-md-4 col-sm-6 col-12">
+                                <div class="grid-inner">
+                                    <div class="entry-image">
                                         <a href="http://www.redcame.org.ar/novedades/7892/cheques-rechazados-y-apertura-regular-de-bancos-solicitamos-al-bcra-medidas-urgentes-para-las-pymes"
                                             target="_blank">
                                             <img src="imgs/bcra_cheques_rechazados.jpg"
@@ -348,8 +344,8 @@
                                         </a>
                                     </div>
 
-                                    <div class="col-md-10 pl-md-4">
-                                        <div class="entry-title title-sm">
+                                    <div>
+                                        <div class="entry-title">
                                             <h2>
                                                 <a href="http://www.redcame.org.ar/novedades/7892/cheques-rechazados-y-apertura-regular-de-bancos-solicitamos-al-bcra-medidas-urgentes-para-las-pymes"
                                                     target="_blank">CHEQUES RECHAZADOS Y APERTURA REGULAR DE BANCOS:
@@ -357,7 +353,7 @@
                                                     PYMES</a>
                                             </h2>
                                         </div>
-                                        <div class="entry-content">
+                                        <div>
                                             <p>
                                                 Desde la Confederación Argentina de la Mediana Empresa
                                                 (CAME) enviamos dos misivas al titular del Banco
@@ -373,16 +369,16 @@
                                                 durante el aislamiento obligatorio.
                                             </p>
                                             <a href="http://www.redcame.org.ar/novedades/7892/cheques-rechazados-y-apertura-regular-de-bancos-solicitamos-al-bcra-medidas-urgentes-para-las-pymes"
-                                                target="_blank" class="button button-xlarge text-right">Ver más<i
+                                                target="_blank" class="button text-right center btn-block">Ver más<i
                                                     class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="entry event col-12">
-                                <div class="grid-inner row align-items-center no-gutters p-4">
-                                    <div class="entry-image col-md-2 mb-md-0">
+                            <div class="entry col-md-4 col-sm-6 col-12">
+                                <div class="grid-inner">
+                                    <div class="entry-image">
                                         <a href="http://www.redcame.org.ar/novedades/7880/solicitamos-a-agencias-de-antecedentes-comerciales-y-crediticios-que-no-publiquen-cheques-rechazados-durante-el-aislamiento"
                                             target="_blank">
                                             <img src="imgs/bcra_misivas.jpg" alt="" />
@@ -390,13 +386,13 @@
                                         </a>
                                     </div>
 
-                                    <div class="col-md-10 pl-md-4">
-                                        <!--     <div class="entry-title title-sm">
+                                    <div>
+                                        <!--     <div class="entry-title">
                                             <h2>
                                                 <a href="http://www.redcame.org.ar/novedades/7892/cheques-rechazados-y-apertura-regular-de-bancos-solicitamos-al-bcra-medidas-urgentes-para-las-pymes" target="_blank">CHEQUES RECHAZADOS Y APERTURA REGULAR DE BANCOS: SOLICITAMOS AL BCRA MEDIDAS URGENTES PARA LAS PYMES</a>
                                             </h2>
                                         </div> -->
-                                        <div class="entry-content">
+                                        <div>
                                             <p>
                                                 Desde la Confederación Argentina de la Mediana Empresa
                                                 (CAME) enviamos dos misivas a los directores de las
@@ -408,16 +404,16 @@
                                                 social, preventivo y obligatorio.
                                             </p>
                                             <a href="http://www.redcame.org.ar/novedades/7880/solicitamos-a-agencias-de-antecedentes-comerciales-y-crediticios-que-no-publiquen-cheques-rechazados-durante-el-aislamiento"
-                                                target="_blank" class="button button-xlarge text-right">Ver más<i
+                                                target="_blank" class="button text-right center btn-block">Ver más<i
                                                     class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="entry event col-12">
-                                <div class="grid-inner row align-items-center no-gutters p-4">
-                                    <div class="entry-image col-md-2 mb-md-0">
+                            <div class="entry col-md-4 col-sm-6 col-12">
+                                <div class="grid-inner">
+                                    <div class="entry-image">
                                         <a href="http:\www.redcame.org.ar\novedades\7886\solicitamos-al-bcra-el-acompaamiento-de-los-bancos-para-el-pago-de-salarios-de-abril"
                                             target="_blank">
                                             <img src="imgs/bcra_acompanamiento.jpg"
@@ -426,15 +422,15 @@
                                         </a>
                                     </div>
 
-                                    <div class="col-md-10 pl-md-4">
-                                        <div class="entry-title title-sm">
+                                    <div>
+                                        <div class="entry-title">
                                             <h2>
                                                 <a href="http:\www.redcame.org.ar\novedades\7886\solicitamos-al-bcra-el-acompaamiento-de-los-bancos-para-el-pago-de-salarios-de-abril"
                                                     target="_blank">SOLICITAMOS AL BCRA EL ACOMPAÑAMIENTO DE LOS BANCOS
                                                     PARA EL PAGO DE SALARIOS DE ABRIL</a>
                                             </h2>
                                         </div>
-                                        <div class="entry-content">
+                                        <div>
                                             <p>
                                                 Solicitamos el urgente acompañamiento de las entidades
                                                 bancarias públicas y privadas a las más de 600.000
@@ -442,16 +438,16 @@
                                                 salarios del mes de abril.
                                             </p>
                                             <a href="http:\www.redcame.org.ar\novedades\7886\solicitamos-al-bcra-el-acompaamiento-de-los-bancos-para-el-pago-de-salarios-de-abril"
-                                                target="_blank" class="button button-xlarge text-right">Ver más<i
+                                                target="_blank" class="button text-right center btn-block">Ver más<i
                                                     class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="entry event col-12">
-                                <div class="grid-inner row align-items-center no-gutters p-4">
-                                    <div class="entry-image col-md-2 mb-md-0">
+                            <div class="entry col-md-4 col-sm-6 col-12">
+                                <div class="grid-inner">
+                                    <div class="entry-image">
                                         <a href="http://www.redcame.org.ar/novedades/7860/solicitamos-al-bcra-que-no-publique-los-cheques-rechazados-durante-el-aislamiento"
                                             target="_blank">
                                             <img src="imgs/bcra_no_cheques_rechazados.jpg"
@@ -460,15 +456,15 @@
                                         </a>
                                     </div>
 
-                                    <div class="col-md-10 pl-md-4">
-                                        <div class="entry-title title-sm">
+                                    <div>
+                                        <div class="entry-title">
                                             <h2>
                                                 <a href="http://www.redcame.org.ar/novedades/7860/solicitamos-al-bcra-que-no-publique-los-cheques-rechazados-durante-el-aislamiento"
                                                     target="_blank">SOLICITAMOS AL BCRA QUE NO PUBLIQUE LOS CHEQUES
                                                     RECHAZADOS DURANTE EL AISLAMIENTO</a>
                                             </h2>
                                         </div>
-                                        <div class="entry-content">
+                                        <div>
                                             <p>
                                                 Solicitamos que se abstengan de publicar e incorporar
                                                 en sus registros la información de cheques rechazados,
@@ -483,16 +479,16 @@
                                                 a las pymes.
                                             </p>
                                             <a href="http://www.redcame.org.ar/novedades/7860/solicitamos-al-bcra-que-no-publique-los-cheques-rechazados-durante-el-aislamiento"
-                                                target="_blank" class="button button-xlarge text-right">Ver más<i
+                                                target="_blank" class="button text-right center btn-block">Ver más<i
                                                     class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="entry event col-12">
-                                <div class="grid-inner row align-items-center no-gutters p-4">
-                                    <div class="entry-image col-md-2 mb-md-0">
+                            <div class="entry col-md-4 col-sm-6 col-12">
+                                <div class="grid-inner">
+                                    <div class="entry-image">
                                         <a href="http://www.redcame.org.ar/novedades/7859/le-solicitamos-a-pesce-el-tratamiento-urgente-de-los-cheques-en-curso-y-la-abstencin-de-penalidades"
                                             target="_blank">
                                             <img src="imgs/bcra_pesce.jpg"
@@ -501,8 +497,8 @@
                                         </a>
                                     </div>
 
-                                    <div class="col-md-10 pl-md-4">
-                                        <div class="entry-title title-sm">
+                                    <div>
+                                        <div class="entry-title">
                                             <h2>
                                                 <a href="http://www.redcame.org.ar/novedades/7859/le-solicitamos-a-pesce-el-tratamiento-urgente-de-los-cheques-en-curso-y-la-abstencin-de-penalidades"
                                                     target="_blank">LE SOLICITAMOS A PESCE EL TRATAMIENTO URGENTE DE
@@ -510,7 +506,7 @@
                                                     PENALIDADES</a>
                                             </h2>
                                         </div>
-                                        <div class="entry-content">
+                                        <div>
                                             <p>
                                                 Solicitamos el urgente y especial tratamiento del
                                                 volumen de cheques en curso dentro del sistema
@@ -522,7 +518,7 @@
                                                 próximos seis meses.
                                             </p>
                                             <a href="http://www.redcame.org.ar/novedades/7859/le-solicitamos-a-pesce-el-tratamiento-urgente-de-los-cheques-en-curso-y-la-abstencin-de-penalidades"
-                                                target="_blank" class="button button-xlarge text-right">Ver más<i
+                                                target="_blank" class="button text-right center btn-block">Ver más<i
                                                     class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>

@@ -51,10 +51,10 @@
                             financieros de la actividad.<br>
                             Con el mismo espíritu, solicitamos a la Secretaría de Energía de la Nación la reducción de
                             los costos energéticos para comercios e industrias, atendiendo la situación de emergencia.
-                            Esta gestión llevó al sector Industrial de CAME a integrarse a la <bold class="color">
+                            Esta gestión llevó al sector Industrial de CAME a integrarse a la <bold>
                                 Comisión Pymes de ENARGAS,</bold> asistiendo a las reuniones mensuales.<br>
 
-                            Durante este especial período, también, se creó la <bold class="color">Comisión de Minería
+                            Durante este especial período, también, se creó la <bold>Comisión de Minería
                             </bold> del Sector Industrial, que se propone elaborar un Manual de Procedimientos, así como
                             un completo análisis de aspectos de la actividad como: la competitividad de la cadena de
                             valor minera, la posibilidad de sustitución de importaciones, el registro de proveedores
@@ -194,18 +194,18 @@
 
                 <div class="container clearfix">
 
-                    <p class="lead mx-auto bottommargin">Asimismo, el sector participó en <bold class="color">eventos
+                    <p class="lead mx-auto bottommargin">Asimismo, el sector participó en <bold>eventos
                             virtuales</bold> afines a la actividad, entre los que se destacan el webinar “Economía
                         circular, energía y residuos: desafíos para la nueva década"; la videoconferencia de UADA "¿Cómo
                         actuar ante un caso de COVID-19 en mi empresa?”; y la Convención CEMA 2020.
 
                         Por su parte la Comisión de Ambiente del Sector Industrial, realizó 12 encuentros a lo largo del
-                        año, y mantuvo una <bold class="color">audiencia virtual con el Ministerio de Ambiente y
+                        año, y mantuvo una <bold>audiencia virtual con el Ministerio de Ambiente y
                             Desarrollo Sostenible de la Nación,</bold> Sr. Juan Cabandié, en la que abordamos
                         inquietudes vinculadas a los residuos industriales, entre otros temas relacionados con la
                         industria pyme y el ambiente.
 
-                        Como proyecto especial, trabajamos durante el 2020 en una <bold class="color">Zonificación del
+                        Como proyecto especial, trabajamos durante el 2020 en una <bold>Zonificación del
                             sector industrial</bold> en todo el país. Esta agrupación se generó pensando en la
                         producción y las distintas problemáticas de cada rubro. A su vez, se resolvió designar
                         referentes zonales para atender con mayores herramientas sus necesidades, hacer un mejor

@@ -239,9 +239,6 @@ div.alignleft {
 }
 
 .breadcrumbs {
-  font-size: 0.9rem;
-  font-style: italic;
-  text-align: right;
   background-color: #bdcff7;
   padding: 0.5rem 0rem 0.5rem 0rem;
 }
@@ -249,4 +246,17 @@ div.alignleft {
 .breadcrumbs .actual {
   font-weight: 600;
   text-decoration: underline !important;
+}
+
+.breadcrumbs .bread-sec {
+  font-size: 0.9rem;
+  font-style: italic;
+  text-align: right;
+  line-height: 3rem;
+}
+
+.breadcrumbs .titulo-sec {
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 3rem;
 }

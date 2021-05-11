@@ -34,7 +34,7 @@
                 <div id="section-about" class="center page-section col-lg-12 col-md-12">
 
                     <div class="container clearfix">
-                        <div class="heading-block center sec_top"><img src="imgs/sec/construccion.png">
+                        <div class="heading-block center sec_top"><img src="imgs/sec/mujeres.png">
                             <h2>Mujeres<br> CAME
                             </h2>
                         </div>
@@ -68,7 +68,7 @@
                             <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
                             <p class="text-muted">
                             <h3>Reuniones regionales</h3>
-                            A partir de ellas, logramos la elaboración de <bold class="color font-weight-medium">base de
+                            A partir de ellas, logramos la elaboración de <bold>base de
                                 datos de
                                 protocolos</bold> para los distintos rubros, así como la conformación de un <bold
                                 class="color font-weight-medium">diagnóstico de situación</bold> que reflejó las
@@ -101,13 +101,13 @@
                                 Banco Nación de
                                 Argentina</bold> (BNA), vinculada a la nueva gerencia de Género y créditos a para pymes
                             lideradas por
-                            mujeres; y el dictado del <bold class="color font-weight-medium">Webinar de Finanzas con
+                            mujeres; y el dictado del <bold>Webinar de Finanzas con
                                 toda la red
                                 “Herramientas financieras para mujeres pymes”,</bold> acompañados por el BNA, el BICE y
                             GARANTIZAR.<br><br>
                             <ul>
                                 <li>
-                                    <bold class="color font-weight-medium">Actividades en conjunto con el sector de
+                                    <bold>Actividades en conjunto con el sector de
                                         Turismo </bold>
                                 </li>
                                 <ul>

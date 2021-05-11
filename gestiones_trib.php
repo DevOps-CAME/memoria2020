@@ -29,18 +29,14 @@
 
                 <!-- Contenido
 		============================================= -->
-                <div id="section-about" class="center page-section col-lg-12 col-md-12 m-5">
+                <div class="center page-section col-lg-12 col-md-12 m-5">
                     <div class="container clearfix">
-                        <div class="heading-block center sec_top">
-                            <h2>Gestiones de CAME ante autoridades tributarias,<br> en pos de generar herramientas
-                                salvaguarden
-                                la delicada situación de las pymes</h2>
-                        </div>
-                        <div class="row">
 
-                            <div class="entry event col-12">
-                                <div class="grid-inner row align-items-center no-gutters p-4">
-                                    <div class="entry-image col-md-2 mb-md-0">
+                        <div id="posts" class="post-grid row grid-container gutter-40 clearfix has-init-isotope">
+
+                            <div class="entry col-md-4 col-sm-6 col-12">
+                                <div class="grid-inner">
+                                    <div class="entry-image">
                                         <a href="http://www.redcame.org.ar/novedades/8037/came-en-el-lanzamiento-de-la-moratoria-pyme"
                                             target="_blank">
                                             <img src="imgs/moratoria_pyme.png"
@@ -48,34 +44,35 @@
                                             <!-- <div class="entry-date"><span>Marzo</span></div> -->
                                         </a>
                                     </div>
-                                    <div class="col-md-10 pl-md-4">
-                                        <div class="entry-title title-sm">
+                                    <div>
+                                        <div class="entry-title">
                                             <h2>
                                                 <a href="http://www.redcame.org.ar/novedades/8037/came-en-el-lanzamiento-de-la-moratoria-pyme"
                                                     target="_blank">CAME en el lanzamiento de la moratoria pyme</a>
                                             </h2>
                                         </div>
-                                        <div class="entry-content">
-                                            <blockquote>
-                                                “Necesitamos herramientas para mejorar la situación impositiva,
-                                                financiera, de competitividad y rentabilidad de nuestras pequeñas y
-                                                medianas empresas que son el termómetro de nuestra economía”, expresó
-                                                Díaz Beltrán.
-                                            </blockquote>
-                                            <p>Para CAME es importante trabajar sobre ejes fundamentales que permitan
+                                        <div>
+                                            <p><em>
+                                                    “Necesitamos herramientas para mejorar la situación impositiva,
+                                                    financiera, de competitividad y rentabilidad de nuestras pequeñas y
+                                                    medianas empresas que son el termómetro de nuestra economía”,
+                                                    expresó
+                                                    Díaz Beltrán.
+                                                </em> </br>Para CAME es importante trabajar sobre ejes fundamentales que
+                                                permitan
                                                 enfrentar la difícil coyuntura: solución de financiamiento,
                                                 capacitación, y reactivación del mercado.</p>
                                             <a href="http://www.redcame.org.ar/novedades/8037/came-en-el-lanzamiento-de-la-moratoria-pyme"
-                                                target="_blank" class="button button-xlarge text-right">Ver más<i
+                                                target="_blank" class="button text-right center btn-block">Ver más<i
                                                     class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="entry event col-12">
-                                <div class="grid-inner row align-items-center no-gutters p-4">
-                                    <div class="entry-image col-md-2 mb-md-0">
+                            <div class="entry col-md-4 col-sm-6 col-12">
+                                <div class="grid-inner">
+                                    <div class="entry-image">
                                         <a href="http://www.redcame.org.ar/novedades/8222/le-solicitamos-a-la-afip-la-liberacion-de-reintegros-de-exportacion-pendientes-de-pago"
                                             target="_blank">
                                             <img src="imgs/afip_reintegros.png"
@@ -83,8 +80,8 @@
                                             <!-- <div class="entry-date"><span>Marzo</span></div> -->
                                         </a>
                                     </div>
-                                    <div class="col-md-10 pl-md-4">
-                                        <div class="entry-title title-sm">
+                                    <div>
+                                        <div class="entry-title">
                                             <h2>
                                                 <a href="http://www.redcame.org.ar/novedades/8222/le-solicitamos-a-la-afip-la-liberacion-de-reintegros-de-exportacion-pendientes-de-pago"
                                                     target="_blank">Le solicitamos a la AFIP la liberación de reintegros
@@ -92,7 +89,7 @@
                                                     exportación pendientes de pago</a>
                                             </h2>
                                         </div>
-                                        <div class="entry-content">
+                                        <div>
                                             <p>
                                                 El pedido radica en la crisis provocada por la propagación del virus
                                                 COVID-19 por lo cual muchos productores, que cuentan con créditos de
@@ -102,16 +99,16 @@
                                                 de trabajo.
                                             </p>
                                             <a href="http://www.redcame.org.ar/novedades/8222/le-solicitamos-a-la-afip-la-liberacion-de-reintegros-de-exportacion-pendientes-de-pago"
-                                                target="_blank" class="button button-xlarge text-right">Ver más<i
+                                                target="_blank" class="button text-right center btn-block">Ver más<i
                                                     class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="entry event col-12">
-                                <div class="grid-inner row align-items-center no-gutters p-4">
-                                    <div class="entry-image col-md-2 mb-md-0">
+                            <div class="entry col-md-4 col-sm-6 col-12">
+                                <div class="grid-inner">
+                                    <div class="entry-image">
                                         <a href="http://www.redcame.org.ar/novedades/9304/tras-la-gestion-de-came-afip-implemento-un-nuevo-regimen-de-facilidades-de-pago"
                                             target="_blank">
                                             <img src="imgs/afip_facilidades.jpg"
@@ -119,8 +116,8 @@
                                             <!-- <div class="entry-date"><span>Marzo</span></div> -->
                                         </a>
                                     </div>
-                                    <div class="col-md-10 pl-md-4">
-                                        <div class="entry-title title-sm">
+                                    <div>
+                                        <div class="entry-title">
                                             <h2>
                                                 <a href="http://www.redcame.org.ar/novedades/9304/tras-la-gestion-de-came-afip-implemento-un-nuevo-regimen-de-facilidades-de-pago"
                                                     target="_blank">Tras la gestión de CAME, AFIP implementó un nuevo
@@ -128,23 +125,23 @@
                                                     facilidades de pago</a>
                                             </h2>
                                         </div>
-                                        <div class="entry-content">
+                                        <div>
                                             <p>
                                                 Esta normativa tiene como objetivo establecer una herramienta para
                                                 amortiguar el impacto económico del aislamiento social, preventivo y
                                                 obligatorio decretado para afrontar la pandemia del coronavirus.
                                             </p>
                                             <a href="http://www.redcame.org.ar/novedades/9304/tras-la-gestion-de-came-afip-implemento-un-nuevo-regimen-de-facilidades-de-pago"
-                                                target="_blank" class="button button-xlarge text-right">Ver más<i
+                                                target="_blank" class="button text-right center btn-block">Ver más<i
                                                     class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="entry event col-12">
-                                <div class="grid-inner row align-items-center no-gutters p-4">
-                                    <div class="entry-image col-md-2 mb-md-0">
+                            <div class="entry col-md-4 col-sm-6 col-12">
+                                <div class="grid-inner">
+                                    <div class="entry-image">
                                         <a href="http://www.redcame.org.ar/novedades/9699/came-pide-rapido-tratamiento-de-nueva-moratoria"
                                             target="_blank">
                                             <img src="imgs/nueva_moratoria.jpg"
@@ -153,33 +150,35 @@
                                         </a>
                                     </div>
 
-                                    <div class="col-md-10 pl-md-4">
-                                        <div class="entry-title title-sm">
+                                    <div>
+                                        <div class="entry-title">
                                             <h2>
                                                 <a href="http://www.redcame.org.ar/novedades/9699/came-pide-rapido-tratamiento-de-nueva-moratoria"
                                                     target="_blank">CAME pide rápido tratamiento de nueva moratoria</a>
                                             </h2>
                                         </div>
-                                        <div class="entry-content">
+                                        <div>
                                             <p>
                                                 Destacamos la necesidad de que se consiga una rápida aprobación de la
                                                 nueva moratoria universal que será tratada en el Congreso de la Nación.
-                                            <blockquote>“La ampliación de la moratoria para deudas acumuladas es clave
-                                                en este contexto para llevar un poco de alivio a las pymes y fortalecer
-                                                la producción. Esperamos su pronto y ágil tratamiento en el Congreso”,
-                                                dijo el presidente de CAME, Gerardo Díaz Beltrán.</blockquote>
+                                                <em>“La ampliación de la moratoria para deudas acumuladas es clave
+                                                    en este contexto para llevar un poco de alivio a las pymes y
+                                                    fortalecer
+                                                    la producción. Esperamos su pronto y ágil tratamiento en el
+                                                    Congreso”,
+                                                    dijo el presidente de CAME, Gerardo Díaz Beltrán.</em>
                                             </p>
                                             <a href="http://www.redcame.org.ar/novedades/9699/came-pide-rapido-tratamiento-de-nueva-moratoria"
-                                                target="_blank" class="button button-xlarge text-right">Ver más<i
+                                                target="_blank" class="button text-right center btn-block">Ver más<i
                                                     class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="entry event col-12">
-                                <div class="grid-inner row align-items-center no-gutters p-4">
-                                    <div class="entry-image col-md-2 mb-md-0">
+                            <div class="entry col-md-4 col-sm-6 col-12">
+                                <div class="grid-inner">
+                                    <div class="entry-image">
                                         <a href="http://www.redcame.org.ar/novedades/9662/solicitamos-la-extension-del-programa-atp-para-todas-las-mipymes-del-pais"
                                             target="_blank">
                                             <img src="imgs/ATP_Mipymes.jpg"
@@ -188,8 +187,8 @@
                                         </a>
                                     </div>
 
-                                    <div class="col-md-10 pl-md-4">
-                                        <div class="entry-title title-sm">
+                                    <div>
+                                        <div class="entry-title">
                                             <h2>
                                                 <a href="http://www.redcame.org.ar/novedades/9662/solicitamos-la-extension-del-programa-atp-para-todas-las-mipymes-del-pais"
                                                     target="_blank">Solicitamos la extensión del Programa ATP para todas
@@ -197,29 +196,29 @@
                                                     Mipymes del país</a>
                                             </h2>
                                         </div>
-                                        <div class="entry-content">
+                                        <div>
                                             <!--   <p>
                                                 Solicitamos que las pymes con empleados no bancarizados también accedan
                                                 al beneficio del salario compensatorio.
                                             </p> -->
                                             <a href="http://www.redcame.org.ar/novedades/9662/solicitamos-la-extension-del-programa-atp-para-todas-las-mipymes-del-pais"
-                                                target="_blank" class="button button-xlarge text-right">Ver más<i
+                                                target="_blank" class="button text-right center btn-block">Ver más<i
                                                     class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="entry event col-12">
-                                <div class="grid-inner row align-items-center no-gutters p-4">
-                                    <div class="entry-image col-md-2 mb-md-0">
+                            <div class="entry col-md-4 col-sm-6 col-12">
+                                <div class="grid-inner">
+                                    <div class="entry-image">
 
                                         <img src="imgs/pagos_saldos.jpg" alt="" />
 
                                     </div>
 
-                                    <div class="col-md-10 pl-md-4">
-                                        <div class="entry-title title-sm">
+                                    <div>
+                                        <div class="entry-title">
                                             <h2>
                                                 Solicitamos la creación de un plan de pagos para los saldos a ingresar
                                                 por Impuesto a las ganancias para sociedades, así como la prórroga de la
@@ -251,9 +250,9 @@
                                 </div>
                             </div>
 
-                            <div class="entry event col-12">
-                                <div class="grid-inner row align-items-center no-gutters p-4">
-                                    <div class="entry-image col-md-2 mb-md-0">
+                            <div class="entry col-md-4 col-sm-6 col-12">
+                                <div class="grid-inner">
+                                    <div class="entry-image">
                                         <a href="http://www.redcame.org.ar/novedades/10384/afip-solicitamos-la-prorroga-del-recambio-de-los-controladores-fiscales-para-el-sector-comercial"
                                             target="_blank">
                                             <img src="imgs/afip_controladoras_fiscales.jpg"
@@ -262,15 +261,15 @@
                                         </a>
                                     </div>
 
-                                    <div class="col-md-10 pl-md-4">
-                                        <div class="entry-title title-sm">
+                                    <div>
+                                        <div class="entry-title">
                                             <h2>
                                                 <a href="http://www.redcame.org.ar/novedades/10384/afip-solicitamos-la-prorroga-del-recambio-de-los-controladores-fiscales-para-el-sector-comercial"
                                                     target="_blank">AFIP: solicitamos la prórroga del recambio de los
                                                     controladores fiscales para el sector comercial</a>
                                             </h2>
                                         </div>
-                                        <div class="entry-content">
+                                        <div>
                                             <p>
                                                 Desde la Confederación Argentina de la Mediana Empresa (CAME) le
                                                 enviamos a la titular de la Administración Federal de Ingresos Públicos
@@ -279,16 +278,16 @@
                                                 comercial que tiene previsto su inicio el próximo 1° de abril de 2021.
                                             </p>
                                             <a href="http://www.redcame.org.ar/novedades/10384/afip-solicitamos-la-prorroga-del-recambio-de-los-controladores-fiscales-para-el-sector-comercial"
-                                                target="_blank" class="button button-xlarge text-right">Ver más<i
+                                                target="_blank" class="button text-right center btn-block">Ver más<i
                                                     class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="entry event col-12">
-                                <div class="grid-inner row align-items-center no-gutters p-4">
-                                    <div class="entry-image col-md-2 mb-md-0">
+                            <div class="entry col-md-4 col-sm-6 col-12">
+                                <div class="grid-inner">
+                                    <div class="entry-image">
                                         <a href="http://www.redcame.org.ar/novedades/10423/solicitamos-a-afip-y-sepyme-la-actualizacion-de-los-montos-del-monotributo-y-de-la-categorizacion-pyme-respectivamente"
                                             target="_blank">
                                             <img src="imgs/ejemplo.jpg" alt="Marzo" />
@@ -296,20 +295,20 @@
                                         </a>
                                     </div>
 
-                                    <div class="col-md-10 pl-md-4">
+                                    <div>
                                         <!--     <div class="entry-title title-sm">
                                             <h2>
                                                 <a href="#">Mayo</a>
                                             </h2>
                                         </div> -->
-                                        <div class="entry-content">
+                                        <div>
                                             <p>
                                                 Solicitamos a la titular de la Administración Federal de Ingresos
                                                 Públicos (AFIP) la actualización de los montos límite de facturación
                                                 anual para determinar las categorías de monotributo.
                                             </p>
                                             <a href="http://www.redcame.org.ar/novedades/10423/solicitamos-a-afip-y-sepyme-la-actualizacion-de-los-montos-del-monotributo-y-de-la-categorizacion-pyme-respectivamente"
-                                                target="_blank" class="button button-xlarge text-right">Ver más<i
+                                                target="_blank" class="button text-right center btn-block">Ver más<i
                                                     class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>

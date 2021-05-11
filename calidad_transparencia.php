@@ -31,9 +31,7 @@
 		============================================= -->
                 <div id="section-about" class="center page-section col-lg-12 col-md-12">
                     <div class="container clearfix">
-                        <div class="heading-block center sec_top">
-                            <h2>Calidad y transparencia</h2>
-                        </div>
+
                         <h2 class="subtitulo">
                             HACIENDA
                         </h2>
@@ -151,18 +149,18 @@
                             Hubo un aumento significativo en el activo producto del avance de la obra que otorga mayor
                             valor
                             al inmueble, sito en Roque Sáenz Peña 900, quedando valuado al 31 de diciembre de 2020 en
-                            <bold class="color">$ 325.802.361,80.</bold>
+                            <bold>$ 325.802.361,80.</bold>
                         </p>
 
                         <p class="lead mx-auto bottommargin">
                             Con respecto a la participación en el Instituto Asegurador Mercantil Compañía de Seguros
                             S.A., la Confederación
                             posee una participación del 49,85 % sobre el Patrimonio Neto del Instituto que ascendió a
-                            <bold class="color">$ 300.270.331,00.</bold> al
-                            31 de diciembre de 2020, quedando valuada nuestra participación en <bold class="color">$
+                            <bold>$ 300.270.331,00.</bold> al
+                            31 de diciembre de 2020, quedando valuada nuestra participación en <bold>$
                                 149.684.760,00.</bold> El patrimonio neto del
-                            Instituto Asegurador incluye una reserva por revalúo técnico de inmuebles por <bold
-                                class="color">$ 27.970.662,00. </bold>El efecto de la
+                            Instituto Asegurador incluye una reserva por revalúo técnico de inmuebles por <bold>$
+                                27.970.662,00. </bold>El efecto de la
                             mencionada reserva por revalúo técnico se ha imputado en el patrimonio neto de la
                             Confederación en el rubro otras
                             reservas en base al porcentaje de participación de la Confederación en dicha sociedad.
@@ -171,9 +169,9 @@
                         <p class="lead mx-auto bottommargin">
                             En lo que se refiere a la inversión en la Sociedad Tecnología e Información para Empresas
                             S.A., la Confederación
-                            posee una participación del 95 % sobre el Patrimonio Neto de TEIPESA que ascendió a <bold
-                                class="color">$ 21.487.136,21.</bold> al 31 de
-                            diciembre de 2020, quedando valuada nuestra participación en <bold class="color">$
+                            posee una participación del 95 % sobre el Patrimonio Neto de TEIPESA que ascendió a <bold>$
+                                21.487.136,21.</bold> al 31 de
+                            diciembre de 2020, quedando valuada nuestra participación en <bold>$
                                 20.412.779,40. </bold>
                         </p>
 

@@ -31,9 +31,7 @@
 		============================================= -->
                 <div id="section-about" class="center page-section col-lg-12 col-md-12">
                     <div class="container clearfix">
-                        <div class="heading-block center sec_top">
-                            <h2>Modernización para pymes (TEIPESA)</h2>
-                        </div>
+
                         <h2 class="subtitulo">
                             Modernización para potenciar la competitividad
                         </h2>

@@ -90,7 +90,7 @@
                         <div class="col-lg-6 col-md-4 my-4">
                             <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
                             <p class="text-muted">
-                                <bold class="color">Gestionamos</bold> en favor de la falta de disponibilidad de
+                                <bold>Gestionamos</bold> en favor de la falta de disponibilidad de
                                 efectivo y la multiplicidad de permisos de circulación, temas estratégicos para la
                                 actividad que requirieron la intervención del sector de Economías Regionales de CAME: se
                                 logró la aprobación de un permiso único de circulación válido en todo el territorio

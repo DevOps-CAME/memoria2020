@@ -35,7 +35,7 @@
 
                     <div class="container clearfix">
                         <div class="heading-block center sec_top"><img src="imgs/sec/comex.png">
-                            <h2>Comercio Exterior </h2>
+                            <h2>Comercio </br>Exterior </h2>
                         </div>
                         <h2 class="subtitulo">Impulso a la internacionalización de la producción nacional pyme
                         </h2>

@@ -35,7 +35,7 @@
 
                     <div class="container clearfix">
                         <div class="heading-block center sec_top"><img src="imgs/sec/rse.png">
-                            <h2>RSE </h2>
+                            <h2>Responsabilidad Social </br>y Desarrollo Sustentable </h2>
                         </div>
                         <h2 class="subtitulo">Hacia una mirada responsable, sustentable e inclusiva de la gestión pyme
                         </h2>

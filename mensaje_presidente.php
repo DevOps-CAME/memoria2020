@@ -1,5 +1,5 @@
-<div class="section m-0 p-0 testimonials clearfix bg-color dark">
-    <div class="container" style="padding: 120px 0">
+<div class="section pt-2 pb-2 m-0 testimonials clearfix bg-transparent">
+    <div class="container">
         <div id="mensaje_presidente" class="heading-block border-bottom-0 center">
 
             <h2 class="nott font-weight-semibold">Mensaje del Presidente</h2>
@@ -11,6 +11,14 @@
             data-items="1">
 
             <div>
+                <div style="float: left; width: 20vw; margin-right: 2rem; margin-bottom: 1rem;"><img
+                        src="imgs/GerardoDiazBeltran.jpg" alt="Gerardo Díaz Beltrán" style="border-radius: 10px;" />
+                    <div class="testi-meta mt-4">
+                        Gerardo Díaz Beltrán
+                        <span class="ls0">Presidente de la Confederación Argentina de la Mediana Empresa
+                            (CAME)</span>
+                    </div>
+                </div>
 
                 <p>El 2020 ha sido un año sin precedentes en la historia mundial, producto de una
                     pandemia que hizo colapsar los sistemas sanitarios, primero, y los económicos
@@ -52,11 +60,7 @@
                     futuro mejor para todos.</br>
                 </p>
 
-                <div class="testi-meta mt-4">
-                    Gerardo Díaz Beltrán
-                    <span class="ls0">Presidente de la Confederación Argentina de la Mediana Empresa
-                        (CAME)</span>
-                </div>
+
             </div>
 
         </div>

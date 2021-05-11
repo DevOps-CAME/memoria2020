@@ -188,7 +188,7 @@
                             <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
                             <p class="text-muted">
                                 Presentación de la reglamentación y modelos de formularios del Programa Nacional Para el
-                                Desarrollo de Parques/ reunión técnica <bold class="color">“Programa Desarrollo de
+                                Desarrollo de Parques/ reunión técnica <bold>“Programa Desarrollo de
                                     Parques Industriales”, creado en el Decreto 716/2020.</bold>
 
                             </p>

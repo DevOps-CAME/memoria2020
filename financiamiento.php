@@ -39,7 +39,7 @@
 
                     <div class="container clearfix">
                         <div class="heading-block center sec_top"><img src="imgs/sec/financiamiento.png">
-                            <h2>Financiamiento y competitividad </h2>
+                            <h2>Financiamiento</br> y competitividad </h2>
                             <div class="clear"></div>
                         </div>
 
