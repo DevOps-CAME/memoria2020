@@ -38,9 +38,7 @@
                 <div id="section-about" class="center page-section col-lg-12 col-md-12">
 
                     <div class="container clearfix">
-                        <div class="heading-block center sec_top"><img src="imgs/sec/comercio_servicios.png">
-                            <h2>Comercio <br>y Servicios</h2>
-                        </div>
+
                         <h2 class="subtitulo">Asistencia y acompañamiento al comercio
                             minorista nacional</h2>
 

@@ -38,10 +38,7 @@
                 <div id="section-about" class="center page-section col-lg-12 col-md-12">
 
                     <div class="container clearfix">
-                        <div class="heading-block center sec_top"><img src="imgs/sec/industria.png">
-                            <h2>Industria</h2>
-                            <div class="clear"></div>
-                        </div>
+
                         <h2 class="subtitulo">Defensa y promoción de la matriz industrial federal</h2>
 
                         <p class="lead mx-auto bottommargin">Durante el 2020, con el propósito de morigerar la situación

@@ -212,7 +212,7 @@
                             <a href="gestiones_bcra.php" class="button text-right center">Más información<i
                                     class="icon-circle-arrow-right"></i></a>
                         </div>
-                        <div class="clear"></div>
+                        <div class="clear" id="gestiones_consumo"></div>
                     </div>
                 </div>
                 <hr>
@@ -333,7 +333,7 @@
                             <!-- #posts end -->
                             <div class="clear"></div>
                         </div>
-                        <div class="clear"></div>
+                        <div class="clear" id="gestiones_paritaria"></div>
                     </div>
                 </div>
                 <hr>
@@ -571,7 +571,7 @@
                         </p>
 
                         <div class="center">
-                            <a href="gestiones_pandemia.php" class="button text-right center btn-block">Más
+                            <a href="gestiones_pandemia.php" class="button text-right center">Más
                                 información<i class="icon-circle-arrow-right"></i></a>
                         </div>
                         <div class="clear"></div>
@@ -610,169 +610,163 @@
 
                     <div class="center page-section col-lg-12 col-md-12 mt-5">
                         <div class="container clearfix">
-                            <div class="row">
-                                <div class="entry event col-12">
-                                    <div class="grid-inner row align-items-center no-gutters p-4">
-                                        <div class="entry-image col-md-2 mb-md-0">
-                                            <img src="imgs/mes/agosto.png" alt="" />
-                                        </div>
-                                        <div class="col-md-10 pl-md-4">
-                                            <div>
-                                                <p>
-                                                    Tuvo lugar la Mesa de la Educación en el marco de la
-                                                    participación
-                                                    de la entidad
-                                                    como miembro del Consejo Nacional de Calidad de la Educación. El
-                                                    debate puso
-                                                    foco en la problemática de la educación privada en la pandemia y
-                                                    el
-                                                    impacto
-                                                    pospandemia. Se elevaron pedidos de incorporación de la
-                                                    enseñanza
-                                                    privada al
-                                                    Programa "Ahora 12" y "Ahora 18", se designó un delegado
-                                                    suplente de
-                                                    la Junta
-                                                    Nacional de Educación Privada (JUNEP) al CNCE y se mantuvo una
-                                                    audiencia virtual
-                                                    con el Ministro de Educación de la Nación, Nicolás Trotta.
-                                                    Participan de esta
-                                                    mesa 25 entidades de todo el país.
-                                                </p>
-                                            </div>
-                                        </div>
+                            <div id="posts" class="post-grid row grid-container gutter-40 clearfix has-init-isotope">
+
+
+                                <div class="entry event col-md-6 col-12">
+                                    <div class="grid-inner p-4">
+
+
+                                        <img src="imgs/mes/agosto.png" alt="" style="width: 16rem" />
+                                        <p>
+                                            Tuvo lugar la Mesa de la Educación en el marco de la
+                                            participación
+                                            de la entidad
+                                            como miembro del Consejo Nacional de Calidad de la Educación. El
+                                            debate puso
+                                            foco en la problemática de la educación privada en la pandemia y
+                                            el
+                                            impacto
+                                            pospandemia. Se elevaron pedidos de incorporación de la
+                                            enseñanza
+                                            privada al
+                                            Programa "Ahora 12" y "Ahora 18", se designó un delegado
+                                            suplente de
+                                            la Junta
+                                            Nacional de Educación Privada (JUNEP) al CNCE y se mantuvo una
+                                            audiencia virtual
+                                            con el Ministro de Educación de la Nación, Nicolás Trotta.
+                                            Participan de esta
+                                            mesa 25 entidades de todo el país.
+                                        </p>
+
+
                                     </div>
                                 </div>
-                                <div class="entry event col-12">
-                                    <div class="grid-inner row align-items-center no-gutters p-4">
-                                        <div class="entry-image col-md-2 mb-md-0">
-                                            <img src="imgs/mes/septiembre.png" alt="" />
-                                        </div>
-                                        <div class="col-md-10 pl-md-4">
-                                            <div>
-                                                <p>
-                                                    Se llevó a cabo la videoconferencia de movilidad y transporte
-                                                    donde
-                                                    se trataron
-                                                    aspectos vinculados a los inconvenientes en la circulación, el
-                                                    flujo
-                                                    de ingresos
-                                                    y el endeudamiento de las pymes del sector. Se elevaron pedidos
-                                                    de
-                                                    representación de CAME en el Consejo Federal Portuario, se
-                                                    mantuvo
-                                                    una audiencia
-                                                    virtual con el Ministro de Transporte de la Nación, Mario Meoni,
-                                                    y
-                                                    reuniones con
-                                                    el Secretario de Planificación del Ministerio de Transporte de
-                                                    la
-                                                    Nación, Gastón
-                                                    Jaques y Rodríguez Melgarejo. Integran esta mesa sectorial 25
-                                                    entidades de los
-                                                    rubros transporte de pasajeros, transporte de carga liviana y
-                                                    pesada, motos,
-                                                    combis y remises, vehículos eléctricos y puertos recreativos.
 
-                                                    Se realizó la Mesa Binacional donde participan más de 30 Cámaras
-                                                    de
-                                                    Comercio
-                                                    Internacional en un trabajo de camaradería que intenta impulsar
-                                                    temas de
-                                                    competitividad, desarrollo de productos con valor agregado y el
-                                                    rol
-                                                    preponderante de las pymes en la exportación. Se elevaron
-                                                    pedidos de
-                                                    audiencia
-                                                    al Embajador, Jorge Neme.
+                                <div class="entry event col-md-6 col-12">
+                                    <div class="grid-inner p-4">
 
-                                                </p>
-                                            </div>
-                                        </div>
+
+
+                                        <img src="imgs/mes/septiembre.png" alt="" style="width: 16rem" />
+                                        <p>
+                                            Se llevó a cabo la videoconferencia de movilidad y transporte
+                                            donde
+                                            se trataron
+                                            aspectos vinculados a los inconvenientes en la circulación, el
+                                            flujo
+                                            de ingresos
+                                            y el endeudamiento de las pymes del sector. Se elevaron pedidos
+                                            de
+                                            representación de CAME en el Consejo Federal Portuario, se
+                                            mantuvo
+                                            una audiencia
+                                            virtual con el Ministro de Transporte de la Nación, Mario Meoni,
+                                            y
+                                            reuniones con
+                                            el Secretario de Planificación del Ministerio de Transporte de
+                                            la
+                                            Nación, Gastón
+                                            Jaques y Rodríguez Melgarejo. Integran esta mesa sectorial 25
+                                            entidades de los
+                                            rubros transporte de pasajeros, transporte de carga liviana y
+                                            pesada, motos,
+                                            combis y remises, vehículos eléctricos y puertos recreativos.
+
+                                            Se realizó la Mesa Binacional donde participan más de 30 Cámaras
+                                            de
+                                            Comercio
+                                            Internacional en un trabajo de camaradería que intenta impulsar
+                                            temas de
+                                            competitividad, desarrollo de productos con valor agregado y el
+                                            rol
+                                            preponderante de las pymes en la exportación. Se elevaron
+                                            pedidos de
+                                            audiencia
+                                            al Embajador, Jorge Neme.
+
+                                        </p>
+
+
                                     </div>
                                 </div>
-                                <div class="entry event col-12">
-                                    <div class="grid-inner row align-items-center no-gutters p-4">
-                                        <div class="entry-image col-md-2 mb-md-0">
-                                            <img src="imgs/mes/octubre.png" alt="" />
-                                        </div>
-                                        <div class="col-md-10 pl-md-4">
-                                            <div>
-                                                <p>
-                                                    Reunión con el sector gastronómico develó los inconvenientes
-                                                    producidos por el
-                                                    COVID 19 en la actividad comercial, caída de las ventas, corte
-                                                    de la
-                                                    cadena de
-                                                    pago y bajo nivel de rentabilidad de las empresas. Integran esta
-                                                    mesa 6 cámaras
-                                                    sectoriales pertenecientes a los rubros pastas, helados, pizzas
-                                                    y
-                                                    empanadas, pan
-                                                    y establecimientos gastronómicos.
 
-                                                    La Mesa de la Salud integrada por más de 30 entidades del sector
-                                                    puso en
-                                                    discusión el impacto del COVID-19 en las empresas y la
-                                                    significativa
-                                                    caída del
-                                                    consumo con deudas acumuladas en el pago de las prestaciones y
-                                                    el
-                                                    exceso de la
-                                                    demanda que provocó un aumento desmedido de las materias primas
-                                                    en
-                                                    dólares.
-                                                    Participan del sector cámaras de los rubros droguerías y
-                                                    medicamentos, industria
-                                                    dental, bioquímica y farmacia, implantes y ortopedia,
-                                                    laboratorios y
-                                                    clínicas
-                                                    privadas. Se elevaron notas de pedido de incorporación del rubro
-                                                    ortopedia al
-                                                    Programa "Ahora 12" y "Ahora 18".
+                                <div class="entry event col-md-6 col-12">
+                                    <div class="grid-inner p-4">
+                                        <img src="imgs/mes/octubre.png" alt="" style="width: 16rem" />
+                                        <p>
+                                            Reunión con el sector gastronómico develó los inconvenientes
+                                            producidos por el
+                                            COVID 19 en la actividad comercial, caída de las ventas, corte
+                                            de la
+                                            cadena de
+                                            pago y bajo nivel de rentabilidad de las empresas. Integran esta
+                                            mesa 6 cámaras
+                                            sectoriales pertenecientes a los rubros pastas, helados, pizzas
+                                            y
+                                            empanadas, pan
+                                            y establecimientos gastronómicos.
+
+                                            La Mesa de la Salud integrada por más de 30 entidades del sector
+                                            puso en
+                                            discusión el impacto del COVID-19 en las empresas y la
+                                            significativa
+                                            caída del
+                                            consumo con deudas acumuladas en el pago de las prestaciones y
+                                            el
+                                            exceso de la
+                                            demanda que provocó un aumento desmedido de las materias primas
+                                            en
+                                            dólares.
+                                            Participan del sector cámaras de los rubros droguerías y
+                                            medicamentos, industria
+                                            dental, bioquímica y farmacia, implantes y ortopedia,
+                                            laboratorios y
+                                            clínicas
+                                            privadas. Se elevaron notas de pedido de incorporación del rubro
+                                            ortopedia al
+                                            Programa "Ahora 12" y "Ahora 18".
 
 
-                                                </p>
-                                            </div>
-                                        </div>
+                                        </p>
+
                                     </div>
                                 </div>
-                                <div class="entry event col-12">
-                                    <div class="grid-inner row align-items-center no-gutters p-4">
-                                        <div class="entry-image col-md-2 mb-md-0">
-                                            <img src="imgs/mes/noviembre.png" alt="" />
-                                        </div>
-                                        <div class="col-md-10 pl-md-4">
-                                            <div>
-                                                <p>
-                                                    Se llevó a cabo la mesa de la industria alimenticia en el marco
-                                                    del
-                                                    trabajo
-                                                    específico con los distintos sectores. En la reunión se habló
-                                                    del
-                                                    concepto de
-                                                    segmentación y la importancia de identificar la disparidad de
-                                                    problemas, precios
-                                                    máximos, abastos y distintas iniciativas de los gobiernos
-                                                    nacionales
-                                                    y
-                                                    municipales como controles bromatológicos, etiquetado frontal y
-                                                    la
-                                                    falta de
-                                                    estímulo a la producción industrial. Participan de esta
-                                                    iniciativa
-                                                    25 cámaras
-                                                    sectoriales de los rubros apicultura, alimentos orgánicos,
-                                                    lácteos,
-                                                    molinería,
-                                                    avicultura, fideero, olivícola, bebidas y jugos, yerbatero,
-                                                    frutihortícola y
-                                                    pesquero.
-                                                </p>
-                                            </div>
-                                        </div>
+
+                                <div class="entry event col-md-6 col-12">
+                                    <div class="grid-inner p-4">
+
+                                        <img src="imgs/mes/noviembre.png" alt="" style="width: 16rem" />
+                                        <p>
+                                            Se llevó a cabo la mesa de la industria alimenticia en el marco
+                                            del
+                                            trabajo
+                                            específico con los distintos sectores. En la reunión se habló
+                                            del
+                                            concepto de
+                                            segmentación y la importancia de identificar la disparidad de
+                                            problemas, precios
+                                            máximos, abastos y distintas iniciativas de los gobiernos
+                                            nacionales
+                                            y
+                                            municipales como controles bromatológicos, etiquetado frontal y
+                                            la
+                                            falta de
+                                            estímulo a la producción industrial. Participan de esta
+                                            iniciativa
+                                            25 cámaras
+                                            sectoriales de los rubros apicultura, alimentos orgánicos,
+                                            lácteos,
+                                            molinería,
+                                            avicultura, fideero, olivícola, bebidas y jugos, yerbatero,
+                                            frutihortícola y
+                                            pesquero.
+                                        </p>
+
                                     </div>
                                 </div>
+
                                 <div class="entry event col-12">
                                     <div class="grid-inner row align-items-center no-gutters p-4">
                                         <div class="entry-image col-md-2 mb-md-0">

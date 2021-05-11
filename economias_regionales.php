@@ -39,9 +39,7 @@
 
                     <div class="container clearfix">
 
-                        <div class="heading-block center sec_top"><img src="imgs/sec/regionales.png">
-                            <h2>Economías <br>Regionales</h2>
-                        </div>
+
                         <h2 class="subtitulo">Hacia una matriz federal, sustentable y competitiva de nuestras Economías
                             Regionales</h2>
 

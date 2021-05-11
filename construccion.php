@@ -34,10 +34,7 @@
                 <div id="section-about" class="center page-section col-lg-12 col-md-12">
 
                     <div class="container clearfix">
-                        <div class="heading-block center sec_top"><img src="imgs/sec/construccion.png">
-                            <h2>Construcción
-                            </h2>
-                        </div>
+
                         <h2 class="subtitulo">Bregando por la representación de las pymes constructoras
                         </h2>
 

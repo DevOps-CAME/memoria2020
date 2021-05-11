@@ -34,9 +34,7 @@
                 <div id="section-about" class="center page-section col-lg-12 col-md-12">
 
                     <div class="container clearfix">
-                        <div class="heading-block center sec_top"><img src="imgs/sec/rondas.png">
-                            <h2>Rondas</br> de Negocios </h2>
-                        </div>
+
                         <h2 class="subtitulo">Vinculación estratégica de las pequeñas y medianas empresas argentinas
                         </h2>
 

@@ -34,9 +34,7 @@
                 <div id="section-about" class="center page-section col-lg-12 col-md-12">
 
                     <div class="container clearfix">
-                        <div class="heading-block center sec_top"><img src="imgs/sec/capacication.png">
-                            <h2>capacitación </h2>
-                        </div>
+
                         <h2 class="subtitulo">Formación para la modernización de nuestros asociados y sus pymes
                         </h2>
 

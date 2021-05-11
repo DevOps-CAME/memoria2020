@@ -400,8 +400,8 @@ include "header.html";
                                             <div class="flip-card-inner">
                                                 <p class="mb-2 text-white center">Propuestas en el escenario de la
                                                     pandemia</p>
-                                                <button type="button" class="btn btn-outline-light mt-2">Ver
-                                                    más</button>
+                                                <a href="gestiones_pandemia.php" class="btn btn-outline-light mt-2">
+                                                    Ver más</a>
                                             </div>
                                         </div>
                                     </div>
@@ -425,8 +425,8 @@ include "header.html";
                                         <div class="flip-card-back" style="background-color:#1E8BC3">
                                             <div class="flip-card-inner">
                                                 <p class="mb-2 text-white center">Gestiones en materia tributaria</p>
-                                                <button type="button" class="btn btn-outline-light mt-2">Ver
-                                                    más</button>
+                                                <a href="gestiones_trib.php" class="btn btn-outline-light mt-2">
+                                                    Ver más</a>
 
                                             </div>
                                         </div>
@@ -453,8 +453,9 @@ include "header.html";
                                         <div class="flip-card-back" style="background-color:#1E8BC3">
                                             <div class="flip-card-inner">
                                                 <p class="mb-2 text-white center">Promoción del consumo</p>
-                                                <button type="button" class="btn btn-outline-light mt-2">Ver
-                                                    más</button>
+                                                <a href="gestiones_gobierno.php#gestiones_consumo"
+                                                    class="btn btn-outline-light mt-2">
+                                                    Ver más</a>
                                             </div>
                                         </div>
                                     </div>
@@ -477,8 +478,9 @@ include "header.html";
                                         <div class="flip-card-back" style="background-color:#1E8BC3">
                                             <div class="flip-card-inner">
                                                 <p class="mb-2 text-white center">Paritaria Mercantil</p>
-                                                <button type="button" class="btn btn-outline-light mt-2">Ver
-                                                    más</button>
+                                                <a href="gestiones_gobierno.php#gestiones_paritaria"
+                                                    class="btn btn-outline-light mt-2">
+                                                    Ver más</a>
                                             </div>
                                         </div>
                                     </div>

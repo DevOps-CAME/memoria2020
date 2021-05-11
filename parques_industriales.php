@@ -33,10 +33,7 @@
                 <div id="section-about" class="center page-section col-lg-12 col-md-12">
 
                     <div class="container clearfix">
-                        <div class="heading-block center sec_top"><img src="imgs/sec/fapi.png">
-                            <h2>Federación Argentina<br> de Parques Industriales
-                            </h2>
-                        </div>
+
                         <h2 class="subtitulo">Gestión para fortalecer el desarrollo de Parques Industriales en todo el
                             país
                         </h2>

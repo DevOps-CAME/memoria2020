@@ -34,10 +34,7 @@
                 <div id="section-about" class="center page-section col-lg-12 col-md-12">
 
                     <div class="container clearfix">
-                        <div class="heading-block center sec_top"><img src="imgs/sec/mujeres.png">
-                            <h2>Mujeres<br> CAME
-                            </h2>
-                        </div>
+
                         <h2 class="subtitulo">Articulación transversal para el empoderamiento
                             de la mujer empresaria
                         </h2>

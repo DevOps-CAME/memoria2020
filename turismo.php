@@ -34,9 +34,7 @@
                 <div id="section-about" class="center page-section col-lg-12 col-md-12">
 
                     <div class="container clearfix">
-                        <div class="heading-block center sec_top"><img src="imgs/sec/turismo.png">
-                            <h2>Turismo</h2>
-                        </div>
+
                         <h2 class="subtitulo">Acciones propositivas para el sostenimiento de las pymes turísticas</h2>
 
                         <p class="lead mx-auto bottommargin">Con el norte de morigerar el grave impacto que la pandemia

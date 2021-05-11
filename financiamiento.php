@@ -38,10 +38,6 @@
                 <div id="section-about" class="center page-section col-lg-12 col-md-12">
 
                     <div class="container clearfix">
-                        <div class="heading-block center sec_top"><img src="imgs/sec/financiamiento.png">
-                            <h2>Financiamiento</br> y competitividad </h2>
-                            <div class="clear"></div>
-                        </div>
 
                         <h2 class="subtitulo">FINANCAME: Principales Objetivos – Planificación 2021</h2>
 

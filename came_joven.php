@@ -34,10 +34,7 @@
                 <div id="section-about" class="center page-section col-lg-12 col-md-12">
 
                     <div class="container clearfix">
-                        <div class="heading-block center sec_top"><img src="imgs/sec/jovenes.png">
-                            <h2>CAME JOVEN
-                            </h2>
-                        </div>
+
                         <h2 class="subtitulo">Formación de nuevos líderes para la renovación y fortalecimiento de la
                             gremial empresaria
                         </h2>

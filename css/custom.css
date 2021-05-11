@@ -239,8 +239,12 @@ div.alignleft {
 }
 
 .breadcrumbs {
-  background-color: #bdcff7;
+  background-color: #ecf1ff;
   padding: 0.5rem 0rem 0.5rem 0rem;
+}
+
+.breadcrumbs img {
+  height: 5rem;
 }
 
 .breadcrumbs .actual {
