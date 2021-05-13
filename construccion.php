@@ -31,7 +31,7 @@
 
                 <!-- Contenido
 		============================================= -->
-                <div id="section-about" class="center page-section col-lg-12 col-md-12">
+                <div class="center page-section col-lg-12 col-md-12">
 
                     <div class="container clearfix">
 
@@ -170,31 +170,32 @@
                     </div>
                 </div>
 
-
-
-
-
-
-
-                <!-- Footer
-		============================================= -->
-                <?php include "footer.html"; ?>
-                <!-- #footer end -->
+                <?php include "anterior_siguiente.php"; ?>
             </div>
-            <!-- #wrapper end -->
+        </section>
 
-            <!-- Go To Top
-	============================================= -->
-            <div id="gotoTop" class="icon-angle-up"></div>
 
-            <!-- JavaScripts
-	============================================= -->
-            <script src="js/jquery.js"></script>
-            <script src="js/plugins.min.js"></script>
 
-            <!-- Footer Scripts
+
+        <!-- Footer
+		============================================= -->
+        <?php include "footer.html"; ?>
+        <!-- #footer end -->
+    </div>
+    <!-- #wrapper end -->
+
+    <!-- Go To Top
 	============================================= -->
-            <script src="js/functions.js"></script>
+    <div id="gotoTop" class="icon-angle-up"></div>
+
+    <!-- JavaScripts
+	============================================= -->
+    <script src="js/jquery.js"></script>
+    <script src="js/plugins.min.js"></script>
+
+    <!-- Footer Scripts
+	============================================= -->
+    <script src="js/functions.js"></script>
 </body>
 
 </html>

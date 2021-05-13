@@ -31,7 +31,7 @@
 
                 <!-- Contenido
 		============================================= -->
-                <div id="section-about" class="center page-section col-lg-12 col-md-12">
+                <div class="center page-section col-lg-12 col-md-12">
 
                     <div class="container clearfix">
 
@@ -77,14 +77,14 @@
                                     <div class="feature-box fbox-small fbox-effect">
 
                                         <div class="fbox-content">
-                                            <div class="counter color"><span data-from="1" data-to="7"
-                                                    data-refresh-interval="1" data-speed="1600">+ 7</span> </div>
+                                            <div class="counter color center"><span data-from="1" data-to="7"
+                                                    data-refresh-interval="1" data-speed="1600"> 7</span> </div>
 
                                             <p>
-                                                <bold class="display-5 color font-weight-medium">encuentros virtuales de
-                                                    la RED CAME LATAM</bold>Desde sus oficinas en USA, México, Paraguay,
+                                                <bold>encuentros virtuales de
+                                                    la RED CAME LATAM</bold> Desde sus oficinas en USA, México,
+                                                Paraguay,
                                                 Chile, Uruguay, Perú y China, brindando asesoramiento online a
-                                                emprendedores y empresarios de todas las ramas para desean comenzar a
                                                 internacionalizar sus productos y servicios o abrirse a otros mercados.
                                             </p>
                                         </div>
@@ -95,11 +95,11 @@
                                     <div class="feature-box fbox-small fbox-effect">
 
                                         <div class="fbox-content">
-                                            <div class="counter color"><span data-from="1" data-to="7188"
-                                                    data-refresh-interval="500" data-speed="1600"> + 7188</span> </div>
+                                            <div class="counter color center"><span data-from="1" data-to="7188"
+                                                    data-refresh-interval="10" data-speed="1600"> 7188</span> </div>
 
                                             <p>
-                                                <bold class="display-5 color font-weight-medium">consultas atendidas
+                                                <bold>consultas atendidas
                                                     desde la Oficina de Apoyo a las Pymes de CAME en Aduana </bold>
                                             </p>
                                         </div>
@@ -110,11 +110,11 @@
                                     <div class="feature-box fbox-small fbox-effect">
 
                                         <div class="fbox-content">
-                                            <div class="counter color"><span data-from="1" data-to="30"
-                                                    data-refresh-interval="5" data-speed="1600">+ 30 %</span> </div>
+                                            <div class="counter color center"><span data-from="1" data-to="30"
+                                                    data-refresh-interval="5" data-speed="1600"> 30 </span>% </div>
 
                                             <p>
-                                                <bold class="display-5 color font-weight-medium"> más Certificados en
+                                                <bold> más Certificados en
                                                     Origen realizados en 2020, respecto del año anterior.</bold> Se
                                                 realizaron 11.084 Certificados en Origen para empresas radicadas en 20
                                                 provincias.
@@ -127,11 +127,6 @@
                                     </div>
                                 </div>
 
-
-
-
-
-
                             </div>
                         </div>
 
@@ -139,14 +134,9 @@
                 </div>
 
 
-
-
-
-
-
-
-
+                <?php include "anterior_siguiente.php"; ?>
             </div>
+        </section>
     </div>
 
 
@@ -156,7 +146,7 @@
 		============================================= -->
     <?php include "footer.html"; ?>
     <!-- #footer end -->
-    </div>
+
     <!-- #wrapper end -->
 
     <!-- Go To Top

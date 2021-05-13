@@ -29,7 +29,7 @@
 
                 <!-- Contenido
 		============================================= -->
-                <div id="section-about" class="center page-section col-lg-12 col-md-12">
+                <div class="center page-section col-lg-12 col-md-12">
                     <div class="container clearfix">
 
                         <h2 class="subtitulo">
@@ -87,7 +87,7 @@
                 </div>
 
 
-
+                <?php include "anterior_siguiente.php"; ?>
                 <!-- fin Contenido    ============================================= -->
             </div>
         </section>

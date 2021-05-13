@@ -116,7 +116,7 @@
 
                     </div>
 
-                  
+
 
                 </div>
                 <div class="clear m-5"></div>
@@ -193,179 +193,188 @@
 
 
                     </div>
-                
-               
-
-                <div id="section-about" class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
-                    <div class="container clearfix">
-                        <h2 class="subtitulo">
-                            ADMINISTRACIÓN DE PRESUPUESTOS
-                        </h2>
 
 
 
-                        <p class="lead mx-auto bottommargin">
-                            Desde el sector Administración de Presupuestos se realizó una gestión enfocada en dos
-                            aristas: responder
-                            en tiempo y forma y con calidad y claridad a las entidades asociadas por temas
-                            presupuestarios, y,
-                            asimismo, seguir generando mecanismos para dar cada vez mayor transparencia a la
-                            distribución de los
-                            fondos destinados al fortalecimiento institucional y a la capacitación de nuestras
-                            asociadas.
-                        </p>
+                    <div id="section-about" class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
+                        <div class="container clearfix">
+                            <h2 class="subtitulo">
+                                ADMINISTRACIÓN DE PRESUPUESTOS
+                            </h2>
 
 
-                        <div class="container">
 
-                            <div class="row mt-3 col-mb-50">
+                            <p class="lead mx-auto bottommargin">
+                                Desde el sector Administración de Presupuestos se realizó una gestión enfocada en dos
+                                aristas: responder
+                                en tiempo y forma y con calidad y claridad a las entidades asociadas por temas
+                                presupuestarios, y,
+                                asimismo, seguir generando mecanismos para dar cada vez mayor transparencia a la
+                                distribución de los
+                                fondos destinados al fortalecimiento institucional y a la capacitación de nuestras
+                                asociadas.
+                            </p>
 
-                                <div class="col-lg-4">
-                                    <i class="i-circled icon-envelope inline-block" style="margin-bottom:15px;"></i>
-                                    <div class="heading-block border-bottom-0" style="margin-bottom: 15px;">
+
+                            <div class="container">
+
+                                <div class="row mt-3 col-mb-50">
+
+                                    <div class="col-lg-4">
+                                        <i class="i-circled icon-envelope inline-block" style="margin-bottom:15px;"></i>
+                                        <div class="heading-block border-bottom-0" style="margin-bottom: 15px;">
+                                        </div>
+                                        <h4 class=" text-left">Exitosa Auditoría de Seguimiento del Instituto Argentino
+                                            de
+                                            Normalización y Certificación (IRAM), quien evaluó el grado de cumplimiento
+                                            de
+                                            los
+                                            exigentes requisitos normativos de la Norma ISO 9001:2015, aplicable a la
+                                            administración
+                                            de partidas presupuestarias para capacitación y fortalecimiento
+                                            institucional de
+                                            las
+                                            entidades gremiales pymes argentinas.</h4>
                                     </div>
-                                    <h4 class=" text-left">Exitosa Auditoría de Seguimiento del Instituto Argentino de
-                                        Normalización y Certificación (IRAM), quien evaluó el grado de cumplimiento de
-                                        los
-                                        exigentes requisitos normativos de la Norma ISO 9001:2015, aplicable a la
-                                        administración
-                                        de partidas presupuestarias para capacitación y fortalecimiento institucional de
-                                        las
-                                        entidades gremiales pymes argentinas.</h4>
+
+                                    <div class="col-lg-4">
+                                        <i class=" i-circled icon-bookmark inline-block"
+                                            style="margin-bottom: 15px;"></i>
+                                        <div class="heading-block border-bottom-0" style="margin-bottom: 15px;">
+
+                                        </div>
+                                        <h4 class=" text-left">Se establecieron objetivos de velocidad en la respuesta,
+                                            tanto en la gestión de comprobantes como en la respuesta a solicitudes
+                                            concretas,
+                                            logrando sostenerlos durante todo el año. </h4>
+                                    </div>
+
+                                    <div class="col-lg-4">
+                                        <i class="i-circled icon-briefcase inline-block"
+                                            style="margin-bottom: 15px;"></i>
+                                        <div class="heading-block border-bottom-0" style="margin-bottom: 15px;">
+
+                                        </div>
+                                        <h4 class=" text-left">Encuesta de satisfacción a las entidades a las que se
+                                            brinda
+                                            apoyo:</h4>
+                                        <p>* 73 % de respuestas</p>
+                                        <p>* Resultado promedio de 9.20 entre los ítems: Velocidad de respuesta a
+                                            solicitudes, Atención del personal y Calidad del servicio prestado.</p>
+                                        <p>* Encuesta interna a los directivos involucrados. Su resultado fue un
+                                            promedio de
+                                            9.33 entre los puntos: Gestión de autorizaciones y Reportes de gestión.
+                                        </p>
+                                    </div>
+
+
                                 </div>
 
-                                <div class="col-lg-4">
-                                    <i class=" i-circled icon-bookmark inline-block" style="margin-bottom: 15px;"></i>
-                                    <div class="heading-block border-bottom-0" style="margin-bottom: 15px;">
 
+
+
+
+
+                                <div class="promo promo-light p-4 p-md-5 mb-5">
+                                    <div class="row align-items-center">
+                                        <div class="col-12 col-lg">
+                                            <p class="m-0">
+                                                En 2021, el sector recertificará su Sistema de Gestión de la
+                                                Calidad bajo la Norma IRAM 9001:2015, siempre con el objetivo
+                                                de enfocarse en los resultados de los procesos, la satisfacción de
+                                                sus clientes y la mejora continua, con transparencia y eficiencia.
+                                            </p>
+                                        </div>
                                     </div>
-                                    <h4 class=" text-left">Se establecieron objetivos de velocidad en la respuesta,
-                                        tanto en la gestión de comprobantes como en la respuesta a solicitudes
-                                        concretas,
-                                        logrando sostenerlos durante todo el año. </h4>
-                                </div>
-
-                                <div class="col-lg-4">
-                                    <i class="i-circled icon-briefcase inline-block" style="margin-bottom: 15px;"></i>
-                                    <div class="heading-block border-bottom-0" style="margin-bottom: 15px;">
-
-                                    </div>
-                                    <h4 class=" text-left">Encuesta de satisfacción a las entidades a las que se brinda
-                                        apoyo:</h4>
-                                    <p>* 73 % de respuestas</p>
-                                    <p>* Resultado promedio de 9.20 entre los ítems: Velocidad de respuesta a
-                                        solicitudes, Atención del personal y Calidad del servicio prestado.</p>
-                                    <p>* Encuesta interna a los directivos involucrados. Su resultado fue un promedio de
-                                        9.33 entre los puntos: Gestión de autorizaciones y Reportes de gestión.
-                                    </p>
                                 </div>
 
 
-                            </div>
-
-
-                       
 
 
 
-                        <div class="promo promo-light p-4 p-md-5 mb-5">
-                            <div class="row align-items-center">
-                                <div class="col-12 col-lg">
-                                    <p class="m-0">
-                                    En 2021, el sector recertificará su Sistema de Gestión de la 
-                                    Calidad bajo la Norma IRAM 9001:2015, siempre con el objetivo 
-                                    de enfocarse en los resultados de los procesos, la satisfacción de 
-                                    sus clientes y la mejora continua, con transparencia y eficiencia.
-                                    </p>
+
+
+                                <div class="row justify-content-between">
+                                    <div class="col-md-12">
+
+                                        <div class="fancy-title title-center title-border mt-0 mb-2">
+                                            <h4>
+                                                De enero a diciembre 2020, se brindó asistencia a un total de 267
+                                                entidades por un total de $ 352.405.220
+
+                                            </h4>
+                                        </div>
+                                    </div>
+
+                                    <div class="row col-md-12 col-mb-50 justify-content-center">
+                                        <div class="col-sm-6 col-lg-4 text-center m-0 p-0">
+                                            <i class="i-plain i-large mx-auto mb-0 icon-diamond"></i>
+                                            <div class="counter counter-medium" style="color: #e74c3c">
+                                                <span data-places="0" data-from="""
+                                            data-to=" 0" data-refresh-interval="500"
+                                                    data-speed="2000">331.790.516</span> $
+                                            </div>
+                                            <h5>presupuestos para capacitación y fortalecimiento institucional</h5>
+                                        </div>
+                                        <div class="col-sm-6 col-lg-4 text-center m-0 p-0">
+                                            <i class="i-plain i-large mx-auto mb-0 icon-diamond"></i>
+                                            <div class="counter counter-medium" style="color: #e74c3c">
+                                                <span data-places="1" data-from="" data-to="12.899.029"
+                                                    data-refresh-interval="50" data-speed="2000">12.899.029 </span> $
+                                            </div>
+                                            <h5>aportes especiales: exposiciones / eventos / talleres/ jornadas</h5>
+                                        </div>
+                                        <div class="col-sm-6 col-lg-4 text-center m-0 p-0">
+                                            <i class="i-plain i-large mx-auto mb-0 icon-diamond"></i>
+                                            <div class="counter counter-medium" style="color: #e74c3c">
+                                                <span data-places="1" data-from="" data-to="1.539.747"
+                                                    data-refresh-interval="50" data-speed="2000">1.539.747</span> $
+                                            </div>
+                                            <h5>reintegro de gastos</h5>
+                                        </div>
+                                        <div class="col-sm-6 col-lg-6 text-center m-0 p-0">
+                                            <i class="i-plain i-large mx-auto mb-0 icon-diamond"></i>
+                                            <div class="counter counter-medium" style="color: #e74c3c">
+                                                <span d data-places="1" data-from="" data-to="49"
+                                                    data-refresh-interval="50" data-speed="2000">4.902.909</span> $
+                                            </div>
+                                            <h5>encuestas / estadísticas / relevamiento datos</h5>
+                                        </div>
+
+                                        <div class="col-sm-6 col-lg-6 text-center m-0 p-0">
+                                            <i class="i-plain i-large mx-auto mb-0 icon-diamond"></i>
+                                            <div class="counter counter-medium" style="color: #e74c3c">
+                                                <span data-places="1" data-from="" data-to="1273019"
+                                                    data-refresh-interval="10000" data-speed="20000">1.273.019</span> $
+                                            </div>
+                                            <h5>aportes al CCCA</h5>
+                                        </div>
+
+                                    </div>
+                                    <div class="clear m-3"></div>
+
+
+
+
                                 </div>
                             </div>
                         </div>
-
-
-
-
-
-
-                       
-                        <div class="row justify-content-between">
-                            <div class="col-md-12">
-                         
-                                <div class="fancy-title title-center title-border mt-0 mb-2">
-                                    <h4>
-                                    De enero a diciembre 2020, se brindó asistencia a un total de 267 entidades por un total de $ 352.405.220
-                                        
-                                    </h4>
-                                </div>
-                            </div>
-
-                            <div class="row col-md-12 col-mb-50 justify-content-center">
-                                <div class="col-sm-6 col-lg-4 text-center m-0 p-0">
-                                    <i class="i-plain i-large mx-auto mb-0 icon-diamond"></i>
-                                    <div class="counter counter-medium" style="color: #e74c3c">
-                                        <span  data-places="0" data-from="""
-                                            data-to="0" data-refresh-interval="500" data-speed="2000">331.790.516</span> $
-                                    </div>
-                                    <h5>presupuestos para capacitación y fortalecimiento institucional</h5>
-                                </div>
-                                <div class="col-sm-6 col-lg-4 text-center m-0 p-0">
-                                    <i class="i-plain i-large mx-auto mb-0 icon-diamond"></i>
-                                    <div class="counter counter-medium" style="color: #e74c3c">
-                                        <span  data-places="1" data-from=""
-                                            data-to="12.899.029" data-refresh-interval="50" data-speed="2000">12.899.029 </span> $
-                                    </div>
-                                    <h5>aportes especiales: exposiciones / eventos / talleres/ jornadas</h5>
-                                </div>
-                                <div class="col-sm-6 col-lg-4 text-center m-0 p-0">
-                                    <i class="i-plain i-large mx-auto mb-0 icon-diamond"></i>
-                                    <div class="counter counter-medium" style="color: #e74c3c">
-                                        <span data-places="1" data-from="" data-to="1.539.747"
-                                            data-refresh-interval="50" data-speed="2000">1.539.747</span> $
-                                    </div>
-                                    <h5>reintegro de gastos</h5>
-                                </div>
-                                <div class="col-sm-6 col-lg-6 text-center m-0 p-0">
-                                    <i class="i-plain i-large mx-auto mb-0 icon-diamond"></i>
-                                    <div class="counter counter-medium" style="color: #e74c3c">
-                                        <span d data-places="1" data-from="" data-to="49"
-                                            data-refresh-interval="50" data-speed="2000">4.902.909</span> $
-                                    </div>
-                                    <h5>encuestas / estadísticas / relevamiento datos</h5>
-                                </div>
-
-                                <div class="col-sm-6 col-lg-6 text-center m-0 p-0">
-                                    <i class="i-plain i-large mx-auto mb-0 icon-diamond"></i>
-                                    <div class="counter counter-medium" style="color: #e74c3c">
-                                        <span  data-places="1" data-from="" data-to="1273019"
-                                            data-refresh-interval="10000" data-speed="20000">1.273.019</span> $
-                                    </div>
-                                    <h5>aportes al CCCA</h5>
-                                </div>
-                                
-                                  </div>
-                            <div class="clear m-3"></div>
-
-                           
-
-                       
-                            </div>
-                        </div>
                     </div>
-                </div>
 
 
 
 
 
-                        <div class="clear"></div>
-
-                    </div>
                     <div class="clear"></div>
+
                 </div>
+                <div class="clear"></div>
             </div>
+    </div>
 
 
-
-            <!-- fin Contenido    ============================================= -->
+    <?php include "anterior_siguiente.php"; ?>
+    <!-- fin Contenido    ============================================= -->
     </div>
     </section>
 

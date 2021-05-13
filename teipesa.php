@@ -20,15 +20,15 @@
         <section id="content">
             <div class="content-wrap pt-0 pb-0">
                 <!-- Bienvenida
-		============================================= -->
+	        	============================================= -->
                 <?php include "bienvenida.html"; ?>
                 <?php include "breadcrumbs.php"; ?>
 
                 <!--  /Bienvenida
-		=============================================  -->
+	        	=============================================  -->
 
                 <!-- Contenido
-		============================================= -->
+		        ============================================= -->
                 <div class="center page-section col-lg-12 col-md-12">
                     <div class="container clearfix">
 
@@ -229,12 +229,8 @@
 
                     </div>
                 </div>
-
-
-
-
-
-
+                <?php include "anterior_siguiente.php"; ?>
+            </div>
         </section>
 
 

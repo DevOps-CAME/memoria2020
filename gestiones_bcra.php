@@ -528,6 +528,7 @@
                     </div>
                 </div>
 
+                <?php include "anterior_siguiente.php"; ?>
                 <!-- fin Contenido
     ============================================= -->
             </div>

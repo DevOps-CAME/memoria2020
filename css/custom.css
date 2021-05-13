@@ -264,3 +264,18 @@ div.alignleft {
   font-weight: 600;
   line-height: 3rem;
 }
+
+.anterior-siguiente .nombre img {
+  height: 5rem;
+}
+
+.anterior-siguiente .flecha {
+  font-size: 4rem;
+  background-color: #ecf1ff;
+  line-height: 6rem;
+}
+
+.anterior-siguiente .meta-nav {
+  color: #000000;
+  font-weight: 600;
+}

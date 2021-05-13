@@ -35,7 +35,7 @@
 
                 <!-- Contenido
 		============================================= -->
-                <div id="section-about" class="center page-section col-lg-12 col-md-12">
+                <div class="center page-section col-lg-12 col-md-12">
 
                     <div class="container clearfix">
 
@@ -235,7 +235,7 @@
 
 
 
-
+                <?php include "anterior_siguiente.php"; ?>
             </div>
         </section>
         <!-- #content end -->
