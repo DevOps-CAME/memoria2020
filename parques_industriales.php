@@ -30,7 +30,7 @@
 
                 <!-- Contenido
 		============================================= -->
-                <div id="section-about" class="center page-section col-lg-12 col-md-12">
+                <div class="center page-section col-lg-12 col-md-12">
 
                     <div class="container clearfix">
 
@@ -51,7 +51,6 @@
                         <div class="clear"></div>
                     </div>
                 </div>
-
                 <div class="container clearfix">
                     <div class="row justify-content-center">
                         <div class="col-md-12">
@@ -119,8 +118,6 @@
 
                     </div>
                 </div>
-
-
                 <div class="container clearfix col-lg-12 col-md-12">
                     <div class="row justify-content-between">
                         <div class="col-lg-10 col-md-10 mb-0">
@@ -201,29 +198,30 @@
 
                     </div>
                 </div>
-
-
-
-
-                <!-- Footer
-		============================================= -->
-                <?php include "footer.html"; ?>
-                <!-- #footer end -->
+                <?php include "anterior_siguiente.php"; ?>
             </div>
-            <!-- #wrapper end -->
+        </section>
 
-            <!-- Go To Top
-	============================================= -->
-            <div id="gotoTop" class="icon-angle-up"></div>
 
-            <!-- JavaScripts
-	============================================= -->
-            <script src="js/jquery.js"></script>
-            <script src="js/plugins.min.js"></script>
+        <!-- Footer
+		============================================= -->
+        <?php include "footer.html"; ?>
+        <!-- #footer end -->
+    </div>
+    <!-- #wrapper end -->
 
-            <!-- Footer Scripts
+    <!-- Go To Top
 	============================================= -->
-            <script src="js/functions.js"></script>
+    <div id="gotoTop" class="icon-angle-up"></div>
+
+    <!-- JavaScripts
+	============================================= -->
+    <script src="js/jquery.js"></script>
+    <script src="js/plugins.min.js"></script>
+
+    <!-- Footer Scripts
+	============================================= -->
+    <script src="js/functions.js"></script>
 </body>
 
 </html>

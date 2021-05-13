@@ -621,33 +621,34 @@
 
                             </div>
                         </div>
-
-
-                        <!-- fin Contenido
-    ============================================= -->
-                    </div>
                 </section>
-                <!-- #content end -->
+                <?php include "anterior_siguiente.php"; ?>
 
-                <!-- Footer
-		============================================= -->
-                <?php include "footer.html";  ?>
-                <!-- #footer end -->
+                <!-- fin Contenido
+    ============================================= -->
             </div>
-            <!-- #wrapper end -->
+        </section>
+        <!-- #content end -->
 
-            <!-- Go To Top
-	============================================= -->
-            <div id="gotoTop" class="icon-angle-up"></div>
+        <!-- Footer
+		============================================= -->
+        <?php include "footer.html";  ?>
+        <!-- #footer end -->
+    </div>
+    <!-- #wrapper end -->
 
-            <!-- JavaScripts
+    <!-- Go To Top
 	============================================= -->
-            <script src="js/jquery.js"></script>
-            <script src="js/plugins.min.js"></script>
+    <div id="gotoTop" class="icon-angle-up"></div>
 
-            <!-- Footer Scripts
+    <!-- JavaScripts
 	============================================= -->
-            <script src="js/functions.js"></script>
+    <script src="js/jquery.js"></script>
+    <script src="js/plugins.min.js"></script>
+
+    <!-- Footer Scripts
+	============================================= -->
+    <script src="js/functions.js"></script>
 </body>
 
 </html>

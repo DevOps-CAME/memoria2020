@@ -29,7 +29,7 @@
 
                 <!-- Contenido
 		============================================= -->
-                <div id="section-about" class="center page-section col-lg-12 col-md-12 mt-5">
+                <div class="center page-section col-lg-12 col-md-12 mt-5">
                     <div class="container clearfix">
                         <div class="entry event col-12">
                             <div class="grid-inner row align-items-center no-gutters p-4">
@@ -362,7 +362,7 @@
                         </div>
                     </div>
                 </div>
-
+                <?php include "anterior_siguiente.php"; ?>
                 <!-- fin Contenido
     ============================================= -->
             </div>
