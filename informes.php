@@ -191,6 +191,317 @@
 
 
                 </div>
+
+    <!--Comunicacion Comienzo-->
+
+    <div class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
+                    <div class="container clearfix">
+                        <h2 class="subtitulo">
+                        Comunicación estratégica con el asociado y el mundo pyme
+                        </h2>
+                        <h4>(GRÁFICO RESUMEN /YA PEDIDO A SABRI) </h4>
+                        <h3>Impulso a la agenda pyme en medios de comunicación</h3>
+                        <p class="lead mx-auto bottommargin">
+                        Considerando la incidencia que la visibilización de nuestras acciones y 
+                        propuestas adquieren al ser difundidas en medios de prensa, propiciando el debate, 
+                        amplificando la perspectiva sobre el sector y enriqueciendo la agenda en torno a la 
+                        recuperación económica y productiva, tanto a nivel regional como federal, desde CAME 
+                        durante 2020:
+                        </p>
+                        <div class="clear"></div>
+                     </div>
+                 </div>  
+
+
+                 <div class="content-wrap section m-0 p-0">
+                    <div class="container clearfix">
+                        <div class="row justify-content-between mt-4 mb-4">
+
+                            <div class="col-lg-4 col-md-6 my-4" data-animate="bounceInUp" data-delay="50">
+                                <i class="icon-line-stack-2 color ml-0 mb-3 i-plain d-block float-none"></i>
+                                <h4 class="mb-3">+100 Comunicados</h4>
+                                <p>
+                                <bold>Relacionados con la problemática del sector</bold>. Entre ellos se encuentran los informes 
+                                mensuales de ventas minoristas, de fechas comerciales específicas (Navidad, Día del Niño, 
+                                Día de la Madre, Día del Padre, Reyes Magos, Día del Amigo y San Valentín); los relevamientos 
+                                de comercio ilegal en la Argentina; la producción de las pymes industriales; el Índice de 
+                                Precios en Origen y Destino (IPOD); y los balances de la actividad turística durante los fines de 
+                                semana largos y las temporadas (invierno y verano).
+                                </p>
+                            </div>
+
+                            <div class="col-lg-4 col-md-6 my-4" data-animate="bounceInUp" data-delay="100">
+                                <i class="icon-line-mail color ml-0 mb-3 i-plain d-block float-none"></i>
+                                <h4 class="mb-3">+ 365 informes de prensa </h4>
+                                <p>
+                                Se enviaron a las 1.491 entidades adheridas y proveen información estratégica para la toma de 
+                                decisiones en una coyuntura de absoluto dinamismo.
+                                </p>
+                            </div>
+
+                            <div class="col-lg-4 col-md-6 my-4" data-animate="bounceInUp" data-delay="150">
+                                <i class="icon-line-microphone color ml-0 mb-3 i-plain d-block float-none"></i>
+                                <h4 class="mb-3">Líderes de opinión</h4>
+                                <p>
+                                Dimos continuidad a la formación de referentes en temáticas específicas, por sector y por zona
+                                 de incumbencia, en consonancia con nuestra amplitud representativa y nuestra apuesta por seguir
+                                  posicionados como los principales voceros en asuntos pymes.
+                                </p>
+                            </div>
+
+                            
+
+                            
+
+                            
+
+                         
+
+                        </div>
+
+                    </div>
+                </div>
+      
+
+
+
+
+<!-- Revista comerciar comienzo-->
+
+<div class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
+                    <div class="container clearfix">
+                        <h2 class="subtitulo">
+                        Revista Comerciar
+                        </h2>
+                        <p>En el marco de una situación de trabajo remoto y limitaciones de logística, 
+                        dimos continuidad a la producción de la Revista Comercial como house organ de la 
+                        entidad, que pusimos a disposición en su versión digital a través de nuestra web:
+                        </p>
+                    </div> 
+            </div>
+
+
+            <div class="content-wrap">
+                        <div class="container clearfix">
+                            
+                            <div class="row grid-container" data-layout="masonry" style="overflow: visible">
+
+                                <div class="col-lg-3" data-animate="flipInX" data-delay="50">
+                                    <div class="flip-card text-center top-to-bottom">
+                                        <div class="flip-card-front dark" style="background-image: url('http://www.redcame.org.ar/advf/imagenes/2021/05/609289b1c7d2f_800x1116.jpg');      -webkit-filter: grayscale(35%) saturate(2);
+                                        filter: grayscale(35%) saturate(2);">
+                                            <div class="flip-card-inner">
+                                                <div class="card bg-transparent border-0 text-center">
+                                                    <div class="card-body">
+
+                                                        <h3 class="card-title">Abril - 2021
+                                                        </h3>
+
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="flip-card-back" style="background-color:#1E8BC3">
+                                            <div class="flip-card-inner">
+                                                <p class="mb-2 text-white center">Abril - 2021           </p>
+                                                <a href="gestiones_pandemia.php" class="btn btn-outline-light mt-2">
+                                                    Ver más</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-3" data-animate="flipInX" data-delay="100">
+                                    <div class="flip-card text-center top-to-bottom">
+                                        <div class="flip-card-front dark" style="background-image: url('http://www.redcame.org.ar/advf/imagenes/2021/04/606dd3936c2ae_800x1116.jpg');     -webkit-filter: grayscale(35%);
+                                        filter: grayscale(35%);">
+                                            <div class="flip-card-inner">
+                                                <div class="card bg-transparent border-0 text-center">
+                                                    <div class="card-body">
+
+
+                                                        <h3 class="card-title">Marzo - 2021</h3>
+
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="flip-card-back" style="background-color:#1E8BC3">
+                                            <div class="flip-card-inner">
+                                                <p class="mb-2 text-white center">Marzo - 2021</p>
+                                                <a href="gestiones_trib.php" class="btn btn-outline-light mt-2">
+                                                    Ver más</a>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+
+
+                                <div class="col-lg-3" data-animate="flipInX" data-delay="150">
+                                    <div class="flip-card text-center top-to-bottom">
+                                        <div class="flip-card-front dark" style="background-image: url('http://www.redcame.org.ar/advf/imagenes/2021/03/60417b93e95aa_800x1116.jpg');     -webkit-filter: grayscale(35%);
+                                        filter: grayscale(35%);">
+                                            <div class="flip-card-inner">
+                                                <div class="card bg-transparent border-0">
+                                                    <div class="card-body">
+
+
+                                                        <h3 class="card-title mb-0">Febrero - 2021</h3>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="flip-card-back" style="background-color:#1E8BC3">
+                                            <div class="flip-card-inner">
+                                                <p class="mb-2 text-white center">Febrero - 2021</p>
+                                                <a href="gestiones_gobierno.php#gestiones_consumo"
+                                                    class="btn btn-outline-light mt-2">
+                                                    Ver más</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-3" data-animate="flipInX" data-delay="200">
+                                    <div class="flip-card text-center top-to-bottom">
+                                        <div class="flip-card-front dark" style="
+                                            background-image: url('http://www.redcame.org.ar/advf/imagenes/2020/12/5feca56172ddb_800x1116.jpg');
+                                            -webkit-filter: grayscale(35%) saturate(2);
+                                            filter: grayscale(35%) saturate(2);">
+                                            <div class="flip-card-inner">
+                                                <div class="card bg-transparent border-0">
+                                                    <div class="card-body">
+                                                        <h3 class="card-title mb-0">Diciembre - 2020</h3>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="flip-card-back" style="background-color:#1E8BC3">
+                                            <div class="flip-card-inner">
+                                                <p class="mb-2 text-white center">Diciembre - 2020</p>
+                                                <a href="gestiones_gobierno.php#gestiones_paritaria"
+                                                    class="btn btn-outline-light mt-2">
+                                                    Ver más</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+
+
+                                    
+
+                            </div>
+                        </div>
+                    </div>
+
+  <!--Revistar Comerciar FIN-->
+
+  <div class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
+                    <div class="container clearfix">
+                        <h2 class="subtitulo">
+                        Confiabilidad en la información y transparencia en el análisis
+                        </h2>
+                        <p>Desde el sector de Estadísticas e Informes relevamos y analizamos la información 
+                        de interés para la actividad pyme mediante la realización de índices mensuales: Ventas 
+                        Minoristas, Índice de Producción Industrial Pyme (IPIP), Índice de Precios en Origen y Destino, y 
+                        estudios específicos que buscan captar las singularidades de los sectores y hacer más exhaustivo 
+                        el análisis, por ejemplo, los monitores de exportación y las cadenas de valor. A su vez, se generan 
+                        informes en conjunto con Mujeres Empresarias, Jóvenes Empresarios, y Financiamiento, con perspectivas 
+                        específicas de cada sector.
+                        </p>
+                        <p>Asimismo, durante el año 2020, y debido a la pandemia se realizaron estudios que nos permitieron 
+                        conocer el impacto que esto provocó en las pequeñas y medianas empresas. Para ello, <bold>medimos más de 1500 
+                        comercios, industrias, productores de las economías regionales, jóvenes empresarios y mujeres empresarias,</bold> 
+                        en los <bold>cinco relevamientos</bold> realizados con el objetivo de dimensionar los efectos del COVID-19 en el entramado 
+                        pyme nacional.
+                        </p>
+                        <h2 class="subtitulo">
+                        PRINCIPALES RESULTADOS 
+                        </h2>
+
+
+                    </div> 
+            </div>
+
+       <!--Counter comiengo-->     
+       <div class="section border-top-0 topmargin-sm bottommargin-sm border-0 bg-transparent">
+					<div class="container clearfix">
+
+						<div class="row col-mb-50">
+							<div class="col-sm-6 col-lg-3 text-center bounceIn animated" data-animate="bounceIn">
+								<i class="i-plain i-xlarge mx-auto mb-0 icon-code"></i>
+								<div class="counter counter-lined"><span data-from="10" data-to="59" data-refresh-interval="5" data-speed="2000">59,4</span>%</div>
+								<h5>de las empresas encuestadas debió tomar nuevos créditos para poder sostenerse, y los mismos representaron, 
+                                en promedio, cerca del 28% de la facturación correspondiente al año 2019. </h5>
+							</div>
+
+							<div class="col-sm-6 col-lg-3 text-center bounceIn animated" data-animate="bounceIn" data-delay="200">
+								<i class="i-plain i-xlarge mx-auto mb-0 icon-magic"></i>
+								<div class="counter counter-lined"><span data-from="1" data-to="21" data-refresh-interval="2" data-speed="2000">21,4</span>%</div>
+								<h5>Fue la caída anual promedio versus el mismo período de 2019, para las ventas minoristas pyme. En el caso del Índice de Producción 
+                                Industrial Pyme (IPIP), la caída fue del 14,8%, mientras que el Índice de Precios en Origen y Destino (IPOD) registró una mejora de 8,5%.</h5>
+							</div>
+
+							<div class="col-sm-6 col-lg-3 text-center bounceIn animated" data-animate="bounceIn" data-delay="400">
+								<i class="i-plain i-xlarge mx-auto mb-0 icon-file-text"></i>
+								<div class="counter counter-lined"><span data-from="1000" data-to="90700" data-refresh-interval="1000" data-speed="2000">90.700</span> Locales</div>
+								<h5>Se estima cerraron en 2020: 41.200 pymes y 185.300 trabajadores afectados. Los rubros con más cierres fueron indumentaria, 
+                                calzados y decoración y textiles para el hogar.</h5>
+							</div>
+
+							<div class="col-sm-6 col-lg-3 text-center bounceIn animated" data-animate="bounceIn" data-delay="600">
+								<i class="i-plain i-xlarge mx-auto mb-0 icon-time"></i>
+								<div class="counter counter-lined"><span data-from="1" data-to="15" data-refresh-interval="2" data-speed="2000">15,6</span>%</div>
+								<h5>Se presume fueron los locales comerciales que cerraron, sin registro de que se hayan mudado a zonas más económicas.</h5>
+							</div>
+						</div>
+
+					</div>
+				</div>
+    <!--Counter fin--> 
+
+
+
+    <div class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
+                    <div class="container clearfix">
+                        <h2 class="subtitulo">
+                        Vanguardia en comunicación digital
+                        </h2>
+                        <p>Conscientes de que las plataformas digitales ocupan un rol informativo 
+                        fundamental en la sociedad, desde el Departamento Redes hemos incorporado nuevas 
+                        herramientas, como las plataformas Instagram y Linkedin, optimizando asimismo las ya 
+                        utilizadas, para estar cada vez más cerca de nuestras entidades asociadas, el sector pyme y el 
+                        público de interés. 
+                        </p>
+                        <p>A tal fin, además, hemos innovado en la estética de cada red, profesionalizado el contenido 
+                        audiovisual, impulsado las redes sociales de cada sector y secretaría, y puesto en marcha el nuevo 
+                        sitio web oficial de la entidad, un espacio online reestructurado con un diseño atractivo e innovador 
+                        que permite una navegación más sencilla e intuitiva. 
+                        </p>
+                        </div>
+
+
+
+       </div> 
+    
+
+
+
+
+
+
+
+
+
+
+
+  <!--Comunicacion FIN-->
+
                 <div class="clear m-5"></div>
 
 
