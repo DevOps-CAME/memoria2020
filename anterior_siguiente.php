@@ -1,6 +1,7 @@
 <?php
 
 $array_urls = array(
+    'index.php' => array( 'url' => 'index.php','nombre'=>'Informe de gestión 2020'),
     'gestiones_gobierno.php' => array('url' => 'gestiones_gobierno.php','nombre'=>'Gestiones y acciones de Gobierno'),
     'calidad_transparencia.php' => array('url' => 'calidad_transparencia.php','nombre'=>'Calidad y transparencia'),
     'informes.php' => array('url' => 'informes.php','nombre'=>'Informes, Estadísticas y Comunicación'),
@@ -23,10 +24,11 @@ $array_urls = array(
     'capacitacion.php'  => array( 'url' => 'capacitacion.php','nombre'=>'<img src="imgs/sec/capacitacion.png"> Capacitación'),
     'financiamiento.php'  => array( 'url' => 'financiamiento.php','nombre'=>'<img src="imgs/sec/financiamiento.png"> Financiamiento y Competitividad'),
     'comex.php'  => array( 'url' => 'comex.php','nombre'=>'<img src="imgs/sec/comercio_servicios.png"> Comercio Exterior'),
-    'rondas.php'  => array( 'url' => 'rondas.php','nombre'=>'<img src="imgs/sec/rondas.png"> Rondas de Negocios')
+    'rondas.php'  => array( 'url' => 'rondas.php','nombre'=>'<img src="imgs/sec/rondas.png"> Rondas de Negocios'),
+    'index.php' => array( 'url' => 'index.php','nombre'=>'Informe de gestión 2020')
     );
 
-    $array_urlSimple = array('gestiones_gobierno.php','calidad_transparencia.php','informes.php','teipesa.php','sello_sustentable.php',
+    $array_urlSimple = array('index.php','gestiones_gobierno.php','calidad_transparencia.php','informes.php','teipesa.php','sello_sustentable.php',
         'weps.php','propuestas_gob.php','gestiones_trib.php',
         'gestiones_bcra.php',
         'gestiones_pandemia.php',
@@ -42,7 +44,8 @@ $array_urls = array(
         'capacitacion.php',
         'financiamiento.php',
         'comex.php',
-        'rondas.php'
+        'rondas.php',
+        'index.php'
         );   
 
 $url= $_SERVER['REQUEST_URI'];    
@@ -60,12 +63,10 @@ $siguiente =  $array_urlSimple[$clave+1];
     <div class="container clearfix col-md-12 d-flex align-content-center flex-wrap align-items-center">
         <div class="col-md-6">
 
-            <a title="Anterior" href="<?php echo $array_urls[$url_actual]['url']; ?>">
+            <a title="Anterior" href="<?php echo $array_urls[$anterior]['url']; ?>">
                 <div class="col-1 float-left p-0 mr-3"><i class="flecha icon-line-arrow-left"></i></div>
-                <div class="float-left p-2 ml-2 text-left"
-                    style="background: linear-gradient(90deg, #ecf1ff, #ffffff);">
-
-
+                <div class="col-10 float-left p-2 ml-2 text-left"
+                    style="background: linear-gradient(90deg, #ecf1ff, #ffffff); line-height: 5rem;">
                     <span class="nombre"><?php echo $array_urls[$anterior]['nombre']; ?></span>
                 </div>
             </a>
@@ -73,11 +74,10 @@ $siguiente =  $array_urlSimple[$clave+1];
         </div>
         <div class="col-md-6">
 
-            <a title="Siguiente" href="<?php echo $array_urls[$url_actual]['url']; ?>">
+            <a title="Siguiente" href="<?php echo $array_urls[$siguiente]['url']; ?>">
                 <div class="col-1 float-right p-0 ml-1"><i class="flecha icon-line-arrow-right"></i></div>
-                <div class="float-right p-2 mr-2 text-right"
-                    style="background: linear-gradient(90deg, #ffffff,#ecf1ff );">
-
+                <div class="col-10 float-right p-2 mr-2 text-right"
+                    style="background: linear-gradient(90deg, #ffffff,#ecf1ff ); line-height: 5rem;">
                     <span class="nombre"><?php echo $array_urls[$siguiente]['nombre']; ?></span>
                 </div>
 

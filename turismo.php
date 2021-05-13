@@ -45,44 +45,72 @@
                     </div>
                 </div>
 
+                <div class="container clearfix">
+                    <div class="row  text-justify">
+                        <div class="col-md-4 mt-2 mb-2">
+                            <bold>XIX Foro Internacional de Ciudad, Comercio y Turismo “Turismo y Comercio ante la
+                                pandemia”:</bold>
+                            Esta especial edición se realizó el 30 y 31 de julio de 2020, de forma virtual. Participaron
+                            más 2700 dirigentes.
+                        </div>
+                        <div class="col-md-4  mt-2 mb-2">
+                            Llevamos a cabo <bold>9 reuniones de la Mesa Nacional de CAME Turismo,</bold> 8 de las
+                            cuales se
+                            realizaron de forma virtual.</div>
 
-                <p>
-                <h1>PONERLE ONDA</h1>
-                - XIX Foro Internacional de Ciudad, Comercio y Turismo “Turismo y Comercio ante la pandemia”: Esta
-                especial edición se realizó el 30 y 31 de julio de 2020, de forma virtual. Participaron más 2700
-                dirigentes.
+                        <div class="col-md-4  mt-2 mb-2">Realizamos reuniones de nuestro equipo técnico, que
+                            fortalecimos a través
+                            de
+                            la incorporación de
+                            especialistas en diversas temáticas a fin de dar respuesta al nuevo paradigma impuesto por
+                            la
+                            pandemia.</div>
 
-                - Llevamos a cabo 9 reuniones de la Mesa Nacional de CAME Turismo, 8 de las cuales se realizaron de
-                forma virtual.
+                        <div class="col-md-12 mt-2 mb-2">Organizamos encuentros con referentes destacados de la
+                            actividad
+                            turística,
+                            con el objetivo de
+                            realizar un diagnóstico de situación por la que atraviesa la actividad turística a nivel
+                            nacional e
+                            internacional:
+                            <ul class="pl-4">
+                                <li>Dr. Maurice Fabián Closs, Senador Nacional y ex Gobernador de la provincia de
+                                    Misiones.</li>
+                                <li>Sr. Marco Palacios, ex presidente de la Cámara Argentina de Turismo (CAT).</li>
+                                <li>Ing. Hernán Lombardi, ex Ministro de Turismo, Cultura y Deportes de la Nación
+                                    Argentina.</li>
+                                <li>Lic. Gabriela TESTA, Senadora provincial de Mendoza y ex presidente del Ente Mendoza
+                                    Turismo.</li>
+                                <li>Sr. Bernardo Racedo Aragón, experto en turismo y ex presidente del CFT.</li>
+                                <li>Fabián Lombardo, director comercial de Planeamiento y Gestión de Rutas (CCO Chief
+                                    Commercial Officer) en Aerolíneas Argentinas.</li>
+                                <li>Sr. Aldo Elías, actual presidente de la Cámara Argentina de Turismo (CAT).</li>
+                            </ul>
+                        </div>
 
-                - Realizamos reuniones de nuestro equipo técnico, que fortalecimos a través de la incorporación de
-                especialistas en diversas temáticas a fin de dar respuesta al nuevo paradigma impuesto por la pandemia.
+                        <div class="col-md-6 mt-2 mb-2">
+                            Dialogamos con los principales responsables de la cartera nacional, así como con
+                            referentes
+                            sectoriales, llevando las inquietudes de nuestras entidades y planteando propuestas:
+                            <ul class="pl-4">
+                                <li>El Ministro de Turismo y Deporte, Dr. Matías Lammens.</li>
+                                <li> La Secretaria de Promoción Turística de la Nación, Dra. Yanina Martínez.</li>
+                                <li> El Sr. Ricardo Sosa, Secretario Ejecutivo del INPROTUR.</li>
+                            </ul>
+                        </div>
 
-                - Organizamos encuentros con referentes destacados de la actividad turística, con el objetivo de
-                realizar un diagnóstico de situación por la que atraviesa la actividad turística a nivel nacional e
-                internacional:
-                - Dr. Maurice Fabián Closs, Senador Nacional y ex Gobernador de la provincia de Misiones.
-                 Sr. Marco Palacios, ex presidente de la Cámara Argentina de Turismo (CAT).
-                 Ing. Hernán Lombardi, ex Ministro de Turismo, Cultura y Deportes de la Nación Argentina.
-                 Lic. Gabriela TESTA, Senadora provincial de Mendoza y ex presidente del Ente Mendoza Turismo.
-                 Sr. Bernardo Racedo Aragón, experto en turismo y ex presidente del CFT.
-                 Fabián Lombardo, director comercial de Planeamiento y Gestión de Rutas (CCO Chief Commercial Officer)
-                en Aerolíneas Argentinas.
-                 Sr. Aldo Elías, actual presidente de la Cámara Argentina de Turismo (CAT).
+                        <div class="col-md-6  mt-2 mb-2">También llevamos a cabo reuniones con referentes de otros
+                            países, con el
+                            objetivo de compartir
+                            experiencias en el marco de una crisis de carácter global: nos reunimos con el Arq. Gustavo
+                            Restrepo,
+                            experto en transformación de ciudades, de Medellín Colombia; y el Lic. Leire, gerente del
+                            Ente
+                            de
+                            Turismo de Benidorm (Bilbao, España).</div>
+                    </div>
+                </div>
 
-
-                - Dialogamos con los principales responsables de la cartera nacional, así como con referentes
-                sectoriales, llevando las inquietudes de nuestras entidades y planteando propuestas:
-                 El Ministro de Turismo y Deporte, Dr. Matías Lammens.
-                 La Secretaria de Promoción Turística de la Nación, Dra. Yanina Martínez.
-                 El Sr. Ricardo Sosa, Secretario Ejecutivo del INPROTUR.
-
-                - También llevamos a cabo reuniones con referentes de otros países, con el objetivo de compartir
-                experiencias en el marco de una crisis de carácter global: nos reunimos con el Arq. Gustavo Restrepo,
-                experto en transformación de ciudades, de Medellín Colombia; y el Lic. Leire, gerente del Ente de
-                Turismo de Benidorm (Bilbao, España).
-
-                </p>
                 <div class="container clearfix col-lg-12 col-md-12">
                     <div class="row justify-content-between">
                         <div class="col-lg-10 col-md-10 mb-0">
@@ -93,17 +121,21 @@
                         <div class="col-lg-3 col-md-4 my-4">
                             <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
                             <p class="text-muted">
-                                - A partir del intercambio con líderes del sector, y referentes de todas las provincias,
+                                - A partir del intercambio con líderes del sector, y referentes de todas las
+                                provincias,
                                 elaboramos el documento denominado <bold class="display-5 color font-weight-medium">
-                                    “Reflexiones y propuestas para apoyar la recuperación del turismo argentino en el
-                                    marco de la pandemia por el COVID-19”,</bold> el cual fue presentado al presidente
+                                    “Reflexiones y propuestas para apoyar la recuperación del turismo argentino en
+                                    el
+                                    marco de la pandemia por el COVID-19”,</bold> el cual fue presentado al
+                                presidente
                                 de la Nación, Dr. Alberto Fernández.
                             </p>
                         </div>
                         <div class="col-lg-3 col-md-4 my-4">
                             <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
                             <p class="text-muted">
-                                Convenio de colaboración para desarrollar CCA con el Gobierno de la Provincia de Santa
+                                Convenio de colaboración para desarrollar CCA con el Gobierno de la Provincia de
+                                Santa
                                 Fe, suscripto por CAME, AER, FSCCA, FECECO y el Ministerio de Producción de la
                                 provincia.
                             </p>
@@ -112,13 +144,15 @@
                             <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
                             <p class="text-muted">
                                 Acompañamiento a la Federación Económica de Tucumán (FET) y rechazo del accionar del
-                                Sindicato de Empleados de Comercio (SEOC) que imposibilitó aperturas en la provincia.
+                                Sindicato de Empleados de Comercio (SEOC) que imposibilitó aperturas en la
+                                provincia.
                             </p>
                         </div>
                         <div class="col-lg-3 col-md-4 my-4">
                             <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
                             <p class="text-muted">
-                                Apoyo para el lanzamiento de promociones de Fin de Año, para 87 CCA y entidades de 12
+                                Apoyo para el lanzamiento de promociones de Fin de Año, para 87 CCA y entidades de
+                                12
                                 provincias.
                             </p>
                         </div>
@@ -149,8 +183,10 @@
                                                     data-refresh-interval="10" data-speed="1600">10</span> </div>
 
                                             <p>
-                                                <bold class="display-5 color font-weight-medium">entidades y CCA</bold>
-                                                recibieron asistencia para actualizar y potenciar plataformas digitales
+                                                <bold class="display-5 color font-weight-medium">entidades y CCA
+                                                </bold>
+                                                recibieron asistencia para actualizar y potenciar plataformas
+                                                digitales
                                                 de fidelización de clientes.
                                             </p>
                                         </div>
@@ -165,8 +201,10 @@
                                                     data-refresh-interval="10" data-speed="1600">2700</span> </div>
 
                                             <p>
-                                                <bold class="display-5 color font-weight-medium">participantes</bold> en
-                                                el XIX Foro Internacional sobre Ciudad, Comercio y Turismo, realizado en
+                                                <bold class="display-5 color font-weight-medium">participantes
+                                                </bold> en
+                                                el XIX Foro Internacional sobre Ciudad, Comercio y Turismo,
+                                                realizado en
                                                 formato virtual.
                                             </p>
                                         </div>
@@ -181,7 +219,8 @@
                                                     data-refresh-interval="10" data-speed="1600">6</span> </div>
 
                                             <p>
-                                                <bold class="display-5 color font-weight-medium">campañas audiovisuales
+                                                <bold class="display-5 color font-weight-medium">campañas
+                                                    audiovisuales
                                                     de concientización</bold> que destacan el rol del comercio en la
                                                 comunidad y apelan a la responsabilidad sanitaria.
                                             </p>
@@ -197,7 +236,8 @@
                                                     data-refresh-interval="10" data-speed="1600">15</span> </div>
 
                                             <p>
-                                                <bold class="display-5 color font-weight-medium">ciudades</bold> de 6
+                                                <bold class="display-5 color font-weight-medium">ciudades</bold> de
+                                                6
                                                 provincias recibieron propuestas técnicas para proyectos de CCA en
                                                 desarrollo.
                                             </p>
@@ -214,7 +254,8 @@
                                                     data-refresh-interval="10" data-speed="1600">16</span> </div>
 
                                             <p>
-                                                <bold class="display-5 color font-weight-medium">ciudades</bold> de 7
+                                                <bold class="display-5 color font-weight-medium">ciudades</bold> de
+                                                7
                                                 provincias recibieron asistencia técnica para CCA ya establecidos.
                                             </p>
                                         </div>
@@ -231,7 +272,8 @@
                                             <p>
                                                 <bold class="display-5 color font-weight-medium">coloquios
                                                     internacionales:</bold> “Los Centros Comerciales Abiertos en
-                                                cuarentena” (con 220 participantes) y “Los desafíos pospandemia para el
+                                                cuarentena” (con 220 participantes) y “Los desafíos pospandemia para
+                                                el
                                                 Comercio Minorista y los CCA” (con 115 participantes).
                                             </p>
                                         </div>
@@ -246,8 +288,10 @@
                                                     data-refresh-interval="10" data-speed="1600">4</span> </div>
 
                                             <p>
-                                                <bold class="display-5 color font-weight-medium">encuentros</bold> en el
-                                                marco del ciclo de CCA Sustentables, iniciativa desarrollada junto con
+                                                <bold class="display-5 color font-weight-medium">encuentros</bold>
+                                                en el
+                                                marco del ciclo de CCA Sustentables, iniciativa desarrollada junto
+                                                con
                                                 el Departamento de RSE de CAME.
                                             </p>
                                         </div>

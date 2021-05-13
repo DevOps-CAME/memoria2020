@@ -397,7 +397,7 @@
                         <div class="clear"></div>
                     </div>
                 </div>
-                <hr>
+                <hr id="contra_ilegalidad">
                 <div class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
                     <div class="container clearfix">
                         <h2 class="subtitulo">
