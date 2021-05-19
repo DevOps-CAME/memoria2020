@@ -117,12 +117,6 @@
                                 tarjeta prepaga business de Latinoamérica en los primeros meses de 2021.
                             </p>
 
-                            <div>
-                                <iframe width="560" height="315" src="https://www.youtube.com/embed/oRsAodqTM_Y"
-                                    title="YouTube video player" frameborder="0"
-                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                    allowfullscreen></iframe>
-                            </div>
                         </div>
 
                         <div class="center col-md-4">
@@ -140,6 +134,38 @@
 
                         </div>
 
+                    </div>
+                </div>
+
+                <div class="container clearfix mt-5 mb-5">
+                    <div class="row">
+                        <div class="center col-md-4">
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/oRsAodqTM_Y"
+                                title="YouTube video player" frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen></iframe>
+
+                        </div>
+                        <div class="center col-md-4">
+                            <div class="promo promo-light p-4 p-md-5 mb-5">
+                                <div class="row align-items-center">
+                                    <div class="col-12 col-lg">
+                                        <p class="m-0">Con CAME PAGOS, una de las 10 billeteras más descargadas de los
+                                            stores
+                                            en Argentina durante la cuarentena, fuimos semifinalistas en dos
+                                            competencias
+                                            internacionales de fintech.</p>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="center col-md-4">
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/PbFQXepUGO8"
+                                title="YouTube video player" frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen></iframe>
+                        </div>
                     </div>
                 </div>
 
@@ -163,18 +189,7 @@
                                 los costos de plataformas aproximadamente del 30% al 5% en los comercios gastronómicos.
                             </p>
 
-                            <div class="promo promo-light p-4 p-md-5 mb-5">
-                                <div class="row align-items-center">
-                                    <div class="col-12 col-lg">
-                                        <p class="m-0">Con CAME PAGOS, una de las 10 billeteras más descargadas de los
-                                            stores
-                                            en Argentina durante la cuarentena, fuimos semifinalistas en dos
-                                            competencias
-                                            internacionales de fintech.</p>
-                                    </div>
 
-                                </div>
-                            </div>
 
                         </div>
 
@@ -192,12 +207,7 @@
 
 
 
-                            <div class="col-lg-12 bottommargin-lg">
-                                <iframe width="560" height="315" src="https://www.youtube.com/embed/PbFQXepUGO8"
-                                    title="YouTube video player" frameborder="0"
-                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                    allowfullscreen></iframe>
-                            </div>
+
 
 
                         </div>

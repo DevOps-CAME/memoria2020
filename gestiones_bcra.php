@@ -333,7 +333,7 @@
                                 </div>
                             </div>
 
-                            <div class="entry col-md-4 col-sm-6 col-12">
+                            <div class="entry col-md-6 col-sm-6 col-12">
                                 <div class="grid-inner">
                                     <div class="entry-image">
                                         <a href="http://www.redcame.org.ar/novedades/7892/cheques-rechazados-y-apertura-regular-de-bancos-solicitamos-al-bcra-medidas-urgentes-para-las-pymes"
@@ -376,7 +376,7 @@
                                 </div>
                             </div>
 
-                            <div class="entry col-md-4 col-sm-6 col-12">
+                            <div class="entry col-md-6 col-sm-6 col-12">
                                 <div class="grid-inner">
                                     <div class="entry-image">
                                         <a href="http://www.redcame.org.ar/novedades/7880/solicitamos-a-agencias-de-antecedentes-comerciales-y-crediticios-que-no-publiquen-cheques-rechazados-durante-el-aislamiento"

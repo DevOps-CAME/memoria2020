@@ -279,3 +279,13 @@ div.alignleft {
   color: #000000;
   font-weight: 600;
 }
+
+#tablitaPEVI .table th,
+.table td {
+  padding: 0.5rem;
+  vertical-align: top;
+  border-top: 1px solid #dee2e6;
+}
+#tablitaPEVI {
+  width: 80%;
+}

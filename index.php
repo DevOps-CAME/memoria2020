@@ -175,8 +175,7 @@ include "header.html";
                             </div>
                             <div class="col-md-3 col-sm-6">
                                 <div data-animate="fadeInUp" class="card shadow-sm border-light">
-                                    <img src="demos/coworking/images/features/3.jpg" alt="Featured image 1"
-                                        class="card-img-top" />
+                                    <img src="imgs/reuniones.jpg" alt="Featured image 1" class="card-img-top" />
                                     <div class="card-body">
 
                                         <p class="card-text">
@@ -189,8 +188,7 @@ include "header.html";
                                 </div>
 
                                 <div data-animate="fadeInUp" data-delay="200" class="card shadow-sm border-light mt-4">
-                                    <img src="demos/coworking/images/features/2.jpg" alt="Featured image 2"
-                                        class="card-img-top" />
+                                    <img src="imgs/propuesta.jpg" alt="Featured image 2" class="card-img-top" />
                                     <div class="card-body">
 
                                         <p class="card-text">
@@ -206,21 +204,21 @@ include "header.html";
 
                             <div class="col-md-3 col-sm-6 pl-sm-3 mt-3 mt-sm-0">
                                 <div data-animate="fadeInUp" data-delay="200" class="card shadow-sm border-light">
-                                    <img src="demos/coworking/images/features/1.jpg" alt="Featured image 3"
-                                        class="card-img-top" />
+                                    <img src="imgs/negocioCerrado.jpg" alt="Featured image 3" class="card-img-top" />
                                     <div class="card-body">
 
                                         <p class="card-text">
                                             Continuamos visibilizando la falta de colaboración del sector financiero
-                                            para con las pymes. “Ante la agonía de las pequeñas y medianas empresas, los
-                                            bancos no muestran ningún gesto solidario para salvaguardar al sector más
-                                            importante generador de empleo privado”, por Díaz Beltrán.
+                                            para con las pymes. <em>“Ante la agonía de las pequeñas y medianas empresas,
+                                                los
+                                                bancos no muestran ningún gesto solidario para salvaguardar al sector
+                                                más
+                                                importante generador de empleo privado”</em>, por Díaz Beltrán.
                                         </p>
                                     </div>
                                 </div>
                                 <div data-animate="fadeInUp" data-delay="400" class="card shadow-sm border-light mt-4">
-                                    <img src="demos/coworking/images/features/2.jpg" alt="Featured image 2"
-                                        class="card-img-top" />
+                                    <img src="imgs/colaboracion.jpg" alt="Featured image 2" class="card-img-top" />
                                     <div class="card-body">
 
                                         <p class="card-text">
@@ -263,117 +261,135 @@ include "header.html";
                         <div class="row justify-content-between mt-4 mb-4">
 
                             <div class="col-lg-4 col-md-6 my-4" data-animate="bounceInUp" data-delay="50">
-                                <i class="icon-shopping-cart color ml-0 mb-3 i-plain d-block float-none"></i>
-                                <h4 class="mb-3">Comercio y Servicios</h4>
-                                <p>
-                                    Brindamos asistencia técnica con foco en los procesos de digitalización,
-                                    incluyendo la
-                                    integración de los formatos presenciales y digitales de los comercios. De esta
-                                    manera,
-                                    generamos recursos para afrontar los desafíos del contexto actual en los Centros
-                                    Comerciales Abiertos de todo el país.
-                                </p>
+                                <a href="comercio_servicios.php" style="color:#000;">
+                                    <i class="icon-shopping-cart color ml-0 mb-3 i-plain d-block float-none"></i>
+                                    <h4 class="mb-3">Comercio y Servicios</h4>
+                                    <p>
+                                        Brindamos asistencia técnica con foco en los procesos de digitalización,
+                                        incluyendo la
+                                        integración de los formatos presenciales y digitales de los comercios. De esta
+                                        manera,
+                                        generamos recursos para afrontar los desafíos del contexto actual en los Centros
+                                        Comerciales Abiertos de todo el país.
+                                    </p>
+                                </a>
                             </div>
 
                             <div class="col-lg-4 col-md-6 my-4" data-animate="bounceInUp" data-delay="100">
-                                <i class="icon-industry color ml-0 mb-3 i-plain d-block float-none"></i>
-                                <h4 class="mb-3">Industria</h4>
-                                <p>
-                                    Participamos en las reuniones mensuales de la Comisión Pymes del Ente Regulador
-                                    del Gas
-                                    (ENARGAS), transmitiendo la necesidad de reducir costos energéticos para las
-                                    pymes,
-                                    afectadas por la recesión que produjo la pandemia.
-                                </p>
+                                <a href="industria.php" style="color:#000;">
+                                    <i class="icon-industry color ml-0 mb-3 i-plain d-block float-none"></i>
+                                    <h4 class="mb-3">Industria</h4>
+                                    <p>
+                                        Participamos en las reuniones mensuales de la Comisión Pymes del Ente Regulador
+                                        del Gas
+                                        (ENARGAS), transmitiendo la necesidad de reducir costos energéticos para las
+                                        pymes,
+                                        afectadas por la recesión que produjo la pandemia.
+                                    </p>
+                                </a>
                             </div>
 
                             <div class="col-lg-4 col-md-6 my-4" data-animate="bounceInUp" data-delay="150">
-                                <i class="icon-people-arrows color ml-0 mb-3 i-plain d-block float-none"></i>
-                                <h4 class="mb-3">Parques Industriales</h4>
-                                <p>
-                                    FAPI y RedParques acordaron el inicio de un trabajo conjunto con el objetivo de
-                                    generar
-                                    la agenda sectorial que fortalezca el sector de agrupamientos industriales,
-                                    logísticos y
-                                    tecnológicos de todo el país.
-                                </p>
+                                <a href="parques_industriales.php" style="color:#000;">
+                                    <i class="icon-people-arrows color ml-0 mb-3 i-plain d-block float-none"></i>
+                                    <h4 class="mb-3">Parques Industriales</h4>
+                                    <p>
+                                        FAPI y RedParques acordaron el inicio de un trabajo conjunto con el objetivo de
+                                        generar
+                                        la agenda sectorial que fortalezca el sector de agrupamientos industriales,
+                                        logísticos y
+                                        tecnológicos de todo el país.
+                                    </p>
+                                </a>
                             </div>
 
                             <div class="col-lg-4 col-md-6 my-4" data-animate="bounceInUp" data-delay="50">
-                                <i class="icon-leaf color ml-0 mb-3 i-plain d-block float-none"></i>
-                                <h4 class="mb-3">Economías Regionales</h4>
-                                <p>
-                                    Como miembro permanente de la CNTA, participamos de los debates paritarios y
-                                    nuestra
-                                    postura fue no permitir que durante la pospandemia sigan desapareciendo
-                                    empresas,
-                                    pudiendo así conservarse las fuentes de trabajo.
+                                <a href="economias_regionales.php" style="color:#000;">
+                                    <i class="icon-leaf color ml-0 mb-3 i-plain d-block float-none"></i>
+                                    <h4 class="mb-3">Economías Regionales</h4>
+                                    <p>
+                                        Como miembro permanente de la CNTA, participamos de los debates paritarios y
+                                        nuestra
+                                        postura fue no permitir que durante la pospandemia sigan desapareciendo
+                                        empresas,
+                                        pudiendo así conservarse las fuentes de trabajo.
 
-                                </p>
+                                    </p>
+                                </a>
                             </div>
 
                             <div class="col-lg-4 col-md-6 my-4" data-animate="bounceInUp" data-delay="100">
-                                <i class="icon-plane1 color ml-0 mb-3 i-plain d-block float-none"></i>
-                                <h4 class="mb-3">Turismo</h4>
-                                <p>
-                                    Presentamos un plan integral y federal de promoción y recuperación de la
-                                    actividad,
-                                    denominado “Las pymes turísticas y comerciales en un contexto de coyuntura,
-                                    adaptación
-                                    tecnológica y cambio social”.
-                                </p>
+                                <a href="turismo.php" style="color:#000;">
+                                    <i class="icon-plane1 color ml-0 mb-3 i-plain d-block float-none"></i>
+                                    <h4 class="mb-3">Turismo</h4>
+                                    <p>
+                                        Presentamos un plan integral y federal de promoción y recuperación de la
+                                        actividad,
+                                        denominado “Las pymes turísticas y comerciales en un contexto de coyuntura,
+                                        adaptación
+                                        tecnológica y cambio social”.
+                                    </p>
+                                </a>
                             </div>
 
                             <div class="col-lg-4 col-md-6 my-4" data-animate="bounceInUp" data-delay="150">
-                                <i class="icon-ship color ml-0 mb-3 i-plain d-block float-none"></i>
-                                <h4 class="mb-3">Construcción</h4>
-                                <p>
-                                    Presentamos una propuesta sustentable y federal de construcción de viviendas
-                                    dirigidos a
-                                    la clase media mediante financiamiento público-privado, con la convicción de que
-                                    resultará una herramienta clave en la dinamización del sector y en la
-                                    disminución del
-                                    déficit habitacional.
-                                </p>
+                                <a href="construccion.php" style="color:#000;">
+                                    <i class="icon-ship color ml-0 mb-3 i-plain d-block float-none"></i>
+                                    <h4 class="mb-3">Construcción</h4>
+                                    <p>
+                                        Presentamos una propuesta sustentable y federal de construcción de viviendas
+                                        dirigidos a
+                                        la clase media mediante financiamiento público-privado, con la convicción de que
+                                        resultará una herramienta clave en la dinamización del sector y en la
+                                        disminución del
+                                        déficit habitacional.
+                                    </p>
+                                </a>
                             </div>
 
                             <div class="col-lg-4 col-md-6 my-4" data-animate="bounceInUp" data-delay="50">
-                                <i class="icon-money-bill-wave-alt color ml-0 mb-3 i-plain d-block float-none"></i>
-                                <h4 class="mb-3">Jóvenes</h4>
-                                <p>
-                                    Incorporamos el Premio Emprendedor Solidario COVID-19 con el objetivo de
-                                    promover
-                                    proyectos sustentables, valorando la solidaridad y el esfuerzo de los jóvenes
-                                    que, en
-                                    circunstancias complejas, piensan en lo colectivo y en el bien común.
-                                </p>
+                                <a href="jovenes.php" style="color:#000;">
+                                    <i class="icon-money-bill-wave-alt color ml-0 mb-3 i-plain d-block float-none"></i>
+                                    <h4 class="mb-3">Jóvenes</h4>
+                                    <p>
+                                        Incorporamos el Premio Emprendedor Solidario COVID-19 con el objetivo de
+                                        promover
+                                        proyectos sustentables, valorando la solidaridad y el esfuerzo de los jóvenes
+                                        que, en
+                                        circunstancias complejas, piensan en lo colectivo y en el bien común.
+                                    </p>
+                                </a>
                             </div>
 
                             <div class="col-lg-4 col-md-6 my-4" data-animate="bounceInUp" data-delay="100">
-                                <i class="icon-line2-user-female color ml-0 mb-3 i-plain d-block float-none"></i>
-                                <h4 class="mb-3">Mujeres</h4>
-                                <p>
-                                    CAME adhirió a los Principios para el Empoderamiento de la Mujer (WEP’s),
-                                    convirtiéndonos en la primera entidad gremial empresaria del país en sumarse a
-                                    esta
-                                    iniciativa internacional que propone generar oportunidades de desarrollo para
-                                    las
-                                    mujeres dentro de las empresas y entidades públicas y privadas.
-                                </p>
+                                <a href="mujeres.php" style="color:#000;">
+                                    <i class="icon-line2-user-female color ml-0 mb-3 i-plain d-block float-none"></i>
+                                    <h4 class="mb-3">Mujeres</h4>
+                                    <p>
+                                        CAME adhirió a los Principios para el Empoderamiento de la Mujer (WEP’s),
+                                        convirtiéndonos en la primera entidad gremial empresaria del país en sumarse a
+                                        esta
+                                        iniciativa internacional que propone generar oportunidades de desarrollo para
+                                        las
+                                        mujeres dentro de las empresas y entidades públicas y privadas.
+                                    </p>
+                                </a>
                             </div>
 
                             <div class="col-lg-4 col-md-6 my-4" data-animate="bounceInUp" data-delay="150">
-                                <i class="icon-wifi-full color ml-0 mb-4 i-plain d-block float-none"></i>
-                                <h4 class="mb-3">Modernización</h4>
-                                <p>
-                                    En 2020 lanzamos CAME PAGOS, aplicación digital de gestión de pagos orientada a
-                                    pymes
-                                    que, durante el pasado año mejoró en su funcionalidad, integrándose con CAME
-                                    TIENDAS,
-                                    potenciando el ecosistema. Además, sumó nuevas tarjetas como TUYA, Naranja,
-                                    CABAL y
-                                    PLATA.
-                                </p>
+                                <a href="teipesa.php" style="color:#000;">
+                                    <i class="icon-wifi-full color ml-0 mb-4 i-plain d-block float-none"></i>
+                                    <h4 class="mb-3">Modernización</h4>
+                                    <p>
+                                        En 2020 lanzamos CAME PAGOS, aplicación digital de gestión de pagos orientada a
+                                        pymes
+                                        que, durante el pasado año mejoró en su funcionalidad, integrándose con CAME
+                                        TIENDAS,
+                                        potenciando el ecosistema. Además, sumó nuevas tarjetas como TUYA, Naranja,
+                                        CABAL y
+                                        PLATA.
+                                    </p>
+                                </a>
                             </div>
 
                         </div>

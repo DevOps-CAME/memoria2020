@@ -44,7 +44,7 @@
                                     <div class="grid-inner">
                                         <div class="entry-image">
 
-                                            <img src="imgs/ejemplo.jpg" alt="Marzo" />
+                                            <img src="imgs/prop_gob/01.jpg" alt="Marzo" />
                                             <!-- <div class="entry-date"><span>Marzo</span></div> -->
                                         </div>
                                         <div>
@@ -76,7 +76,7 @@
                                     <div class="grid-inner">
                                         <div class="entry-image">
 
-                                            <img src="imgs/ejemplo.jpg" alt="Abril" />
+                                            <img src="imgs/prop_gob/02.jpg" alt="Abril" />
                                             <!-- <div class="entry-date"><span>Marzo</span></div> -->
                                         </div>
                                         <div>
@@ -103,7 +103,7 @@
                                     <div class="grid-inner">
                                         <div class="entry-image">
 
-                                            <img src="imgs/ejemplo.jpg" alt="Marzo" />
+                                            <img src="imgs/prop_gob/03.jpg" alt="Marzo" />
                                             <!-- <div class="entry-date"><span>Marzo</span></div> -->
 
                                         </div>
@@ -130,7 +130,7 @@
                                     <div class="grid-inner">
                                         <div class="entry-image">
 
-                                            <img src="imgs/ejemplo.jpg" alt="Marzo" />
+                                            <img src="imgs/prop_gob/04.jpg" alt="Marzo" />
                                             <!-- <div class="entry-date"><span>Marzo</span></div> -->
 
                                         </div>
@@ -165,7 +165,7 @@
                                     <div class="grid-inner">
                                         <div class="entry-image">
 
-                                            <img src="imgs/ejemplo.jpg" alt="Marzo" />
+                                            <img src="imgs/prop_gob/05.jpg" alt="Marzo" />
                                             <!-- <div class="entry-date"><span>Marzo</span></div> -->
 
                                         </div>
@@ -194,7 +194,7 @@
                                     <div class="grid-inner">
                                         <div class="entry-image">
 
-                                            <img src="imgs/ejemplo.jpg" alt="Marzo" />
+                                            <img src="imgs/prop_gob/06.jpg" alt="Marzo" />
                                             <!-- <div class="entry-date"><span>Marzo</span></div> -->
 
                                         </div>
@@ -227,7 +227,7 @@
                                     <div class="grid-inner">
                                         <div class="entry-image">
 
-                                            <img src="imgs/ejemplo.jpg" alt="Marzo" />
+                                            <img src="imgs/prop_gob/07.jpg" alt="Marzo" />
                                             <!-- <div class="entry-date"><span>Marzo</span></div> -->
 
                                         </div>
@@ -263,7 +263,7 @@
                                     <div class="grid-inner">
                                         <div class="entry-image">
 
-                                            <img src="imgs/ejemplo.jpg" alt="Marzo" />
+                                            <img src="imgs/prop_gob/08.jpg" alt="Marzo" />
                                             <!-- <div class="entry-date"><span>Marzo</span></div> -->
                                         </div>
 
@@ -292,7 +292,7 @@
                                     <div class="grid-inner">
                                         <div class="entry-image">
 
-                                            <img src="imgs/ejemplo.jpg" alt="Marzo" />
+                                            <img src="imgs/prop_gob/09.jpg" alt="Marzo" />
                                             <!-- <div class="entry-date"><span>Marzo</span></div> -->
                                         </div>
 
@@ -318,7 +318,7 @@
                                     <div class="grid-inner">
                                         <div class="entry-image">
 
-                                            <img src="imgs/ejemplo.jpg" alt="Marzo" />
+                                            <img src="imgs/prop_gob/10.jpg" alt="Marzo" />
                                             <!-- <div class="entry-date"><span>Marzo</span></div> -->
                                         </div>
 
@@ -360,7 +360,7 @@
                                     <div class="grid-inner">
                                         <div class="entry-image">
 
-                                            <img src="imgs/ejemplo.jpg" alt="Marzo" />
+                                            <img src="imgs/prop_gob/11.jpg" alt="Marzo" />
                                             <!-- <div class="entry-date"><span>Marzo</span></div> -->
                                         </div>
 
@@ -396,7 +396,7 @@
                                     <div class="grid-inner">
                                         <div class="entry-image">
 
-                                            <img src="imgs/ejemplo.jpg" alt="Marzo" />
+                                            <img src="imgs/prop_gob/12.jpg" alt="Marzo" />
                                             <!-- <div class="entry-date"><span>Marzo</span></div> -->
                                         </div>
 
@@ -432,7 +432,7 @@
                                     <div class="grid-inner">
                                         <div class="entry-image">
 
-                                            <img src="imgs/ejemplo.jpg" alt="Marzo" />
+                                            <img src="imgs/prop_gob/13.jpg" alt="Marzo" />
                                             <!-- <div class="entry-date"><span>Marzo</span></div> -->
                                         </div>
 
@@ -459,7 +459,7 @@
                                     <div class="grid-inner">
                                         <div class="entry-image">
 
-                                            <img src="imgs/ejemplo.jpg" alt="Marzo" />
+                                            <img src="imgs/prop_gob/14.jpg" alt="Marzo" />
                                             <!-- <div class="entry-date"><span>Marzo</span></div> -->
                                         </div>
 
@@ -498,7 +498,7 @@
                                     <div class="grid-inner">
                                         <div class="entry-image">
 
-                                            <img src="imgs/ejemplo.jpg" alt="Marzo" />
+                                            <img src="imgs/prop_gob/15.jpg" alt="Marzo" />
                                             <!-- <div class="entry-date"><span>Marzo</span></div> -->
                                         </div>
 
@@ -525,7 +525,7 @@
                                     <div class="grid-inner">
                                         <div class="entry-image">
 
-                                            <img src="imgs/ejemplo.jpg" alt="Marzo" />
+                                            <img src="imgs/prop_gob/16.jpg" alt="Marzo" />
                                             <!-- <div class="entry-date"><span>Marzo</span></div> -->
                                         </div>
 
@@ -556,7 +556,7 @@
                                     <div class="grid-inner">
                                         <div class="entry-image">
 
-                                            <img src="imgs/ejemplo.jpg" alt="Marzo" />
+                                            <img src="imgs/prop_gob/17.jpg" alt="Marzo" />
                                             <!-- <div class="entry-date"><span>Marzo</span></div> -->
                                         </div>
 
@@ -584,7 +584,7 @@
                                     <div class="grid-inner">
                                         <div class="entry-image">
 
-                                            <img src="imgs/ejemplo.jpg" alt="Marzo" />
+                                            <img src="imgs/prop_gob/18.jpg" alt="Marzo" />
                                             <!-- <div class="entry-date"><span>Marzo</span></div> -->
                                         </div>
 

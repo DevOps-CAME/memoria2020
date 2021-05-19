@@ -113,7 +113,7 @@
                                 </div>
                                 <div class="fbox-content">
                                     <h3 style="line-height: 1.5rem;font-size: 1.2rem;">
-                                        Representatividad</br>Federalismo</br>Capilaridad</br>Capilaridad</br>Toma
+                                        Representatividad</br>Federalismo</br>Capilaridad</br>Toma
                                         de decisiones</br>Ámbito de debate institucional</h3>
                                 </div>
                             </div>
@@ -161,7 +161,7 @@
 
                                 <h2 class="subtitulo">
                                     Gestiones de CAME ante autoridades tributarias, en pos de
-                                    generar herramientas salvaguarden la delicada situación de las
+                                    generar herramientas que salvaguarden la delicada situación de las
                                     pymes
                                 </h2>
                                 <p class="lead mx-auto bottommargin m-0 p-0">
@@ -351,6 +351,22 @@
                                 buscar el equilibrio de sostener las empresas y a sus
                                 trabajadores y familias en un contexto tan delicado.
                             </p>
+                            <div class="fbox-icon">
+                                <i class="icon-ok"></i>
+                            </div>
+                            <a
+                                href="http://www.redcame.org.ar/novedades/10491/exitosa-gestion-en-la-revision-de-la-paritaria-de-comercio">
+                                <h3 style="line-height: 4rem" class="color">
+                                    Se firmó el acuerdo paritario mercantil 2020
+                                </h3>
+                            </a>
+                            <a
+                                href="http://www.redcame.org.ar/novedades/10491/exitosa-gestion-en-la-revision-de-la-paritaria-de-comercio">
+                                <h3 style="line-height: 4rem" class="color">
+                                    Exitosa gestión en la revisión de la paritaria de
+                                    Comercio
+                                </h3>
+                            </a>
                         </div>
                         <div class="col-md-4 float-left">
                             <img src="imgs/voz_pymes.jpg"
@@ -421,111 +437,86 @@
                             país.
                         </p>
 
+                        <h3>
+                            Crece la venta ilegal, aumenta la preocupación de las pymes
+                        </h3>
                         <div class="row justify-content-between mb-5">
-                            <div class="col-md-6 text-center d-flex align-items-center">
-                                <div class="fbox-content">
+
+                            <div class="col-md-6 ">
+
+
+
+                                <div
+                                    class="fancy-title title-center title-border mt-0 mb-2 d-flex justify-content-center">
+                                    <h4>
+                                        Relevamiento sobre Percepción Empresaria de Venta Ilegal
+                                        (PEVI)<br />Rubros más afectados
+                                    </h4>
+                                </div>
+
+                                <div class="d-flex justify-content-center">
+                                    <table id="tablitaPEVI" class="table table-hover">
+                                        <tbody>
+                                            <tr>
+                                                <td>Indumentaria</td>
+                                                <td>64,2%</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Alimentos</td>
+                                                <td>13,6%</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Bijouterie</td>
+                                                <td>4,9%</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Otro</td>
+                                                <td>4,9%</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Bazar</td>
+                                                <td>3,7%</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Tecnología</td>
+                                                <td>3,7%</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Calzados y Marroquineria</td>
+                                                <td>2,5%</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Deportes</td>
+                                                <td>1,2%</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Electrodomésticos</td>
+                                                <td>1,2%</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+
+                                <div class="fbox-content text-center">
                                     <div class="counter color">
                                         <span data-from="1" data-to="10" data-refresh-interval="10" data-speed="1600"
                                             class="display-2 ls3 font-weight-medium">10</span>
                                     </div>
                                     <h3>reuniones de la Comisión contra la Ilegalidad</h3>
                                 </div>
+
                             </div>
+
                             <div class="col-md-6">
-                                <iframe src="https://player.vimeo.com/video/521106812" width="500" height="281"
-                                    allow="autoplay; fullscreen" allowfullscreen></iframe>
+                                <iframe src="https://player.vimeo.com/video/521106812"
+                                    style="position:absolute;top:0;left:0;width:90%;height:90%;" frameborder="0"
+                                    allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
                             </div>
+                            <script src="https://player.vimeo.com/api/player.js"></script>
+
                         </div>
 
                         <div class="row justify-content-between">
-                            <div class="col-md-12">
-                                <h3>
-                                    Crece la venta ilegal, aumenta la preocupación de las pymes
-                                </h3>
-                                <div class="fancy-title title-center title-border mt-0 mb-2">
-                                    <h4>
-                                        Relevamiento sobre Percepción Empresaria de Venta Ilegal
-                                        (PEVI)<br />Rubros más afectados
-                                    </h4>
-                                </div>
-                            </div>
-
-                            <div class="row col-md-12 col-mb-50 justify-content-center">
-                                <div class="col-sm-6 col-lg-2 text-center m-0 p-0">
-                                    <i class="i-plain i-large mx-auto mb-0 icon-diamond"></i>
-                                    <div class="counter counter-medium" style="color: #e74c3c">
-                                        <span data-comma="true" data-sep="," data-places="2" data-from="0"
-                                            data-to="6420" data-refresh-interval="50" data-speed="2000">64,2</span>%
-                                    </div>
-                                    <h4>Indumentaria</h4>
-                                </div>
-                                <div class="col-sm-6 col-lg-2 text-center m-0 p-0">
-                                    <i class="i-plain i-large mx-auto mb-0 icon-diamond"></i>
-                                    <div class="counter counter-medium" style="color: #e74c3c">
-                                        <span data-comma="true" data-sep="," data-places="2" data-from="0"
-                                            data-to="1360" data-refresh-interval="50" data-speed="2000">13,6</span>%
-                                    </div>
-                                    <h4>Alimentos</h4>
-                                </div>
-                                <div class="col-sm-6 col-lg-2 text-center m-0 p-0">
-                                    <i class="i-plain i-large mx-auto mb-0 icon-diamond"></i>
-                                    <div class="counter counter-medium" style="color: #e74c3c">
-                                        <span data-comma="true" data-sep="," data-places="1" data-from="0" data-to="49"
-                                            data-refresh-interval="50" data-speed="2000">4,9</span>%
-                                    </div>
-                                    <h4>Bijouterie</h4>
-                                </div>
-                                <div class="col-sm-6 col-lg-2 text-center m-0 p-0">
-                                    <i class="i-plain i-large mx-auto mb-0 icon-diamond"></i>
-                                    <div class="counter counter-medium" style="color: #e74c3c">
-                                        <span data-comma="true" data-sep="," data-places="1" data-from="0" data-to="49"
-                                            data-refresh-interval="50" data-speed="2000">4,9</span>%
-                                    </div>
-                                    <h4>Otro</h4>
-                                </div>
-                                <div class="col-sm-6 col-lg-2 text-center m-0 p-0">
-                                    <i class="i-plain i-large mx-auto mb-0 icon-diamond"></i>
-                                    <div class="counter counter-medium" style="color: #e74c3c">
-                                        <span data-comma="true" data-sep="," data-places="1" data-from="0" data-to="37"
-                                            data-refresh-interval="50" data-speed="2000">3,7</span>%
-                                    </div>
-                                    <h4>Bazar</h4>
-                                </div>
-                                <div class="col-sm-6 col-lg-3 text-center">
-                                    <i class="i-plain i-large mx-auto mb-0 icon-diamond"></i>
-                                    <div class="counter counter-medium" style="color: #e74c3c">
-                                        <span data-comma="true" data-sep="," data-places="1" data-from="0" data-to="37"
-                                            data-refresh-interval="50" data-speed="2000">3,7</span>%
-                                    </div>
-                                    <h4>Tecnología</h4>
-                                </div>
-                                <div class="col-sm-6 col-lg-3 text-center">
-                                    <i class="i-plain i-large mx-auto mb-0 icon-diamond"></i>
-                                    <div class="counter counter-medium" style="color: #e74c3c">
-                                        <span data-comma="true" data-sep="," data-places="1" data-from="0" data-to="25"
-                                            data-refresh-interval="50" data-speed="2000">2,5</span>%
-                                    </div>
-                                    <h4>Calzados y Marroquineria</h4>
-                                </div>
-                                <div class="col-sm-6 col-lg-3 text-center">
-                                    <i class="i-plain i-large mx-auto mb-0 icon-diamond"></i>
-                                    <div class="counter counter-medium" style="color: #e74c3c">
-                                        <span data-comma="true" data-sep="," data-places="1" data-from="0" data-to="12"
-                                            data-refresh-interval="50" data-speed="2000">1,2</span>%
-                                    </div>
-                                    <h4>Deportes</h4>
-                                </div>
-                                <div class="col-sm-6 col-lg-3 text-center">
-                                    <i class="i-plain i-large mx-auto mb-0 icon-diamond"></i>
-                                    <div class="counter counter-medium" style="color: #e74c3c">
-                                        <span data-comma="true" data-sep="," data-places="1" data-from="0" data-to="12"
-                                            data-refresh-interval="50" data-speed="2000">1,2</span>%
-                                    </div>
-                                    <h4>Electrodomésticos</h4>
-                                </div>
-                            </div>
-                            <div class="clear m-3"></div>
-
                             <div class="col-md-6">
                                 <div class="fancy-title title-center title-border mt-0 mb-2">
                                     <h4>Perspectiva de la venta ilegal respecto al 2018</h4>
@@ -769,10 +760,10 @@
 
                                 <div class="entry event col-12">
                                     <div class="grid-inner row align-items-center no-gutters p-4">
-                                        <div class="entry-image col-md-2 mb-md-0">
-                                            <img src="imgs/mes/diciembre.png" alt="" />
+                                        <div class="entry-image col-md-3 mb-md-0">
+                                            <img src="imgs/mes/diciembre.png" alt="" style="width:16rem;" />
                                         </div>
-                                        <div class="col-md-10 pl-md-4">
+                                        <div class="col-md-9">
                                             <div>
                                                 <p>
                                                     En el marco del trabajo de la mesa de movilidad y transporte se

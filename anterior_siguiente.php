@@ -62,11 +62,11 @@ $siguiente =  $array_urlSimple[$clave+1];
 <div class="anterior-siguiente mt-4 mb-4">
     <div class="container clearfix col-md-12 d-flex align-content-center flex-wrap align-items-center">
         <div class="col-md-6">
-
             <a title="Anterior" href="<?php echo $array_urls[$anterior]['url']; ?>">
-                <div class="col-1 float-left p-0 mr-3"><i class="flecha icon-line-arrow-left"></i></div>
-                <div class="col-10 float-left p-2 ml-2 text-left"
-                    style="background: linear-gradient(90deg, #ecf1ff, #ffffff); line-height: 5rem;">
+                <div class="col-1 float-left p-0 mr-3 d-flex align-items-center"><i
+                        class="flecha icon-line-arrow-left"></i></div>
+                <div class="col-10 float-left p-2 ml-2 text-left d-flex align-items-center"
+                    style="background: linear-gradient(90deg, #ecf1ff, #ffffff); height: 6rem;">
                     <span class="nombre"><?php echo $array_urls[$anterior]['nombre']; ?></span>
                 </div>
             </a>
@@ -75,9 +75,10 @@ $siguiente =  $array_urlSimple[$clave+1];
         <div class="col-md-6">
 
             <a title="Siguiente" href="<?php echo $array_urls[$siguiente]['url']; ?>">
-                <div class="col-1 float-right p-0 ml-1"><i class="flecha icon-line-arrow-right"></i></div>
-                <div class="col-10 float-right p-2 mr-2 text-right"
-                    style="background: linear-gradient(90deg, #ffffff,#ecf1ff ); line-height: 5rem;">
+                <div class="col-1 float-right p-0 ml-1 d-flex align-items-center"><i
+                        class="flecha icon-line-arrow-right"></i></div>
+                <div class="col-10 float-right p-2 mr-2 text-right d-flex align-items-center"
+                    style="background: linear-gradient(90deg, #ffffff,#ecf1ff ); height: 6rem;">
                     <span class="nombre"><?php echo $array_urls[$siguiente]['nombre']; ?></span>
                 </div>
 
