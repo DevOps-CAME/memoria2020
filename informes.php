@@ -405,7 +405,7 @@
                             
                         </div>
                         <div class="col-md-4 float-left">
-                            <img src="imgs/pagina_web_foto.png"
+                            <img src="imgs/pagina_web_foto.PNG"
                                 alt="Vanguardia en comunicación digital" />
                         </div>
 </div>
