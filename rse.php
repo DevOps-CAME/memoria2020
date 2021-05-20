@@ -38,7 +38,7 @@
                         <h2 class="subtitulo">Hacia una mirada responsable, sustentable e inclusiva de la gestión pyme
                         </h2>
 
-                        <p class="lead mx-auto bottommargin">En 2020, ante un contexto totalmente desconocido que exigía
+                        <p >En 2020, ante un contexto totalmente desconocido que exigía
                             grandes cambios y que nos invitó a repensar nuestra forma de interactuar, producir y
                             consumir, hemos reforzado el acompañamiento a entidades, pymes y emprendedores en su proceso
                             de incorporación de la gestión sustentable en su labor cotidiana, motivando así el
@@ -46,7 +46,7 @@
                             sectores de la comunidad.
 
                         </p>
-                        <p class="lead mx-auto bottommargin">En ese sentido, durante el 2020 continuamos ejecutando – a
+                        <p >En ese sentido, durante el 2020 continuamos ejecutando – a
                             través de cooperación internacional- la 5° Red de Aprendizaje en Gestión de la Energía junto
                             a la Secretaría de Energía de la Nación y a la Confederación Economica de Misiones (CEM),
                             por la que 14 pymes de la región NEA participaron en diferentes encuentros virtuales donde
@@ -64,14 +64,13 @@
                     <div class="row justify-content-center">
                         <div class="col-md-12">
                             <div class="row col-mb-30 mb-5">
-                                <div class="col-lg-10 col-md-10 mb-0">
-                                    <h2>Por otro lado, y en lo que respecta a la comunidad, llevamos adelante acciones
-                                        solidarias en diferentes puntos del país:</h2>
+                                <div class="col-md-12 mb-0">
+                                    <h2>Acciones solidarias</h2>
                                 </div>
-                                <div class="clear"></div>
 
 
-                                <div class="col-md-4">
+
+                                <div class="col-md-6">
                                     <div class="feature-box fbox-small fbox-effect">
 
                                         <div class="fbox-content">
@@ -86,7 +85,7 @@
                                     </div>
                                 </div>
 
-                                <div class="col-md-4">
+                                <div class="col-md-6">
                                     <div class="feature-box fbox-small fbox-effect">
 
                                         <div class="fbox-content">
@@ -102,7 +101,7 @@
                                     </div>
                                 </div>
 
-                                <div class="col-md-4">
+                                <div class="col-md-6">
                                     <div class="feature-box fbox-small fbox-effect">
 
                                         <div class="fbox-content">
@@ -118,7 +117,7 @@
                                     </div>
                                 </div>
 
-                                <div class="col-md-4">
+                                <div class="col-md-6">
                                     <div class="feature-box fbox-small fbox-effect">
 
                                         <div class="fbox-content">

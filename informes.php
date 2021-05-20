@@ -33,7 +33,7 @@
                     <div class="container clearfix">
 
 
-                        <p class="lead mx-auto bottommargin">
+                        <p >
                             Iniciado el Aislamiento Social, Preventivo y Obligatorio (ASPO)
                             en el mes de marzo, el área de Comunicación logró digitalizar
                             completamente el proceso de recepción y gestión de
@@ -105,7 +105,7 @@
                             CAME a la vanguardia: propuestas para las pymes en el escenario
                             de la pandemia
                         </h2>
-                        <p class="lead mx-auto bottommargin">
+                        <p >
                             En relación con el proceso de acreditación de
                             <bold>Calidad</bold>, iniciado en 2018, en el mes de junio de
                             2020, y de manera remota, el área de Comunicación aprobó con
@@ -174,7 +174,7 @@
                                 <canvas id="chart-1"></canvas>
                             </div>
 
-                            <p class="lead mx-auto bottommargin">
+                            <p >
                                 Acompañando este proceso de modernización de procesos y prestaciones, desde el área se
                                 desarrolló el diseño y caracterización del <bold>nuevo sistema de gestión de
                                     correspondencia
@@ -201,7 +201,7 @@
                         </h2>
                         <h4>(GRÁFICO RESUMEN /YA PEDIDO A SABRI) </h4>
                         <h3>Impulso a la agenda pyme en medios de comunicación</h3>
-                        <p class="lead mx-auto bottommargin">
+                        <p >
                         Considerando la incidencia que la visibilización de nuestras acciones y 
                         propuestas adquieren al ser difundidas en medios de prensa, propiciando el debate, 
                         amplificando la perspectiva sobre el sector y enriqueciendo la agenda en torno a la 

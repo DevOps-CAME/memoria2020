@@ -35,7 +35,7 @@
                         <h2 class="subtitulo">
                             Plan de acción de igualdad de género aprobado por ONU Mujeres
                         </h2>
-                        <p class="lead mx-auto bottommargin">
+                        <p >
                             En 2020, fruto de la articulación entre el sector de Mujeres Empresarias,
                             el Departamento de Responsabilidad Social y Desarrollo Sustentable y el Departamento de
                             Recursos Humanos de la entidad, CAME adhirió a los Principios para el Empoderamiento de
@@ -44,7 +44,7 @@
                             Programa
                             Ganar - Ganar: "la igualdad de género es un buen negocio".
                         </p>
-                        <p class="lead mx-auto bottommargin">
+                        <p >
                             Esta iniciativa, impulsada por ONU Mujeres en alianza con la Unión Europea y la Organización
                             Internacional del Trabajo (OIT), propone generar oportunidades de desarrollo para las
                             mujeres
@@ -69,7 +69,7 @@
 
 
 
-                        <p class="lead mx-auto bottommargin">
+                        <p >
                             Una de las principales ventajas del mencionado programa para instituciones gremiales
                             empresarias
                             como CAME es el incentivo y el acompañamiento a explorar y medir internamente el estado de

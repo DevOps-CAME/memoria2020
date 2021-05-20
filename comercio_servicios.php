@@ -42,7 +42,7 @@
                         <h2 class="subtitulo">Asistencia y acompañamiento al comercio
                             minorista nacional</h2>
 
-                        <p class="lead mx-auto bottommargin">En un difícil año para el sector comercial a
+                        <p>En un difícil año para el sector comercial a
                             nivel federal, en el que el aislamiento y las medidas de restricción ante el avance de la
                             pandemia
                             limitaron la actividad en todo el país, paralizando parcialmente su entramado, desde el
@@ -55,47 +55,48 @@
                     </div>
                 </div>
 
-                <div class="container clearfix col-lg-12 col-md-12">
-                    <div class="row justify-content-between">
-                        <div class="col-lg-10 col-md-10 mb-0">
-                            <h2>Logros de gestión:</h2>
+                <div class="page-section col-lg-12 col-md-12">
+
+                    <div class="container clearfix">
+                        <div class="row justify-content-center">
+
+                            <div class="col-md-12 mb-0">
+                                <h2>Logros de gestión:</h2>
+                            </div>
+                            <div class="clear"></div>
+
+                            <div class="col-md-3 my-4">
+                                <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
+                                <p>
+                                    Sanción de la Ley de Acreditación Inmediata de Pagos con Tarjetas de Débito.
+                                </p>
+                            </div>
+                            <div class="col-md-3 my-4">
+                                <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
+                                <p>
+                                    Convenio de colaboración para desarrollar CCA con el Gobierno de la Provincia de
+                                    Santa
+                                    Fe, suscripto por CAME, AER, FSCCA, FECECO y el Ministerio de Producción de la
+                                    provincia.
+                                </p>
+                            </div>
+                            <div class="col-md-3 my-4">
+                                <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
+                                <p>
+                                    Acompañamiento a la Federación Económica de Tucumán (FET) y rechazo del accionar del
+                                    Sindicato de Empleados de Comercio (SEOC) que imposibilitó aperturas en la
+                                    provincia.
+                                </p>
+                            </div>
+                            <div class="col-md-3 my-4">
+                                <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
+                                <p>
+                                    Apoyo para el lanzamiento de promociones de Fin de Año, para 87 CCA y entidades de
+                                    12
+                                    provincias.
+                                </p>
+                            </div>
                         </div>
-                        <div class="clear"></div>
-
-                        <div class="col-lg-3 col-md-4 my-4">
-                            <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
-                            <p class="text-muted">
-                                Sanción de la Ley de Acreditación Inmediata de Pagos con Tarjetas de Débito.
-                            </p>
-                        </div>
-                        <div class="col-lg-3 col-md-4 my-4">
-                            <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
-                            <p class="text-muted">
-                                Convenio de colaboración para desarrollar CCA con el Gobierno de la Provincia de Santa
-                                Fe, suscripto por CAME, AER, FSCCA, FECECO y el Ministerio de Producción de la
-                                provincia.
-                            </p>
-                        </div>
-                        <div class="col-lg-3 col-md-4 my-4">
-                            <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
-                            <p class="text-muted">
-                                Acompañamiento a la Federación Económica de Tucumán (FET) y rechazo del accionar del
-                                Sindicato de Empleados de Comercio (SEOC) que imposibilitó aperturas en la provincia.
-                            </p>
-                        </div>
-                        <div class="col-lg-3 col-md-4 my-4">
-                            <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
-                            <p class="text-muted">
-                                Apoyo para el lanzamiento de promociones de Fin de Año, para 87 CCA y entidades de 12
-                                provincias.
-                            </p>
-                        </div>
-
-
-
-
-
-
                     </div>
                 </div>
 
@@ -140,56 +141,7 @@
                                         </div>
                                     </div>
                                 </div>
-
                                 <div class="col-md-4">
-                                    <div class="feature-box fbox-small fbox-effect">
-
-                                        <div class="fbox-content">
-                                            <div class="counter color"><span data-from="1" data-to="6"
-                                                    data-refresh-interval="10" data-speed="1600">6</span> </div>
-
-                                            <p>
-                                                <bold class="display-5 color font-weight-medium">campañas audiovisuales
-                                                    de concientización</bold> que destacan el rol del comercio en la
-                                                comunidad y apelan a la responsabilidad sanitaria.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="col-md-6">
-                                    <div class="feature-box fbox-small fbox-effect">
-
-                                        <div class="fbox-content">
-                                            <div class="counter color"><span data-from="1" data-to="15"
-                                                    data-refresh-interval="10" data-speed="1600">15</span> </div>
-
-                                            <p>
-                                                <bold class="display-5 color font-weight-medium">ciudades</bold> de 6
-                                                provincias recibieron propuestas técnicas para proyectos de CCA en
-                                                desarrollo.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-
-
-                                <div class="col-md-6">
-                                    <div class="feature-box fbox-small fbox-effect">
-
-                                        <div class="fbox-content">
-                                            <div class="counter color"><span data-from="1" data-to="16"
-                                                    data-refresh-interval="10" data-speed="1600">16</span> </div>
-
-                                            <p>
-                                                <bold class="display-5 color font-weight-medium">ciudades</bold> de 7
-                                                provincias recibieron asistencia técnica para CCA ya establecidos.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="col-md-6">
                                     <div class="feature-box fbox-small fbox-effect">
 
                                         <div class="fbox-content">
@@ -206,7 +158,120 @@
                                     </div>
                                 </div>
 
-                                <div class="col-md-6">
+                                <div class="col-md-3">
+                                    <div class="feature-box fbox-small fbox-effect">
+
+                                        <div class="fbox-content">
+                                            <div class="counter color"><span data-from="1" data-to="6"
+                                                    data-refresh-interval="10" data-speed="1600">6</span> </div>
+
+                                            <p>
+                                                <bold class="display-5 color font-weight-medium">campañas audiovisuales
+                                                    de concientización</bold> que destacan el rol del comercio en la
+                                                comunidad y apelan a la responsabilidad sanitaria.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-9 pt-5 pb-5">
+                                    <div id="related-portfolio"
+                                        class="owl-carousel owl-carousel-full portfolio-carousel carousel-widget"
+                                        data-margin="4" data-pagi="false" data-items-xs="1" data-items-sm="2"
+                                        data-items-md="3" data-items-lg="6">
+
+                                        <article class="portfolio-item pf-graphics pf-uielements">
+                                            <div class="grid-inner">
+                                                <iframe
+                                                    src="https://player.vimeo.com/video/518719612?byline=0&portrait=0"
+                                                    width="640" height="640" frameborder="0"
+                                                    allow="autoplay; fullscreen; picture-in-picture"
+                                                    allowfullscreen></iframe>
+                                            </div>
+                                        </article>
+                                        <article class="portfolio-item pf-graphics pf-uielements">
+                                            <div class="grid-inner">
+                                                <iframe
+                                                    src="https://player.vimeo.com/video/413111367?byline=0&portrait=0"
+                                                    width="640" height="640" frameborder="0"
+                                                    allow="autoplay; fullscreen; picture-in-picture"
+                                                    allowfullscreen></iframe>
+                                            </div>
+                                        </article>
+                                        <article class="portfolio-item pf-graphics pf-uielements">
+                                            <div class="grid-inner">
+                                                <iframe
+                                                    src="https://player.vimeo.com/video/546621874?byline=0&portrait=0"
+                                                    width="640" height="640" frameborder="0"
+                                                    allow="autoplay; fullscreen; picture-in-picture"
+                                                    allowfullscreen></iframe>
+                                            </div>
+                                        </article>
+
+                                        <article class="portfolio-item pf-graphics pf-uielements">
+                                            <div class="grid-inner">
+                                                <iframe
+                                                    src="https://player.vimeo.com/video/518735564?byline=0&portrait=0"
+                                                    width="640" height="640" frameborder="0"
+                                                    allow="autoplay; fullscreen; picture-in-picture"
+                                                    allowfullscreen></iframe>
+                                            </div>
+                                        </article>
+                                        <article class="portfolio-item pf-graphics pf-uielements">
+                                            <div class="grid-inner">
+                                                <iframe
+                                                    src="https://player.vimeo.com/video/437850892?byline=0&portrait=0"
+                                                    width="640" height="640" frameborder="0"
+                                                    allow="autoplay; fullscreen; picture-in-picture"
+                                                    allowfullscreen></iframe>
+                                            </div>
+                                        </article>
+                                        <article class="portfolio-item pf-graphics pf-uielements">
+                                            <div class="grid-inner">
+                                                <iframe
+                                                    src="https://player.vimeo.com/video/518712883?byline=0&portrait=0"
+                                                    width="640" height="640" frameborder="0"
+                                                    allow="autoplay; fullscreen; picture-in-picture"
+                                                    allowfullscreen></iframe>
+                                            </div>
+                                        </article>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-4">
+                                    <div class="feature-box fbox-small fbox-effect">
+
+                                        <div class="fbox-content">
+                                            <div class="counter color"><span data-from="1" data-to="15"
+                                                    data-refresh-interval="10" data-speed="1600">15</span> </div>
+
+                                            <p>
+                                                <bold class="display-5 color font-weight-medium">ciudades</bold> de 6
+                                                provincias recibieron propuestas técnicas para proyectos de CCA en
+                                                desarrollo.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                                <div class="col-md-4">
+                                    <div class="feature-box fbox-small fbox-effect">
+
+                                        <div class="fbox-content">
+                                            <div class="counter color"><span data-from="1" data-to="16"
+                                                    data-refresh-interval="10" data-speed="1600">16</span> </div>
+
+                                            <p>
+                                                <bold class="display-5 color font-weight-medium">ciudades</bold> de 7
+                                                provincias recibieron asistencia técnica para CCA ya establecidos.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+
+                                <div class="col-md-4">
                                     <div class="feature-box fbox-small fbox-effect">
 
                                         <div class="fbox-content">

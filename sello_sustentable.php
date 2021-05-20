@@ -35,7 +35,7 @@
                         <h2 class="subtitulo">
                             Certificación de Triple Impacto para garantizar la seguridad alimentaria y ambiental
                         </h2>
-                        <p class="lead mx-auto bottommargin">
+                        <p >
                             Durante 2020, brindamos continuidad al fortalecimiento de esta certificación única en su
                             tipo
                             en Latinoamérica que contempla los requerimientos de la demanda internacional en lo que hace
@@ -48,7 +48,7 @@
                             de
                             Responsabilidad y Desarrollo Sustentable de CAME.
                         </p>
-                        <p class="lead mx-auto bottommargin">
+                        <p >
                             La certificación promueve la adaptación a exigentes parámetros de producción y consumo y se
                             extiende
                             por el momento a empresas del sector agroalimentario, aunque se prevé que próximamente se
@@ -62,7 +62,7 @@
                             que ofrece
                             este programa integral.
                         </p>
-                        <p class="lead mx-auto bottommargin">
+                        <p >
                             En 2020, se finalizaron los protocolos de trabajo del sello CAME Sustentable y luego de un
                             año y medio de investigación,
                             se concretaron las auditorías piloto de la tercera parte, bajo la modalidad virtual. Así en
@@ -84,14 +84,14 @@
 
 
 
-                        <p class="lead mx-auto bottommargin">
+                        <p >
                             En febrero de 2021 presentamos esta certificación ante el Embajador <bold>
                                 Pablo Sívori</bold>, subsecretario de Promoción del Comercio e Inversiones del
                             Ministerio
                             de Relaciones Exteriores, Comercio Internacional y Culto, en una fructífera reunión con una
                             comitiva de CAME.
                         </p>
-                        <p class="lead mx-auto bottommargin">
+                        <p >
                             Y en el mes de marzo, con la participación de más de 50 representantes de entidades
                             público-privadas, pymes y emprendedores, organizamos la primera
                             reunión informativa del sello CAME Sustentable del año.

@@ -37,7 +37,7 @@
 
                         <h2 class="subtitulo">Acciones propositivas para el sostenimiento de las pymes turísticas</h2>
 
-                        <p class="lead mx-auto bottommargin">Con el norte de morigerar el grave impacto que la pandemia
+                        <p>Con el norte de morigerar el grave impacto que la pandemia
                             tuvo sobre la actividad, con una mirada federal y espíritu propositivo, desde CAME Turismo
                             se impulsaron las siguientes acciones:</p>
 
@@ -48,6 +48,8 @@
                 <div class="container clearfix">
                     <div class="row  text-justify">
                         <div class="col-md-4 mt-2 mb-2">
+                            <img src="imgs/foro_turismo.jpg" alt="XIX Foro Internacional de Ciudad, Comercio y Turismo "
+                                class="card-img-top" />
                             <bold>XIX Foro Internacional de Ciudad, Comercio y Turismo “Turismo y Comercio ante la
                                 pandemia”:</bold>
                             Esta especial edición se realizó el 30 y 31 de julio de 2020, de forma virtual. Participaron
@@ -58,13 +60,16 @@
                             cuales se
                             realizaron de forma virtual.</div>
 
-                        <div class="col-md-4  mt-2 mb-2">Realizamos reuniones de nuestro equipo técnico, que
+                        <div class="col-md-4  mt-2 mb-2">
+                            <img src="imgs/turismo_reuniones.jpg" alt="" class="card-img-top" />
+                            Realizamos reuniones de nuestro equipo técnico, que
                             fortalecimos a través
                             de
                             la incorporación de
                             especialistas en diversas temáticas a fin de dar respuesta al nuevo paradigma impuesto por
                             la
-                            pandemia.</div>
+                            pandemia.
+                        </div>
 
                         <div class="col-md-12 mt-2 mb-2">Organizamos encuentros con referentes destacados de la
                             actividad
@@ -73,29 +78,71 @@
                             realizar un diagnóstico de situación por la que atraviesa la actividad turística a nivel
                             nacional e
                             internacional:
-                            <ul class="pl-4">
-                                <li>Dr. Maurice Fabián Closs, Senador Nacional y ex Gobernador de la provincia de
-                                    Misiones.</li>
-                                <li>Sr. Marco Palacios, ex presidente de la Cámara Argentina de Turismo (CAT).</li>
-                                <li>Ing. Hernán Lombardi, ex Ministro de Turismo, Cultura y Deportes de la Nación
-                                    Argentina.</li>
-                                <li>Lic. Gabriela TESTA, Senadora provincial de Mendoza y ex presidente del Ente Mendoza
-                                    Turismo.</li>
-                                <li>Sr. Bernardo Racedo Aragón, experto en turismo y ex presidente del CFT.</li>
-                                <li>Fabián Lombardo, director comercial de Planeamiento y Gestión de Rutas (CCO Chief
-                                    Commercial Officer) en Aerolíneas Argentinas.</li>
-                                <li>Sr. Aldo Elías, actual presidente de la Cámara Argentina de Turismo (CAT).</li>
-                            </ul>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <ul class="pl-4 iconlist">
+                                        <li><i class="icon-user"></i>
+                                            <bold> Dr. Maurice Fabián Closs,</bold> Senador Nacional y ex
+                                            Gobernador de la provincia de Misiones.
+                                        </li>
+                                        <li><i class="icon-user"></i>
+                                            <bold> Sr. Marco Palacios,</bold> ex presidente de la Cámara
+                                            Argentina de Turismo (CAT).
+                                        </li>
+                                        <li><i class="icon-user"></i>
+                                            <bold> Ing. Hernán Lombardi,</bold> ex Ministro de Turismo,
+                                            Cultura y Deportes de la
+                                            Nación
+                                            Argentina.
+                                        </li>
+                                        <li><i class="icon-user"></i>
+                                            <bold> Lic. Gabriela TESTA,</bold> Senadora provincial de
+                                            Mendoza y ex presidente del Ente
+                                            Mendoza
+                                            Turismo.
+                                        </li>
+
+                                    </ul>
+                                </div>
+                                <div class="col-md-6">
+                                    <ul class="pl-4 iconlist">
+
+
+                                        <li><i class="icon-user"></i>
+                                            <bold> Sr. Bernardo Racedo Aragón,</bold> experto en turismo y
+                                            ex presidente del CFT.
+                                        </li>
+                                        <li><i class="icon-user"></i>
+                                            <bold> Fabián Lombardo,</bold> director comercial de
+                                            Planeamiento y Gestión de Rutas (CCO
+                                            Chief
+                                            Commercial Officer) en Aerolíneas Argentinas.
+                                        </li>
+                                        <li><i class="icon-user"></i>
+                                            <bold> Sr. Aldo Elías,</bold> actual presidente de la Cámara
+                                            Argentina de Turismo (CAT).
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+
                         </div>
 
                         <div class="col-md-6 mt-2 mb-2">
                             Dialogamos con los principales responsables de la cartera nacional, así como con
                             referentes
                             sectoriales, llevando las inquietudes de nuestras entidades y planteando propuestas:
-                            <ul class="pl-4">
-                                <li>El Ministro de Turismo y Deporte, Dr. Matías Lammens.</li>
-                                <li> La Secretaria de Promoción Turística de la Nación, Dra. Yanina Martínez.</li>
-                                <li> El Sr. Ricardo Sosa, Secretario Ejecutivo del INPROTUR.</li>
+                            <ul class="pl-4 iconlist">
+                                <li><i class="icon-user"></i>
+                                    El Ministro de Turismo y Deporte, <bold>Dr. Matías Lammens.</bold>
+                                </li>
+                                <li><i class="icon-user"></i> La Secretaria de Promoción Turística de la Nación, <bold>
+                                        Dra.
+                                        Yanina Martínez.</bold>
+                                </li>
+                                <li><i class="icon-user"></i> El <bold>Sr. Ricardo Sosa,</bold> Secretario Ejecutivo del
+                                    INPROTUR.
+                                </li>
                             </ul>
                         </div>
 
@@ -111,60 +158,65 @@
                     </div>
                 </div>
 
-                <div class="container clearfix col-lg-12 col-md-12">
-                    <div class="row justify-content-between">
-                        <div class="col-lg-10 col-md-10 mb-0">
-                            <h2>Gestiones y propuestas:</h2>
+
+                <div class="page-section col-lg-12 col-md-12 mt-5">
+
+                    <div class="container clearfix">
+                        <div class="row justify-content-center">
+
+                            <div class="col-md-12 mb-0">
+                                <h2>Gestiones y propuestas:</h2>
+                            </div>
+
+
+
+                            <div class="col-lg-3 col-md-4 my-4">
+                                <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
+                                <p >
+                                    - A partir del intercambio con líderes del sector, y referentes de todas las
+                                    provincias,
+                                    elaboramos el documento denominado <bold class="display-5 color font-weight-medium">
+                                        “Reflexiones y propuestas para apoyar la recuperación del turismo argentino en
+                                        el
+                                        marco de la pandemia por el COVID-19”,</bold> el cual fue presentado al
+                                    presidente
+                                    de la Nación, Dr. Alberto Fernández.
+                                </p>
+                            </div>
+                            <div class="col-lg-3 col-md-4 my-4">
+                                <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
+                                <p >
+                                    Convenio de colaboración para desarrollar CCA con el Gobierno de la Provincia de
+                                    Santa
+                                    Fe, suscripto por CAME, AER, FSCCA, FECECO y el Ministerio de Producción de la
+                                    provincia.
+                                </p>
+                            </div>
+                            <div class="col-lg-3 col-md-4 my-4">
+                                <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
+                                <p >
+                                    Acompañamiento a la Federación Económica de Tucumán (FET) y rechazo del accionar del
+                                    Sindicato de Empleados de Comercio (SEOC) que imposibilitó aperturas en la
+                                    provincia.
+                                </p>
+                            </div>
+                            <div class="col-lg-3 col-md-4 my-4">
+                                <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
+                                <p >
+                                    Apoyo para el lanzamiento de promociones de Fin de Año, para 87 CCA y entidades de
+                                    12
+                                    provincias.
+                                </p>
+                            </div>
+
+
+
+
+
+
                         </div>
-                        <div class="clear"></div>
-
-                        <div class="col-lg-3 col-md-4 my-4">
-                            <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
-                            <p class="text-muted">
-                                - A partir del intercambio con líderes del sector, y referentes de todas las
-                                provincias,
-                                elaboramos el documento denominado <bold class="display-5 color font-weight-medium">
-                                    “Reflexiones y propuestas para apoyar la recuperación del turismo argentino en
-                                    el
-                                    marco de la pandemia por el COVID-19”,</bold> el cual fue presentado al
-                                presidente
-                                de la Nación, Dr. Alberto Fernández.
-                            </p>
-                        </div>
-                        <div class="col-lg-3 col-md-4 my-4">
-                            <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
-                            <p class="text-muted">
-                                Convenio de colaboración para desarrollar CCA con el Gobierno de la Provincia de
-                                Santa
-                                Fe, suscripto por CAME, AER, FSCCA, FECECO y el Ministerio de Producción de la
-                                provincia.
-                            </p>
-                        </div>
-                        <div class="col-lg-3 col-md-4 my-4">
-                            <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
-                            <p class="text-muted">
-                                Acompañamiento a la Federación Económica de Tucumán (FET) y rechazo del accionar del
-                                Sindicato de Empleados de Comercio (SEOC) que imposibilitó aperturas en la
-                                provincia.
-                            </p>
-                        </div>
-                        <div class="col-lg-3 col-md-4 my-4">
-                            <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
-                            <p class="text-muted">
-                                Apoyo para el lanzamiento de promociones de Fin de Año, para 87 CCA y entidades de
-                                12
-                                provincias.
-                            </p>
-                        </div>
-
-
-
-
-
-
                     </div>
                 </div>
-
                 <div class="container clearfix">
                     <div class="row justify-content-center">
                         <div class="col-md-12">

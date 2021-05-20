@@ -31,35 +31,37 @@
 
                 <!-- Contenido
 		============================================= -->
-                <div class="center page-section col-lg-12 col-md-12">
+                <div class="page-section col-lg-12 col-md-12">
 
                     <div class="container clearfix">
 
                         <h2 class="subtitulo">Formación para la modernización de nuestros asociados y sus pymes
                         </h2>
 
-                        <p class="lead mx-auto bottommargin">Más de 245.000 personas fueron capacitadas durante 2020 a
+                        <p>Más de 245.000 personas fueron capacitadas durante 2020 a
                             través de la oferta de capacitación que brinda CAME.</p>
-                        <p class="lead mx-auto bottommargin">Creció un 80% la cantidad de personas que se capacitaron a
+                        <p>Creció un 80% la cantidad de personas que se capacitaron a
                             distancia en nuestra oferta regular, en relación a 2019.</p>
-                        <p class="lead mx-auto bottommargin">Registramos un incremento del 72% en los egresos de las
+                        <p>Registramos un incremento del 72% en los egresos de las
                             Diplomaturas de nuestra Escuela de Negocios, en relación con 2019.</p>
-                        <p class="lead mx-auto bottommargin">Diseñamos 53 seminarios web para brindar a todas las
+                        <p>Diseñamos 53 seminarios web para brindar a todas las
                             entidades adheridas a CAME ante la imposibilidad de dictar actividades presenciales.</p>
 
 
-                        <div class="col-lg-10 col-md-10 mb-0">
-                            <h3>PLATAFORMA E-LEARNING CAME EDUCATIVA</h3>
+                        <div class="col-md-12">
+
+                            <h3 class="color"><i class="icon-laptop2"></i> PLATAFORMA E-LEARNING CAME EDUCATIVA</h3>
                         </div>
-                        <p class="lead mx-auto bottommargin">A través de CAME Educativa, durante el año 2020 se
+                        <p>A través de CAME Educativa, durante el año 2020 se
                             implementaron seis (6) promociones de capacitación a distancia, con una oferta final de 85
                             títulos, en las que participaron 130.000 personas.</p>
 
 
-                        <div class="col-lg-10 col-md-10 mb-0">
-                            <h3>ESCUELA DE NEGOCIOS CAME EDUCATIVA</h3>
+                        <div class="col-md-12">
+                            <h3 class="color"><i class="icon-graduation-cap"></i> ESCUELA DE NEGOCIOS CAME EDUCATIVA
+                            </h3>
                         </div>
-                        <p class="lead mx-auto bottommargin">Dentro de la Escuela de Negocios de CAME dictamos programas
+                        <p>Dentro de la Escuela de Negocios de CAME dictamos programas
                             de capacitación a distancia de alto valor agregado y con certificación universitaria, entre
                             ellas cinco Diplomaturas:</p>
                         <p>- Diplomatura en Gestión de Recursos Humanos para Pymes</br>
@@ -72,13 +74,13 @@
                         </p>
 
 
-                        <div class="col-lg-10 col-md-10 mb-0">
-                            <h3>PLATAFORMA ZOOM CAME EDUCATIVA</h3>
+                        <div class="col-md-12">
+                            <h3 class="color"><i class="icon-facetime-video"></i> PLATAFORMA ZOOM CAME EDUCATIVA</h3>
                         </div>
-                        <p class="lead mx-auto bottommargin">En 2020 diseñamos una nueva oferta de 53 seminarios web
+                        <p>En 2020 diseñamos una nueva oferta de 53 seminarios web
                             (Webinars) para brindar a todas las entidades adheridas a CAME ante la imposibilidad de
                             dictar actividades presenciales. </p>
-                        <p class="lead mx-auto bottommargin">Asimismo procedimos al rediseño de cursos, talleres y
+                        <p>Asimismo procedimos al rediseño de cursos, talleres y
                             conferencias presenciales para adaptarse a la modalidad webinar. Nos hemos enfocado en
                             desarrollar principalmente cursos sobre Comercio Electrónico, Ventas Digitales, Teletrabajo,
                             Oficina virtual, entre otros temas.</p>
@@ -92,9 +94,7 @@
                     <div class="row justify-content-center">
                         <div class="col-md-12">
                             <div class="row col-mb-30 mb-5">
-                                <div class="col-lg-10 col-md-10 mb-0">
-                                    <h2>En dicho formato directamente brindamos:</h2>
-                                </div>
+
                                 <div class="clear"></div>
 
 
@@ -172,24 +172,36 @@
                     </div>
                 </div>
 
-
-                <div class="container clearfix col-lg-12 col-md-12">
-                    <div class="row justify-content-between">
-                        <div class="col-lg-12 col-md-10 mb-0">
-                            <h4>Durante 2020, CAME ha brindado directa e indirectamente un total de 2500 actividades
+                <div class="promo promo-light p-4 p-md-5 mb-5">
+                    <div class="row align-items-center">
+                        <div class="col-md-8 text-justify">
+                            <h3>Durante 2020, CAME ha brindado directa e indirectamente un total de <span>2500
+                                    actividades
+                                    de
+                                    capacitación</span> a través de la plataforma Zoom, con más de 115.000 participantes
                                 de
-                                capacitación a través de la plataforma Zoom, con más de 115.000 participantes de
                                 todo el
-                                país. Sumando ello a los 130.000 participantes de los cursos online de CAME
+                                país. Sumando ello a los <span>130.000 participantes</span> de los cursos online de CAME
                                 Educativa,
-                                resultaron más de 245.000 personas capacitadas durante el año a través de la gestión
-                                de
-                                CAME.</h4>
+                                resultaron <span>más de 245.000 personas capacitadas</span> durante el año a través de
+                                la gestión de
+                                CAME.</h3>
+
                         </div>
-                        <div class="clear"></div>
+                        <div class="col-md-4">
+                            <iframe src="https://player.vimeo.com/video/521103718" width="500" height="281"
+                                allow="autoplay; fullscreen" allowfullscreen></iframe>
+                        </div>
 
-                        <div class="row mt-0 mt-md-4">
 
+                    </div>
+                </div>
+
+
+                <div class="page-section col-lg-12 col-md-12">
+
+                    <div class="container clearfix">
+                        <div class="row justify-content-center">
                             <div class="col-md-6 feature-box fbox-plain fbox-sm">
                                 <div class="fbox-icon">
                                     <i class="icon-handshake1"></i>
@@ -242,11 +254,7 @@
                             </div>
 
                         </div>
-                        <div class="row">
 
-                            <iframe src="https://player.vimeo.com/video/521103718" width="500" height="281"
-                                allow="autoplay; fullscreen" allowfullscreen></iframe>
-                        </div>
 
                     </div>
                 </div>

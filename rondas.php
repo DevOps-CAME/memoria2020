@@ -38,13 +38,13 @@
                         <h2 class="subtitulo">Vinculación estratégica de las pequeñas y medianas empresas argentinas
                         </h2>
 
-                        <p class="lead mx-auto bottommargin">Frente al desafío de trasladarnos a la virtualidad, sin
+                        <p>Frente al desafío de trasladarnos a la virtualidad, sin
                             ocasión de desarrollar encuentros presenciales en los que el intercambio cara a cara
                             propiciaba la camaradería y afianzaban las relaciones, nos propusimos trabajar sobre nuestra
                             herramienta @RondasCame, manteniendo los estándares de calidad y servicio que caracterizan
                             nuestra labor. </p>
 
-                        <p class="lead mx-auto bottommargin"> En ese sentido, el equipo técnico de Rondas de Negocios
+                        <p> En ese sentido, el equipo técnico de Rondas de Negocios
                             trabajó en cada paso para que los convocados a las reuniones se sintieran acompañados y
                             asistidos, buscaran volver a participar y recomendaran esta actividad a otras pymes, con el
                             objeto de que incrementen sus contactos comerciales, puedan concretar ventas y realicen
@@ -58,12 +58,12 @@
                         <div class="col-md-12">
                             <div class="row col-mb-30 mb-5">
                                 <div class="col-lg-10 col-md-10 mb-0">
-                                    <h2>En virtud de ello, en 2020:</h2>
+                                    <h3>En virtud de ello, en 2020:</h3>
                                 </div>
                                 <div class="clear"></div>
 
 
-                                <div class="col-md-4">
+                                <div class="col-md-6">
                                     <div class="feature-box fbox-small fbox-effect">
 
                                         <div class="fbox-content">
@@ -78,7 +78,7 @@
                                     </div>
                                 </div>
 
-                                <div class="col-md-4">
+                                <div class="col-md-6">
                                     <div class="feature-box fbox-small fbox-effect">
 
                                         <div class="fbox-content">
@@ -93,7 +93,7 @@
                                     </div>
                                 </div>
 
-                                <div class="col-md-4">
+                                <div class="col-md-6">
                                     <div class="feature-box fbox-small fbox-effect">
 
                                         <div class="fbox-content">
@@ -108,7 +108,7 @@
                                     </div>
                                 </div>
 
-                                <div class="col-md-4">
+                                <div class="col-md-6">
                                     <div class="feature-box fbox-small fbox-effect">
 
                                         <div class="fbox-content">

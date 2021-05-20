@@ -36,7 +36,7 @@
                             Consolidación de los espacios democráticos y federales de
                             decisión
                         </h2>
-                        <p class="lead mx-auto bottommargin">
+                        <p >
                             En pos de fortalecer las vías democráticas de acción, el
                             <bold>Consejo Directivo</bold> de CAME se reunió
                             en once oportunidades durante el 2020. Sus noventa consejeros,
@@ -137,7 +137,7 @@
                                     CAME a la vanguardia: propuestas para las pymes en el escenario
                                     de la pandemia
                                 </h2>
-                                <p class="lead mx-auto bottommargin">
+                                <p >
                                     En un año que, sin dudas, es un mojón en la historia mundial, la
                                     labor de vanguardia permanente de CAME se ha enfocado en el
                                     entrevero de su rol gremial empresario con el estrato público,
@@ -200,7 +200,7 @@
                             CAME contra la especulación financiera en el marco de la
                             pandemia
                         </h2>
-                        <p class="lead mx-auto bottommargin">
+                        <p >
                             Desde la CAME, en el marco de la batalla contra la pandemia y
                             sus imprevisibles pero angustiantes consecuencias, impulsamos
                             gestiones para con las autoridades financieras, a fin de lograr
@@ -222,7 +222,7 @@
                             Trabajamos por el impulso del consumo como camino de desarrollo
                             comercial
                         </h2>
-                        <p class="lead mx-auto bottommargin">
+                        <p >
                             Desde CAME, tenemos la premisa de que las pequeñas y medianas
                             empresas propulsan la economía, por lo que el sostenimiento de
                             este programa es capital para mantener el consumo en el comercio
@@ -343,7 +343,7 @@
                             La voz de las pymes en la negociación de la paritaria mercantil
                         </h2>
                         <div class="col-md-8 float-left">
-                            <p class="lead mx-auto bottommargin">
+                            <p >
                                 CAME, entidad cúpula del país, en representación de sus
                                 asociadas y de las pymes a estas adheridas, propuso, analizó y
                                 acordó puntos específicos de las paritarias, en pos de lograr
@@ -419,7 +419,7 @@
                         <h2 class="subtitulo">
                             CAME contra la informalidad
                         </h2>
-                        <p class="lead mx-auto bottommargin">
+                        <p >
                             La bandera de CAME en pos de la formalidad sigue vigente, hoy
                             más que nunca. La importancia de luchar contra la
                             comercialización de mercaderías sin control y que evaden
@@ -551,7 +551,7 @@
                             Encuentros estratégicos para fomentar la sinergia en el marco de
                             la pandemia
                         </h2>
-                        <p class="lead mx-auto bottommargin">
+                        <p >
                             Ante los desafíos históricos del país, tales como la
                             problemática de la federalización de la logística, la
                             interacción bilateral, la competitividad y la rentabilidad; así
@@ -581,7 +581,7 @@
                                 <!-- <div class="entry-date"><span>Marzo</span></div> -->
                             </a>
                         </div>
-                        <p class="lead mx-auto bottommargin">
+                        <p >
                             La Comisión, integrada por dirigentes de la entidad, tiene como
                             objetivo fortalecer los sectores de la economía trabajando
                             aspectos específicos de la cadena de valor. Realizó, durante el

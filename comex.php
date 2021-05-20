@@ -38,7 +38,7 @@
                         <h2 class="subtitulo">Impulso a la internacionalización de la producción nacional pyme
                         </h2>
 
-                        <p class="lead mx-auto bottommargin">En el marco de un proyecto de internacionalización que CAME
+                        <p>En el marco de un proyecto de internacionalización que CAME
                             viene realizando en los últimos años, en 2020:
                         </p>
                         <p>• Mantuvimos diferentes encuentros con empresarios para realizar relevamientos sobre el
@@ -68,7 +68,7 @@
                         <div class="col-md-12">
                             <div class="row col-mb-30 mb-5">
                                 <div class="col-lg-10 col-md-10 mb-0">
-                                    <h2>Con ese propósito, en 2020, realizamos:</h2>
+                                    <h3>Con ese propósito, en 2020, realizamos:</h3>
                                 </div>
                                 <div class="clear"></div>
 
