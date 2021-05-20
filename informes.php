@@ -466,34 +466,127 @@
     <!--Counter fin--> 
 
 
+   
 
-    <div class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
+
+<!--  comienzo vanguardia -->
+
+
+<div class="center page-section col-lg-12 col-md-12 mb-4">
                     <div class="container clearfix">
                         <h2 class="subtitulo">
                         Vanguardia en comunicación digital
                         </h2>
-                        <p>Conscientes de que las plataformas digitales ocupan un rol informativo 
-                        fundamental en la sociedad, desde el Departamento Redes hemos incorporado nuevas 
-                        herramientas, como las plataformas Instagram y Linkedin, optimizando asimismo las ya 
-                        utilizadas, para estar cada vez más cerca de nuestras entidades asociadas, el sector pyme y el 
-                        público de interés. 
-                        </p>
-                        <p>A tal fin, además, hemos innovado en la estética de cada red, profesionalizado el contenido 
-                        audiovisual, impulsado las redes sociales de cada sector y secretaría, y puesto en marcha el nuevo 
-                        sitio web oficial de la entidad, un espacio online reestructurado con un diseño atractivo e innovador 
-                        que permite una navegación más sencilla e intuitiva. 
-                        </p>
+                        <div class="col-md-8 float-left">
+                            <p >
+                            Conscientes de que las plataformas digitales ocupan un rol informativo 
+                            fundamental en la sociedad, desde el Departamento Redes hemos incorporado 
+                            nuevas herramientas, como las plataformas Instagram y Linkedin, optimizando asimismo las 
+                            ya utilizadas, para estar cada vez más cerca de nuestras entidades asociadas, el sector 
+                            pyme y el público de interés. 
+                            </p>
+                            <p >
+                            A tal fin, además, hemos innovado en la estética de cada red, profesionalizado el 
+                            contenido audiovisual, impulsado las redes sociales de cada sector y secretaría, y 
+                            puesto en marcha el nuevo <a href="http://www.redcame.org.ar" >sitio web oficial</a> de la entidad, un espacio online 
+                            reestructurado con un diseño atractivo e innovador que permite una navegación 
+                            más sencilla e intuitiva. 
+                            </p>
+                                                       
+                            
                         </div>
+                        <div class="col-md-4 float-left">
+                            <img src="imgs/pagina_web_foto.png"
+                                alt="Vanguardia en comunicación digital" />
+                        </div>
+</div>
+</div>
+                       
+<!-- Fin  comienzo vanguardia -->
+
+<!-- -->
+
+<div class="container clearfix">
+
+					<div class="heading-block topmargin-lg center">
+						<h2>Even more Feature Rich</h2>
+						<span class="mx-auto">Sobre actividades de la entidad, disposiciones oficiales de distintas instituciones, comunicados de prensa, información general para pymes, entre otros temas.</span>
+					</div>
+
+					<div class="row col-mb-50 mb-4">
+						<div class="col-lg-4 col-md-6">
+
+							<div class="feature-box flex-md-row-reverse text-md-right fadeIn animated" data-animate="fadeIn">
+								<div class="fbox-icon">
+									<a href="#"><i class="icon-line-heart"></i></a>
+								</div>
+								<div class="fbox-content">
+									<h3>Facebook</h3>
+									<p>Cantidad de seguidores actual: 560.661 personas.</p>
+                                    <p>Nuestros contenidos llegaron a más de 13.585.219 usuarios.</p>
+                                    <p>Se sumaron 33.796 nuevos seguidores.</p>
+                                    <p>Se lograron 2.193.746 interacciones.
+                                </p>
+								</div>
+							</div>
+
+							<div class="feature-box flex-md-row-reverse text-md-right mt-5 fadeIn animated" data-animate="fadeIn" data-delay="200">
+								<div class="fbox-icon">
+									<a href="#"><i class="icon-line-paper"></i></a>
+								</div>
+								<div class="fbox-content">
+									<h3>TWITTER</h3>
+									<p>Se lograron 3.6 millones de apariciones a diferentes usuarios de nuestros tweets (impresiones).</p>
+                                    <p> Se ganaron 1.772 nuevos seguidores.</p>
+                                    <p> Tuiteamos 1.017 publicaciones.</p>
+                                    <p>   11.527 cuentas institucionales, de personas, de medios, etc. mencionaron a @redcame en sus cuentas.
+</p>
+								</div>
+							</div>
+
+							
+
+						</div>
+
+						<div class="col-lg-4 d-md-none d-lg-block text-center">
+							<img src="images/services/iphone7.png" >
+						</div>
+
+						<div class="col-lg-4 col-md-6">
+
+							<div class="feature-box fadeIn animated" data-animate="fadeIn">
+								<div class="fbox-icon">
+									<a href="#"><i class="icon-line-power"></i></a>
+								</div>
+								<div class="fbox-content">
+									<h3>INSTAGRAM</h3>
+									<p>Se publicaron 488 posteos en el feed.</p>
+                                    <p>Se lograron en el 1° año del uso de la red social 4.100 seguidores de manera orgánica.
+</p>
+								</div>
+							</div>
+
+							<div class="feature-box mt-5 fadeIn animated" data-animate="fadeIn" data-delay="200">
+								<div class="fbox-icon">
+									<a href="#"><i class="icon-line-check"></i></a>
+								</div>
+								<div class="fbox-content">
+									<h3>LINKEDIN</h3>
+									<p>Se publicaron 150 posteos.</p>
+                                    <p>Actualmente hay 4.852 seguidores en la plataforma.
+</p>
+								</div>
+							</div>
+
+							
+
+						</div>
+					</div>
+
+				</div>
 
 
-
-       </div> 
-    
-
-
-
-
-
+<!-- Fin-->
 
 
 
