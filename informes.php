@@ -99,98 +99,7 @@
 
                 <div class="clear m-5"></div>
 
-                <div class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
-                    <div class="container clearfix">
-                        <h2 class="subtitulo">
-                            CAME a la vanguardia: propuestas para las pymes en el escenario
-                            de la pandemia
-                        </h2>
-                        <p class="lead mx-auto bottommargin">
-                            En relación con el proceso de acreditación de
-                            <bold>Calidad</bold>, iniciado en 2018, en el mes de junio de
-                            2020, y de manera remota, el área de Comunicación aprobó con
-                            éxito la
-                            <bold>auditoría de seguimiento de la certificación ISO
-                                9001-2015</bold>, ante el Instituto Argentino de Normalización y Certificación
-                            (IRAM), organismo que audita y certifica la transparencia en los
-                            procesos como así también la mejora continua, asegurando una
-                            correcta gestión de la política de la calidad, el cumplimiento
-                            de objetivos y el análisis de datos concretos para implementar
-                            nuevos desarrollos que tienen como finalidad seguir mejorando la
-                            performance del sector a nivel interno y externo. Vinculado a
-                            ello, durante 2020 se ha realizado un relevamiento de la
-                            actividad del área a través de la
-                            <bold>incorporación de indicadores</bold> que han permitido
-                            identificar desafíos y oportunidades de mejora. De igual manera,
-                            se llevó a cabo una <bold>encuesta de satisfacción</bold> entre
-                            nuestros principales interlocutores, los asociados a CAME,
-                            quienes se manifestaron en relación con la velocidad y calidad
-                            de la respuesta del sector.
-                        </p>
-                        <div class="clear"></div>
-                        <div class="row justify-content-between">
-
-                            <div class="col-sm-6">
-                                <div class="feature-box fbox-small fbox-effect">
-                                    <div class="fbox-content center">
-                                        <div class="counter color">
-                                            <span data-from="1" data-to="71" data-refresh-interval="1"
-                                                data-speed="1000">71</span>%
-                                        </div>
-                                        <p class="center">consideró MUY BUENA la velocidad de respuesta</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-sm-6">
-                                <div class="feature-box fbox-small fbox-effect">
-                                    <div class="fbox-content">
-                                        <div class="counter color">
-                                            <span data-from="1" data-to="65" data-refresh-interval="1"
-                                                data-speed="1300">65</span>%
-                                        </div>
-                                        <p class="center">consideró MUY BUENA la calidad de la respuesta recibida</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="clear m-5"></div>
-
-                        <div class="row justify-content-between">
-
-                            <div class="col-md-6">
-                                <div class="fancy-title title-center title-border mt-0 mb-2">
-                                    <h4>Calificación de la <em>velocidad de respuesta</em> del Departamento de
-                                        Comunicación
-                                        de CAME</h4>
-                                </div>
-                                <canvas id="chart-0"></canvas>
-                            </div>
-
-                            <div class="col-md-6">
-                                <div class="fancy-title title-center title-border mt-0 mb-2">
-                                    <h4>Calificación de la <em>calidad de respuesta ante las solicitudes/invitaciones
-                                            enviadas por su entidad</em> al Departamento de Comunicación de CAME</h4>
-                                </div>
-                                <canvas id="chart-1"></canvas>
-                            </div>
-
-                            <p class="lead mx-auto bottommargin">
-                                Acompañando este proceso de modernización de procesos y prestaciones, desde el área se
-                                desarrolló el diseño y caracterización del <bold>nuevo sistema de gestión de
-                                    correspondencia
-                                </bold> que reemplazará al actual programa Fénix, principal herramienta del área. Esta
-                                nueva
-                                plataforma dedicará un espacio exclusivo a la consulta y seguimiento de la
-                                correspondencia
-                                para nuestras entidades asociadas.
-                            </p>
-                        </div>
-
-                        <div class="clear"></div>
-                    </div>
-
-
-                </div>
+                
 
     <!--Comunicacion Comienzo-->
 
@@ -509,8 +418,12 @@
 <div class="container clearfix">
 
 					<div class="heading-block topmargin-lg center">
-						<h2>Even more Feature Rich</h2>
+						<h2>2.200 circulares informativas </h2>
 						<span class="mx-auto">Sobre actividades de la entidad, disposiciones oficiales de distintas instituciones, comunicados de prensa, información general para pymes, entre otros temas.</span>
+                    </div>
+                    <div class="heading-block topmargin-lg center">
+						<h2>Proceso de crecimiento en las redes sociales </h2>
+						<span class="mx-auto">Con la especial dinámica que trajo este 2020 producto de la pandemia, hemos mantenido la información actualizada minuto a minuto, logrando canales de excelencia para el acceso a la información.</span>
 					</div>
 
 					<div class="row col-mb-50 mb-4">
@@ -535,12 +448,11 @@
 									<a href="#"><i class="icon-line-paper"></i></a>
 								</div>
 								<div class="fbox-content">
-									<h3>TWITTER</h3>
-									<p>Se lograron 3.6 millones de apariciones a diferentes usuarios de nuestros tweets (impresiones).</p>
-                                    <p> Se ganaron 1.772 nuevos seguidores.</p>
-                                    <p> Tuiteamos 1.017 publicaciones.</p>
-                                    <p>   11.527 cuentas institucionales, de personas, de medios, etc. mencionaron a @redcame en sus cuentas.
-</p>
+                                <h3>INSTAGRAM</h3>
+									<p>Se publicaron 488 posteos en el feed.</p>
+                                    <p>Se lograron en el 1° año del uso de la red social 4.100 seguidores de manera orgánica.
+                                </p>
+									
 								</div>
 							</div>
 
@@ -549,7 +461,7 @@
 						</div>
 
 						<div class="col-lg-4 d-md-none d-lg-block text-center">
-							<img src="images/services/iphone7.png" >
+							<img src="imgs/ATP_Mipymes.jpg" >
 						</div>
 
 						<div class="col-lg-4 col-md-6">
@@ -559,10 +471,12 @@
 									<a href="#"><i class="icon-line-power"></i></a>
 								</div>
 								<div class="fbox-content">
-									<h3>INSTAGRAM</h3>
-									<p>Se publicaron 488 posteos en el feed.</p>
-                                    <p>Se lograron en el 1° año del uso de la red social 4.100 seguidores de manera orgánica.
-</p>
+								    <h3>TWITTER</h3>
+									<p>Se lograron 3.6 millones de apariciones a diferentes usuarios de nuestros tweets (impresiones).</p>
+                                    <p> Se ganaron 1.772 nuevos seguidores.</p>
+                                    <p> Tuiteamos 1.017 publicaciones.</p>
+                                    <p>   11.527 cuentas institucionales, de personas, de medios, etc. mencionaron a @redcame en sus cuentas.
+                                    </p>
 								</div>
 							</div>
 
@@ -583,13 +497,229 @@
 						</div>
 					</div>
 
-				</div>
-
+              
 
 <!-- Fin-->
+<!-- recuadro comienzo-->
+<div class="promo promo-light p-4 p-md-5 mb-5">
+                                    <div class="row align-items-center">
+                                        <div class="col-12 col-lg  ">
+                                            <p class="m-0">
+                                            #SaldremosAdelante : En el marco de la pandemia del COVID-19, lanzamos la sección #SaldremosAdelante para mostrar con casos concretos de empresas de todo el país, la resiliencia de las pymes. Así, pudimos ver cómo las pequeñas y medianas empresas se adaptaron y reconvirtieron frente a las situaciones difíciles que vivieron con esta pandemia. 
+Tal como lo dice el hashtag, esta campaña se generó con el objetivo de impulsar un espíritu positivo en un momento complejo, el que CAME, sus entidades y sus pymes comparten.
+
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+<!-- recuadro fin-->
 
 
 
+<div class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
+                    <div class="container clearfix">
+                        <h2 class="subtitulo">
+                            Atención personalizada a nuestras entidades asociadas
+                        </h2>
+                        <p class="lead mx-auto bottommargin">
+                        Iniciado el Aislamiento Social, Preventivo y Obligatorio (ASPO) en el mes de marzo, el área de Comunicación logró 
+                        digitalizar completamente el proceso de recepción y gestión de correspondencia, permitiendo el trabajo a distancia y 
+                        eliminando el uso de papel, sin discontinuar el <bold>servicio de atención a las entidades asociadas.</bold> 
+                          
+                        </p>
+                        <p class="lead mx-auto bottommargin">
+                        En igual sentido, el sector fue responsable de encauzar las más de <bold> 150 gestiones</bold>  presentadas ante autoridades nacionales
+                         y provinciales, vinculadas a propuestas y demandas de CAME y sus entidades asociadas con motivo de las condiciones 
+                         impuestas por la coyuntura.
+                          
+                        </p>
+
+
+
+                        <div class="clear"></div>
+                        </div>
+               </div>          
+
+
+<!-- FIN-->
+
+<!-- comienzo-->
+
+               <div class="container clearfix">
+
+<div class="row col-mb-50">
+    <div class="col-sm-6 col-lg-4">
+        <div class="feature-box fbox-center fbox-light fbox-effect border-bottom-0">
+            <div class="fbox-icon">
+                <a href="#"><i class="i-alt border-0 icon-shop"></i></a>
+            </div>
+            <div class="fbox-content">
+                <h2>3361</h2><h3><span class="subtitle">Cartas y solicitudes recibidas</span></h3>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-sm-6 col-lg-4">
+        <div class="feature-box fbox-center fbox-light fbox-effect border-bottom-0">
+            <div class="fbox-icon">
+                <a href="#"><i class="i-alt border-0 icon-wallet"></i></a>
+            </div>
+            <div class="fbox-content">
+                <h2>1801</h2><h3><span class="subtitle">Cartas y solicitudes enviadas</span></h3>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-sm-6 col-lg-4">
+        <div class="feature-box fbox-center fbox-light fbox-effect border-bottom-0">
+            <div class="fbox-icon">
+                <a href="#"><i class="i-alt border-0 icon-megaphone"></i></a>
+            </div>
+            <div class="fbox-content">
+                <h2>255</h2><h3><span class="subtitle">Invitaciones recibidas y gestionadas</span></h3>
+            </div>
+        </div>
+    </div>
+
+    
+</div>
+
+
+<div class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
+                    <div class="container clearfix">
+                        
+                        <p class="lead mx-auto bottommargin">
+                        En relación con el proceso de acreditación de Calidad, iniciado en 2018, en el mes de junio de 2020, y de 
+                        manera remota, el área de Comunicación aprobó con éxito la auditoría de seguimiento de la certificación ISO 
+                        9001-2015, ante el Instituto Argentino de Normalización y Certificación (IRAM), organismo que audita y certifica 
+                        la transparencia en los procesos como así también la mejora continua, asegurando una correcta gestión de la política 
+                        de la calidad, el cumplimiento de objetivos y el análisis de datos concretos para implementar nuevos desarrollos que 
+                        tienen como finalidad seguir mejorando la performance del sector a nivel interno y externo.
+                          
+                        </p>
+                        <p class="lead mx-auto bottommargin">
+                        Vinculado a ello, durante 2020 se ha realizado un relevamiento de la actividad del área a través de la incorporación de 
+                        indicadores que han permitido identificar desafíos y oportunidades de mejora. 
+                          
+                        </p>
+                        <p class="lead mx-auto bottommargin">
+                        De igual manera, se llevó a cabo una encuesta de satisfacción entre nuestros principales interlocutores, los asociados a 
+                        CAME, quienes se manifestaron en relación con la velocidad y calidad de la respuesta del sector. 
+                          
+                        </p>
+
+
+
+                        <div class="clear"></div>
+                        </div>
+               </div>        
+
+<!-- FIN-->
+
+
+
+
+<!-- circulos comienzo-->
+
+
+
+
+
+<div class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
+                    <div class="container clearfix">
+                        <h2 class="subtitulo">
+                            CAME a la vanguardia: propuestas para las pymes en el escenario
+                            de la pandemia
+                        </h2>
+                        <p class="lead mx-auto bottommargin">
+                            En relación con el proceso de acreditación de
+                            <bold>Calidad</bold>, iniciado en 2018, en el mes de junio de
+                            2020, y de manera remota, el área de Comunicación aprobó con
+                            éxito la
+                            <bold>auditoría de seguimiento de la certificación ISO
+                                9001-2015</bold>, ante el Instituto Argentino de Normalización y Certificación
+                            (IRAM), organismo que audita y certifica la transparencia en los
+                            procesos como así también la mejora continua, asegurando una
+                            correcta gestión de la política de la calidad, el cumplimiento
+                            de objetivos y el análisis de datos concretos para implementar
+                            nuevos desarrollos que tienen como finalidad seguir mejorando la
+                            performance del sector a nivel interno y externo. Vinculado a
+                            ello, durante 2020 se ha realizado un relevamiento de la
+                            actividad del área a través de la
+                            <bold>incorporación de indicadores</bold> que han permitido
+                            identificar desafíos y oportunidades de mejora. De igual manera,
+                            se llevó a cabo una <bold>encuesta de satisfacción</bold> entre
+                            nuestros principales interlocutores, los asociados a CAME,
+                            quienes se manifestaron en relación con la velocidad y calidad
+                            de la respuesta del sector.
+                        </p>
+                        <div class="clear"></div>
+                        <div class="row justify-content-between">
+
+                            <div class="col-sm-6">
+                                <div class="feature-box fbox-small fbox-effect">
+                                    <div class="fbox-content center">
+                                        <div class="counter color">
+                                            <span data-from="1" data-to="71" data-refresh-interval="1"
+                                                data-speed="1000">71</span>%
+                                        </div>
+                                        <p class="center">consideró MUY BUENA la velocidad de respuesta</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="feature-box fbox-small fbox-effect">
+                                    <div class="fbox-content">
+                                        <div class="counter color">
+                                            <span data-from="1" data-to="65" data-refresh-interval="1"
+                                                data-speed="1300">65</span>%
+                                        </div>
+                                        <p class="center">consideró MUY BUENA la calidad de la respuesta recibida</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="clear m-5"></div>
+
+                        <div class="row justify-content-between">
+
+                            <div class="col-md-6">
+                                <div class="fancy-title title-center title-border mt-0 mb-2">
+                                    <h4>Calificación de la <em>velocidad de respuesta</em> del Departamento de
+                                        Comunicación
+                                        de CAME</h4>
+                                </div>
+                                <canvas id="chart-0"></canvas>
+                            </div>
+
+                            <div class="col-md-6">
+                                <div class="fancy-title title-center title-border mt-0 mb-2">
+                                    <h4>Calificación de la <em>calidad de respuesta ante las solicitudes/invitaciones
+                                            enviadas por su entidad</em> al Departamento de Comunicación de CAME</h4>
+                                </div>
+                                <canvas id="chart-1"></canvas>
+                            </div>
+
+                            <p class="lead mx-auto bottommargin">
+                                Acompañando este proceso de modernización de procesos y prestaciones, desde el área se
+                                desarrolló el diseño y caracterización del <bold>nuevo sistema de gestión de
+                                    correspondencia
+                                </bold> que reemplazará al actual programa Fénix, principal herramienta del área. Esta
+                                nueva
+                                plataforma dedicará un espacio exclusivo a la consulta y seguimiento de la
+                                correspondencia
+                                para nuestras entidades asociadas.
+                            </p>
+                        </div>
+
+                        <div class="clear"></div>
+                    </div>
+
+
+                </div>
+
+<!-- circulos fin-->
 
 
 
