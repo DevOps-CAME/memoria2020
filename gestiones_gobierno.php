@@ -36,7 +36,7 @@
                             Consolidación de los espacios democráticos y federales de
                             decisión
                         </h2>
-                        <p >
+                        <p>
                             En pos de fortalecer las vías democráticas de acción, el
                             <bold>Consejo Directivo</bold> de CAME se reunió
                             en once oportunidades durante el 2020. Sus noventa consejeros,
@@ -137,7 +137,7 @@
                                     CAME a la vanguardia: propuestas para las pymes en el escenario
                                     de la pandemia
                                 </h2>
-                                <p >
+                                <p>
                                     En un año que, sin dudas, es un mojón en la historia mundial, la
                                     labor de vanguardia permanente de CAME se ha enfocado en el
                                     entrevero de su rol gremial empresario con el estrato público,
@@ -200,7 +200,7 @@
                             CAME contra la especulación financiera en el marco de la
                             pandemia
                         </h2>
-                        <p >
+                        <p>
                             Desde la CAME, en el marco de la batalla contra la pandemia y
                             sus imprevisibles pero angustiantes consecuencias, impulsamos
                             gestiones para con las autoridades financieras, a fin de lograr
@@ -222,7 +222,7 @@
                             Trabajamos por el impulso del consumo como camino de desarrollo
                             comercial
                         </h2>
-                        <p >
+                        <p>
                             Desde CAME, tenemos la premisa de que las pequeñas y medianas
                             empresas propulsan la economía, por lo que el sostenimiento de
                             este programa es capital para mantener el consumo en el comercio
@@ -342,73 +342,38 @@
                         <h2 class="subtitulo">
                             La voz de las pymes en la negociación de la paritaria mercantil
                         </h2>
-                        <div class="col-md-8 float-left">
-                            <p >
-                                CAME, entidad cúpula del país, en representación de sus
-                                asociadas y de las pymes a estas adheridas, propuso, analizó y
-                                acordó puntos específicos de las paritarias, en pos de lograr
-                                el consenso entre la gremial empresaria y el sindicato para
-                                buscar el equilibrio de sostener las empresas y a sus
-                                trabajadores y familias en un contexto tan delicado.
-                            </p>
-                            <div class="fbox-icon">
-                                <i class="icon-ok"></i>
-                            </div>
-                            <a
-                                href="http://www.redcame.org.ar/novedades/10491/exitosa-gestion-en-la-revision-de-la-paritaria-de-comercio">
-                                <h3 style="line-height: 4rem" class="color">
-                                    Se firmó el acuerdo paritario mercantil 2020
-                                </h3>
-                            </a>
-                            <a
-                                href="http://www.redcame.org.ar/novedades/10491/exitosa-gestion-en-la-revision-de-la-paritaria-de-comercio">
-                                <h3 style="line-height: 4rem" class="color">
-                                    Exitosa gestión en la revisión de la paritaria de
-                                    Comercio
-                                </h3>
-                            </a>
-                        </div>
-                        <div class="col-md-4 float-left">
-                            <img src="imgs/voz_pymes.jpg"
-                                alt="La voz de las pymes en la negociación de la paritaria mercantil" />
-                        </div>
+                        <div class="row">
+                            <div class="col-md-8">
+                                <p>
+                                    CAME, entidad cúpula del país, en representación de sus
+                                    asociadas y de las pymes a estas adheridas, propuso, analizó y
+                                    acordó puntos específicos de las paritarias, en pos de lograr
+                                    el consenso entre la gremial empresaria y el sindicato para
+                                    buscar el equilibrio de sostener las empresas y a sus
+                                    trabajadores y familias en un contexto tan delicado.
+                                </p>
 
-                        <div class="col-sm-6 col-md-6 float-left">
-                            <div class="feature-box fbox-border fbox-light fbox-effect my-4">
-                                <div class="fbox-icon">
-                                    <a
-                                        href="https://www.redcame.org.ar/novedades/10084/se-firmo-el-acuerdo-paritario-mercantil-2020"><i
-                                            class="icon-ok"></i></a>
-                                </div>
-                                <div class="fbox-content">
-                                    <a
-                                        href="http://www.redcame.org.ar/novedades/10491/exitosa-gestion-en-la-revision-de-la-paritaria-de-comercio">
-                                        <h3 style="line-height: 4rem" class="color">
-                                            Se firmó el acuerdo paritario mercantil 2020
-                                        </h3>
-                                    </a>
-                                </div>
+                                <a href="http://www.redcame.org.ar/novedades/10491/exitosa-gestion-en-la-revision-de-la-paritaria-de-comercio"
+                                    target="_blank">
+                                    <h3 style="line-height: 2rem" class="color">
+                                        <i class="icon-ok"></i> Se firmó el acuerdo paritario mercantil 2020
+                                    </h3>
+                                </a>
+                                <a href="http://www.redcame.org.ar/novedades/10491/exitosa-gestion-en-la-revision-de-la-paritaria-de-comercio"
+                                    target="_blank">
+                                    <h3 style="line-height: 2rem" class="color">
+                                        <i class="icon-ok"></i> Exitosa gestión en la revisión de la paritaria de
+                                        Comercio
+                                    </h3>
+                                </a>
+                            </div>
+                            <div class="col-md-4">
+                                <img class="card-img" src="imgs/voz_pymes.jpg"
+                                    alt="La voz de las pymes en la negociación de la paritaria mercantil" />
                             </div>
                         </div>
 
-                        <div class="col-sm-6 col-md-6 float-left">
-                            <div class="feature-box fbox-border fbox-light fbox-effect my-4">
-                                <div class="fbox-icon">
-                                    <a
-                                        href="http://www.redcame.org.ar/novedades/10491/exitosa-gestion-en-la-revision-de-la-paritaria-de-comercio"><i
-                                            class="icon-ok"></i></a>
-                                </div>
-                                <div class="fbox-content">
-                                    <a
-                                        href="http://www.redcame.org.ar/novedades/10491/exitosa-gestion-en-la-revision-de-la-paritaria-de-comercio">
-                                        <h3 style="line-height: 4rem" class="color">
-                                            Exitosa gestión en la revisión de la paritaria de
-                                            Comercio
-                                        </h3>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
+
 
                         <div class="clear"></div>
                     </div>
@@ -419,7 +384,7 @@
                         <h2 class="subtitulo">
                             CAME contra la informalidad
                         </h2>
-                        <p >
+                        <p>
                             La bandera de CAME en pos de la formalidad sigue vigente, hoy
                             más que nunca. La importancia de luchar contra la
                             comercialización de mercaderías sin control y que evaden
@@ -545,27 +510,34 @@
                     </div>
                 </div>
                 <hr>
-                <div class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
+                <div class="center page-section col-md-12 mt-5 mb-5">
                     <div class="container clearfix">
                         <h2 class="subtitulo">
                             Encuentros estratégicos para fomentar la sinergia en el marco de
                             la pandemia
                         </h2>
-                        <p >
-                            Ante los desafíos históricos del país, tales como la
-                            problemática de la federalización de la logística, la
-                            interacción bilateral, la competitividad y la rentabilidad; así
-                            como los actuales, signados por la pandemia que asola al mundo,
-                            planificamos, acordamos y aceptamos encuentros, en pos de
-                            fortalecer la matriz productiva por medio del diálogo, el
-                            consenso y la acción conjunta.
-                        </p>
-
-                        <div class="center">
-                            <a href="gestiones_pandemia.php" class="button text-right center">Más
-                                información<i class="icon-circle-arrow-right"></i></a>
+                        <div class="row">
+                            <div class="col-md-9">
+                                <p>
+                                    Ante los desafíos históricos del país, tales como la
+                                    problemática de la federalización de la logística, la
+                                    interacción bilateral, la competitividad y la rentabilidad; así
+                                    como los actuales, signados por la pandemia que asola al mundo,
+                                    planificamos, acordamos y aceptamos encuentros, en pos de
+                                    fortalecer la matriz productiva por medio del diálogo, el
+                                    consenso y la acción conjunta.
+                                </p>
+                                <div class="center">
+                                    <a href="gestiones_pandemia.php" class="button text-right center">Más
+                                        información<i class="icon-circle-arrow-right"></i></a>
+                                </div>
+                            </div>
+                            <div class="col-md-3"><img class="card-img" src="imgs/encuentros_estrategicos.jpg"
+                                    alt="La voz de las pymes en la negociación de la paritaria mercantil" /></div>
                         </div>
-                        <div class="clear"></div>
+
+
+
                     </div>
                 </div>
                 <hr>
@@ -574,227 +546,228 @@
                         <h2 class="subtitulo">
                             Gestión integral de la cadena productiva
                         </h2>
-                        <div class="col-md-4 imagen-nota pl-5 pr-5 pt-2 float-left">
-                            <a href="http://www.redcame.org.ar/novedades/7892/cheques-rechazados-y-apertura-regular-de-bancos-solicitamos-al-bcra-medidas-urgentes-para-las-pymes"
-                                target="_blank">
-                                <img src="imgs/engranaje.jpg" alt="Gestión integral de la cadena productiva" />
-                                <!-- <div class="entry-date"><span>Marzo</span></div> -->
-                            </a>
+                        <div class="row mb-5">
+                            <div class="col-md-4 imagen-nota pl-5 pr-5 pt-2">
+                                <a href="http://www.redcame.org.ar/novedades/7892/cheques-rechazados-y-apertura-regular-de-bancos-solicitamos-al-bcra-medidas-urgentes-para-las-pymes"
+                                    target="_blank">
+                                    <img src="imgs/engranaje.jpg" alt="Gestión integral de la cadena productiva" />
+                                    <!-- <div class="entry-date"><span>Marzo</span></div> -->
+                                </a>
+                            </div>
+                            <div class="col-md-8">
+                                <p>
+                                    La Comisión, integrada por dirigentes de la entidad, tiene como
+                                    objetivo fortalecer los sectores de la economía trabajando
+                                    aspectos específicos de la cadena de valor. Realizó, durante el
+                                    segundo semestre del año, diversas gestiones que apuntan a
+                                    resolver distintas problemáticas de los sectores de la
+                                    educación, la movilidad y el transporte, el comercio
+                                    internacional, la salud, la industria alimenticia y el rubro
+                                    gastronómico. La comisión tiene previsto darles continuidad a
+                                    las mesas establecidas a lo largo del año 2021 y fijar una
+                                    agenda permanente. Además, se trabajará en la incorporación de
+                                    nuevos sectores.
+                                </p>
+                            </div>
                         </div>
-                        <p >
-                            La Comisión, integrada por dirigentes de la entidad, tiene como
-                            objetivo fortalecer los sectores de la economía trabajando
-                            aspectos específicos de la cadena de valor. Realizó, durante el
-                            segundo semestre del año, diversas gestiones que apuntan a
-                            resolver distintas problemáticas de los sectores de la
-                            educación, la movilidad y el transporte, el comercio
-                            internacional, la salud, la industria alimenticia y el rubro
-                            gastronómico. La comisión tiene previsto darles continuidad a
-                            las mesas establecidas a lo largo del año 2021 y fijar una
-                            agenda permanente. Además, se trabajará en la incorporación de
-                            nuevos sectores.
-                        </p>
+
+                        <div class="center page-section col-lg-12 col-md-12 mt-5">
+                            <div class="container clearfix">
+                                <div id="posts"
+                                    class="post-grid row grid-container gutter-40 clearfix has-init-isotope">
 
 
-                        <div class="clear"></div>
-                    </div>
-
-                    <div class="center page-section col-lg-12 col-md-12 mt-5">
-                        <div class="container clearfix">
-                            <div id="posts" class="post-grid row grid-container gutter-40 clearfix has-init-isotope">
+                                    <div class="entry event col-md-6 col-12">
+                                        <div class="grid-inner p-4">
 
 
-                                <div class="entry event col-md-6 col-12">
-                                    <div class="grid-inner p-4">
+                                            <img src="imgs/mes/agosto.png" alt="" style="width: 16rem" />
+                                            <p>
+                                                Tuvo lugar la Mesa de la Educación en el marco de la
+                                                participación
+                                                de la entidad
+                                                como miembro del Consejo Nacional de Calidad de la Educación. El
+                                                debate puso
+                                                foco en la problemática de la educación privada en la pandemia y
+                                                el
+                                                impacto
+                                                pospandemia. Se elevaron pedidos de incorporación de la
+                                                enseñanza
+                                                privada al
+                                                Programa "Ahora 12" y "Ahora 18", se designó un delegado
+                                                suplente de
+                                                la Junta
+                                                Nacional de Educación Privada (JUNEP) al CNCE y se mantuvo una
+                                                audiencia virtual
+                                                con el Ministro de Educación de la Nación, Nicolás Trotta.
+                                                Participan de esta
+                                                mesa 25 entidades de todo el país.
+                                            </p>
 
 
-                                        <img src="imgs/mes/agosto.png" alt="" style="width: 16rem" />
-                                        <p>
-                                            Tuvo lugar la Mesa de la Educación en el marco de la
-                                            participación
-                                            de la entidad
-                                            como miembro del Consejo Nacional de Calidad de la Educación. El
-                                            debate puso
-                                            foco en la problemática de la educación privada en la pandemia y
-                                            el
-                                            impacto
-                                            pospandemia. Se elevaron pedidos de incorporación de la
-                                            enseñanza
-                                            privada al
-                                            Programa "Ahora 12" y "Ahora 18", se designó un delegado
-                                            suplente de
-                                            la Junta
-                                            Nacional de Educación Privada (JUNEP) al CNCE y se mantuvo una
-                                            audiencia virtual
-                                            con el Ministro de Educación de la Nación, Nicolás Trotta.
-                                            Participan de esta
-                                            mesa 25 entidades de todo el país.
-                                        </p>
-
-
-                                    </div>
-                                </div>
-
-                                <div class="entry event col-md-6 col-12">
-                                    <div class="grid-inner p-4">
-
-
-
-                                        <img src="imgs/mes/septiembre.png" alt="" style="width: 16rem" />
-                                        <p>
-                                            Se llevó a cabo la videoconferencia de movilidad y transporte
-                                            donde
-                                            se trataron
-                                            aspectos vinculados a los inconvenientes en la circulación, el
-                                            flujo
-                                            de ingresos
-                                            y el endeudamiento de las pymes del sector. Se elevaron pedidos
-                                            de
-                                            representación de CAME en el Consejo Federal Portuario, se
-                                            mantuvo
-                                            una audiencia
-                                            virtual con el Ministro de Transporte de la Nación, Mario Meoni,
-                                            y
-                                            reuniones con
-                                            el Secretario de Planificación del Ministerio de Transporte de
-                                            la
-                                            Nación, Gastón
-                                            Jaques y Rodríguez Melgarejo. Integran esta mesa sectorial 25
-                                            entidades de los
-                                            rubros transporte de pasajeros, transporte de carga liviana y
-                                            pesada, motos,
-                                            combis y remises, vehículos eléctricos y puertos recreativos.
-
-                                            Se realizó la Mesa Binacional donde participan más de 30 Cámaras
-                                            de
-                                            Comercio
-                                            Internacional en un trabajo de camaradería que intenta impulsar
-                                            temas de
-                                            competitividad, desarrollo de productos con valor agregado y el
-                                            rol
-                                            preponderante de las pymes en la exportación. Se elevaron
-                                            pedidos de
-                                            audiencia
-                                            al Embajador, Jorge Neme.
-
-                                        </p>
-
-
-                                    </div>
-                                </div>
-
-                                <div class="entry event col-md-6 col-12">
-                                    <div class="grid-inner p-4">
-                                        <img src="imgs/mes/octubre.png" alt="" style="width: 16rem" />
-                                        <p>
-                                            Reunión con el sector gastronómico develó los inconvenientes
-                                            producidos por el
-                                            COVID 19 en la actividad comercial, caída de las ventas, corte
-                                            de la
-                                            cadena de
-                                            pago y bajo nivel de rentabilidad de las empresas. Integran esta
-                                            mesa 6 cámaras
-                                            sectoriales pertenecientes a los rubros pastas, helados, pizzas
-                                            y
-                                            empanadas, pan
-                                            y establecimientos gastronómicos.
-
-                                            La Mesa de la Salud integrada por más de 30 entidades del sector
-                                            puso en
-                                            discusión el impacto del COVID-19 en las empresas y la
-                                            significativa
-                                            caída del
-                                            consumo con deudas acumuladas en el pago de las prestaciones y
-                                            el
-                                            exceso de la
-                                            demanda que provocó un aumento desmedido de las materias primas
-                                            en
-                                            dólares.
-                                            Participan del sector cámaras de los rubros droguerías y
-                                            medicamentos, industria
-                                            dental, bioquímica y farmacia, implantes y ortopedia,
-                                            laboratorios y
-                                            clínicas
-                                            privadas. Se elevaron notas de pedido de incorporación del rubro
-                                            ortopedia al
-                                            Programa "Ahora 12" y "Ahora 18".
-
-
-                                        </p>
-
-                                    </div>
-                                </div>
-
-                                <div class="entry event col-md-6 col-12">
-                                    <div class="grid-inner p-4">
-
-                                        <img src="imgs/mes/noviembre.png" alt="" style="width: 16rem" />
-                                        <p>
-                                            Se llevó a cabo la mesa de la industria alimenticia en el marco
-                                            del
-                                            trabajo
-                                            específico con los distintos sectores. En la reunión se habló
-                                            del
-                                            concepto de
-                                            segmentación y la importancia de identificar la disparidad de
-                                            problemas, precios
-                                            máximos, abastos y distintas iniciativas de los gobiernos
-                                            nacionales
-                                            y
-                                            municipales como controles bromatológicos, etiquetado frontal y
-                                            la
-                                            falta de
-                                            estímulo a la producción industrial. Participan de esta
-                                            iniciativa
-                                            25 cámaras
-                                            sectoriales de los rubros apicultura, alimentos orgánicos,
-                                            lácteos,
-                                            molinería,
-                                            avicultura, fideero, olivícola, bebidas y jugos, yerbatero,
-                                            frutihortícola y
-                                            pesquero.
-                                        </p>
-
-                                    </div>
-                                </div>
-
-                                <div class="entry event col-12">
-                                    <div class="grid-inner row align-items-center no-gutters p-4">
-                                        <div class="entry-image col-md-3 mb-md-0">
-                                            <img src="imgs/mes/diciembre.png" alt="" style="width:16rem;" />
                                         </div>
-                                        <div class="col-md-9">
-                                            <div>
-                                                <p>
-                                                    En el marco del trabajo de la mesa de movilidad y transporte se
-                                                    elevaron notas
-                                                    de pedido al Ministerio de Transporte de la Nación Abg. Mario
-                                                    Meoni
-                                                    para
-                                                    integrar delegados de CAME al Consejo Federal Hidrovía CFH.
+                                    </div>
 
-                                                    La Mesa de Alimentos solicitó elevar notas al Ministerio de
-                                                    Producción de la
-                                                    Nación Lic. Paula Español por Ley de Góndolas / Precios Máximos
-                                                    y
-                                                    pedido de
-                                                    audiencia a la misma cartera.
+                                    <div class="entry event col-md-6 col-12">
+                                        <div class="grid-inner p-4">
 
-                                                </p>
+
+
+                                            <img src="imgs/mes/septiembre.png" alt="" style="width: 16rem" />
+                                            <p>
+                                                Se llevó a cabo la videoconferencia de movilidad y transporte
+                                                donde
+                                                se trataron
+                                                aspectos vinculados a los inconvenientes en la circulación, el
+                                                flujo
+                                                de ingresos
+                                                y el endeudamiento de las pymes del sector. Se elevaron pedidos
+                                                de
+                                                representación de CAME en el Consejo Federal Portuario, se
+                                                mantuvo
+                                                una audiencia
+                                                virtual con el Ministro de Transporte de la Nación, Mario Meoni,
+                                                y
+                                                reuniones con
+                                                el Secretario de Planificación del Ministerio de Transporte de
+                                                la
+                                                Nación, Gastón
+                                                Jaques y Rodríguez Melgarejo. Integran esta mesa sectorial 25
+                                                entidades de los
+                                                rubros transporte de pasajeros, transporte de carga liviana y
+                                                pesada, motos,
+                                                combis y remises, vehículos eléctricos y puertos recreativos.
+
+                                                Se realizó la Mesa Binacional donde participan más de 30 Cámaras
+                                                de
+                                                Comercio
+                                                Internacional en un trabajo de camaradería que intenta impulsar
+                                                temas de
+                                                competitividad, desarrollo de productos con valor agregado y el
+                                                rol
+                                                preponderante de las pymes en la exportación. Se elevaron
+                                                pedidos de
+                                                audiencia
+                                                al Embajador, Jorge Neme.
+
+                                            </p>
+
+
+                                        </div>
+                                    </div>
+
+                                    <div class="entry event col-md-6 col-12">
+                                        <div class="grid-inner p-4">
+                                            <img src="imgs/mes/octubre.png" alt="" style="width: 16rem" />
+                                            <p>
+                                                Reunión con el sector gastronómico develó los inconvenientes
+                                                producidos por el
+                                                COVID 19 en la actividad comercial, caída de las ventas, corte
+                                                de la
+                                                cadena de
+                                                pago y bajo nivel de rentabilidad de las empresas. Integran esta
+                                                mesa 6 cámaras
+                                                sectoriales pertenecientes a los rubros pastas, helados, pizzas
+                                                y
+                                                empanadas, pan
+                                                y establecimientos gastronómicos.
+
+                                                La Mesa de la Salud integrada por más de 30 entidades del sector
+                                                puso en
+                                                discusión el impacto del COVID-19 en las empresas y la
+                                                significativa
+                                                caída del
+                                                consumo con deudas acumuladas en el pago de las prestaciones y
+                                                el
+                                                exceso de la
+                                                demanda que provocó un aumento desmedido de las materias primas
+                                                en
+                                                dólares.
+                                                Participan del sector cámaras de los rubros droguerías y
+                                                medicamentos, industria
+                                                dental, bioquímica y farmacia, implantes y ortopedia,
+                                                laboratorios y
+                                                clínicas
+                                                privadas. Se elevaron notas de pedido de incorporación del rubro
+                                                ortopedia al
+                                                Programa "Ahora 12" y "Ahora 18".
+
+
+                                            </p>
+
+                                        </div>
+                                    </div>
+
+                                    <div class="entry event col-md-6 col-12">
+                                        <div class="grid-inner p-4">
+
+                                            <img src="imgs/mes/noviembre.png" alt="" style="width: 16rem" />
+                                            <p>
+                                                Se llevó a cabo la mesa de la industria alimenticia en el marco
+                                                del
+                                                trabajo
+                                                específico con los distintos sectores. En la reunión se habló
+                                                del
+                                                concepto de
+                                                segmentación y la importancia de identificar la disparidad de
+                                                problemas, precios
+                                                máximos, abastos y distintas iniciativas de los gobiernos
+                                                nacionales
+                                                y
+                                                municipales como controles bromatológicos, etiquetado frontal y
+                                                la
+                                                falta de
+                                                estímulo a la producción industrial. Participan de esta
+                                                iniciativa
+                                                25 cámaras
+                                                sectoriales de los rubros apicultura, alimentos orgánicos,
+                                                lácteos,
+                                                molinería,
+                                                avicultura, fideero, olivícola, bebidas y jugos, yerbatero,
+                                                frutihortícola y
+                                                pesquero.
+                                            </p>
+
+                                        </div>
+                                    </div>
+
+                                    <div class="entry event col-12">
+                                        <div class="grid-inner row align-items-center no-gutters p-4">
+                                            <div class="entry-image col-md-3 mb-md-0">
+                                                <img src="imgs/mes/diciembre.png" alt="" style="width:16rem;" />
+                                            </div>
+                                            <div class="col-md-9">
+                                                <div>
+                                                    <p>
+                                                        En el marco del trabajo de la mesa de movilidad y transporte se
+                                                        elevaron notas
+                                                        de pedido al Ministerio de Transporte de la Nación Abg. Mario
+                                                        Meoni
+                                                        para
+                                                        integrar delegados de CAME al Consejo Federal Hidrovía CFH.
+
+                                                        La Mesa de Alimentos solicitó elevar notas al Ministerio de
+                                                        Producción de la
+                                                        Nación Lic. Paula Español por Ley de Góndolas / Precios Máximos
+                                                        y
+                                                        pedido de
+                                                        audiencia a la misma cartera.
+
+                                                    </p>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
+
+
                     </div>
-
-
+                    <hr>
+                    <?php include "anterior_siguiente.php"; ?>
+                    <!-- fin Contenido    ============================================= -->
                 </div>
-                <hr>
-                <?php include "anterior_siguiente.php"; ?>
-                <!-- fin Contenido    ============================================= -->
-            </div>
         </section>
 
         <!-- #content end -->

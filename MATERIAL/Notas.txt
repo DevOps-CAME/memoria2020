@@ -1,36 +1,19 @@
-- Links a pagina de came que abran en nueva pestaña
-
 - Labor institucional
 -- Calidad y Transparencia  
 -- Informes, estadísticas y comunicación
 
 Falta ponerle onda y retocar Sectores y Secretarías (toda la info esta puesta) 
 Falta ponerle onda y retocar RRHH (toda la info esta puesta) 
-
 Falta retocar footer
 Falta revisar todo desde celular
-
-- cambiar fotos destacados masonry
-
 Faltan los interlinks
-
 
 innovacion responsable > joven
 Relevamientos especiales > comunicación (labor inst)
 Sita de Beltran > Ver más a editorial
 
-Secretarias y sectores interconectados al final
-
-Relevamiento sobre Percepción Empresaria de Venta Ilegal (PEVI) < tabla al lado del video
 
 
-- teipesa.php Twitter teipesa ; 3 columnas donde sea posible
-
-- anterior y siguiente lineas largas
 - gestiones_bcra.php > retocar CAME EXIGIÓ AL BCRA:
 - /gestiones_bcra.php notas de abajo
 - teipesa.php fondo 2 videos
-
-- comercio_servicios.php - Logros de gestión MARGEN
-- turismo.php
-http://themes.semicolonweb.com/html/canvas/icon-lists.html
