@@ -2,11 +2,10 @@
 -- Calidad y Transparencia  
 -- Informes, estadísticas y comunicación
 
-Falta ponerle onda y retocar Sectores y Secretarías (toda la info esta puesta) 
-Falta ponerle onda y retocar RRHH (toda la info esta puesta) 
+
 Falta retocar footer
 Falta revisar todo desde celular
-Faltan los interlinks
+
 
 innovacion responsable > joven
 Relevamientos especiales > comunicación (labor inst)
@@ -14,6 +13,5 @@ Sita de Beltran > Ver más a editorial
 
 
 
-- gestiones_bcra.php > retocar CAME EXIGIÓ AL BCRA:
-- /gestiones_bcra.php notas de abajo
+
 - teipesa.php fondo 2 videos

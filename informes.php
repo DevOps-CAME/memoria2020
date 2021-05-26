@@ -29,168 +29,6 @@
 
                 <!-- Contenido
 		============================================= -->
-                <div class="center page-section col-lg-12 col-md-12">
-                    <div class="container clearfix">
-
-
-                        <p class="lead mx-auto bottommargin">
-                            Iniciado el Aislamiento Social, Preventivo y Obligatorio (ASPO)
-                            en el mes de marzo, el área de Comunicación logró digitalizar
-                            completamente el proceso de recepción y gestión de
-                            correspondencia, permitiendo el trabajo a distancia y eliminando
-                            el uso de papel, sin discontinuar el
-                            <bold>servicio de asistencia a las entidades asociadas.</bold>
-                            Asimismo, y en virtud del cierre parcial de la sede, el
-                            Departamento recibió y gestionó la documentación de carácter
-                            legal. En igual sentido, fue responsable de encauzar las más de
-                            <bold>150 gestiones</bold>
-                            presentadas ante autoridades nacionales y provinciales,
-                            vinculadas a propuestas y demandas de CAME y sus entidades
-                            asociadas con motivo de las condiciones impuestas por la
-                            coyuntura.
-                        </p>
-
-                        <div class="clear"></div>
-                    </div>
-                </div>
-
-                <div class="container clearfix col-lg-12 col-md-12">
-
-                    <h2 class="subtitulo">
-                        Gestión de correspondencia</h2>
-
-                    <div class="row justify-content-between center ml-4 mr-4">
-
-                        <div class="col-sm-4 col-lg-3">
-                            <div class="feature-box fbox-small fbox-effect">
-                                <div class="fbox-content">
-                                    <div class="counter color">
-                                        <span data-from="1" data-to="3361" data-refresh-interval="10"
-                                            data-speed="1000">3361</span>
-                                    </div>
-                                    <p class="text-center">Cartas y solicitudes recibidas</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-sm-4 col-lg-3">
-                            <div class="feature-box fbox-small fbox-effect">
-                                <div class="fbox-content">
-                                    <div class="counter color">
-                                        <span data-from="1" data-to="1801" data-refresh-interval="10"
-                                            data-speed="1300">1801</span>
-                                    </div>
-                                    <p class="text-center">Consejeros titulares</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-sm-4 col-lg-3">
-                            <div class="feature-box fbox-small fbox-effect">
-                                <div class="fbox-content">
-                                    <div class="counter color">
-                                        <span data-from="1" data-to="255" data-refresh-interval="10"
-                                            data-speed="1600">255</span>
-                                    </div>
-                                    <p class="text-center">Invitaciones recibidas y gestionadas</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="clear m-5"></div>
-
-                <div class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
-                    <div class="container clearfix">
-                        <h2 class="subtitulo">
-                            CAME a la vanguardia: propuestas para las pymes en el escenario
-                            de la pandemia
-                        </h2>
-                        <p class="lead mx-auto bottommargin">
-                            En relación con el proceso de acreditación de
-                            <bold>Calidad</bold>, iniciado en 2018, en el mes de junio de
-                            2020, y de manera remota, el área de Comunicación aprobó con
-                            éxito la
-                            <bold>auditoría de seguimiento de la certificación ISO
-                                9001-2015</bold>, ante el Instituto Argentino de Normalización y Certificación
-                            (IRAM), organismo que audita y certifica la transparencia en los
-                            procesos como así también la mejora continua, asegurando una
-                            correcta gestión de la política de la calidad, el cumplimiento
-                            de objetivos y el análisis de datos concretos para implementar
-                            nuevos desarrollos que tienen como finalidad seguir mejorando la
-                            performance del sector a nivel interno y externo. Vinculado a
-                            ello, durante 2020 se ha realizado un relevamiento de la
-                            actividad del área a través de la
-                            <bold>incorporación de indicadores</bold> que han permitido
-                            identificar desafíos y oportunidades de mejora. De igual manera,
-                            se llevó a cabo una <bold>encuesta de satisfacción</bold> entre
-                            nuestros principales interlocutores, los asociados a CAME,
-                            quienes se manifestaron en relación con la velocidad y calidad
-                            de la respuesta del sector.
-                        </p>
-                        <div class="clear"></div>
-                        <div class="row justify-content-between">
-
-                            <div class="col-sm-6">
-                                <div class="feature-box fbox-small fbox-effect">
-                                    <div class="fbox-content center">
-                                        <div class="counter color">
-                                            <span data-from="1" data-to="71" data-refresh-interval="1"
-                                                data-speed="1000">71</span>%
-                                        </div>
-                                        <p class="center">consideró MUY BUENA la velocidad de respuesta</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-sm-6">
-                                <div class="feature-box fbox-small fbox-effect">
-                                    <div class="fbox-content">
-                                        <div class="counter color">
-                                            <span data-from="1" data-to="65" data-refresh-interval="1"
-                                                data-speed="1300">65</span>%
-                                        </div>
-                                        <p class="center">consideró MUY BUENA la calidad de la respuesta recibida</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="clear m-5"></div>
-
-                        <div class="row justify-content-between">
-
-                            <div class="col-md-6">
-                                <div class="fancy-title title-center title-border mt-0 mb-2">
-                                    <h4>Calificación de la <em>velocidad de respuesta</em> del Departamento de
-                                        Comunicación
-                                        de CAME</h4>
-                                </div>
-                                <canvas id="chart-0"></canvas>
-                            </div>
-
-                            <div class="col-md-6">
-                                <div class="fancy-title title-center title-border mt-0 mb-2">
-                                    <h4>Calificación de la <em>calidad de respuesta ante las solicitudes/invitaciones
-                                            enviadas por su entidad</em> al Departamento de Comunicación de CAME</h4>
-                                </div>
-                                <canvas id="chart-1"></canvas>
-                            </div>
-
-                            <p class="lead mx-auto bottommargin">
-                                Acompañando este proceso de modernización de procesos y prestaciones, desde el área se
-                                desarrolló el diseño y caracterización del <bold>nuevo sistema de gestión de
-                                    correspondencia
-                                </bold> que reemplazará al actual programa Fénix, principal herramienta del área. Esta
-                                nueva
-                                plataforma dedicará un espacio exclusivo a la consulta y seguimiento de la
-                                correspondencia
-                                para nuestras entidades asociadas.
-                            </p>
-                        </div>
-
-                        <div class="clear"></div>
-                    </div>
-
-
-                </div>
 
                 <!--Comunicacion Comienzo-->
 
@@ -199,7 +37,7 @@
                         <h2 class="subtitulo">
                             Comunicación estratégica con el asociado y el mundo pyme
                         </h2>
-                        <h4>(GRÁFICO RESUMEN /YA PEDIDO A SABRI) </h4>
+
                         <h3>Impulso a la agenda pyme en medios de comunicación</h3>
                         <p class="lead mx-auto bottommargin">
                             Considerando la incidencia que la visibilización de nuestras acciones y
@@ -292,118 +130,238 @@
                 <div class="content-wrap">
                     <div class="container clearfix">
 
-                        <div class="row grid-container" data-layout="masonry" style="overflow: visible">
-
-                            <div class="col-lg-3" data-animate="flipInX" data-delay="50">
-                                <div class="flip-card text-center top-to-bottom">
-                                    <div class="flip-card-front dark" style="background-image: url('http://www.redcame.org.ar/advf/imagenes/2021/05/609289b1c7d2f_800x1116.jpg');      -webkit-filter: grayscale(35%) saturate(2);
-                                        filter: grayscale(35%) saturate(2);">
-                                        <div class="flip-card-inner">
-                                            <div class="card bg-transparent border-0 text-center">
-                                                <div class="card-body">
-
-                                                    <h3 class="card-title">Abril - 2021
-                                                    </h3>
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="flip-card-back" style="background-color:#1E8BC3">
-                                        <div class="flip-card-inner">
-                                            <p class="mb-2 text-white center">Abril - 2021 </p>
-                                            <a href="gestiones_pandemia.php" class="btn btn-outline-light mt-2">
-                                                Ver más</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-3" data-animate="flipInX" data-delay="100">
-                                <div class="flip-card text-center top-to-bottom">
-                                    <div class="flip-card-front dark" style="background-image: url('http://www.redcame.org.ar/advf/imagenes/2021/04/606dd3936c2ae_800x1116.jpg');     -webkit-filter: grayscale(35%);
-                                        filter: grayscale(35%);">
-                                        <div class="flip-card-inner">
-                                            <div class="card bg-transparent border-0 text-center">
-                                                <div class="card-body">
+                        <div id="oc-images" class="owl-carousel image-carousel carousel-widget" data-items-xs="2"
+                            data-items-sm="3" data-items-lg="4" data-items-xl="5">
 
 
-                                                    <h3 class="card-title">Marzo - 2021</h3>
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="flip-card-back" style="background-color:#1E8BC3">
-                                        <div class="flip-card-inner">
-                                            <p class="mb-2 text-white center">Marzo - 2021</p>
-                                            <a href="gestiones_trib.php" class="btn btn-outline-light mt-2">
-                                                Ver más</a>
-
-                                        </div>
-                                    </div>
-                                </div>
+                            <div class="oc-item center">
+                                <a href="http://redcame.org.ar/revista/ampliada/81" target="_blank">
+                                    <img class="card-img"
+                                        src="http://redcame.org.ar/advf/imagenes/2021/05/609289b1c7d2f_800x1116.jpg">
+                                    <h4>Abril - 2021</h4>
+                                </a>
                             </div>
 
 
-
-
-                            <div class="col-lg-3" data-animate="flipInX" data-delay="150">
-                                <div class="flip-card text-center top-to-bottom">
-                                    <div class="flip-card-front dark" style="background-image: url('http://www.redcame.org.ar/advf/imagenes/2021/03/60417b93e95aa_800x1116.jpg');     -webkit-filter: grayscale(35%);
-                                        filter: grayscale(35%);">
-                                        <div class="flip-card-inner">
-                                            <div class="card bg-transparent border-0">
-                                                <div class="card-body">
-
-
-                                                    <h3 class="card-title mb-0">Febrero - 2021</h3>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="flip-card-back" style="background-color:#1E8BC3">
-                                        <div class="flip-card-inner">
-                                            <p class="mb-2 text-white center">Febrero - 2021</p>
-                                            <a href="gestiones_gobierno.php#gestiones_consumo"
-                                                class="btn btn-outline-light mt-2">
-                                                Ver más</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-3" data-animate="flipInX" data-delay="200">
-                                <div class="flip-card text-center top-to-bottom">
-                                    <div class="flip-card-front dark" style="
-                                            background-image: url('http://www.redcame.org.ar/advf/imagenes/2020/12/5feca56172ddb_800x1116.jpg');
-                                            -webkit-filter: grayscale(35%) saturate(2);
-                                            filter: grayscale(35%) saturate(2);">
-                                        <div class="flip-card-inner">
-                                            <div class="card bg-transparent border-0">
-                                                <div class="card-body">
-                                                    <h3 class="card-title mb-0">Diciembre - 2020</h3>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="flip-card-back" style="background-color:#1E8BC3">
-                                        <div class="flip-card-inner">
-                                            <p class="mb-2 text-white center">Diciembre - 2020</p>
-                                            <a href="gestiones_gobierno.php#gestiones_paritaria"
-                                                class="btn btn-outline-light mt-2">
-                                                Ver más</a>
-                                        </div>
-                                    </div>
-                                </div>
+                            <div class="oc-item center">
+                                <a href="http://redcame.org.ar/revista/ampliada/80" target="_blank">
+                                    <img class="card-img"
+                                        src="http://redcame.org.ar/advf/imagenes/2021/04/606dd3936c2ae_800x1116.jpg">
+                                    <h4>Marzo - 2021</h4>
+                                </a>
                             </div>
 
 
+                            <div class="oc-item center">
+                                <a href="http://redcame.org.ar/revista/ampliada/79" target="_blank">
+                                    <img class="card-img"
+                                        src="http://redcame.org.ar/advf/imagenes/2021/03/60417b93e95aa_800x1116.jpg">
+                                    <h4>Febrero - 2021</h4>
+                                </a>
+                            </div>
 
 
+                            <div class="oc-item center">
+                                <a href="http://redcame.org.ar/revista/ampliada/78" target="_blank">
+                                    <img class="card-img"
+                                        src="http://redcame.org.ar/advf/imagenes/2020/12/5feca56172ddb_800x1116.jpg">
+                                    <h4>Diciembre - 2020</h4>
+                                </a>
+                            </div>
+
+
+                            <div class="oc-item center">
+                                <a href="http://redcame.org.ar/revista/ampliada/77" target="_blank">
+                                    <img class="card-img"
+                                        src="http://redcame.org.ar/advf/imagenes/2020/12/5fd122de51b2f_800x1116.jpg">
+                                    <h4>Noviembre - 2020</h4>
+                                </a>
+                            </div>
+
+
+                            <div class="oc-item center">
+                                <a href="http://redcame.org.ar/revista/ampliada/68" target="_blank">
+                                    <img class="card-img"
+                                        src="http://redcame.org.ar/advf/imagenes/2020/10/5f9c6aa04a484_800x1135.jpg">
+                                    <h4>Octubre - 2020</h4>
+                                </a>
+                            </div>
+
+
+                            <div class="oc-item center">
+                                <a href="http://redcame.org.ar/revista/ampliada/67" target="_blank">
+                                    <img class="card-img"
+                                        src="http://redcame.org.ar/advf/imagenes/2020/10/5f7c70f51e69a_800x976.png">
+                                    <h4>Septiembre - 2020</h4>
+                                </a>
+                            </div>
+
+
+                            <div class="oc-item center">
+                                <a href="http://redcame.org.ar/revista/ampliada/66" target="_blank">
+                                    <img class="card-img"
+                                        src="http://redcame.org.ar/advf/imagenes/2020/08/5f4d7665a6f98_800x1116.jpg">
+                                    <h4>Agosto - 2020</h4>
+                                </a>
+                            </div>
+
+                            <div class="oc-item center">
+                                <a href="http://redcame.org.ar/revista/ampliada/65" target="_blank">
+                                    <img class="card-img"
+                                        src="http://redcame.org.ar/advf/imagenes/2020/08/5f33f7d915d6c_800x944.png">
+                                    <h4>Julio - 2020</h4>
+                                </a>
+                            </div>
+
+
+                            <div class="oc-item center">
+                                <a href="http://redcame.org.ar/revista/ampliada/64" target="_blank">
+                                    <img class="card-img"
+                                        src="http://redcame.org.ar/advf/imagenes/2020/07/5f19fb62c7080_800x1046.png">
+                                    <h4>Junio - 2020</h4>
+                                </a>
+                            </div>
+
+
+                            <div class="oc-item center">
+                                <a href="http://redcame.org.ar/revista/ampliada/51" target="_blank">
+                                    <img class="card-img"
+                                        src="http://redcame.org.ar/advf/imagenes/2020/05/5ec5868222706_800x1116.jpg">
+                                    <h4>Mayo - 2020</h4>
+                                </a>
+                            </div>
+
+
+                            <div class="oc-item center">
+                                <a href="http://redcame.org.ar/revista/ampliada/9" target="_blank">
+                                    <img class="card-img"
+                                        src="http://redcame.org.ar/advf/imagenes/2020/04/5e9f6c4011775_800x1132.jpg">
+                                    <h4>Febrero - 2020</h4>
+                                </a>
+                            </div>
+
+
+                            <div class="oc-item center">
+                                <a href="http://redcame.org.ar/revista/ampliada/10" target="_blank">
+                                    <img class="card-img"
+                                        src="http://redcame.org.ar/advf/imagenes/2020/04/5e9f78b5b0f83_800x1132.jpg">
+                                    <h4>Enero - 2020</h4>
+                                </a>
+                            </div>
+
+
+                            <div class="oc-item center">
+                                <a href="http://redcame.org.ar/advf/documentos/2020/04/5ea037c925344.pdf"
+                                    target="_blank">
+                                    <img class="card-img"
+                                        src="http://redcame.org.ar/advf/imagenes/2020/04/5e9f797e17d25_800x1132.jpg">
+                                    <h4>Diciembre - 2019</h4>
+                                </a>
+                            </div>
+
+
+                            <div class="oc-item center">
+                                <a href="http://redcame.org.ar/advf/documentos/2020/04/5ea037c92e45a.pdf"
+                                    target="_blank">
+                                    <img class="card-img"
+                                        src="http://redcame.org.ar/advf/imagenes/2020/04/5e9f842315d11_800x1132.jpg">
+                                    <h4>Octubre - 2019</h4>
+                                </a>
+                            </div>
+
+
+                            <div class="oc-item center">
+                                <a href="http://redcame.org.ar/advf/documentos/2020/04/5e9f854345fe7.pdf"
+                                    target="_blank">
+                                    <img class="card-img"
+                                        src="http://redcame.org.ar/advf/imagenes/2020/04/5e9f8515db378_800x1132.jpg">
+                                    <h4>Septiembre - 2019</h4>
+                                </a>
+                            </div>
+
+                            <div class="oc-item center">
+                                <a href="http://redcame.org.ar/advf/documentos/2020/04/5e9f85e2b2a9e.pdf"
+                                    target="_blank">
+                                    <img class="card-img"
+                                        src="http://redcame.org.ar/advf/imagenes/2020/04/5e9f8586afca2_800x1132.jpg">
+                                    <h4>Agosto - 2019</h4>
+                                </a>
+                            </div>
+
+
+                            <div class="oc-item center">
+                                <a href="http://redcame.org.ar/advf/documentos/2020/04/5e9f864e29096.pdf"
+                                    target="_blank">
+                                    <img class="card-img"
+                                        src="http://redcame.org.ar/advf/imagenes/2020/04/5e9f861c8e926_800x1132.jpg">
+                                    <h4>Julio - 2019</h4>
+                                </a>
+                            </div>
+
+
+                            <div class="oc-item center">
+                                <a href="http://redcame.org.ar/advf/documentos/2020/04/5e9f86c8ce426.pdf"
+                                    target="_blank">
+                                    <img class="card-img"
+                                        src="http://redcame.org.ar/advf/imagenes/2020/04/5e9f869bf2507_800x1132.jpg">
+                                    <h4>Junio - 2019</h4>
+                                </a>
+                            </div>
+
+
+                            <div class="oc-item center">
+                                <a href="http://redcame.org.ar/advf/documentos/2020/04/5e9f87543211b.pdf"
+                                    target="_blank">
+                                    <img class="card-img"
+                                        src="http://redcame.org.ar/advf/imagenes/2020/04/5e9f8704038f1_800x1132.jpg">
+                                    <h4>Mayo - 2019</h4>
+                                </a>
+                            </div>
+
+
+                            <div class="oc-item center">
+                                <a href="http://redcame.org.ar/advf/documentos/2020/04/5e9f881b41580.pdf"
+                                    target="_blank">
+                                    <img class="card-img"
+                                        src="http://redcame.org.ar/advf/imagenes/2020/04/5e9f87f02bae1_800x1132.jpg">
+                                    <h4>Abril - 2019</h4>
+                                </a>
+                            </div>
+
+
+                            <div class="oc-item center">
+                                <a href="http://redcame.org.ar/advf/documentos/2020/04/5e9f88be07093.pdf"
+                                    target="_blank">
+                                    <img class="card-img"
+                                        src="http://redcame.org.ar/advf/imagenes/2020/04/5e9f885bd9d63_800x1132.jpg">
+                                    <h4>Febrero - 2019</h4>
+                                </a>
+                            </div>
+
+
+                            <div class="oc-item center">
+                                <a href="http://redcame.org.ar/advf/documentos/2020/04/5e9f89a171d53.pdf"
+                                    target="_blank">
+                                    <img class="card-img"
+                                        src="http://redcame.org.ar/advf/imagenes/2020/04/5e9f8976ab6ce_800x1132.jpg">
+                                    <h4>Enero - 2019</h4>
+                                </a>
+                            </div>
+
+
+                            <div class="oc-item center">
+                                <a href="http://redcame.org.ar/advf/documentos/2020/04/5e9f8a184d9d6.pdf"
+                                    target="_blank">
+                                    <img class="card-img"
+                                        src="http://redcame.org.ar/advf/imagenes/2020/04/5e9f89f01f6a6_800x1132.jpg">
+                                    <h4>Enero - 2019</h4>
+                                </a>
+                            </div>
 
 
                         </div>
+
+
                     </div>
                 </div>
 
@@ -436,56 +394,61 @@
                             efectos del COVID-19 en el entramado
                             pyme nacional.
                         </p>
-                        <h2 class="subtitulo">
-                            PRINCIPALES RESULTADOS
-                        </h2>
+
 
 
                     </div>
                 </div>
 
-                <!--Counter comiengo-->
+                <!--Counter -->
                 <div class="section border-top-0 topmargin-sm bottommargin-sm border-0 bg-transparent">
                     <div class="container clearfix">
-
+                        <h2 class="subtitulo">
+                            PRINCIPALES RESULTADOS
+                        </h2>
                         <div class="row col-mb-50">
                             <div class="col-sm-6 col-lg-3 text-center bounceIn animated" data-animate="bounceIn">
                                 <i class="i-plain i-xlarge mx-auto mb-0 icon-code"></i>
-                                <div class="counter counter-lined"><span data-from="10" data-to="59"
-                                        data-refresh-interval="5" data-speed="2000">59,4</span>%</div>
-                                <h5>de las empresas encuestadas debió tomar nuevos créditos para poder sostenerse, y los
+                                <div class="counter counter-lined">59,4 %</div>
+                                <p class="text-center">de las empresas encuestadas debió tomar nuevos créditos
+                                    para
+                                    poder sostenerse, y los
                                     mismos representaron,
-                                    en promedio, cerca del 28% de la facturación correspondiente al año 2019. </h5>
+                                    en promedio, cerca del 28% de la facturación correspondiente al año 2019.
+                                </p>
                             </div>
 
-                            <div class="col-sm-6 col-lg-3 text-center bounceIn animated" data-animate="bounceIn"
-                                data-delay="200">
+                            <div class="col-sm-6 col-lg-3 text-center bounceIn animated" data-animate="bounceIn">
                                 <i class="i-plain i-xlarge mx-auto mb-0 icon-magic"></i>
-                                <div class="counter counter-lined"><span data-from="1" data-to="21"
-                                        data-refresh-interval="2" data-speed="2000">21,4</span>%</div>
-                                <h5>Fue la caída anual promedio versus el mismo período de 2019, para las ventas
-                                    minoristas pyme. En el caso del Índice de Producción
-                                    Industrial Pyme (IPIP), la caída fue del 14,8%, mientras que el Índice de Precios en
-                                    Origen y Destino (IPOD) registró una mejora de 8,5%.</h5>
+                                <div class="counter counter-lined">21,4 %</div>
+                                <p class="text-center">Fue la <strong>caída anual promedio</strong> versus el mismo
+                                    período de 2019, para
+                                    <strong>las ventas
+                                        minoristas pyme.</strong> En el caso del Índice de <strong>Producción
+                                        Industrial Pyme (IPIP),</strong> la caída fue del <strong>14,8%,</strong>
+                                    mientras que el <strong>Índice de Precios en
+                                        Origen y Destino (IPOD)</strong> registró una mejora de <strong>8,5%.</strong>
+                                </p>
                             </div>
 
-                            <div class="col-sm-6 col-lg-3 text-center bounceIn animated" data-animate="bounceIn"
-                                data-delay="400">
+                            <div class="col-sm-6 col-lg-3 text-center bounceIn animated" data-animate="bounceIn">
                                 <i class="i-plain i-xlarge mx-auto mb-0 icon-file-text"></i>
-                                <div class="counter counter-lined"><span data-from="1000" data-to="90700"
-                                        data-refresh-interval="1000" data-speed="2000">90.700</span> Locales</div>
-                                <h5>Se estima cerraron en 2020: 41.200 pymes y 185.300 trabajadores afectados. Los
+                                <div class="counter counter-lined"> 90.700 Locales</div>
+                                <p class="text-center">Se estima <strong>cerraron en 2020: 41.200 pymes y 185.300
+                                        trabajadores
+                                        afectados.</strong> Los
                                     rubros con más cierres fueron indumentaria,
-                                    calzados y decoración y textiles para el hogar.</h5>
+                                    calzados y decoración y textiles para el hogar.</p>
                             </div>
 
-                            <div class="col-sm-6 col-lg-3 text-center bounceIn animated" data-animate="bounceIn"
-                                data-delay="600">
+                            <div class="col-sm-6 col-lg-3 text-center bounceIn animated" data-animate="bounceIn">
                                 <i class="i-plain i-xlarge mx-auto mb-0 icon-time"></i>
-                                <div class="counter counter-lined"><span data-from="1" data-to="15"
-                                        data-refresh-interval="2" data-speed="2000">15,6</span>%</div>
-                                <h5>Se presume fueron los locales comerciales que cerraron, sin registro de que se hayan
-                                    mudado a zonas más económicas.</h5>
+                                <div class="counter counter-lined">15,6 %</div>
+                                <p class="text-center">Se presume fueron los locales comerciales que
+                                    <strong>cerraron,</strong> sin
+                                    registro de que se hayan
+                                    mudado a zonas más económicas.
+                                </p>
                             </div>
                         </div>
 
@@ -500,48 +463,227 @@
                         <h2 class="subtitulo">
                             Vanguardia en comunicación digital
                         </h2>
-                        <p>Conscientes de que las plataformas digitales ocupan un rol informativo
-                            fundamental en la sociedad, desde el Departamento Redes hemos incorporado nuevas
-                            herramientas, como las plataformas Instagram y Linkedin, optimizando asimismo las ya
-                            utilizadas, para estar cada vez más cerca de nuestras entidades asociadas, el sector pyme y
-                            el
-                            público de interés.
-                        </p>
-                        <p>A tal fin, además, hemos innovado en la estética de cada red, profesionalizado el contenido
-                            audiovisual, impulsado las redes sociales de cada sector y secretaría, y puesto en marcha el
-                            nuevo
-                            sitio web oficial de la entidad, un espacio online reestructurado con un diseño atractivo e
-                            innovador
-                            que permite una navegación más sencilla e intuitiva.
-                        </p>
+                        <div class="row">
+                            <div class="col-md-7">
+                                <p>Conscientes de que las plataformas digitales ocupan un rol informativo
+                                    fundamental en la sociedad, desde el Departamento Redes hemos incorporado nuevas
+                                    herramientas, como las plataformas Instagram y Linkedin, optimizando asimismo las ya
+                                    utilizadas, para estar cada vez más cerca de nuestras entidades asociadas, el sector
+                                    pyme y
+                                    el
+                                    público de interés.
+                                </p>
+                                <p>A tal fin, además, hemos innovado en la estética de cada red, profesionalizado el
+                                    contenido
+                                    audiovisual, impulsado las redes sociales de cada sector y secretaría, y puesto en
+                                    marcha el
+                                    <strong><a href="http://redcame.org.ar" target="_blank">nuevo
+                                            sitio web oficial de la entidad,</a></strong> un espacio online
+                                    reestructurado con
+                                    un
+                                    diseño atractivo e
+                                    innovador
+                                    que permite una navegación más sencilla e intuitiva.
+                                </p>
+                            </div>
+                            <div class="col-md-5">
+                                <a href="http://redcame.org.ar" target="_blank"><img class="card-img"
+                                        src="imgs/sitio_came.png"></a>
+                            </div>
+                        </div>
+
+
+
+                    </div>
+
+                    <div class="center page-section col-lg-12 col-md-12">
+                        <div class="container clearfix">
+                            <h2 class="subtitulo">
+                                Atención personalizada a nuestras entidades asociadas
+                            </h2>
+
+                            <p class="lead mx-auto bottommargin">
+                                Iniciado el Aislamiento Social, Preventivo y Obligatorio (ASPO)
+                                en el mes de marzo, el área de Comunicación logró digitalizar
+                                completamente el proceso de recepción y gestión de
+                                correspondencia, permitiendo el trabajo a distancia y eliminando
+                                el uso de papel, sin discontinuar el
+                                <bold>servicio de asistencia a las entidades asociadas.</bold>
+                                Asimismo, y en virtud del cierre parcial de la sede, el
+                                Departamento recibió y gestionó la documentación de carácter
+                                legal. </br></br>En igual sentido, fue responsable de encauzar las más de
+                                <bold>150 gestiones</bold>
+                                presentadas ante autoridades nacionales y provinciales,
+                                vinculadas a propuestas y demandas de CAME y sus entidades
+                                asociadas con motivo de las condiciones impuestas por la
+                                coyuntura.
+                            </p>
+
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+
+                    <div class="container clearfix col-lg-12 col-md-12">
+
+
+
+                        <div class="row justify-content-between center ml-4 mr-4">
+
+                            <div class="col-sm-4 col-lg-3">
+                                <div class="feature-box fbox-small fbox-effect">
+                                    <div class="fbox-content">
+                                        <div class="counter color">
+                                            <span data-from="1" data-to="3361" data-refresh-interval="10"
+                                                data-speed="1000">3361</span>
+                                        </div>
+                                        <p class="text-center">Cartas y solicitudes recibidas</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-4 col-lg-3">
+                                <div class="feature-box fbox-small fbox-effect">
+                                    <div class="fbox-content">
+                                        <div class="counter color">
+                                            <span data-from="1" data-to="1801" data-refresh-interval="10"
+                                                data-speed="1300">1801</span>
+                                        </div>
+                                        <p class="text-center">Consejeros titulares</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-4 col-lg-3">
+                                <div class="feature-box fbox-small fbox-effect">
+                                    <div class="fbox-content">
+                                        <div class="counter color">
+                                            <span data-from="1" data-to="255" data-refresh-interval="10"
+                                                data-speed="1600">255</span>
+                                        </div>
+                                        <p class="text-center">Invitaciones recibidas y gestionadas</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
+                        <div class="container clearfix">
+
+                            <p class="lead mx-auto bottommargin">
+                                En relación con el proceso de acreditación de
+                                <bold>Calidad</bold>, iniciado en 2018, en el mes de junio de
+                                2020, y de manera remota, el área de Comunicación aprobó con
+                                éxito la
+                                <bold>auditoría de seguimiento de la certificación ISO
+                                    9001-2015</bold>, ante el Instituto Argentino de Normalización y Certificación
+                                (IRAM), organismo que audita y certifica la transparencia en los
+                                procesos como así también la mejora continua, asegurando una
+                                correcta gestión de la política de la calidad, el cumplimiento
+                                de objetivos y el análisis de datos concretos para implementar
+                                nuevos desarrollos que tienen como finalidad seguir mejorando la
+                                performance del sector a nivel interno y externo.</br></br> Vinculado a
+                                ello, durante 2020 se ha realizado un relevamiento de la
+                                actividad del área a través de la
+                                <bold>incorporación de indicadores</bold> que han permitido
+                                identificar desafíos y oportunidades de mejora.</br></br> De igual manera,
+                                se llevó a cabo una <bold>encuesta de satisfacción</bold> entre
+                                nuestros principales interlocutores, los asociados a CAME,
+                                quienes se manifestaron en relación con la velocidad y calidad
+                                de la respuesta del sector.
+                            </p>
+                            <div class="clear"></div>
+                            <div class="row justify-content-between">
+
+                                <div class="col-sm-6">
+                                    <div class="feature-box fbox-small fbox-effect">
+                                        <div class="fbox-content center">
+                                            <div class="counter color">
+                                                <span data-from="1" data-to="71" data-refresh-interval="1"
+                                                    data-speed="1000">71</span>%
+                                            </div>
+                                            <p class="center">consideró MUY BUENA la velocidad de respuesta</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6">
+                                    <div class="feature-box fbox-small fbox-effect">
+                                        <div class="fbox-content">
+                                            <div class="counter color">
+                                                <span data-from="1" data-to="65" data-refresh-interval="1"
+                                                    data-speed="1300">65</span>%
+                                            </div>
+                                            <p class="center">consideró MUY BUENA la calidad de la respuesta recibida
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="clear m-5"></div>
+
+                            <div class="row justify-content-between">
+
+                                <div class="col-md-6">
+                                    <div class="fancy-title title-center title-border mt-0 mb-2">
+                                        <h4>Calificación de la <em>velocidad de respuesta</em> del Departamento de
+                                            Comunicación
+                                            de CAME</h4>
+                                    </div>
+                                    <canvas id="chart-0"></canvas>
+                                </div>
+
+                                <div class="col-md-6">
+                                    <div class="fancy-title title-center title-border mt-0 mb-2">
+                                        <h4>Calificación de la <em>calidad de respuesta ante las
+                                                solicitudes/invitaciones
+                                                enviadas por su entidad</em> al Departamento de Comunicación de CAME
+                                        </h4>
+                                    </div>
+                                    <canvas id="chart-1"></canvas>
+                                </div>
+
+                                <p class="lead mx-auto bottommargin">
+                                    Acompañando este proceso de modernización de procesos y prestaciones, desde el área
+                                    se
+                                    desarrolló el diseño y caracterización del <bold>nuevo sistema de gestión de
+                                        correspondencia
+                                    </bold> que reemplazará al actual programa Fénix, principal herramienta del área.
+                                    Esta
+                                    nueva
+                                    plataforma dedicará un espacio exclusivo a la consulta y seguimiento de la
+                                    correspondencia
+                                    para nuestras entidades asociadas.
+                                </p>
+                            </div>
+
+                            <div class="clear"></div>
+                        </div>
+
+
                     </div>
 
 
 
+
+
+
+
+
+
+
+
+
+
+                    <!--Comunicacion FIN-->
+
+                    <div class="clear m-5"></div>
+
+
+
+
+                    <?php include "anterior_siguiente.php"; ?>
+
+                    <!-- fin Contenido    ============================================= -->
                 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-                <!--Comunicacion FIN-->
-
-                <div class="clear m-5"></div>
-
-
-
-
-                <?php include "anterior_siguiente.php"; ?>
-
-                <!-- fin Contenido    ============================================= -->
-            </div>
         </section>
 
         <!-- #content end -->

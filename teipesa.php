@@ -35,7 +35,7 @@
                         <h2 class="subtitulo">
                             Modernización para potenciar la competitividad
                         </h2>
-                        <p >
+                        <p>
                             Frente a un contexto que ha impuesto la digitalización de prácticas y consumos de nuestra
                             cotidianeidad,
                             dinamizando canales de venta, pago y distribución en todos los rubros y sectores, a través
@@ -73,7 +73,7 @@
                                         src="imgs/Logo-CAME-Tiendas.png" alt="CAME Tiendas" class="mb-3"
                                         style="width: 16rem" /></a>
                             </div>
-                            <p >
+                            <p>
                                 El proyecto de marketplaces provinciales continuó su crecimiento, gracias al interés
                                 y
                                 apoyo de federaciones y cámaras, mediante la incorporación de TIENDA CHACO y la
@@ -99,7 +99,7 @@
                                         src="imgs/Logo-CAME-Pagos.png" alt="CAME Pagos" class="mb-3"
                                         style="width: 16rem" /></a>
                             </div>
-                            <p >
+                            <p>
                                 Presentado en marzo de 2020, este sistema, que actualmente cuenta con miles de
                                 usuarios
                                 en todo el país, ha mejorado su funcionalidad, integrándose con CAME TIENDAS, y
@@ -125,7 +125,7 @@
                                         src="imgs/Logo-CAME-Envíos.png" alt="CAME Envíos" class="mb-3"
                                         style="width: 16rem" /></a>
                             </div>
-                            <p >
+                            <p>
                                 Esta herramienta, que comenzó 2020 con gran actividad, y cuya prestación
                                 fue afectada por las imposiciones dispuestas frente a la pandemia, se encuentra
                                 próxima a dar de alta a 30 entidades que desean ofrecer el servicio de receptoría
@@ -137,30 +137,25 @@
                     </div>
                 </div>
 
-                <div class="container clearfix mt-5 mb-5">
-                    <div class="row">
-                        <div class="center col-md-4">
+                <div class="section m-0 p-0">
+                    <div class="row d-flex align-items-center">
+                        <div class="center col-md-4 p-3">
                             <iframe width="560" height="315" src="https://www.youtube.com/embed/oRsAodqTM_Y"
                                 title="YouTube video player" frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                                 allowfullscreen></iframe>
 
                         </div>
-                        <div class="center col-md-4">
-                            <div class="promo promo-light p-4 p-md-5 mb-5">
-                                <div class="row align-items-center">
-                                    <div class="col-12 col-lg">
-                                        <p class="m-0">Con CAME PAGOS, una de las 10 billeteras más descargadas de los
-                                            stores
-                                            en Argentina durante la cuarentena, fuimos semifinalistas en dos
-                                            competencias
-                                            internacionales de fintech.</p>
-                                    </div>
+                        <div class="center col-md-4 p-5">
 
-                                </div>
-                            </div>
+                            <h3>Con CAME PAGOS, una de las 10 billeteras más descargadas de los
+                                stores
+                                en Argentina durante la cuarentena, fuimos semifinalistas en dos
+                                competencias
+                                internacionales de fintech.</h3>
+
                         </div>
-                        <div class="center col-md-4">
+                        <div class="center col-md-4 p-3">
                             <iframe width="560" height="315" src="https://www.youtube.com/embed/PbFQXepUGO8"
                                 title="YouTube video player" frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -180,7 +175,7 @@
                                         src="imgs/negocioCercano.png" alt="Negocio cercano" class="mb-3"
                                         style="width: 16rem" /></a>
                             </div>
-                            <p >
+                            <p>
                                 La aplicación, presentada durante la pandemia, se desarrolló en tiempo récord con el fin
                                 de facilitar los pedidos de proximidad, incluyendo pagos y registración de envíos,
                                 pensando en usuarios con muy bajo conocimiento de tecnología. Estamos trabajando
@@ -198,7 +193,7 @@
                                 <a href="https://pilarcame.com.ar" target="_blank"><img src="imgs/pilar.png"
                                         alt="Negocio Cercano" class="mb-3" style="width: 16rem" /></a>
                             </div>
-                            <p >
+                            <p>
                                 Comenzamos el 2020 incorporando dos nuevos servicios: Comex y Tu Negocio en Google.
                                 Asimismo, continuamos realizando capacitaciones a entidades para ofrecer la plataforma
                                 a sus asociados. Nos proponemos hacer el lanzamiento a usuarios en 2021.
@@ -220,7 +215,7 @@
                             </div>
 
 
-                            <p >
+                            <p>
                                 Comenzamos la distribución de informes comerciales a través de API con el fin de
                                 potenciar
                                 el servicio que las entidades de información comercial brindan a sus asociados. Ya
