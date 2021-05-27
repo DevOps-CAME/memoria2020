@@ -29,7 +29,7 @@
 
                 <!-- Contenido
 		============================================= -->
-                <div class="center page-section col-lg-12 col-md-12 m-5">
+                <div class="center page-section col-lg-12 col-md-12">
                     <div class="container clearfix">
 
                         <div id="posts" class="post-grid row grid-container gutter-40 clearfix has-init-isotope">
