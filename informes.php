@@ -123,12 +123,7 @@
                             dimos continuidad a la producción de la Revista Comercial como house organ de la
                             entidad, que pusimos a disposición en su versión digital a través de nuestra web:
                         </p>
-                    </div>
-                </div>
 
-
-                <div class="content-wrap">
-                    <div class="container clearfix">
 
                         <div id="oc-images" class="owl-carousel image-carousel carousel-widget" data-items-xs="2"
                             data-items-sm="3" data-items-lg="4" data-items-xl="5">
@@ -491,199 +486,375 @@
                                         src="imgs/sitio_came.png"></a>
                             </div>
                         </div>
+                        <div class="row mt-5">
 
+                            <div class="col-md-4">
+                                <h3 class="color m-0 p-0"> 2.200 circulares informativas</h2>
+                                    <p class="text-justify"> Sobre actividades de la entidad, disposiciones oficiales de
+                                        distintas instituciones,
+                                        comunicados de prensa, información general para pymes, entre otros temas.</p>
 
+                                    <h3 class="color m-0 p-0">Proceso de crecimiento </br>en las redes sociales</h2>
+                                        <p class="text-justify"> Con la especial dinámica que trajo este 2020 producto
+                                            de la
+                                            pandemia, hemos mantenido la
+                                            información actualizada minuto a minuto, logrando canales de excelencia para
+                                            el
+                                            acceso a
+                                            la información.</p>
+                            </div>
+                            <div class="col-md-8 text-left">
+                                <h3 class="color "> Algunos números de la gestión anual 2020:</h3>
+                                <div class="row">
+                                    <div class="col-md-6">
 
-                    </div>
-
-                    <div class="center page-section col-lg-12 col-md-12">
-                        <div class="container clearfix">
-                            <h2 class="subtitulo">
-                                Atención personalizada a nuestras entidades asociadas
-                            </h2>
-
-                            <p class="lead mx-auto bottommargin">
-                                Iniciado el Aislamiento Social, Preventivo y Obligatorio (ASPO)
-                                en el mes de marzo, el área de Comunicación logró digitalizar
-                                completamente el proceso de recepción y gestión de
-                                correspondencia, permitiendo el trabajo a distancia y eliminando
-                                el uso de papel, sin discontinuar el
-                                <bold>servicio de asistencia a las entidades asociadas.</bold>
-                                Asimismo, y en virtud del cierre parcial de la sede, el
-                                Departamento recibió y gestionó la documentación de carácter
-                                legal. </br></br>En igual sentido, fue responsable de encauzar las más de
-                                <bold>150 gestiones</bold>
-                                presentadas ante autoridades nacionales y provinciales,
-                                vinculadas a propuestas y demandas de CAME y sus entidades
-                                asociadas con motivo de las condiciones impuestas por la
-                                coyuntura.
-                            </p>
-
-                            <div class="clear"></div>
-                        </div>
-                    </div>
-
-                    <div class="container clearfix col-lg-12 col-md-12">
-
-
-
-                        <div class="row justify-content-between center ml-4 mr-4">
-
-                            <div class="col-sm-4 col-lg-3">
-                                <div class="feature-box fbox-small fbox-effect">
-                                    <div class="fbox-content">
-                                        <div class="counter color">
-                                            <span data-from="1" data-to="3361" data-refresh-interval="10"
-                                                data-speed="1000">3361</span>
-                                        </div>
-                                        <p class="text-center">Cartas y solicitudes recibidas</p>
+                                        <h4 class="p-0 m-0"><i class="icon-facebook1"></i> Facebook</h4>
+                                        <ul class="iconlist">
+                                            <li><i class="icon-ok"></i>Cantidad de seguidores actual: 560.661 personas.
+                                            </li>
+                                            <li><i class="icon-ok"></i>Nuestros contenidos llegaron a más de 13.585.219
+                                                usuarios.</li>
+                                            <li><i class="icon-ok"></i>Se sumaron 33.796 nuevos seguidores.</li>
+                                            <li><i class="icon-ok"></i>Se lograron 2.193.746 interacciones.</li>
+                                        </ul>
+                                        <h4 class="p-0 m-0"><i class="icon-twitter1"></i> Twitter</h4>
+                                        <ul class="iconlist">
+                                            <li><i class="icon-ok"></i>Se lograron 3.6 millones de apariciones a
+                                                diferentes
+                                                usuarios de nuestros tweets (impresiones).</li>
+                                            <li><i class="icon-ok"></i>Se ganaron 1.772 nuevos seguidores.</li>
+                                            <li><i class="icon-ok"></i>Tuiteamos 1.017 publicaciones.</li>
+                                            <li><i class="icon-ok"></i>11.527 cuentas institucionales, de personas, de
+                                                medios,
+                                                etc. mencionaron a @redcame en sus cuentas.
+                                        </ul>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <h4 class="p-0 m-0"><i class="icon-instagram1"></i> Instagram</h4>
+                                        <ul class="iconlist">
+                                            <li><i class="icon-ok"></i>Se publicaron 488 posteos en el feed.</li>
+                                            <li><i class="icon-ok"></i>Se lograron en el 1° año del uso de la red social
+                                                4.100
+                                                seguidores de manera orgánica.</li>
+                                        </ul>
+                                        <h4 class="p-0 m-0"><i class="icon-linkedin1"></i> LinkedIn</h4>
+                                        <ul class="iconlist">
+                                            <li><i class="icon-ok"></i>Se publicaron 150 posteos.</li>
+                                            <li><i class="icon-ok"></i>Actualmente hay 4.852 seguidores en la
+                                                plataforma.</li>
+                                        </ul>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm-4 col-lg-3">
-                                <div class="feature-box fbox-small fbox-effect">
-                                    <div class="fbox-content">
-                                        <div class="counter color">
-                                            <span data-from="1" data-to="1801" data-refresh-interval="10"
-                                                data-speed="1300">1801</span>
-                                        </div>
-                                        <p class="text-center">Consejeros titulares</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-sm-4 col-lg-3">
-                                <div class="feature-box fbox-small fbox-effect">
-                                    <div class="fbox-content">
-                                        <div class="counter color">
-                                            <span data-from="1" data-to="255" data-refresh-interval="10"
-                                                data-speed="1600">255</span>
-                                        </div>
-                                        <p class="text-center">Invitaciones recibidas y gestionadas</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
 
-
-                    <div class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
-                        <div class="container clearfix">
-
-                            <p class="lead mx-auto bottommargin">
-                                En relación con el proceso de acreditación de
-                                <bold>Calidad</bold>, iniciado en 2018, en el mes de junio de
-                                2020, y de manera remota, el área de Comunicación aprobó con
-                                éxito la
-                                <bold>auditoría de seguimiento de la certificación ISO
-                                    9001-2015</bold>, ante el Instituto Argentino de Normalización y Certificación
-                                (IRAM), organismo que audita y certifica la transparencia en los
-                                procesos como así también la mejora continua, asegurando una
-                                correcta gestión de la política de la calidad, el cumplimiento
-                                de objetivos y el análisis de datos concretos para implementar
-                                nuevos desarrollos que tienen como finalidad seguir mejorando la
-                                performance del sector a nivel interno y externo.</br></br> Vinculado a
-                                ello, durante 2020 se ha realizado un relevamiento de la
-                                actividad del área a través de la
-                                <bold>incorporación de indicadores</bold> que han permitido
-                                identificar desafíos y oportunidades de mejora.</br></br> De igual manera,
-                                se llevó a cabo una <bold>encuesta de satisfacción</bold> entre
-                                nuestros principales interlocutores, los asociados a CAME,
-                                quienes se manifestaron en relación con la velocidad y calidad
-                                de la respuesta del sector.
-                            </p>
-                            <div class="clear"></div>
-                            <div class="row justify-content-between">
-
-                                <div class="col-sm-6">
-                                    <div class="feature-box fbox-small fbox-effect">
-                                        <div class="fbox-content center">
-                                            <div class="counter color">
-                                                <span data-from="1" data-to="71" data-refresh-interval="1"
-                                                    data-speed="1000">71</span>%
-                                            </div>
-                                            <p class="center">consideró MUY BUENA la velocidad de respuesta</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-sm-6">
-                                    <div class="feature-box fbox-small fbox-effect">
-                                        <div class="fbox-content">
-                                            <div class="counter color">
-                                                <span data-from="1" data-to="65" data-refresh-interval="1"
-                                                    data-speed="1300">65</span>%
-                                            </div>
-                                            <p class="center">consideró MUY BUENA la calidad de la respuesta recibida
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="clear m-5"></div>
-
-                            <div class="row justify-content-between">
-
-                                <div class="col-md-6">
-                                    <div class="fancy-title title-center title-border mt-0 mb-2">
-                                        <h4>Calificación de la <em>velocidad de respuesta</em> del Departamento de
-                                            Comunicación
-                                            de CAME</h4>
-                                    </div>
-                                    <canvas id="chart-0"></canvas>
-                                </div>
-
-                                <div class="col-md-6">
-                                    <div class="fancy-title title-center title-border mt-0 mb-2">
-                                        <h4>Calificación de la <em>calidad de respuesta ante las
-                                                solicitudes/invitaciones
-                                                enviadas por su entidad</em> al Departamento de Comunicación de CAME
-                                        </h4>
-                                    </div>
-                                    <canvas id="chart-1"></canvas>
-                                </div>
-
-                                <p class="lead mx-auto bottommargin">
-                                    Acompañando este proceso de modernización de procesos y prestaciones, desde el área
-                                    se
-                                    desarrolló el diseño y caracterización del <bold>nuevo sistema de gestión de
-                                        correspondencia
-                                    </bold> que reemplazará al actual programa Fénix, principal herramienta del área.
-                                    Esta
-                                    nueva
-                                    plataforma dedicará un espacio exclusivo a la consulta y seguimiento de la
-                                    correspondencia
-                                    para nuestras entidades asociadas.
-                                </p>
-                            </div>
-
-                            <div class="clear"></div>
                         </div>
 
 
+
                     </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-                    <!--Comunicacion FIN-->
-
-                    <div class="clear m-5"></div>
-
-
-
-
-                    <?php include "anterior_siguiente.php"; ?>
-
-                    <!-- fin Contenido    ============================================= -->
                 </div>
+                <div class="section parallax p-5"
+                    style="background-image: url('images/parallax/3.jpg'); padding: 100px 0;"
+                    data-bottom-top="background-position:0px 100px;" data-top-bottom="background-position:0px -100px;">
+                    <div class="row  justify border-bottom-0 mb-0 d-flex align-items-center">
+                        <div class="col-md-7">
+                            <h2 class="subtitulo">#SaldremosAdelante</h2>
+                            <p>En el marco de la pandemia del COVID-19, lanzamos la sección
+                                <strong>#SaldremosAdelante</strong> para
+                                mostrar con casos concretos de empresas de todo el país, la resiliencia de las pymes.
+                                Así, pudimos ver cómo las pequeñas y medianas empresas se adaptaron y reconvirtieron
+                                frente a las situaciones difíciles que vivieron con esta pandemia.
+                                Tal como lo dice el hashtag, esta campaña se generó con el objetivo de impulsar un
+                                espíritu positivo en un momento complejo, el que CAME, sus entidades y sus pymes
+                                comparten.
+                            </p>
+                        </div>
+                        <div class="col-md-5">
+
+                            <!-- Load Facebook SDK for JavaScript -->
+                            <div id="fb-root"></div>
+                            <script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2">
+                            </script>
+
+                            <div id="oc-events" class="owl-carousel events-carousel carousel-widget" data-pagi="true"
+                                data-items-md="3" data-items-lg="3" data-items-xl="3">
+
+                                <div class="oc-item">
+                                    <div class="fb-video"
+                                        data-href="https://www.facebook.com/facebook/videos/761433954634209/"
+                                        data-lazy="true" data-width="auto" data-show-text="false">
+                                    </div>
+                                </div>
+
+                                <div class="oc-item">
+                                    <div class="fb-video"
+                                        data-href="https://www.facebook.com/facebook/videos/285443852740604/"
+                                        data-lazy="true" data-width="auto" data-show-text="false">
+                                    </div>
+                                </div>
+
+                                <div class="oc-item">
+                                    <div class="fb-video"
+                                        data-href="https://www.facebook.com/facebook/videos/802370310305310/"
+                                        data-lazy="true" data-width="auto" data-show-text="false">
+                                    </div>
+                                </div>
+
+                                <div class="oc-item">
+                                    <div class="fb-video"
+                                        data-href="https://www.facebook.com/facebook/videos/349671789422956/"
+                                        data-lazy="true" data-width="auto" data-show-text="false">
+                                    </div>
+                                </div>
+
+                                <div class="oc-item">
+                                    <div class="fb-video"
+                                        data-href="https://www.facebook.com/facebook/videos/375656266937911/"
+                                        data-lazy="true" data-width="auto" data-show-text="false">
+                                    </div>
+                                </div>
+
+                                <div class="oc-item">
+                                    <div class="fb-video"
+                                        data-href="https://www.facebook.com/facebook/videos/1695831363931210/"
+                                        data-lazy="true" data-width="auto" data-show-text="false">
+                                    </div>
+                                </div>
+
+                                <div class="oc-item">
+                                    <div class="fb-video"
+                                        data-href="https://www.facebook.com/facebook/videos/2952336204869649/"
+                                        data-lazy="true" data-width="auto" data-show-text="false">
+                                    </div>
+                                </div>
+
+                                <!--        <div class="oc-item">
+                                    <div class="fb-video"
+                                        data-href="https://www.facebook.com/facebook/videos/3539387066141998/"
+                                        data-lazy="true" data-width="auto" data-show-text="false">
+                                    </div>
+                                </div> -->
+
+                                <div class="oc-item">
+                                    <div class="fb-video"
+                                        data-href="https://www.facebook.com/facebook/videos/158831078935160/"
+                                        data-lazy="true" data-width="auto" data-show-text="false">
+                                    </div>
+                                </div>
+
+                                <div class="oc-item">
+                                    <div class="fb-video"
+                                        data-href="https://www.facebook.com/facebook/videos/142145847673132/"
+                                        data-lazy="true" data-width="auto" data-show-text="false">
+                                    </div>
+                                </div>
+
+                                <div class="oc-item">
+                                    <div class="fb-video"
+                                        data-href="https://www.facebook.com/facebook/videos/186430029744283/"
+                                        data-lazy="true" data-width="auto" data-show-text="false">
+                                    </div>
+                                </div>
+
+
+
+
+                            </div>
+
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="center page-section col-lg-12 col-md-12 mt-5">
+                    <div class="container clearfix">
+                        <h2 class="subtitulo">
+                            Atención personalizada a nuestras entidades asociadas
+                        </h2>
+
+                        <p class="lead mx-auto bottommargin">
+                            Iniciado el Aislamiento Social, Preventivo y Obligatorio (ASPO)
+                            en el mes de marzo, el área de Comunicación logró digitalizar
+                            completamente el proceso de recepción y gestión de
+                            correspondencia, permitiendo el trabajo a distancia y eliminando
+                            el uso de papel, sin discontinuar el
+                            <bold>servicio de asistencia a las entidades asociadas.</bold>
+                            Asimismo, y en virtud del cierre parcial de la sede, el
+                            Departamento recibió y gestionó la documentación de carácter
+                            legal. </br></br>En igual sentido, fue responsable de encauzar las más de
+                            <bold>150 gestiones</bold>
+                            presentadas ante autoridades nacionales y provinciales,
+                            vinculadas a propuestas y demandas de CAME y sus entidades
+                            asociadas con motivo de las condiciones impuestas por la
+                            coyuntura.
+                        </p>
+
+                        <div class="clear"></div>
+                    </div>
+                </div>
+
+                <div class="container clearfix col-lg-12 col-md-12">
+
+
+
+                    <div class="row justify-content-between center ml-4 mr-4">
+
+                        <div class="col-sm-4 col-lg-3">
+                            <div class="feature-box fbox-small fbox-effect">
+                                <div class="fbox-content">
+                                    <div class="counter color">
+                                        <span data-from="1" data-to="3361" data-refresh-interval="10"
+                                            data-speed="1000">3361</span>
+                                    </div>
+                                    <p class="text-center">Cartas y solicitudes recibidas</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-4 col-lg-3">
+                            <div class="feature-box fbox-small fbox-effect">
+                                <div class="fbox-content">
+                                    <div class="counter color">
+                                        <span data-from="1" data-to="1801" data-refresh-interval="10"
+                                            data-speed="1300">1801</span>
+                                    </div>
+                                    <p class="text-center">Consejeros titulares</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-4 col-lg-3">
+                            <div class="feature-box fbox-small fbox-effect">
+                                <div class="fbox-content">
+                                    <div class="counter color">
+                                        <span data-from="1" data-to="255" data-refresh-interval="10"
+                                            data-speed="1600">255</span>
+                                    </div>
+                                    <p class="text-center">Invitaciones recibidas y gestionadas</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
+                    <div class="container clearfix">
+
+                        <p class="lead mx-auto bottommargin">
+                            En relación con el proceso de acreditación de
+                            <bold>Calidad</bold>, iniciado en 2018, en el mes de junio de
+                            2020, y de manera remota, el área de Comunicación aprobó con
+                            éxito la
+                            <bold>auditoría de seguimiento de la certificación ISO
+                                9001-2015</bold>, ante el Instituto Argentino de Normalización y Certificación
+                            (IRAM), organismo que audita y certifica la transparencia en los
+                            procesos como así también la mejora continua, asegurando una
+                            correcta gestión de la política de la calidad, el cumplimiento
+                            de objetivos y el análisis de datos concretos para implementar
+                            nuevos desarrollos que tienen como finalidad seguir mejorando la
+                            performance del sector a nivel interno y externo.</br></br> Vinculado a
+                            ello, durante 2020 se ha realizado un relevamiento de la
+                            actividad del área a través de la
+                            <bold>incorporación de indicadores</bold> que han permitido
+                            identificar desafíos y oportunidades de mejora.</br></br> De igual manera,
+                            se llevó a cabo una <bold>encuesta de satisfacción</bold> entre
+                            nuestros principales interlocutores, los asociados a CAME,
+                            quienes se manifestaron en relación con la velocidad y calidad
+                            de la respuesta del sector.
+                        </p>
+                        <div class="clear"></div>
+                        <div class="row justify-content-between">
+
+                            <div class="col-sm-6">
+                                <div class="feature-box fbox-small fbox-effect">
+                                    <div class="fbox-content center">
+                                        <div class="counter color">
+                                            <span data-from="1" data-to="71" data-refresh-interval="1"
+                                                data-speed="1000">71</span>%
+                                        </div>
+                                        <p class="center">consideró MUY BUENA la velocidad de respuesta</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="feature-box fbox-small fbox-effect">
+                                    <div class="fbox-content">
+                                        <div class="counter color">
+                                            <span data-from="1" data-to="65" data-refresh-interval="1"
+                                                data-speed="1300">65</span>%
+                                        </div>
+                                        <p class="center">consideró MUY BUENA la calidad de la respuesta recibida
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="clear m-5"></div>
+
+                        <div class="row justify-content-between">
+
+                            <div class="col-md-6">
+                                <div class="fancy-title title-center title-border mt-0 mb-2">
+                                    <h4>Calificación de la <em>velocidad de respuesta</em> del Departamento de
+                                        Comunicación
+                                        de CAME</h4>
+                                </div>
+                                <canvas id="chart-0"></canvas>
+                            </div>
+
+                            <div class="col-md-6">
+                                <div class="fancy-title title-center title-border mt-0 mb-2">
+                                    <h4>Calificación de la <em>calidad de respuesta ante las
+                                            solicitudes/invitaciones
+                                            enviadas por su entidad</em> al Departamento de Comunicación de CAME
+                                    </h4>
+                                </div>
+                                <canvas id="chart-1"></canvas>
+                            </div>
+
+                            <p class="lead mx-auto bottommargin">
+                                Acompañando este proceso de modernización de procesos y prestaciones, desde el área
+                                se
+                                desarrolló el diseño y caracterización del <bold>nuevo sistema de gestión de
+                                    correspondencia
+                                </bold> que reemplazará al actual programa Fénix, principal herramienta del área.
+                                Esta
+                                nueva
+                                plataforma dedicará un espacio exclusivo a la consulta y seguimiento de la
+                                correspondencia
+                                para nuestras entidades asociadas.
+                            </p>
+                        </div>
+
+                        <div class="clear"></div>
+                    </div>
+
+
+                </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <!--Comunicacion FIN-->
+
+                <div class="clear m-5"></div>
+
+
+
+
+                <?php include "anterior_siguiente.php"; ?>
+
+                <!-- fin Contenido    ============================================= -->
+            </div>
         </section>
 
         <!-- #content end -->
