@@ -65,7 +65,7 @@ include "header.html";
                         <div class="row">
                             <div class="col-md-6">
                                 <div class="video-wrap">
-                                    <video poster="imgs/video.jpg" preload="auto" loop autoplay muted>
+                                    <video preload="auto" loop autoplay muted>
                                         <source src='imgs/video.mp4' type='video/mp4' />
                                         <!-- <source src='images/videos/explore.webm' type='video/webm' /> -->
                                     </video>
@@ -248,7 +248,7 @@ include "header.html";
                     <div class="col-lg-6">
                         <iframe data-animate="fadeInRight" data-delay="400"
                             src="https://player.vimeo.com/video/518728139" width="500" height="281"
-                            allow="autoplay; fullscreen" allowfullscreen></iframe>
+                            allow="autoplay; fullscreen"></iframe>
 
                     </div>
                 </div>
