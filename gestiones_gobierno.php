@@ -127,16 +127,18 @@
                 <div class="clear m-5"></div>
                 <hr>
 
-                <div class="center page-section col-md-12">
+                <div class="center page-section ">
                     <div class="container clearfix">
-                        <div class="row col-md-12">
-
-                            <div class="col-md-6 mt-5 mb-5">
-
+                        <div class="row">
+                            <div class="col-md-12 mt-5 mb-0">
                                 <h2 class="subtitulo">
                                     CAME a la vanguardia: propuestas para las pymes en el escenario
                                     de la pandemia
                                 </h2>
+                            </div>
+                            <div class="col-md-6">
+
+
                                 <p>
                                     En un año que, sin dudas, es un mojón en la historia mundial, la
                                     labor de vanguardia permanente de CAME se ha enfocado en el
@@ -150,20 +152,28 @@
                                     su protagonismo en la representación, refuerza el espaldarazo
                                     para sus asociadas y las pymes en ellas contenidas.
                                 </p>
-                                <div class="center">
-                                    <a href="propuestas_gob.php" class="button text-right center btn-block">Más
-                                        información<i class="icon-circle-arrow-right"></i></a>
-                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <?php include "car_propuestas_gob.php"; ?>
 
                             </div>
+                        </div>
+                    </div>
+                </div>
 
-                            <div class=" col-md-6 mt-5 mb-5">
-
+                <div class="clear m-5"></div>
+                <hr>
+                <div class="center page-section ">
+                    <div class="container clearfix">
+                        <div class="row">
+                            <div class="col-md-12 mt-5 mb-0">
                                 <h2 class="subtitulo">
                                     Gestiones de CAME ante autoridades tributarias, en pos de
                                     generar herramientas que salvaguarden la delicada situación de las
                                     pymes
                                 </h2>
+                            </div>
+                            <div class="col-md-5">
                                 <p class="lead mx-auto bottommargin m-0 p-0">
                                     En un año que ha ejercido presión en muchas aristas, seguimos
                                     desde esta Confederación bregando por generar acuerdos con las
@@ -183,601 +193,617 @@
                                         </p>
                                     </div>
                                 </div>
-
-                                <div class="center">
-                                    <a href="gestiones_trib.php" class="button text-right center btn-block">Más
-                                        información<i class="icon-circle-arrow-right"></i></a>
-                                </div>
-
                             </div>
+                            <div class="col-md-7">
+                                <?php include "car_gestiones_trib.php"; ?>
+                            </div>
+
+
+
                         </div>
                     </div>
                 </div>
+            </div>
+    </div>
+    <div class="clear m-5"></div>
+    <hr>
 
-                <div class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
-                    <div class="container clearfix">
-                        <h2 class="subtitulo">
-                            CAME contra la especulación financiera en el marco de la
-                            pandemia
-                        </h2>
-                        <p>
-                            Desde la CAME, en el marco de la batalla contra la pandemia y
-                            sus imprevisibles pero angustiantes consecuencias, impulsamos
-                            gestiones para con las autoridades financieras, a fin de lograr
-                            la supervivencia de las micro, pequeñas y mediana empresas,
-                            evitando agravar su compleja situación.
-                        </p>
+    <div class="center page-section ">
+        <div class="container clearfix">
+            <div class="row">
 
-                        <div class="center">
-                            <a href="gestiones_bcra.php" class="button text-right center">Más información<i
-                                    class="icon-circle-arrow-right"></i></a>
+                <div class="col-md-12">
+                    <h2 class="subtitulo">
+                        CAME contra la especulación financiera en el marco de la
+                        pandemia
+                    </h2>
+
+
+                    <p>
+                        Desde la CAME, en el marco de la batalla contra la pandemia y
+                        sus imprevisibles pero angustiantes consecuencias, impulsamos
+                        gestiones para con las autoridades financieras, a fin de lograr
+                        la supervivencia de las micro, pequeñas y mediana empresas,
+                        evitando agravar su compleja situación.
+                    </p>
+
+
+                    <?php include "car_gestiones_bcra.php"; ?>
+
+                    <div class="clear" id="gestiones_consumo"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <hr>
+    <div class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
+        <div class="container clearfix">
+            <h2 class="subtitulo">
+                Trabajamos por el impulso del consumo como camino de desarrollo
+                comercial
+            </h2>
+            <p>
+                Desde CAME, tenemos la premisa de que las pequeñas y medianas
+                empresas propulsan la economía, por lo que el sostenimiento de
+                este programa es capital para mantener el consumo en el comercio
+                minorista, al cual representamos.
+            </p>
+
+            <div class="position-relative">
+                <div class="timeline-border"></div>
+
+                <!-- Posts ============================================= -->
+                <div id="posts" class="post-grid grid-container row post-timeline col-mb-50"
+                    data-basewidth=".entry:not(.entry-date-section):eq(0)">
+                    <div class="entry entry-date-section col-12 m-0 p-0">
+                        <span>Diciembre de 2019</span>
+                    </div>
+
+                    <div class="entry col-lg-6 col-12 m-0">
+                        <div class="entry-timeline">
+                            <div class="timeline-divider"></div>
                         </div>
-                        <div class="clear" id="gestiones_consumo"></div>
+                        <div class="grid-inner">
+                            <h3>Solicitamos la renovación del programa “Ahora 12”</h3>
+                        </div>
+                    </div>
+
+                    <div class="entry col-lg-6 col-12 mt-5 alt m-0">
+                        <div class="entry-timeline">
+                            <div class="timeline-divider"></div>
+                        </div>
+                        <div class="grid-inner">
+                            <h3>
+                                Se estableció su extensión hasta el 31 de marzo del 2020
+                            </h3>
+                        </div>
+                    </div>
+
+                    <div class="entry entry-date-section col-12 m-0 p-0">
+                        <span>Junio de 2020</span>
+                    </div>
+                    <div class="entry col-lg-6 col-12 m-0">
+                        <div class="entry-timeline">
+                            <div class="timeline-divider"></div>
+                        </div>
+                        <div class="grid-inner">
+                            <h3>
+                                Solicitamos la prórroga del Ahora 12 en todo el país
+                            </h3>
+                        </div>
+                    </div>
+
+                    <div class="entry entry-date-section col-12 m-0 p-0">
+                        <span>Julio de 2020</span>
+                    </div>
+                    <div class="entry col-lg-6 col-12 m-0">
+                        <div class="grid-inner">
+                            <h3></h3>
+                        </div>
+                    </div>
+                    <div class="entry col-lg-6 col-12 m-0 alt">
+                        <div class="entry-timeline">
+                            <div class="timeline-divider"></div>
+                        </div>
+                        <div class="grid-inner">
+                            <h3>Se prorrogó el programa Ahora 12 hasta fin de año</h3>
+                        </div>
+                    </div>
+
+                    <div class="entry entry-date-section col-12 m-0 p-0">
+                        <span>Septiembre de 2020</span>
+                    </div>
+                    <div class="entry col-lg-6 col-12 m-0">
+                        <div class="entry-timeline">
+                            <div class="timeline-divider"></div>
+                        </div>
+                        <div class="grid-inner">
+                            <h3>
+                                Solicitamos la inclusión del rubro Enseñanza privada
+                            </h3>
+                        </div>
+                    </div>
+
+                    <div class="entry entry-date-section col-12 m-0 p-0">
+                        <span>Octubre de 2020</span>
+                    </div>
+                    <div class="entry col-lg-6 col-12 m-0">
+                        <div class="entry-timeline">
+                            <div class="timeline-divider"></div>
+                        </div>
+                        <div class="grid-inner">
+                            <h3>
+                                Solicitamos sostener el Ahora 12 con 3 meses de gracia
+                                para el sector turístico para el año 2021
+                            </h3>
+                        </div>
+                    </div>
+                    <div class="entry col-lg-6 col-12 m-0 mt-5 alt">
+                        <div class="entry-timeline">
+                            <div class="timeline-divider"></div>
+                        </div>
+                        <div class="grid-inner">
+                            <h3>
+                                Se elevaron notas de pedido de incorporación del rubro
+                                ortopedia al Programa Ahora 12 y Ahora 18
+                            </h3>
+                        </div>
                     </div>
                 </div>
-                <hr>
-                <div class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
-                    <div class="container clearfix">
-                        <h2 class="subtitulo">
-                            Trabajamos por el impulso del consumo como camino de desarrollo
-                            comercial
-                        </h2>
-                        <p>
-                            Desde CAME, tenemos la premisa de que las pequeñas y medianas
-                            empresas propulsan la economía, por lo que el sostenimiento de
-                            este programa es capital para mantener el consumo en el comercio
-                            minorista, al cual representamos.
-                        </p>
+                <!-- #posts end -->
+                <div class="clear"></div>
+            </div>
+            <div class="clear" id="gestiones_paritaria"></div>
+        </div>
+    </div>
+    <hr>
+    <div class="center page-section col-lg-12 col-md-12 mb-4">
+        <div class="container clearfix">
+            <h2 class="subtitulo">
+                La voz de las pymes en la negociación de la paritaria mercantil
+            </h2>
+            <div class="row">
+                <div class="col-md-8">
+                    <p>
+                        CAME, entidad cúpula del país, en representación de sus
+                        asociadas y de las pymes a estas adheridas, propuso, analizó y
+                        acordó puntos específicos de las paritarias, en pos de lograr
+                        el consenso entre la gremial empresaria y el sindicato para
+                        buscar el equilibrio de sostener las empresas y a sus
+                        trabajadores y familias en un contexto tan delicado.
+                    </p>
 
-                        <div class="position-relative">
-                            <div class="timeline-border"></div>
-
-                            <!-- Posts ============================================= -->
-                            <div id="posts" class="post-grid grid-container row post-timeline col-mb-50"
-                                data-basewidth=".entry:not(.entry-date-section):eq(0)">
-                                <div class="entry entry-date-section col-12 m-0 p-0">
-                                    <span>Diciembre de 2019</span>
-                                </div>
-
-                                <div class="entry col-lg-6 col-12 m-0">
-                                    <div class="entry-timeline">
-                                        <div class="timeline-divider"></div>
-                                    </div>
-                                    <div class="grid-inner">
-                                        <h3>Solicitamos la renovación del programa “Ahora 12”</h3>
-                                    </div>
-                                </div>
-
-                                <div class="entry col-lg-6 col-12 mt-5 alt m-0">
-                                    <div class="entry-timeline">
-                                        <div class="timeline-divider"></div>
-                                    </div>
-                                    <div class="grid-inner">
-                                        <h3>
-                                            Se estableció su extensión hasta el 31 de marzo del 2020
-                                        </h3>
-                                    </div>
-                                </div>
-
-                                <div class="entry entry-date-section col-12 m-0 p-0">
-                                    <span>Junio de 2020</span>
-                                </div>
-                                <div class="entry col-lg-6 col-12 m-0">
-                                    <div class="entry-timeline">
-                                        <div class="timeline-divider"></div>
-                                    </div>
-                                    <div class="grid-inner">
-                                        <h3>
-                                            Solicitamos la prórroga del Ahora 12 en todo el país
-                                        </h3>
-                                    </div>
-                                </div>
-
-                                <div class="entry entry-date-section col-12 m-0 p-0">
-                                    <span>Julio de 2020</span>
-                                </div>
-                                <div class="entry col-lg-6 col-12 m-0">
-                                    <div class="grid-inner">
-                                        <h3></h3>
-                                    </div>
-                                </div>
-                                <div class="entry col-lg-6 col-12 m-0 alt">
-                                    <div class="entry-timeline">
-                                        <div class="timeline-divider"></div>
-                                    </div>
-                                    <div class="grid-inner">
-                                        <h3>Se prorrogó el programa Ahora 12 hasta fin de año</h3>
-                                    </div>
-                                </div>
-
-                                <div class="entry entry-date-section col-12 m-0 p-0">
-                                    <span>Septiembre de 2020</span>
-                                </div>
-                                <div class="entry col-lg-6 col-12 m-0">
-                                    <div class="entry-timeline">
-                                        <div class="timeline-divider"></div>
-                                    </div>
-                                    <div class="grid-inner">
-                                        <h3>
-                                            Solicitamos la inclusión del rubro Enseñanza privada
-                                        </h3>
-                                    </div>
-                                </div>
-
-                                <div class="entry entry-date-section col-12 m-0 p-0">
-                                    <span>Octubre de 2020</span>
-                                </div>
-                                <div class="entry col-lg-6 col-12 m-0">
-                                    <div class="entry-timeline">
-                                        <div class="timeline-divider"></div>
-                                    </div>
-                                    <div class="grid-inner">
-                                        <h3>
-                                            Solicitamos sostener el Ahora 12 con 3 meses de gracia
-                                            para el sector turístico para el año 2021
-                                        </h3>
-                                    </div>
-                                </div>
-                                <div class="entry col-lg-6 col-12 m-0 mt-5 alt">
-                                    <div class="entry-timeline">
-                                        <div class="timeline-divider"></div>
-                                    </div>
-                                    <div class="grid-inner">
-                                        <h3>
-                                            Se elevaron notas de pedido de incorporación del rubro
-                                            ortopedia al Programa Ahora 12 y Ahora 18
-                                        </h3>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- #posts end -->
-                            <div class="clear"></div>
-                        </div>
-                        <div class="clear" id="gestiones_paritaria"></div>
-                    </div>
-                </div>
-                <hr>
-                <div class="center page-section col-lg-12 col-md-12 mb-4">
-                    <div class="container clearfix">
-                        <h2 class="subtitulo">
-                            La voz de las pymes en la negociación de la paritaria mercantil
-                        </h2>
-                        <div class="row">
-                            <div class="col-md-8">
-                                <p>
-                                    CAME, entidad cúpula del país, en representación de sus
-                                    asociadas y de las pymes a estas adheridas, propuso, analizó y
-                                    acordó puntos específicos de las paritarias, en pos de lograr
-                                    el consenso entre la gremial empresaria y el sindicato para
-                                    buscar el equilibrio de sostener las empresas y a sus
-                                    trabajadores y familias en un contexto tan delicado.
-                                </p>
-
-                                <a href="http://www.redcame.org.ar/novedades/10491/exitosa-gestion-en-la-revision-de-la-paritaria-de-comercio"
-                                    target="_blank">
-                                    <h3 style="line-height: 2rem" class="color">
-                                        <i class="icon-ok"></i> Se firmó el acuerdo paritario mercantil 2020
-                                    </h3>
-                                </a>
-                                <a href="http://www.redcame.org.ar/novedades/10491/exitosa-gestion-en-la-revision-de-la-paritaria-de-comercio"
-                                    target="_blank">
-                                    <h3 style="line-height: 2rem" class="color">
-                                        <i class="icon-ok"></i> Exitosa gestión en la revisión de la paritaria de
-                                        Comercio
-                                    </h3>
-                                </a>
-                            </div>
-                            <div class="col-md-4">
-                                <img class="card-img" src="imgs/voz_pymes.jpg"
-                                    alt="La voz de las pymes en la negociación de la paritaria mercantil" />
-                            </div>
-                        </div>
-
-
-
-                        <div class="clear"></div>
-                    </div>
-                </div>
-                <hr id="contra_ilegalidad">
-                <div class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
-                    <div class="container clearfix">
-                        <h2 class="subtitulo">
-                            CAME contra la informalidad
-                        </h2>
-                        <p>
-                            La bandera de CAME en pos de la formalidad sigue vigente, hoy
-                            más que nunca. La importancia de luchar contra la
-                            comercialización de mercaderías sin control y que evaden
-                            obligaciones fiscales, sin posibilidad de trazabilidad, va de la
-                            mano, como la otra cara de la moneda para las pymes, con las
-                            imposibilidades que acarrean la logística, la excesiva presión
-                            tributaria, el acceso al financiamiento, la competencia desleal,
-                            la cadena de valor y sus costos. Una entidad gremial empresaria
-                            que bregue por el cuidado diario de las pymes es nuestro rol
-                            defender. Con dirigentes de todo el país que trabajaron
-                            propuestas concretas elevadas a Ministerios, Organismos de
-                            seguridad nacionales y provinciales y gobernadores, la Comisión
-                            de CAME contra la Ilegalidad continúa en su ardua y constante
-                            labor para la erradicación de esta problemática que azota al
-                            país.
-                        </p>
-
-                        <h3>
-                            Crece la venta ilegal, aumenta la preocupación de las pymes
+                    <a href="http://www.redcame.org.ar/novedades/10491/exitosa-gestion-en-la-revision-de-la-paritaria-de-comercio"
+                        target="_blank">
+                        <h3 style="line-height: 2rem" class="color">
+                            <i class="icon-ok"></i> Se firmó el acuerdo paritario mercantil 2020
                         </h3>
-                        <div class="row justify-content-between mb-5">
+                    </a>
+                    <a href="http://www.redcame.org.ar/novedades/10491/exitosa-gestion-en-la-revision-de-la-paritaria-de-comercio"
+                        target="_blank">
+                        <h3 style="line-height: 2rem" class="color">
+                            <i class="icon-ok"></i> Exitosa gestión en la revisión de la paritaria
+                            de
+                            Comercio
+                        </h3>
+                    </a>
+                </div>
+                <div class="col-md-4">
+                    <img class="card-img" src="imgs/voz_pymes.jpg"
+                        alt="La voz de las pymes en la negociación de la paritaria mercantil" />
+                </div>
+            </div>
 
-                            <div class="col-md-6 ">
+
+
+            <div class="clear"></div>
+        </div>
+    </div>
+    <hr id="contra_ilegalidad">
+    <div class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
+        <div class="container clearfix">
+            <h2 class="subtitulo">
+                CAME contra la informalidad
+            </h2>
+            <p>
+                La bandera de CAME en pos de la formalidad sigue vigente, hoy
+                más que nunca. La importancia de luchar contra la
+                comercialización de mercaderías sin control y que evaden
+                obligaciones fiscales, sin posibilidad de trazabilidad, va de la
+                mano, como la otra cara de la moneda para las pymes, con las
+                imposibilidades que acarrean la logística, la excesiva presión
+                tributaria, el acceso al financiamiento, la competencia desleal,
+                la cadena de valor y sus costos. Una entidad gremial empresaria
+                que bregue por el cuidado diario de las pymes es nuestro rol
+                defender. Con dirigentes de todo el país que trabajaron
+                propuestas concretas elevadas a Ministerios, Organismos de
+                seguridad nacionales y provinciales y gobernadores, la Comisión
+                de CAME contra la Ilegalidad continúa en su ardua y constante
+                labor para la erradicación de esta problemática que azota al
+                país.
+            </p>
+
+            <h3>
+                Crece la venta ilegal, aumenta la preocupación de las pymes
+            </h3>
+            <div class="row justify-content-between mb-5">
+
+                <div class="col-md-6 ">
 
 
 
-                                <div
-                                    class="fancy-title title-center title-border mt-0 mb-2 d-flex justify-content-center">
-                                    <h4>
-                                        Relevamiento sobre Percepción Empresaria de Venta Ilegal
-                                        (PEVI)<br />Rubros más afectados
-                                    </h4>
-                                </div>
+                    <div class="fancy-title title-center title-border mt-0 mb-2 d-flex justify-content-center">
+                        <h4>
+                            Relevamiento sobre Percepción Empresaria de Venta Ilegal
+                            (PEVI)<br />Rubros más afectados
+                        </h4>
+                    </div>
 
-                                <div class="d-flex justify-content-center">
-                                    <table id="tablitaPEVI" class="table table-hover">
-                                        <tbody>
-                                            <tr>
-                                                <td>Indumentaria</td>
-                                                <td>64,2%</td>
-                                            </tr>
-                                            <tr>
-                                                <td>Alimentos</td>
-                                                <td>13,6%</td>
-                                            </tr>
-                                            <tr>
-                                                <td>Bijouterie</td>
-                                                <td>4,9%</td>
-                                            </tr>
-                                            <tr>
-                                                <td>Otro</td>
-                                                <td>4,9%</td>
-                                            </tr>
-                                            <tr>
-                                                <td>Bazar</td>
-                                                <td>3,7%</td>
-                                            </tr>
-                                            <tr>
-                                                <td>Tecnología</td>
-                                                <td>3,7%</td>
-                                            </tr>
-                                            <tr>
-                                                <td>Calzados y Marroquineria</td>
-                                                <td>2,5%</td>
-                                            </tr>
-                                            <tr>
-                                                <td>Deportes</td>
-                                                <td>1,2%</td>
-                                            </tr>
-                                            <tr>
-                                                <td>Electrodomésticos</td>
-                                                <td>1,2%</td>
-                                            </tr>
-                                        </tbody>
-                                    </table>
-                                </div>
+                    <div class="d-flex justify-content-center">
+                        <table id="tablitaPEVI" class="table table-hover">
+                            <tbody>
+                                <tr>
+                                    <td>Indumentaria</td>
+                                    <td>64,2%</td>
+                                </tr>
+                                <tr>
+                                    <td>Alimentos</td>
+                                    <td>13,6%</td>
+                                </tr>
+                                <tr>
+                                    <td>Bijouterie</td>
+                                    <td>4,9%</td>
+                                </tr>
+                                <tr>
+                                    <td>Otro</td>
+                                    <td>4,9%</td>
+                                </tr>
+                                <tr>
+                                    <td>Bazar</td>
+                                    <td>3,7%</td>
+                                </tr>
+                                <tr>
+                                    <td>Tecnología</td>
+                                    <td>3,7%</td>
+                                </tr>
+                                <tr>
+                                    <td>Calzados y Marroquineria</td>
+                                    <td>2,5%</td>
+                                </tr>
+                                <tr>
+                                    <td>Deportes</td>
+                                    <td>1,2%</td>
+                                </tr>
+                                <tr>
+                                    <td>Electrodomésticos</td>
+                                    <td>1,2%</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
 
-                                <div class="fbox-content text-center">
-                                    <div class="counter color">
-                                        <span data-from="1" data-to="10" data-refresh-interval="10" data-speed="1600"
-                                            class="display-2 ls3 font-weight-medium">10</span>
-                                    </div>
-                                    <h3>reuniones de la Comisión contra la Ilegalidad</h3>
-                                </div>
-
-                            </div>
-
-                            <div class="col-md-6">
-                                <iframe src="https://player.vimeo.com/video/521106812"
-                                    style="position:absolute;top:0;left:0;width:90%;height:90%;" frameborder="0"
-                                    allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-                            </div>
-                            <script src="https://player.vimeo.com/api/player.js"></script>
-
+                    <div class="fbox-content text-center">
+                        <div class="counter color">
+                            <span data-from="1" data-to="10" data-refresh-interval="10" data-speed="1600"
+                                class="display-2 ls3 font-weight-medium">10</span>
                         </div>
+                        <h3>reuniones de la Comisión contra la Ilegalidad</h3>
+                    </div>
 
-                        <div class="row justify-content-between">
-                            <div class="col-md-6">
-                                <div class="fancy-title title-center title-border mt-0 mb-2">
-                                    <h4>Perspectiva de la venta ilegal respecto al 2018</h4>
-                                </div>
-                                <canvas id="chart-0"></canvas>
-                            </div>
+                </div>
 
-                            <div class="col-md-6">
-                                <div class="fancy-title title-center title-border mt-0 mb-2">
-                                    <h4>Perspectiva de la venta ilegal respecto al 2020</h4>
-                                </div>
-                                <canvas id="chart-1"></canvas>
-                            </div>
-                        </div>
-                        <div class="row justify-content-center mt-5">
-                            <div class="col-md-8">
-                                <div class="fancy-title title-center title-border mt-0 mb-2">
-                                    <h4>
-                                        Percepción sobre los organismos que aplican controles para
-                                        el comercio ilegal
-                                    </h4>
-                                </div>
-                                <canvas id="chart-2"></canvas>
-                            </div>
-                        </div>
+                <div class="col-md-6">
+                    <iframe src="https://player.vimeo.com/video/521106812"
+                        style="position:absolute;top:0;left:0;width:90%;height:90%;" frameborder="0"
+                        allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+                </div>
+                <script src="https://player.vimeo.com/api/player.js"></script>
+
+            </div>
+
+            <div class="row justify-content-between">
+                <div class="col-md-6">
+                    <div class="fancy-title title-center title-border mt-0 mb-2">
+                        <h4>Perspectiva de la venta ilegal respecto al 2018</h4>
+                    </div>
+                    <canvas id="chart-0"></canvas>
+                </div>
+
+                <div class="col-md-6">
+                    <div class="fancy-title title-center title-border mt-0 mb-2">
+                        <h4>Perspectiva de la venta ilegal respecto al 2020</h4>
+                    </div>
+                    <canvas id="chart-1"></canvas>
+                </div>
+            </div>
+            <div class="row justify-content-center mt-5">
+                <div class="col-md-8">
+                    <div class="fancy-title title-center title-border mt-0 mb-2">
+                        <h4>
+                            Percepción sobre los organismos que aplican controles para
+                            el comercio ilegal
+                        </h4>
+                    </div>
+                    <canvas id="chart-2"></canvas>
+                </div>
+            </div>
+        </div>
+    </div>
+    <hr>
+    <div class="center page-section col-md-12 mt-5 mb-5">
+        <div class="container clearfix">
+            <h2 class="subtitulo">
+                Encuentros estratégicos para fomentar la sinergia en el marco de
+                la pandemia
+            </h2>
+            <div class="row">
+                <div class="col-md-9">
+                    <p>
+                        Ante los desafíos históricos del país, tales como la
+                        problemática de la federalización de la logística, la
+                        interacción bilateral, la competitividad y la rentabilidad; así
+                        como los actuales, signados por la pandemia que asola al mundo,
+                        planificamos, acordamos y aceptamos encuentros, en pos de
+                        fortalecer la matriz productiva por medio del diálogo, el
+                        consenso y la acción conjunta.
+                    </p>
+                    <div class="center">
+                        <a href="gestiones_pandemia.php" class="button text-right center">Más
+                            información<i class="icon-circle-arrow-right"></i></a>
                     </div>
                 </div>
-                <hr>
-                <div class="center page-section col-md-12 mt-5 mb-5">
-                    <div class="container clearfix">
-                        <h2 class="subtitulo">
-                            Encuentros estratégicos para fomentar la sinergia en el marco de
-                            la pandemia
-                        </h2>
-                        <div class="row">
-                            <div class="col-md-9">
+                <div class="col-md-3"><img class="card-img" src="imgs/encuentros_estrategicos.jpg"
+                        alt="La voz de las pymes en la negociación de la paritaria mercantil" />
+                </div>
+            </div>
+
+
+
+        </div>
+    </div>
+    <hr>
+    <div class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
+        <div class="container clearfix">
+            <h2 class="subtitulo">
+                Gestión integral de la cadena productiva
+            </h2>
+            <div class="row mb-5">
+                <div class="col-md-4 imagen-nota pl-5 pr-5 pt-2">
+                    <a href="http://www.redcame.org.ar/novedades/7892/cheques-rechazados-y-apertura-regular-de-bancos-solicitamos-al-bcra-medidas-urgentes-para-las-pymes"
+                        target="_blank">
+                        <img src="imgs/engranaje.jpg" alt="Gestión integral de la cadena productiva" />
+                        <!-- <div class="entry-date"><span>Marzo</span></div> -->
+                    </a>
+                </div>
+                <div class="col-md-8">
+                    <p>
+                        La Comisión, integrada por dirigentes de la entidad, tiene como
+                        objetivo fortalecer los sectores de la economía trabajando
+                        aspectos específicos de la cadena de valor. Realizó, durante el
+                        segundo semestre del año, diversas gestiones que apuntan a
+                        resolver distintas problemáticas de los sectores de la
+                        educación, la movilidad y el transporte, el comercio
+                        internacional, la salud, la industria alimenticia y el rubro
+                        gastronómico. La comisión tiene previsto darles continuidad a
+                        las mesas establecidas a lo largo del año 2021 y fijar una
+                        agenda permanente. Además, se trabajará en la incorporación de
+                        nuevos sectores.
+                    </p>
+                </div>
+            </div>
+
+            <div class="center page-section col-lg-12 col-md-12 mt-5">
+                <div class="container clearfix">
+                    <div id="posts" class="post-grid row grid-container gutter-40 clearfix has-init-isotope">
+
+
+                        <div class="entry event col-md-6 col-12">
+                            <div class="grid-inner p-4">
+
+
+                                <img src="imgs/mes/agosto.png" alt="" style="width: 16rem" />
                                 <p>
-                                    Ante los desafíos históricos del país, tales como la
-                                    problemática de la federalización de la logística, la
-                                    interacción bilateral, la competitividad y la rentabilidad; así
-                                    como los actuales, signados por la pandemia que asola al mundo,
-                                    planificamos, acordamos y aceptamos encuentros, en pos de
-                                    fortalecer la matriz productiva por medio del diálogo, el
-                                    consenso y la acción conjunta.
+                                    Tuvo lugar la Mesa de la Educación en el marco de la
+                                    participación
+                                    de la entidad
+                                    como miembro del Consejo Nacional de Calidad de la Educación. El
+                                    debate puso
+                                    foco en la problemática de la educación privada en la pandemia y
+                                    el
+                                    impacto
+                                    pospandemia. Se elevaron pedidos de incorporación de la
+                                    enseñanza
+                                    privada al
+                                    Programa "Ahora 12" y "Ahora 18", se designó un delegado
+                                    suplente de
+                                    la Junta
+                                    Nacional de Educación Privada (JUNEP) al CNCE y se mantuvo una
+                                    audiencia virtual
+                                    con el Ministro de Educación de la Nación, Nicolás Trotta.
+                                    Participan de esta
+                                    mesa 25 entidades de todo el país.
                                 </p>
-                                <div class="center">
-                                    <a href="gestiones_pandemia.php" class="button text-right center">Más
-                                        información<i class="icon-circle-arrow-right"></i></a>
-                                </div>
+
+
                             </div>
-                            <div class="col-md-3"><img class="card-img" src="imgs/encuentros_estrategicos.jpg"
-                                    alt="La voz de las pymes en la negociación de la paritaria mercantil" /></div>
                         </div>
 
+                        <div class="entry event col-md-6 col-12">
+                            <div class="grid-inner p-4">
 
 
-                    </div>
-                </div>
-                <hr>
-                <div class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
-                    <div class="container clearfix">
-                        <h2 class="subtitulo">
-                            Gestión integral de la cadena productiva
-                        </h2>
-                        <div class="row mb-5">
-                            <div class="col-md-4 imagen-nota pl-5 pr-5 pt-2">
-                                <a href="http://www.redcame.org.ar/novedades/7892/cheques-rechazados-y-apertura-regular-de-bancos-solicitamos-al-bcra-medidas-urgentes-para-las-pymes"
-                                    target="_blank">
-                                    <img src="imgs/engranaje.jpg" alt="Gestión integral de la cadena productiva" />
-                                    <!-- <div class="entry-date"><span>Marzo</span></div> -->
-                                </a>
-                            </div>
-                            <div class="col-md-8">
+
+                                <img src="imgs/mes/septiembre.png" alt="" style="width: 16rem" />
                                 <p>
-                                    La Comisión, integrada por dirigentes de la entidad, tiene como
-                                    objetivo fortalecer los sectores de la economía trabajando
-                                    aspectos específicos de la cadena de valor. Realizó, durante el
-                                    segundo semestre del año, diversas gestiones que apuntan a
-                                    resolver distintas problemáticas de los sectores de la
-                                    educación, la movilidad y el transporte, el comercio
-                                    internacional, la salud, la industria alimenticia y el rubro
-                                    gastronómico. La comisión tiene previsto darles continuidad a
-                                    las mesas establecidas a lo largo del año 2021 y fijar una
-                                    agenda permanente. Además, se trabajará en la incorporación de
-                                    nuevos sectores.
+                                    Se llevó a cabo la videoconferencia de movilidad y transporte
+                                    donde
+                                    se trataron
+                                    aspectos vinculados a los inconvenientes en la circulación, el
+                                    flujo
+                                    de ingresos
+                                    y el endeudamiento de las pymes del sector. Se elevaron pedidos
+                                    de
+                                    representación de CAME en el Consejo Federal Portuario, se
+                                    mantuvo
+                                    una audiencia
+                                    virtual con el Ministro de Transporte de la Nación, Mario Meoni,
+                                    y
+                                    reuniones con
+                                    el Secretario de Planificación del Ministerio de Transporte de
+                                    la
+                                    Nación, Gastón
+                                    Jaques y Rodríguez Melgarejo. Integran esta mesa sectorial 25
+                                    entidades de los
+                                    rubros transporte de pasajeros, transporte de carga liviana y
+                                    pesada, motos,
+                                    combis y remises, vehículos eléctricos y puertos recreativos.
+
+                                    Se realizó la Mesa Binacional donde participan más de 30 Cámaras
+                                    de
+                                    Comercio
+                                    Internacional en un trabajo de camaradería que intenta impulsar
+                                    temas de
+                                    competitividad, desarrollo de productos con valor agregado y el
+                                    rol
+                                    preponderante de las pymes en la exportación. Se elevaron
+                                    pedidos de
+                                    audiencia
+                                    al Embajador, Jorge Neme.
+
                                 </p>
+
+
                             </div>
                         </div>
 
-                        <div class="center page-section col-lg-12 col-md-12 mt-5">
-                            <div class="container clearfix">
-                                <div id="posts"
-                                    class="post-grid row grid-container gutter-40 clearfix has-init-isotope">
+                        <div class="entry event col-md-6 col-12">
+                            <div class="grid-inner p-4">
+                                <img src="imgs/mes/octubre.png" alt="" style="width: 16rem" />
+                                <p>
+                                    Reunión con el sector gastronómico develó los inconvenientes
+                                    producidos por el
+                                    COVID 19 en la actividad comercial, caída de las ventas, corte
+                                    de la
+                                    cadena de
+                                    pago y bajo nivel de rentabilidad de las empresas. Integran esta
+                                    mesa 6 cámaras
+                                    sectoriales pertenecientes a los rubros pastas, helados, pizzas
+                                    y
+                                    empanadas, pan
+                                    y establecimientos gastronómicos.
+
+                                    La Mesa de la Salud integrada por más de 30 entidades del sector
+                                    puso en
+                                    discusión el impacto del COVID-19 en las empresas y la
+                                    significativa
+                                    caída del
+                                    consumo con deudas acumuladas en el pago de las prestaciones y
+                                    el
+                                    exceso de la
+                                    demanda que provocó un aumento desmedido de las materias primas
+                                    en
+                                    dólares.
+                                    Participan del sector cámaras de los rubros droguerías y
+                                    medicamentos, industria
+                                    dental, bioquímica y farmacia, implantes y ortopedia,
+                                    laboratorios y
+                                    clínicas
+                                    privadas. Se elevaron notas de pedido de incorporación del rubro
+                                    ortopedia al
+                                    Programa "Ahora 12" y "Ahora 18".
 
 
-                                    <div class="entry event col-md-6 col-12">
-                                        <div class="grid-inner p-4">
+                                </p>
 
+                            </div>
+                        </div>
 
-                                            <img src="imgs/mes/agosto.png" alt="" style="width: 16rem" />
-                                            <p>
-                                                Tuvo lugar la Mesa de la Educación en el marco de la
-                                                participación
-                                                de la entidad
-                                                como miembro del Consejo Nacional de Calidad de la Educación. El
-                                                debate puso
-                                                foco en la problemática de la educación privada en la pandemia y
-                                                el
-                                                impacto
-                                                pospandemia. Se elevaron pedidos de incorporación de la
-                                                enseñanza
-                                                privada al
-                                                Programa "Ahora 12" y "Ahora 18", se designó un delegado
-                                                suplente de
-                                                la Junta
-                                                Nacional de Educación Privada (JUNEP) al CNCE y se mantuvo una
-                                                audiencia virtual
-                                                con el Ministro de Educación de la Nación, Nicolás Trotta.
-                                                Participan de esta
-                                                mesa 25 entidades de todo el país.
-                                            </p>
+                        <div class="entry event col-md-6 col-12">
+                            <div class="grid-inner p-4">
 
+                                <img src="imgs/mes/noviembre.png" alt="" style="width: 16rem" />
+                                <p>
+                                    Se llevó a cabo la mesa de la industria alimenticia en el marco
+                                    del
+                                    trabajo
+                                    específico con los distintos sectores. En la reunión se habló
+                                    del
+                                    concepto de
+                                    segmentación y la importancia de identificar la disparidad de
+                                    problemas, precios
+                                    máximos, abastos y distintas iniciativas de los gobiernos
+                                    nacionales
+                                    y
+                                    municipales como controles bromatológicos, etiquetado frontal y
+                                    la
+                                    falta de
+                                    estímulo a la producción industrial. Participan de esta
+                                    iniciativa
+                                    25 cámaras
+                                    sectoriales de los rubros apicultura, alimentos orgánicos,
+                                    lácteos,
+                                    molinería,
+                                    avicultura, fideero, olivícola, bebidas y jugos, yerbatero,
+                                    frutihortícola y
+                                    pesquero.
+                                </p>
 
-                                        </div>
-                                    </div>
+                            </div>
+                        </div>
 
-                                    <div class="entry event col-md-6 col-12">
-                                        <div class="grid-inner p-4">
+                        <div class="entry event col-12">
+                            <div class="grid-inner row align-items-center no-gutters p-4">
+                                <div class="entry-image col-md-3 mb-md-0">
+                                    <img src="imgs/mes/diciembre.png" alt="" style="width:16rem;" />
+                                </div>
+                                <div class="col-md-9">
+                                    <div>
+                                        <p>
+                                            En el marco del trabajo de la mesa de movilidad y
+                                            transporte se
+                                            elevaron notas
+                                            de pedido al Ministerio de Transporte de la Nación Abg.
+                                            Mario
+                                            Meoni
+                                            para
+                                            integrar delegados de CAME al Consejo Federal Hidrovía
+                                            CFH.
 
+                                            La Mesa de Alimentos solicitó elevar notas al Ministerio
+                                            de
+                                            Producción de la
+                                            Nación Lic. Paula Español por Ley de Góndolas / Precios
+                                            Máximos
+                                            y
+                                            pedido de
+                                            audiencia a la misma cartera.
 
-
-                                            <img src="imgs/mes/septiembre.png" alt="" style="width: 16rem" />
-                                            <p>
-                                                Se llevó a cabo la videoconferencia de movilidad y transporte
-                                                donde
-                                                se trataron
-                                                aspectos vinculados a los inconvenientes en la circulación, el
-                                                flujo
-                                                de ingresos
-                                                y el endeudamiento de las pymes del sector. Se elevaron pedidos
-                                                de
-                                                representación de CAME en el Consejo Federal Portuario, se
-                                                mantuvo
-                                                una audiencia
-                                                virtual con el Ministro de Transporte de la Nación, Mario Meoni,
-                                                y
-                                                reuniones con
-                                                el Secretario de Planificación del Ministerio de Transporte de
-                                                la
-                                                Nación, Gastón
-                                                Jaques y Rodríguez Melgarejo. Integran esta mesa sectorial 25
-                                                entidades de los
-                                                rubros transporte de pasajeros, transporte de carga liviana y
-                                                pesada, motos,
-                                                combis y remises, vehículos eléctricos y puertos recreativos.
-
-                                                Se realizó la Mesa Binacional donde participan más de 30 Cámaras
-                                                de
-                                                Comercio
-                                                Internacional en un trabajo de camaradería que intenta impulsar
-                                                temas de
-                                                competitividad, desarrollo de productos con valor agregado y el
-                                                rol
-                                                preponderante de las pymes en la exportación. Se elevaron
-                                                pedidos de
-                                                audiencia
-                                                al Embajador, Jorge Neme.
-
-                                            </p>
-
-
-                                        </div>
-                                    </div>
-
-                                    <div class="entry event col-md-6 col-12">
-                                        <div class="grid-inner p-4">
-                                            <img src="imgs/mes/octubre.png" alt="" style="width: 16rem" />
-                                            <p>
-                                                Reunión con el sector gastronómico develó los inconvenientes
-                                                producidos por el
-                                                COVID 19 en la actividad comercial, caída de las ventas, corte
-                                                de la
-                                                cadena de
-                                                pago y bajo nivel de rentabilidad de las empresas. Integran esta
-                                                mesa 6 cámaras
-                                                sectoriales pertenecientes a los rubros pastas, helados, pizzas
-                                                y
-                                                empanadas, pan
-                                                y establecimientos gastronómicos.
-
-                                                La Mesa de la Salud integrada por más de 30 entidades del sector
-                                                puso en
-                                                discusión el impacto del COVID-19 en las empresas y la
-                                                significativa
-                                                caída del
-                                                consumo con deudas acumuladas en el pago de las prestaciones y
-                                                el
-                                                exceso de la
-                                                demanda que provocó un aumento desmedido de las materias primas
-                                                en
-                                                dólares.
-                                                Participan del sector cámaras de los rubros droguerías y
-                                                medicamentos, industria
-                                                dental, bioquímica y farmacia, implantes y ortopedia,
-                                                laboratorios y
-                                                clínicas
-                                                privadas. Se elevaron notas de pedido de incorporación del rubro
-                                                ortopedia al
-                                                Programa "Ahora 12" y "Ahora 18".
-
-
-                                            </p>
-
-                                        </div>
-                                    </div>
-
-                                    <div class="entry event col-md-6 col-12">
-                                        <div class="grid-inner p-4">
-
-                                            <img src="imgs/mes/noviembre.png" alt="" style="width: 16rem" />
-                                            <p>
-                                                Se llevó a cabo la mesa de la industria alimenticia en el marco
-                                                del
-                                                trabajo
-                                                específico con los distintos sectores. En la reunión se habló
-                                                del
-                                                concepto de
-                                                segmentación y la importancia de identificar la disparidad de
-                                                problemas, precios
-                                                máximos, abastos y distintas iniciativas de los gobiernos
-                                                nacionales
-                                                y
-                                                municipales como controles bromatológicos, etiquetado frontal y
-                                                la
-                                                falta de
-                                                estímulo a la producción industrial. Participan de esta
-                                                iniciativa
-                                                25 cámaras
-                                                sectoriales de los rubros apicultura, alimentos orgánicos,
-                                                lácteos,
-                                                molinería,
-                                                avicultura, fideero, olivícola, bebidas y jugos, yerbatero,
-                                                frutihortícola y
-                                                pesquero.
-                                            </p>
-
-                                        </div>
-                                    </div>
-
-                                    <div class="entry event col-12">
-                                        <div class="grid-inner row align-items-center no-gutters p-4">
-                                            <div class="entry-image col-md-3 mb-md-0">
-                                                <img src="imgs/mes/diciembre.png" alt="" style="width:16rem;" />
-                                            </div>
-                                            <div class="col-md-9">
-                                                <div>
-                                                    <p>
-                                                        En el marco del trabajo de la mesa de movilidad y transporte se
-                                                        elevaron notas
-                                                        de pedido al Ministerio de Transporte de la Nación Abg. Mario
-                                                        Meoni
-                                                        para
-                                                        integrar delegados de CAME al Consejo Federal Hidrovía CFH.
-
-                                                        La Mesa de Alimentos solicitó elevar notas al Ministerio de
-                                                        Producción de la
-                                                        Nación Lic. Paula Español por Ley de Góndolas / Precios Máximos
-                                                        y
-                                                        pedido de
-                                                        audiencia a la misma cartera.
-
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
+                                        </p>
                                     </div>
                                 </div>
                             </div>
                         </div>
-
-
                     </div>
-                    <hr>
-                    <?php include "anterior_siguiente.php"; ?>
-                    <!-- fin Contenido    ============================================= -->
                 </div>
-        </section>
+            </div>
 
-        <!-- #content end -->
 
-        <!-- Footer
+        </div>
+        <hr>
+        <?php include "anterior_siguiente.php"; ?>
+        <!-- fin Contenido    ============================================= -->
+    </div>
+    </section>
+
+    <!-- #content end -->
+
+    <!-- Footer
 		============================================= -->
-        <?php
+    <?php
   include "footer.html";
   ?>
-        <!-- #footer end -->
+    <!-- #footer end -->
     </div>
     <!-- #wrapper end -->
 
