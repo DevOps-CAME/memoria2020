@@ -118,7 +118,7 @@
                                                     data-refresh-interval="10" data-speed="1600">10</span> </div>
 
                                             <p>
-                                                <bold class="display-5 color font-weight-medium">entidades y CCA</bold>
+                                                <bold>entidades y CCA</bold>
                                                 recibieron asistencia para actualizar y potenciar plataformas digitales
                                                 de fidelización de clientes.
                                             </p>
@@ -134,7 +134,7 @@
                                                     data-refresh-interval="10" data-speed="1600">2700</span> </div>
 
                                             <p>
-                                                <bold class="display-5 color font-weight-medium">participantes</bold> en
+                                                <bold>participantes</bold> en
                                                 el XIX Foro Internacional sobre Ciudad, Comercio y Turismo, realizado en
                                                 formato virtual.
                                             </p>
@@ -149,7 +149,7 @@
                                                     data-refresh-interval="10" data-speed="1600">2</span> </div>
 
                                             <p>
-                                                <bold class="display-5 color font-weight-medium">coloquios
+                                                <bold>coloquios
                                                     internacionales:</bold> “Los Centros Comerciales Abiertos en
                                                 cuarentena” (con 220 participantes) y “Los desafíos pospandemia para el
                                                 Comercio Minorista y los CCA” (con 115 participantes).
@@ -166,7 +166,7 @@
                                                     data-refresh-interval="10" data-speed="1600">6</span> </div>
 
                                             <p>
-                                                <bold class="display-5 color font-weight-medium">campañas audiovisuales
+                                                <bold>campañas audiovisuales
                                                     de concientización</bold> que destacan el rol del comercio en la
                                                 comunidad y apelan a la responsabilidad sanitaria.
                                             </p>
@@ -245,7 +245,7 @@
                                                     data-refresh-interval="10" data-speed="1600">15</span> </div>
 
                                             <p>
-                                                <bold class="display-5 color font-weight-medium">ciudades</bold> de 6
+                                                <bold>ciudades</bold> de 6
                                                 provincias recibieron propuestas técnicas para proyectos de CCA en
                                                 desarrollo.
                                             </p>
@@ -262,7 +262,7 @@
                                                     data-refresh-interval="10" data-speed="1600">16</span> </div>
 
                                             <p>
-                                                <bold class="display-5 color font-weight-medium">ciudades</bold> de 7
+                                                <bold>ciudades</bold> de 7
                                                 provincias recibieron asistencia técnica para CCA ya establecidos.
                                             </p>
                                         </div>
@@ -279,7 +279,7 @@
                                                     data-refresh-interval="10" data-speed="1600">4</span> </div>
 
                                             <p>
-                                                <bold class="display-5 color font-weight-medium">encuentros</bold> en el
+                                                <bold>encuentros</bold> en el
                                                 marco del ciclo de CCA Sustentables, iniciativa desarrollada junto con
                                                 el Departamento de RSE de CAME.
                                             </p>
