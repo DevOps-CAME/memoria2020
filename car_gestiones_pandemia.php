@@ -4,8 +4,22 @@
         <div class="portfolio-image">
             <a href="http://www.redcame.org.ar/novedades/10367/historica-jornada-internacional-de-came-junto-a-adm-en-el-ii-encuentro-iberoamericano-de-convergencia-empresarial"
                 target="_blank">
-                <img src="imgs/gest_pand/2EncuentroConvergencia.jpg"
-                    alt="II Encuentro Iberoamericano de Convergencia Empresarial" />
+                <img src="imgs/gest_pand/001.jpg" alt="II Encuentro Iberoamericano de Convergencia Empresarial" />
+            </a>
+            <div class="portfolio-desc">
+                <p class="car_titulo">
+                    II Encuentro Iberoamericano de Convergencia Empresarial “Pandemia:
+                    crisis y desafíos”
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <div class="portfolio-item">
+        <div class="portfolio-image">
+            <a href="http://www.redcame.org.ar/novedades/10367/historica-jornada-internacional-de-came-junto-a-adm-en-el-ii-encuentro-iberoamericano-de-convergencia-empresarial"
+                target="_blank">
+                <img src="imgs/gest_pand/01.jpg" alt="" />
             </a>
         </div>
         <div class="portfolio-desc">
@@ -142,19 +156,5 @@
         </div>
     </div>
 
-    <div class="portfolio-item">
-        <div class="portfolio-image">
-            <a href="http://www.redcame.org.ar/novedades/10367/historica-jornada-internacional-de-came-junto-a-adm-en-el-ii-encuentro-iberoamericano-de-convergencia-empresarial"
-                target="_blank">
-                <img src="imgs/gest_pand/2EncuentroConvergencia.jpg"
-                    alt="II Encuentro Iberoamericano de Convergencia Empresarial" />
-            </a>
-            <div class="portfolio-desc">
-                <p class="car_titulo">
-                    II Encuentro Iberoamericano de Convergencia Empresarial “Pandemia:
-                    crisis y desafíos”
-                </p>
-            </div>
-        </div>
-    </div>
+
 </div>

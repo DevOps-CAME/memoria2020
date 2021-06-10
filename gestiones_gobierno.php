@@ -486,13 +486,13 @@
                         </table>
                     </div>
 
-                    <div class="fbox-content text-center">
+                    <!--    <div class="fbox-content text-center">
                         <div class="counter color">
                             <span data-from="1" data-to="10" data-refresh-interval="10" data-speed="1600"
                                 class="display-2 ls3 font-weight-medium">10</span>
                         </div>
                         <h3>reuniones de la Comisión contra la Ilegalidad</h3>
-                    </div>
+                    </div> -->
 
                 </div>
 
@@ -505,7 +505,7 @@
 
             </div>
 
-            <div class="row justify-content-between">
+            <!--   <div class="row justify-content-between">
                 <div class="col-md-6">
                     <div class="fancy-title title-center title-border mt-0 mb-2">
                         <h4>Perspectiva de la venta ilegal respecto al 2018</h4>
@@ -530,7 +530,7 @@
                     </div>
                     <canvas id="chart-2"></canvas>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
     <hr>
@@ -552,7 +552,7 @@
                         consenso y la acción conjunta.
                     </p>
                 </div>
-                <div class="col-md-12">
+                <div class="col-md-12 mb-5">
 
                     <?php include "car_gestiones_pandemia.php"; ?>
 
@@ -880,152 +880,154 @@
     <script src="js/chart.js"></script>
     <script src="js/chart-utils.js"></script>
 
-    <script>
-    var config = {
-        type: "doughnut",
-        data: {
-            datasets: [{
-                data: ["46.9", "38.3", "11.1", "3.7"],
-                backgroundColor: [
-                    window.chartColors.red,
-                    window.chartColors.orange,
-                    window.chartColors.green,
-                    window.chartColors.blue,
+    <!--  <script>
+        var config = {
+            type: "doughnut",
+            data: {
+                datasets: [{
+                    data: ["46.9", "38.3", "11.1", "3.7"],
+                    backgroundColor: [
+                        window.chartColors.red,
+                        window.chartColors.orange,
+                        window.chartColors.green,
+                        window.chartColors.blue,
+                    ],
+                    label: "Dataset 1",
+                }, ],
+                labels: ["Aumentó", "Se mantuvo", "Disminuyó", "Ns/Nc"],
+            },
+            options: {
+                responsive: true,
+                legend: {
+                    position: "top",
+                },
+                title: {
+                    display: false,
+                },
+                animation: {
+                    animateScale: true,
+                    animateRotate: true,
+                },
+            },
+        };
+
+        var config2 = {
+            type: "doughnut",
+            data: {
+                datasets: [{
+                    data: ["48.1", "6.2", "30.9", "14.8"],
+                    backgroundColor: [
+                        window.chartColors.red,
+                        window.chartColors.orange,
+                        window.chartColors.green,
+                        window.chartColors.blue,
+                    ],
+                    label: "Dataset 2",
+                }, ],
+                labels: ["Aumentó", "Se mantuvo", "Disminuyó", "Ns/Nc"],
+            },
+            options: {
+                responsive: true,
+                legend: {
+                    position: "top",
+                },
+                title: {
+                    display: false,
+                },
+                animation: {
+                    animateScale: true,
+                    animateRotate: true,
+                },
+            },
+        };
+
+
+
+        var config3 = {
+            type: "bar",
+            data: {
+                labels: [
+                    "% Controles municipales",
+                    "% Rentas provincial y AFIP",
+                    "% Policia provincial",
+                    "% Gendarmeria",
+                    "% Prefectura",
+                    "Promedio",
                 ],
-                label: "Dataset 1",
-            }, ],
-            labels: ["Aumentó", "Se mantuvo", "Disminuyó", "Ns/Nc"],
-        },
-        options: {
-            responsive: true,
-            legend: {
-                position: "top",
-            },
-            title: {
-                display: false,
-            },
-            animation: {
-                animateScale: true,
-                animateRotate: true,
-            },
-        },
-    };
-
-    var config2 = {
-        type: "doughnut",
-        data: {
-            datasets: [{
-                data: ["48.1", "6.2", "30.9", "14.8"],
-                backgroundColor: [
-                    window.chartColors.red,
-                    window.chartColors.orange,
-                    window.chartColors.green,
-                    window.chartColors.blue,
+                datasets: [{
+                        label: "Muy insuficientes",
+                        backgroundColor: window.chartColors.red,
+                        borderColor: window.chartColors.red,
+                        data: [38.3, 45.7, 35.8, 28.4, 33.3, 36.2],
+                        fill: false,
+                    },
+                    {
+                        label: "Insuficientes",
+                        backgroundColor: window.chartColors.orange,
+                        borderColor: window.chartColors.orange,
+                        data: [22.2, 22.2, 27.2, 21, 23.5, 22.8],
+                        fill: false,
+                    },
+                    {
+                        label: "Ni insuficientes ni suficientes",
+                        backgroundColor: window.chartColors.yellow,
+                        borderColor: window.chartColors.yellow,
+                        data: [19.8, 18.5, 19.8, 28.4, 18.5, 21.4],
+                        fill: false,
+                    },
+                    {
+                        label: "Suficientes",
+                        backgroundColor: window.chartColors.green,
+                        borderColor: window.chartColors.green,
+                        data: [13.6, 11.1, 9.9, 17.3, 11.1, 12.6],
+                        fill: false,
+                    },
+                    {
+                        label: "Muy suficientes",
+                        backgroundColor: window.chartColors.purple,
+                        borderColor: window.chartColors.purple,
+                        data: [6.2, 2.5, 2.5, 2.5, 1.2, 2.9],
+                        fill: false,
+                    },
+                    {
+                        label: "Ns/Nc",
+                        backgroundColor: window.chartColors.gray,
+                        borderColor: window.chartColors.gray,
+                        data: [0, 0, 4.9, 2.5, 12.3, 6.2],
+                        fill: false,
+                    },
                 ],
-                label: "Dataset 2",
-            }, ],
-            labels: ["Aumentó", "Se mantuvo", "Disminuyó", "Ns/Nc"],
-        },
-        options: {
-            responsive: true,
-            legend: {
-                position: "top",
             },
-            title: {
-                display: false,
+
+
+            options: {
+                responsive: true,
+                scales: {
+                    xAxes: [{
+                        stacked: true,
+                    }],
+                    yAxes: [{
+                        stacked: true
+                    }]
+                },
             },
-            animation: {
-                animateScale: true,
-                animateRotate: true,
-            },
-        },
-    };
+        };
+
+        window.onload = function() {
+            var ctx = document.getElementById("chart-0").getContext("2d");
+            window.myDoughnut = new Chart(ctx, config);
+
+            var ctx2 = document.getElementById("chart-1").getContext("2d");
+            window.myDoughnut2 = new Chart(ctx2, config2);
+
+            var ctx3 = document.getElementById("chart-2").getContext("2d");
+            window.myLine = new Chart(ctx3, config3);
 
 
-
-    var config3 = {
-        type: "bar",
-        data: {
-            labels: [
-                "% Controles municipales",
-                "% Rentas provincial y AFIP",
-                "% Policia provincial",
-                "% Gendarmeria",
-                "% Prefectura",
-                "Promedio",
-            ],
-            datasets: [{
-                    label: "Muy insuficientes",
-                    backgroundColor: window.chartColors.red,
-                    borderColor: window.chartColors.red,
-                    data: [38.3, 45.7, 35.8, 28.4, 33.3, 36.2],
-                    fill: false,
-                },
-                {
-                    label: "Insuficientes",
-                    backgroundColor: window.chartColors.orange,
-                    borderColor: window.chartColors.orange,
-                    data: [22.2, 22.2, 27.2, 21, 23.5, 22.8],
-                    fill: false,
-                },
-                {
-                    label: "Ni insuficientes ni suficientes",
-                    backgroundColor: window.chartColors.yellow,
-                    borderColor: window.chartColors.yellow,
-                    data: [19.8, 18.5, 19.8, 28.4, 18.5, 21.4],
-                    fill: false,
-                },
-                {
-                    label: "Suficientes",
-                    backgroundColor: window.chartColors.green,
-                    borderColor: window.chartColors.green,
-                    data: [13.6, 11.1, 9.9, 17.3, 11.1, 12.6],
-                    fill: false,
-                },
-                {
-                    label: "Muy suficientes",
-                    backgroundColor: window.chartColors.purple,
-                    borderColor: window.chartColors.purple,
-                    data: [6.2, 2.5, 2.5, 2.5, 1.2, 2.9],
-                    fill: false,
-                },
-                {
-                    label: "Ns/Nc",
-                    backgroundColor: window.chartColors.gray,
-                    borderColor: window.chartColors.gray,
-                    data: [0, 0, 4.9, 2.5, 12.3, 6.2],
-                    fill: false,
-                },
-            ],
-        },
+        };
+    </script> -->
 
 
-        options: {
-            responsive: true,
-            scales: {
-                xAxes: [{
-                    stacked: true,
-                }],
-                yAxes: [{
-                    stacked: true
-                }]
-            },
-        },
-    };
-
-    window.onload = function() {
-        var ctx = document.getElementById("chart-0").getContext("2d");
-        window.myDoughnut = new Chart(ctx, config);
-
-        var ctx2 = document.getElementById("chart-1").getContext("2d");
-        window.myDoughnut2 = new Chart(ctx2, config2);
-
-        var ctx3 = document.getElementById("chart-2").getContext("2d");
-        window.myLine = new Chart(ctx3, config3);
-
-
-    };
-    </script>
 </body>
 
 </html>
