@@ -64,7 +64,7 @@
                                                     complementarias
                                                 </p>
                                                 <a href="http://www.redcame.org.ar/novedades/8029/las-pymes-estamos-en-cuarentena"
-                                                    target="_blank" class="button text-right center btn-block">Ver más<i
+                                                    target="_blank" class="button button-small button-circle button-border button-blue text-right">Ver más<i
                                                         class="icon-circle-arrow-right"></i></a>
 
                                             </div>
@@ -92,7 +92,7 @@
                                                     Emergencia al Trabajo y la Producción
                                                 </p>
                                                 <a href="http://www.redcame.org.ar/novedades/7913/tras-el-pedido-de-came-el-gobierno-cre-el-programa-de-asistencia-de-emergencia-al-trabajo-y-la-produccin"
-                                                    target="_blank" class="button text-right center btn-block">Ver más<i
+                                                    target="_blank" class="button button-small button-circle button-border button-blue text-right">Ver más<i
                                                         class="icon-circle-arrow-right"></i></a>
                                             </div>
                                         </div>
@@ -119,7 +119,7 @@
                                                     pandemia en las pymes
                                                 </p>
                                                 <a href="http://www.redcame.org.ar/novedades/7897/nuevas-propuestas-de-came-para-atenuar-el-impacto-econmico-de-la-pandemia-en-las-pymes"
-                                                    target="_blank" class="button text-right center btn-block">Ver más<i
+                                                    target="_blank" class="button button-small button-circle button-border button-blue text-right">Ver más<i
                                                         class="icon-circle-arrow-right"></i></a>
                                             </div>
                                         </div>
@@ -154,7 +154,7 @@
                                                     grandes aglomerados de gente.
                                                 </p>
                                                 <a href="http://www.redcame.org.ar/novedades/7887/came-le-propone-al-ministro-kulfas-habilitar-la-reapertura-de-actividades-de-diferentes-rubros-de-manera-escalonada"
-                                                    target="_blank" class="button text-right center btn-block">Ver más<i
+                                                    target="_blank" class="button button-small button-circle button-border button-blue text-right">Ver más<i
                                                         class="icon-circle-arrow-right"></i></a>
                                             </div>
                                         </div>
@@ -183,7 +183,7 @@
                                                     al beneficio del salario compensatorio.
                                                 </p>
                                                 <a href="http://www.redcame.org.ar/novedades/7873/solicitamos-que-las-pymes-con-empleados-no-bancarizados-tambin-accedan-al-beneficio-del-salario-compensatorio"
-                                                    target="_blank" class="button text-right center btn-block">Ver más<i
+                                                    target="_blank" class="button button-small button-circle button-border button-blue text-right">Ver más<i
                                                         class="icon-circle-arrow-right"></i></a>
                                             </div>
                                         </div>
@@ -216,7 +216,7 @@
                                                     al Programa de Asistencia de Emergencia al Trabajo y la Producción.
                                                 </p>
                                                 <a href="http://www.redcame.org.ar/novedades/7869/carta-a-kulfas-para-facilitar-el-acceso-al-programa-de-asistencia-de-emergencia-al-trabajo-y-la-produccin-de-las-pymes"
-                                                    target="_blank" class="button text-right center btn-block">Ver más<i
+                                                    target="_blank" class="button button-small button-circle button-border button-blue text-right">Ver más<i
                                                         class="icon-circle-arrow-right"></i></a>
                                             </div>
                                         </div>
@@ -252,7 +252,7 @@
                                                     que se dediquen.
                                                 </p>
                                                 <a href="http://www.redcame.org.ar/novedades/8024/came-pide-que-la-anses-pague-el-100-del-salario-de-los-trabajadores-de-las-pymes"
-                                                    target="_blank" class="button text-right center btn-block">Ver más<i
+                                                    target="_blank" class="button button-small button-circle button-border button-blue text-right">Ver más<i
                                                         class="icon-circle-arrow-right"></i></a>
                                             </div>
                                         </div>
@@ -281,7 +281,7 @@
                                                     Producción
                                                 </p>
                                                 <a href="http://www.redcame.org.ar/novedades/8226/tras-gestion-de-came-se-adecuo-la-evaluacion-para-el-otorgamiento-de-los-beneficios-del-programa-de-asistencia-de-emergencia-al-trabajo-y-la-produccion"
-                                                    target="_blank" class="button text-right center btn-block">Ver más<i
+                                                    target="_blank" class="button button-small button-circle button-border button-blue text-right">Ver más<i
                                                         class="icon-circle-arrow-right"></i></a>
                                             </div>
                                         </div>
@@ -307,7 +307,7 @@
                                                     país
                                                 </p>
                                                 <a href="http://www.redcame.org.ar/novedades/9662/solicitamos-la-extension-del-programa-atp-para-todas-las-mipymes-del-pais"
-                                                    target="_blank" class="button text-right center btn-block">Ver más<i
+                                                    target="_blank" class="button button-small button-circle button-border button-blue text-right">Ver más<i
                                                         class="icon-circle-arrow-right"></i></a>
                                             </div>
                                         </div>
@@ -349,7 +349,7 @@
                                                     diez cuotas con tasa cero.
                                                 </p>
                                                 <a href="http://www.redcame.org.ar/novedades/9683/le-solicitamos-al-gobierno-la-aplicacion-de-mecanismos-para-asegurar-el-cumplimiento-del-pago-del-aguinaldo-para-todas-las-pymes"
-                                                    target="_blank" class="button text-right center btn-block">Ver más<i
+                                                    target="_blank" class="button button-small button-circle button-border button-blue text-right">Ver más<i
                                                         class="icon-circle-arrow-right"></i></a>
                                             </div>
                                         </div>
@@ -385,7 +385,7 @@
                                                     luego de ser superada la pandemia del COVID-19.
                                                 </p>
                                                 <a href="http://www.redcame.org.ar/novedades/9774/ampliamos-nuestra-propuesta-integral-para-la-recuperacion-de-las-pymes"
-                                                    target="_blank" class="button text-right center btn-block">Ver más<i
+                                                    target="_blank" class="button button-small button-circle button-border button-blue text-right">Ver más<i
                                                         class="icon-circle-arrow-right"></i></a>
                                             </div>
                                         </div>
@@ -421,7 +421,7 @@
                                                     la continuidad de muchas empresas.
                                                 </p>
                                                 <a href="http://www.redcame.org.ar/novedades/9771/enviamos-propuestas-a-cafiero-y-a-massa-para-la-reduccion-de-la-judicializacion-post-pandemia"
-                                                    target="_blank" class="button text-right center btn-block">Ver más<i
+                                                    target="_blank" class="button button-small button-circle button-border button-blue text-right">Ver más<i
                                                         class="icon-circle-arrow-right"></i></a>
                                             </div>
                                         </div>
@@ -448,7 +448,7 @@
                                                     de Teletrabajo - Pedimos apoyo a nuestras entidades asociadas
                                                 </p>
                                                 <a href="http://www.redcame.org.ar/novedades/9812/solicitamos-al-presidente-de-la-nacion-y-a-cafiero-la-revision-de-la-ley-de-teletrabajo-pedimos-apoyo-a-nuestras-entidades-asociadas"
-                                                    target="_blank" class="button text-right center btn-block">Ver más<i
+                                                    target="_blank" class="button button-small button-circle button-border button-blue text-right">Ver más<i
                                                         class="icon-circle-arrow-right"></i></a>
                                             </div>
                                         </div>
@@ -487,7 +487,7 @@
                                                     ámbito público como privado.
                                                 </p>
                                                 <a href="http://www.redcame.org.ar/novedades/10141/enviamos-al-presidente-de-la-nacion-reflexiones-y-propuestas-para-apoyar-la-recuperacion-del-turismo-en-el-marco-de-la-pandemia"
-                                                    target="_blank" class="button text-right center btn-block">Ver más<i
+                                                    target="_blank" class="button button-small button-circle button-border button-blue text-right">Ver más<i
                                                         class="icon-circle-arrow-right"></i></a>
                                             </div>
                                         </div>
@@ -514,7 +514,7 @@
                                                         todo el territorio</bold>
                                                 </p>
                                                 <a href="http://www.redcame.org.ar/novedades/10177/came-pide-protocolos-unificados-para-el-turismo-en-todo-el-territorio"
-                                                    target="_blank" class="button text-right center btn-block">Ver más<i
+                                                    target="_blank" class="button button-small button-circle button-border button-blue text-right">Ver más<i
                                                         class="icon-circle-arrow-right"></i></a>
                                             </div>
                                         </div>
@@ -545,7 +545,7 @@
                                                     aprobada por las comisiones de Financias y Comercio.
                                                 </p>
                                                 <a href="http://www.redcame.org.ar/novedades/10207/le-enviamos-una-carta-a-massa-para-solicitarle-su-apoyo-en-el-proyecto-de-ley-de-acreditacion-inmediata"
-                                                    target="_blank" class="button text-right center btn-block">Ver más<i
+                                                    target="_blank" class="button button-small button-circle button-border button-blue text-right">Ver más<i
                                                         class="icon-circle-arrow-right"></i></a>
                                             </div>
                                         </div>
@@ -573,7 +573,7 @@
                                                     determinar qué empresas encuadran en las categorías pyme.
                                                 </p>
                                                 <a href="http://www.redcame.org.ar/novedades/10423/solicitamos-a-afip-y-sepyme-la-actualizacion-de-los-montos-del-monotributo-y-de-la-categorizacion-pyme-respectivamente"
-                                                    target="_blank" class="button text-right center btn-block">Ver más<i
+                                                    target="_blank" class="button button-small button-circle button-border button-blue text-right">Ver más<i
                                                         class="icon-circle-arrow-right"></i></a>
                                             </div>
                                         </div>
@@ -612,7 +612,7 @@
                                                     sostenida.
                                                 </p>
                                                 <a href="https://www.redcame.org.ar/novedades/10467/came-junto-a-la-cac-solicitaron-a-cafiero-y-kulfas-la-restitucion-del-programa-atp"
-                                                    target="_blank" class="button text-right center btn-block">Ver más<i
+                                                    target="_blank" class="button button-small button-circle button-border button-blue text-right">Ver más<i
                                                         class="icon-circle-arrow-right"></i></a>
                                             </div>
                                         </div>

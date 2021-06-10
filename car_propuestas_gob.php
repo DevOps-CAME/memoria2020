@@ -1,5 +1,5 @@
-<div id="oc-portfolio" class="owl-carousel portfolio-carousel carousel-widget" data-pagi="true" data-items-xs="1"
-    data-items="2" data-items-sm="2" data-items-md="2" data-items-lg="2">
+<div id="car_propuestas_gob" class="owl-carousel portfolio-carousel carousel-widget" data-pagi="true" data-items-xs="1"
+    data-items-sm="2" data-items-md="4" data-items-lg="4">
 
     <div class="portfolio-item">
         <div class="portfolio-image">
@@ -8,7 +8,7 @@
             </a>
         </div>
         <div class="portfolio-desc">
-            <h3>Marzo</h3>
+            <p class="car_titulo">Marzo</p>
 
         </div>
     </div>
@@ -21,9 +21,9 @@
                 <img src="imgs/prop_gob/prop_02.jpg" alt="Abril" /></a>
         </div>
         <div class="portfolio-desc">
-            <h3>
+            <p class="car_titulo">
                 Abril
-            </h3>
+            </p>
 
 
 
@@ -37,7 +37,7 @@
             </a>
         </div>
         <div class="portfolio-desc">
-            <h3>Abril</h3>
+            <p class="car_titulo">Abril</p>
 
         </div>
     </div>
@@ -50,7 +50,7 @@
             </a>
         </div>
         <div class="portfolio-desc">
-            <h3>Abril</h3>
+            <p class="car_titulo">Abril</p>
 
 
         </div>
@@ -64,7 +64,7 @@
             </a>
         </div>
         <div class="portfolio-desc">
-            <h3>Abril</h3>
+            <p class="car_titulo">Abril</p>
 
 
         </div>
@@ -78,7 +78,7 @@
             </a>
         </div>
         <div class="portfolio-desc">
-            <h3>Abril</h3>
+            <p class="car_titulo">Abril</p>
 
 
         </div>
@@ -92,7 +92,7 @@
             </a>
         </div>
         <div class="portfolio-desc">
-            <h3>Abril</h3>
+            <p class="car_titulo">Abril</p>
 
 
         </div>
@@ -106,7 +106,7 @@
             </a>
         </div>
         <div class="portfolio-desc">
-            <h3>Mayo</h3>
+            <p class="car_titulo">Mayo</p>
 
 
         </div>
@@ -120,7 +120,7 @@
             </a>
         </div>
         <div class="portfolio-desc">
-            <h3>Junio</h3>
+            <p class="car_titulo">Junio</p>
 
         </div>
     </div>
@@ -133,7 +133,7 @@
             </a>
         </div>
         <div class="portfolio-desc">
-            <h3>Junio</h3>
+            <p class="car_titulo">Junio</p>
 
 
         </div>
@@ -147,7 +147,7 @@
             </a>
         </div>
         <div class="portfolio-desc">
-            <h3>Junio</h3>
+            <p class="car_titulo">Junio</p>
 
 
         </div>
@@ -161,7 +161,7 @@
             </a>
         </div>
         <div class="portfolio-desc">
-            <h3>Julio</h3>
+            <p class="car_titulo">Julio</p>
 
 
         </div>
@@ -175,7 +175,7 @@
             </a>
         </div>
         <div class="portfolio-desc">
-            <h3>Julio</h3>
+            <p class="car_titulo">Julio</p>
 
 
         </div>
@@ -189,7 +189,7 @@
             </a>
         </div>
         <div class="portfolio-desc">
-            <h3>Octubre</h3>
+            <p class="car_titulo">Octubre</p>
 
 
         </div>
@@ -203,7 +203,7 @@
             </a>
         </div>
         <div class="portfolio-desc">
-            <h3>Octubre</h3>
+            <p class="car_titulo">Octubre</p>
 
 
         </div>
@@ -217,7 +217,7 @@
             </a>
         </div>
         <div class="portfolio-desc">
-            <h3>Noviembre</h3>
+            <p class="car_titulo">Noviembre</p>
 
 
         </div>
@@ -231,7 +231,7 @@
             </a>
         </div>
         <div class="portfolio-desc">
-            <h3>Diciembre</h3>
+            <p class="car_titulo">Diciembre</p>
 
 
         </div>
@@ -245,7 +245,7 @@
             </a>
         </div>
         <div class="portfolio-desc">
-            <h3>Diciembre</h3>
+            <p class="car_titulo">Diciembre</p>
 
         </div>
     </div>

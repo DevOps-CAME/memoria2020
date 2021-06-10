@@ -71,7 +71,7 @@
                                                     data-refresh-interval="1" data-speed="1600">+ 7</span> </div>
 
                                             <p>
-                                                <bold class="display-5 color font-weight-medium">Rondas de Negocios se
+                                                <bold>Rondas de Negocios se
                                                     desarrollaron en formato virtual</bold>
                                             </p>
                                         </div>
@@ -86,7 +86,7 @@
                                                     data-refresh-interval="40" data-speed="1600">+ 386</span> </div>
 
                                             <p>
-                                                <bold class="display-5 color font-weight-medium">empresas participaron
+                                                <bold>empresas participaron
                                                     de los encuentros </bold>
                                             </p>
                                         </div>
@@ -101,7 +101,7 @@
                                                     data-refresh-interval="400" data-speed="1600">+ 2380</span> </div>
 
                                             <p>
-                                                <bold class="display-5 color font-weight-medium">entrevistas fueron
+                                                <bold>entrevistas fueron
                                                     concretadas</bold>
                                             </p>
                                         </div>
@@ -116,7 +116,7 @@
                                                     data-refresh-interval="1" data-speed="1600">+ 4</span> </div>
 
                                             <p>
-                                                <bold class="display-5 color font-weight-medium">países participantes:
+                                                <bold>países participantes:
                                                 </bold> Paraguay, Chile, EEUU y Argentina, que contó con representación
                                                 de las provincias de Buenos Aires, CABA, Mendoza, Santa Fe, Córdoba,
                                                 Chaco, Corrientes, Entre Ríos, Misiones, Río Negro, Santa Cruz y Tierra

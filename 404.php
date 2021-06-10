@@ -68,7 +68,8 @@ include "header.html";
                                 <h2 class="display-4 font-weight-semibold ls--2 mt-3">
                                     No encontramos lo que buscabas...<br>
                                     <span>
-                                        En su lugar te ofrecemos <em><a href="index.php">ir a la pagina de
+                                        En su lugar te ofrecemos <em><a target="_blank" href="index.php">ir a la pagina
+                                                de
                                                 inicio</a></em>
                                     </span>
 

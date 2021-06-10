@@ -136,7 +136,7 @@
                                     de la pandemia
                                 </h2>
                             </div>
-                            <div class="col-md-6">
+                            <div class="col-md-12">
 
 
                                 <p>
@@ -153,7 +153,7 @@
                                     para sus asociadas y las pymes en ellas contenidas.
                                 </p>
                             </div>
-                            <div class="col-md-6">
+                            <div class="col-md-12">
                                 <?php include "car_propuestas_gob.php"; ?>
 
                             </div>
@@ -173,8 +173,8 @@
                                     pymes
                                 </h2>
                             </div>
-                            <div class="col-md-5">
-                                <p class="lead mx-auto bottommargin m-0 p-0">
+                            <div class="col-md-12 mb-3">
+                                <p class="lead mx-auto m-0 p-0">
                                     En un año que ha ejercido presión en muchas aristas, seguimos
                                     desde esta Confederación bregando por generar acuerdos con las
                                     autoridades tributarias, que brinden herramientas para mejorar
@@ -182,7 +182,8 @@
                                     rentabilidad de nuestras pymes, así como mitigar el impacto de
                                     la pandemia en esta arista.
                                 </p>
-                                <div class="promo promo-light p-2 p-md-5 mb-2">
+                                <div class="promo promo-light mt-3 mb-3"
+                                    style="border-radius: 10px;border: 1px solid #0293d6;background-color: #f2f9ff;padding: 1rem 2rem 1rem 2rem;">
                                     <div class="row align-items-center">
                                         <p class="m-0">
                                             Destacamos la incansable labor de la Comisión de Asuntos
@@ -193,17 +194,19 @@
                                         </p>
                                     </div>
                                 </div>
+
                             </div>
-                            <div class="col-md-7">
-                                <?php include "car_gestiones_trib.php"; ?>
-                            </div>
-
-
-
                         </div>
+                        <div class="col-md-12">
+                            <?php include "car_gestiones_trib.php"; ?>
+                        </div>
+
+
+
                     </div>
                 </div>
             </div>
+    </div>
     </div>
     <div class="clear m-5"></div>
     <hr>
@@ -538,7 +541,7 @@
                 la pandemia
             </h2>
             <div class="row">
-                <div class="col-md-9">
+                <div class="col-md-12">
                     <p>
                         Ante los desafíos históricos del país, tales como la
                         problemática de la federalización de la logística, la
@@ -548,14 +551,66 @@
                         fortalecer la matriz productiva por medio del diálogo, el
                         consenso y la acción conjunta.
                     </p>
-                    <div class="center">
-                        <a href="gestiones_pandemia.php" class="button text-right center">Más
-                            información<i class="icon-circle-arrow-right"></i></a>
+                </div>
+                <div class="col-md-12">
+
+                    <?php include "car_gestiones_pandemia.php"; ?>
+
+
+                </div>
+                <div class="col-md-12">
+                    <div class="testimonial ml-4 mr-4 mb-5" style="border: 1px solid #0293d6;">
+
+                        <div class="testi-content">
+                            <div class="col-lg-3 col-md-6 col-sm-6" style="float: right;">
+                                <img src="imgs/GerardoDiazBeltran.jpg" alt="Gerardo Díaz Beltrán"
+                                    style="border-radius: 5px;">
+                            </div>
+                            <p>Vemos con mucho entusiasmo esta alianza con los gobernadores de las
+                                10 provincias que conforman el Norte Grande, nos alienta a redoblar
+                                el trabajo empresario e impulsar la integración regional. Debemos
+                                colaborar y participar con aportes, ideas, trabajo y responsabilidad
+                                sabiendo las claras asimetrías que tiene esta zona respecto al resto
+                                del país. Estamos en un momento de inflexión para el mundo entero, y
+                                esto lo vemos como una gran oportunidad para, en conjunto y con la
+                                sinergia del sector público-privado, traccionar y buscar soluciones
+                                a los problemas estructurales que tenemos en Argentina hace muchos
+                                años</p>
+                            <div class="testi-meta">
+                                Gerardo Díaz Beltrán
+                                <span>Presidente de la Confederación Argentina de la Mediana
+                                    Empresa
+                                    (CAME)</span>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-md-12">
+                    <div class="testimonial ml-4 mr-4 mb-5" style="border: 1px solid #0293d6;">
+
+                        <div class="testi-content">
+                            <div class="col-lg-3 col-md-6 col-sm-6" style="float: right;">
+                                <img src="imgs/GerardoDiazBeltran.jpg" alt="Gerardo Díaz Beltrán"
+                                    style="border-radius: 5px;">
+                            </div>
+                            <p>Esta pandemia dio visibilidad a los problemas
+                                estructurales de las pymes y la sociedad. Es el
+                                momento de trabajar regionalmente para potenciar las
+                                oportunidades. Debemos formar una mesa de diálogo
+                                permanente. De nosotros depende el futuro en los
+                                países de la región</p>
+                            <div class="testi-meta">
+                                Gerardo Díaz Beltrán
+                                <span>Presidente de la Confederación Argentina de la Mediana
+                                    Empresa
+                                    (CAME)</span>
+                            </div>
+                        </div>
                     </div>
                 </div>
-                <div class="col-md-3"><img class="card-img" src="imgs/encuentros_estrategicos.jpg"
-                        alt="La voz de las pymes en la negociación de la paritaria mercantil" />
-                </div>
+
+
             </div>
 
 

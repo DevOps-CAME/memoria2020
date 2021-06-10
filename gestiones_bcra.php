@@ -61,7 +61,7 @@
                                                 esas deudas.
                                             </p>
                                             <a href="http://www.redcame.org.ar/novedades/7985/came-pide-reperfilar-deudas-de-las-pymes-con-los-bancos"
-                                                target="_blank" class="button text-right center btn-block">Ver más<i
+                                                target="_blank" class="button button-small button-circle button-border button-blue text-right">Ver más<i
                                                     class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -96,7 +96,7 @@
                                                 de pymes en todo el territorio.
                                             </p>
                                             <a href="http://www.redcame.org.ar/novedades/7955/came-le-envi-una-carta-al-bcra-con-una-propuesta-para-priorizar-el-abastecimiento-de-artculos-de-primera-necesidad"
-                                                target="_blank" class="button text-right center btn-block">Ver más<i
+                                                target="_blank" class="button button-small button-circle button-border button-blue text-right">Ver más<i
                                                     class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -133,7 +133,7 @@
                                                 pandemia del coronavirus.
                                             </p>
                                             <a href="http://www.redcame.org.ar/novedades/7952/reflejando-el-pedido-de-came-y-sus-entidades-el-bcra-anunci-crditos-y-flexibilizacin-para-deudores"
-                                                target="_blank" class="button text-right center btn-block">Ver más<i
+                                                target="_blank" class="button button-small button-circle button-border button-blue text-right">Ver más<i
                                                     class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -171,7 +171,7 @@
                                                 pequeñas y medianas empresas.
                                             </p>
                                             <a href="http://www.redcame.org.ar/novedades/7945/solicitamos-al-bcra-que-disponga-una-tasa-0-para-saldos-deudores"
-                                                target="_blank" class="button text-right center btn-block">Ver más<i
+                                                target="_blank" class="button button-small button-circle button-border button-blue text-right">Ver más<i
                                                     class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -205,7 +205,7 @@
                                                 sobre todo.
                                             </p>
                                             <a href="http://www.redcame.org.ar/novedades/7935/came-envi-una-carta-al-bcra-solicitando-regular-la-apertura-del-clearing-bancario"
-                                                target="_blank" class="button text-right center btn-block">Ver más<i
+                                                target="_blank" class="button button-small button-circle button-border button-blue text-right">Ver más<i
                                                     class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -248,7 +248,7 @@
                                                 Pagos - Cheques y Otros Instrumentos Compensables".
                                             </p>
                                             <a href="http://www.redcame.org.ar/novedades/7914/nueva-gestin-de-came-el-bcra-extendi-los-plazos-de-presentacin-de-cheques-y-elimin-comisiones"
-                                                target="_blank" class="button text-right center btn-block">Ver más<i
+                                                target="_blank" class="button button-small button-circle button-border button-blue text-right">Ver más<i
                                                     class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -328,7 +328,7 @@
                                                 <ol>
 
                                                     <a href="http://www.redcame.org.ar/novedades/8026/la-falta-de-colaboracin-de-los-bancos-est-matando-a-las-pymes"
-                                                        target="_blank" class="button text-right center btn-block">Ver
+                                                        target="_blank" class="button button-small button-circle button-border button-blue text-right">Ver
                                                         más<i class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -371,7 +371,7 @@
                                                 durante el aislamiento obligatorio.
                                             </p>
                                             <a href="http://www.redcame.org.ar/novedades/7892/cheques-rechazados-y-apertura-regular-de-bancos-solicitamos-al-bcra-medidas-urgentes-para-las-pymes"
-                                                target="_blank" class="button text-right center btn-block">Ver más<i
+                                                target="_blank" class="button button-small button-circle button-border button-blue text-right">Ver más<i
                                                     class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -406,7 +406,7 @@
                                                 social, preventivo y obligatorio.
                                             </p>
                                             <a href="http://www.redcame.org.ar/novedades/7880/solicitamos-a-agencias-de-antecedentes-comerciales-y-crediticios-que-no-publiquen-cheques-rechazados-durante-el-aislamiento"
-                                                target="_blank" class="button text-right center btn-block">Ver más<i
+                                                target="_blank" class="button button-small button-circle button-border button-blue text-right">Ver más<i
                                                     class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -440,7 +440,7 @@
                                                 salarios del mes de abril.
                                             </p>
                                             <a href="http:\www.redcame.org.ar\novedades\7886\solicitamos-al-bcra-el-acompaamiento-de-los-bancos-para-el-pago-de-salarios-de-abril"
-                                                target="_blank" class="button text-right center btn-block">Ver más<i
+                                                target="_blank" class="button button-small button-circle button-border button-blue text-right">Ver más<i
                                                     class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -481,7 +481,7 @@
                                                 a las pymes.
                                             </p>
                                             <a href="http://www.redcame.org.ar/novedades/7860/solicitamos-al-bcra-que-no-publique-los-cheques-rechazados-durante-el-aislamiento"
-                                                target="_blank" class="button text-right center btn-block">Ver más<i
+                                                target="_blank" class="button button-small button-circle button-border button-blue text-right">Ver más<i
                                                     class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -520,7 +520,7 @@
                                                 próximos seis meses.
                                             </p>
                                             <a href="http://www.redcame.org.ar/novedades/7859/le-solicitamos-a-pesce-el-tratamiento-urgente-de-los-cheques-en-curso-y-la-abstencin-de-penalidades"
-                                                target="_blank" class="button text-right center btn-block">Ver más<i
+                                                target="_blank" class="button button-small button-circle button-border button-blue text-right">Ver más<i
                                                     class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>

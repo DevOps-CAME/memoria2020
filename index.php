@@ -108,68 +108,64 @@ include "header.html";
                                 </div>
                                 <div class="row">
                                     <div class="col-6 col-sm-6 mb-4">
-                                        <a href="gestiones_gobierno.php">
-                                            <div class="counter color font-weight-semibold">
-                                                +<span data-from="1" data-to="150" data-refresh-interval="2"
-                                                    data-speed="600"></span>
-                                            </div>
-                                            <h4 class="mt-0 mb-0 font-weight-medium">Gestiones realizadas para morigerar
-                                                impacto
-                                                de la pandemia</h4>
-                                            <button class="button text-right center btn-block">Más información<i
-                                                    class="icon-circle-arrow-right"></i></button>
-                                        </a>
+
+                                        <div class="counter color font-weight-semibold">
+                                            +<span data-from="1" data-to="150" data-refresh-interval="2"
+                                                data-speed="600"></span>
+                                        </div>
+                                        <h4 class="mt-0 mb-0 font-weight-medium">Gestiones realizadas para morigerar
+                                            impacto
+                                            de la pandemia</h4>
+
+
                                     </div>
 
 
                                     <div class="col-6 col-sm-6 mb-4">
-                                        <a href="capacitacion.php">
-                                            <div class="counter color font-weight-semibold">
-                                                <span data-from="1" data-to="80" data-refresh-interval="11"
-                                                    data-speed="900"></span>%
-                                            </div>
-                                            <h4 class="mt-0 mb-0 font-weight-medium">Personas capacitadas a través de la
-                                                oferta
-                                                de cursos regular de
-                                                CAME Educativa, en relación con 2019, impulsando la modernización de las
-                                                pymes, clave en el nuevo
-                                                contexto mundial.</h4>
-                                            <button class="button text-right center btn-block">Más información<i
-                                                    class="icon-circle-arrow-right"></i></button>
-                                        </a>
+
+                                        <div class="counter color font-weight-semibold">
+                                            <span data-from="1" data-to="80" data-refresh-interval="11"
+                                                data-speed="900"></span>%
+                                        </div>
+                                        <h4 class="mt-0 mb-0 font-weight-medium">Personas capacitadas a través de la
+                                            oferta
+                                            de cursos regular de
+                                            CAME Educativa, en relación con 2019, impulsando la modernización de las
+                                            pymes, clave en el nuevo
+                                            contexto mundial.</h4>
+
+
                                     </div>
 
 
                                     <div class="col-6 col-sm-6 mb-4">
-                                        <a href="capacitacion.php">
-                                            <div class="counter color font-weight-semibold">
-                                                <span data-from="1" data-to="53" data-refresh-interval="3"
-                                                    data-speed="1000"></span>
-                                            </div>
-                                            <h4 class="mt-0 mb-0 font-weight-medium">Nuevos seminarios web (webinars)
-                                                para
-                                                satisfacer la demanda de
-                                                formación y comunicación de nuestras entidades adheridas.</h4>
-                                            <button class="button text-right center btn-block">Más información<i
-                                                    class="icon-circle-arrow-right"></i></button>
-                                        </a>
+
+                                        <div class="counter color font-weight-semibold">
+                                            <span data-from="1" data-to="53" data-refresh-interval="3"
+                                                data-speed="1000"></span>
+                                        </div>
+                                        <h4 class="mt-0 mb-0 font-weight-medium">Nuevos seminarios web (webinars)
+                                            para
+                                            satisfacer la demanda de
+                                            formación y comunicación de nuestras entidades adheridas.</h4>
+
+
                                     </div>
 
                                     <div class="col-6 col-sm-6 mb-4">
-                                        <a href="gestiones_gobierno.php#contra_ilegalidad">
-                                            <div class="counter color font-weight-semibold">
-                                                <span data-from="1" data-to="11" data-refresh-interval="2"
-                                                    data-speed="1500"></span>
-                                            </div>
-                                            <h4 class="mt-0 mb-0 font-weight-medium">Reuniones de Consejo Directivo,
-                                                para fortalecer la gremial empresaria y generar sinergias que resulten
-                                                en propuestas concretas para
-                                                la defensa del sector.
-                                            </h4>
-                                            <button class="button text-right center btn-block">Más información<i
-                                                    class="icon-circle-arrow-right"></i></button>
+
+                                        <div class="counter color font-weight-semibold">
+                                            <span data-from="1" data-to="11" data-refresh-interval="2"
+                                                data-speed="1500"></span>
+                                        </div>
+                                        <h4 class="mt-0 mb-0 font-weight-medium">Reuniones de Consejo Directivo,
+                                            para fortalecer la gremial empresaria y generar sinergias que resulten
+                                            en propuestas concretas para
+                                            la defensa del sector.
+                                        </h4>
+
                                     </div>
-                                    </a>
+
                                 </div>
 
                             </div>
@@ -406,7 +402,7 @@ include "header.html";
 
                 <!-- Cuadros flip
 		============================================= -->
-                <section>
+                <!--           <section>
                     <div class="content-wrap">
                         <div class="container clearfix">
                             <div class="heading-block border-bottom-0 center">
@@ -528,11 +524,12 @@ include "header.html";
                         </div>
                     </div>
                 </section>
-
+ -->
                 <!-- / Cuadros flip
 		============================================= -->
 
 
+                <?php include "anterior_siguiente.php"; ?>
 
 
                 <!-- Footer

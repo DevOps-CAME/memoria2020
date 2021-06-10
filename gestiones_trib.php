@@ -63,7 +63,7 @@
                                                 enfrentar la difícil coyuntura: solución de financiamiento,
                                                 capacitación, y reactivación del mercado.</p>
                                             <a href="http://www.redcame.org.ar/novedades/8037/came-en-el-lanzamiento-de-la-moratoria-pyme"
-                                                target="_blank" class="button text-right center btn-block">Ver más<i
+                                                target="_blank" class="button button-small button-circle button-border button-blue text-right">Ver más<i
                                                     class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -99,7 +99,7 @@
                                                 de trabajo.
                                             </p>
                                             <a href="http://www.redcame.org.ar/novedades/8222/le-solicitamos-a-la-afip-la-liberacion-de-reintegros-de-exportacion-pendientes-de-pago"
-                                                target="_blank" class="button text-right center btn-block">Ver más<i
+                                                target="_blank" class="button button-small button-circle button-border button-blue text-right">Ver más<i
                                                     class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -132,7 +132,7 @@
                                                 obligatorio decretado para afrontar la pandemia del coronavirus.
                                             </p>
                                             <a href="http://www.redcame.org.ar/novedades/9304/tras-la-gestion-de-came-afip-implemento-un-nuevo-regimen-de-facilidades-de-pago"
-                                                target="_blank" class="button text-right center btn-block">Ver más<i
+                                                target="_blank" class="button button-small button-circle button-border button-blue text-right">Ver más<i
                                                     class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -169,7 +169,7 @@
                                                     dijo el presidente de CAME, Gerardo Díaz Beltrán.</em>
                                             </p>
                                             <a href="http://www.redcame.org.ar/novedades/9699/came-pide-rapido-tratamiento-de-nueva-moratoria"
-                                                target="_blank" class="button text-right center btn-block">Ver más<i
+                                                target="_blank" class="button button-small button-circle button-border button-blue text-right">Ver más<i
                                                     class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -202,7 +202,7 @@
                                                 al beneficio del salario compensatorio.
                                             </p> -->
                                             <a href="http://www.redcame.org.ar/novedades/9662/solicitamos-la-extension-del-programa-atp-para-todas-las-mipymes-del-pais"
-                                                target="_blank" class="button text-right center btn-block">Ver más<i
+                                                target="_blank" class="button button-small button-circle button-border button-blue text-right">Ver más<i
                                                     class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -278,7 +278,7 @@
                                                 comercial que tiene previsto su inicio el próximo 1° de abril de 2021.
                                             </p>
                                             <a href="http://www.redcame.org.ar/novedades/10384/afip-solicitamos-la-prorroga-del-recambio-de-los-controladores-fiscales-para-el-sector-comercial"
-                                                target="_blank" class="button text-right center btn-block">Ver más<i
+                                                target="_blank" class="button button-small button-circle button-border button-blue text-right">Ver más<i
                                                     class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -308,7 +308,7 @@
                                                 anual para determinar las categorías de monotributo.
                                             </p>
                                             <a href="http://www.redcame.org.ar/novedades/10423/solicitamos-a-afip-y-sepyme-la-actualizacion-de-los-montos-del-monotributo-y-de-la-categorizacion-pyme-respectivamente"
-                                                target="_blank" class="button text-right center btn-block">Ver más<i
+                                                target="_blank" class="button button-small button-circle button-border button-blue text-right">Ver más<i
                                                     class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>

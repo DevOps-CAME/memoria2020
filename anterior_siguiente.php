@@ -1,5 +1,6 @@
 <?php
-
+error_reporting(0);
+ini_set('display_errors', 0);
 $array_urls = array(
     'index.php' => array( 'url' => 'index.php','nombre'=>'Informe de gestión 2020'),
     'gestiones_gobierno.php' => array('url' => 'gestiones_gobierno.php','nombre'=>'Gestiones y acciones de Gobierno'),
@@ -8,11 +9,6 @@ $array_urls = array(
     'teipesa.php' => array('url' => 'teipesa.php','nombre'=>'Modernización para pymes'),
     'sello_sustentable.php' => array('url' => 'sello_sustentable.php', 'nombre'=>'Sello CAME Sustentable'),
     'weps.php' => array('url' => 'weps.php','nombre'=>'Adhesión a los Principios para el Empoderamiento de la Mujer (WEP’s)'),
-    'propuestas_gob.php' => array('url' => 'propuestas_gob.php','nombre'=>'CAME a la vanguardia: Propuestas para las pymes en el escenario de la pandemia'),
-    'gestiones_trib.php' => array( 'url' => 'gestiones_trib.php','nombre'=>'Gestiones de CAME ante autoridades tributarias, en pos de generar herramientas salvaguarden la delicada situación de las pymes'),
-    'gestiones_bcra.php'  => array( 'url' => 'gestiones_bcra.php','nombre'=>'CAME contra la especulación financiera en el marco de la pandemia'),
-    'gestiones_pandemia.php'  => array( 'url' => 'gestiones_pandemia.php','nombre'=>'Encuentros estratégicos para fomentar la sinergia en el marco de la pandemia'),
-    'gestiones_gobierno.php' => array('url' => 'gestiones_gobierno.php','nombre'=>'Gestiones y acciones de Gobierno'),
     'comercio_servicios.php'  => array( 'url' => 'comercio_servicios.php','nombre'=>'<img src="imgs/sec/comercio_servicios.png"> Comercio y Servicios'),
     'turismo.php'  => array( 'url' => 'turismo.php','nombre'=>'<img src="imgs/sec/turismo.png"> Turismo'),
     'industria.php'  => array( 'url' => 'industria.php','nombre'=>'<img src="imgs/sec/industria.png"> Industria'),
@@ -29,10 +25,14 @@ $array_urls = array(
     'index.php' => array( 'url' => 'index.php','nombre'=>'Informe de gestión 2020')
     );
 
-    $array_urlSimple = array('index.php','gestiones_gobierno.php','calidad_transparencia.php','informes.php','teipesa.php','sello_sustentable.php',
-        'weps.php','propuestas_gob.php','gestiones_trib.php',
-        'gestiones_bcra.php',
-        'gestiones_pandemia.php','gestiones_gobierno.php',
+    $array_urlSimple = array(
+        'index.php',
+        'gestiones_gobierno.php',
+        'calidad_transparencia.php',
+        'informes.php',
+        'teipesa.php',
+        'sello_sustentable.php',
+        'weps.php',
         'comercio_servicios.php',
         'turismo.php',
         'industria.php',
@@ -61,8 +61,13 @@ $siguiente =  $array_urlSimple[$clave+1];
 
 
 <div class="anterior-siguiente mt-4 mb-4">
+
     <div class="container clearfix col-md-12 d-flex align-content-center flex-wrap align-items-center">
+
+
         <div class="col-md-6 col-sm-6">
+            <?php if (isset($anterior)) {
+            ?>
             <a title="Anterior" href="<?php echo $array_urls[$anterior]['url']; ?>">
                 <div class="col-1 float-left p-0 mr-3 d-flex align-items-center"><i
                         class="flecha icon-line-arrow-left"></i></div>
@@ -71,8 +76,9 @@ $siguiente =  $array_urlSimple[$clave+1];
                     <span class="nombre"><?php echo $array_urls[$anterior]['nombre']; ?></span>
                 </div>
             </a>
-
+            <?php } ?>
         </div>
+
         <div class="col-md-6 col-sm-6">
 
             <a title="Siguiente" href="<?php echo $array_urls[$siguiente]['url']; ?>">

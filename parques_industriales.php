@@ -68,7 +68,7 @@
                                                     data-refresh-interval="10" data-speed="1600">16</span> </div>
 
                                             <p>
-                                                <bold class="display-5 color font-weight-medium">reuniones, virtuales y
+                                                <bold>reuniones, virtuales y
                                                     presenciales, del sector</bold>
                                             </p>
                                         </div>
@@ -83,7 +83,7 @@
                                                     data-refresh-interval="10" data-speed="1600">7</span> </div>
 
                                             <p>
-                                                <bold class="display-5 color font-weight-medium">encuentros regionales:
+                                                <bold>encuentros regionales:
                                                 </bold> un encuentro presencial en la Región NEA y 6 virtuales, para las
                                                 regiones NEA, NOA, Centro, Patagonia Sur, Norte y Cuyo
                                             </p>
@@ -99,7 +99,7 @@
                                                     data-refresh-interval="10" data-speed="1600">58</span> </div>
 
                                             <p>
-                                                <bold class="display-5 color font-weight-medium">publicaciones de
+                                                <bold>publicaciones de
                                                     interés,</bold> entre las que se cuentan notas en la Revista
                                                 Comerciar, circulares institucionales y publicaciones en redes sociales
                                             </p>

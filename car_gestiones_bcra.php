@@ -1,4 +1,4 @@
-<div id="oc-portfolio" class="owl-carousel portfolio-carousel carousel-widget" data-pagi="true" data-items-xs="1"
+<div id="car_gestiones_bcra" class="owl-carousel portfolio-carousel carousel-widget" data-pagi="true" data-items-xs="1"
     data-items-sm="2" data-items-md="4" data-items-lg="4">
 
 
@@ -11,7 +11,7 @@
             </a>
         </div>
         <div class="portfolio-desc">
-            <h3>CAME PIDE REPERFILAR DEUDAS DE LAS PYMES CON LOS BANCOS</h3>
+            <p class="car_titulo">CAME PIDE REPERFILAR DEUDAS DE LAS PYMES CON LOS BANCOS</p>
 
 
         </div>
@@ -27,10 +27,10 @@
         </div>
 
         <div class="portfolio-desc">
-            <h3>
+            <p class="car_titulo">
                 CAME LE ENVIÓ UNA CARTA AL BCRA CON UNA PROPUESTA PARA PRIORIZAR EL
                 ABASTECIMIENTO DE ARTÍCULOS DE PRIMERA NECESIDAD
-            </h3>
+            </p>
 
 
         </div>
@@ -46,10 +46,10 @@
         </div>
 
         <div class="portfolio-desc">
-            <h3>
+            <p class="car_titulo">
                 REFLEJANDO EL PEDIDO DE CAME Y SUS ENTIDADES, EL BCRA ANUNCIÓ CRÉDITOS Y
                 FLEXIBILIZACIÓN PARA DEUDORES
-            </h3>
+            </p>
 
         </div>
     </div>
@@ -63,7 +63,7 @@
         </div>
 
         <div class="portfolio-desc">
-            <h3>SOLICITAMOS AL BCRA QUE DISPONGA UNA TASA 0% PARA SALDOS DEUDORES</h3>
+            <p class="car_titulo">SOLICITAMOS AL BCRA QUE DISPONGA UNA TASA 0% PARA SALDOS DEUDORES</p>
 
 
         </div>
@@ -79,10 +79,10 @@
         </div>
 
         <div class="portfolio-desc">
-            <h3>
+            <p class="car_titulo">
                 CAME ENVIÓ UNA CARTA AL BCRA SOLICITANDO REGULAR LA APERTURA DEL
                 <em>CLEARING</em> BANCARIO
-            </h3>
+            </p>
 
 
         </div>
@@ -96,10 +96,10 @@
         </div>
 
         <div class="portfolio-desc">
-            <h3>
+            <p class="car_titulo">
                 NUEVA GESTIÓN DE CAME: EL BCRA EXTENDIÓ LOS PLAZOS DE PRESENTACIÓN DE
                 CHEQUES Y ELIMINÓ COMISIONES
-            </h3>
+            </p>
 
 
         </div>
@@ -115,10 +115,10 @@
         </div>
 
         <div class="portfolio-desc">
-            <h3>
+            <p class="car_titulo">
                 CHEQUES RECHAZADOS Y APERTURA REGULAR DE BANCOS: SOLICITAMOS AL BCRA
                 MEDIDAS URGENTES PARA LAS PYMES
-            </h3>
+            </p>
 
 
         </div>
@@ -134,9 +134,9 @@
 
         <div class="portfolio-desc">
             <!--      
-            <h3>
+            <p class="car_titulo">
                     <a href="http://www.redcame.org.ar/novedades/7892/cheques-rechazados-y-apertura-regular-de-bancos-solicitamos-al-bcra-medidas-urgentes-para-las-pymes" target="_blank">CHEQUES RECHAZADOS Y APERTURA REGULAR DE BANCOS: SOLICITAMOS AL BCRA MEDIDAS URGENTES PARA LAS PYMES</a>
-                </h3>
+                </p>
             </div> -->
 
 
@@ -153,10 +153,10 @@
         </div>
 
         <div class="portfolio-desc">
-            <h3>
+            <p class="car_titulo">
                 SOLICITAMOS AL BCRA EL ACOMPAÑAMIENTO DE LOS BANCOS PARA EL PAGO DE
                 SALARIOS DE ABRIL
-            </h3>
+            </p>
 
 
         </div>
@@ -172,10 +172,10 @@
         </div>
 
         <div class="portfolio-desc">
-            <h3>
+            <p class="car_titulo">
                 SOLICITAMOS AL BCRA QUE NO PUBLIQUE LOS CHEQUES RECHAZADOS DURANTE EL
                 AISLAMIENTO
-            </h3>
+            </p>
 
         </div>
     </div>
@@ -190,10 +190,10 @@
         </div>
 
         <div class="portfolio-desc">
-            <h3>
+            <p class="car_titulo">
                 LE SOLICITAMOS A PESCE EL TRATAMIENTO URGENTE DE LOS CHEQUES EN CURSO Y
                 LA ABSTENCIÓN DE PENALIDADES
-            </h3>
+            </p>
 
         </div>
     </div>

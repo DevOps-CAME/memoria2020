@@ -55,7 +55,7 @@
                                                     data-refresh-interval="300" data-speed="1600">2897</span> </div>
 
                                             <p>
-                                                <bold class="display-5 color font-weight-medium">Consultas atendidas
+                                                <bold>Consultas atendidas
                                                 </bold> de entidades, pymes y emprendedores de todo el país
                                             </p>
                                         </div>
@@ -70,7 +70,7 @@
                                                     data-refresh-interval="30" data-speed="1600">280</span> </div>
 
                                             <p>
-                                                <bold class="display-5 color font-weight-medium">Nuevos Proyectos</bold>
+                                                <bold>Nuevos Proyectos</bold>
                                                 de pymes y emprendedores acercados a nuestra Plataforma online
                                             </p>
                                         </div>
@@ -85,7 +85,7 @@
                                                     data-refresh-interval="400" data-speed="1600">3683</span> </div>
 
                                             <p>
-                                                <bold class="display-5 color font-weight-medium">Reproducciones</bold>
+                                                <bold>Reproducciones</bold>
                                                 en Youtube de nuestras Videoconferencias, Talleres, Encuentros
                                                 interactivos y Consultorios Regionales
                                             </p>
@@ -101,7 +101,7 @@
                                                     data-refresh-interval="50" data-speed="1600">30</span> </div>
 
                                             <p>
-                                                <bold class="display-5 color font-weight-medium">Mentorías virtuales
+                                                <bold>Mentorías virtuales
                                                     personalizadas </bold> de especialistas y pymes a emprendedores en
                                                 el marco del Programa Comunidad de Mentores, ejecutado en conjunto con
                                                 el Ministerio de Desarrollo Productivo de la Nación.
@@ -118,7 +118,7 @@
                                                     data-refresh-interval="5" data-speed="1600">+ 100</span> </div>
 
                                             <p>
-                                                <bold class="display-5 color font-weight-medium">consultas recibidas de
+                                                <bold>consultas recibidas de
                                                     emprendedores </bold> acerca del Programa PAC Reactivación
                                                 Productiva de Aportes No Reembolsables (ANR). 10 Proyectos
                                                 seleccionados, formulados y presentados, por una solicitud total de
@@ -136,7 +136,7 @@
                                                     data-refresh-interval="2" data-speed="1600">23</span> </div>
 
                                             <p>
-                                                <bold class="display-5 color font-weight-medium">Encuentros Interactivos
+                                                <bold>Encuentros Interactivos
                                                     y Talleres temáticos </bold> realizados virtualmente y 8
                                                 Consultorios Regionales que nos acercaron a todas las entidades, pymes y
                                                 emprendedores de la Red CAME, trabajando en conjunto con otros sectores

@@ -175,7 +175,7 @@
                                 <p >
                                     - A partir del intercambio con líderes del sector, y referentes de todas las
                                     provincias,
-                                    elaboramos el documento denominado <bold class="display-5 color font-weight-medium">
+                                    elaboramos el documento denominado <bold>
                                         “Reflexiones y propuestas para apoyar la recuperación del turismo argentino en
                                         el
                                         marco de la pandemia por el COVID-19”,</bold> el cual fue presentado al
@@ -235,7 +235,7 @@
                                                     data-refresh-interval="10" data-speed="1600">10</span> </div>
 
                                             <p>
-                                                <bold class="display-5 color font-weight-medium">entidades y CCA
+                                                <bold>entidades y CCA
                                                 </bold>
                                                 recibieron asistencia para actualizar y potenciar plataformas
                                                 digitales
@@ -253,7 +253,7 @@
                                                     data-refresh-interval="10" data-speed="1600">2700</span> </div>
 
                                             <p>
-                                                <bold class="display-5 color font-weight-medium">participantes
+                                                <bold>participantes
                                                 </bold> en
                                                 el XIX Foro Internacional sobre Ciudad, Comercio y Turismo,
                                                 realizado en
@@ -271,7 +271,7 @@
                                                     data-refresh-interval="10" data-speed="1600">6</span> </div>
 
                                             <p>
-                                                <bold class="display-5 color font-weight-medium">campañas
+                                                <bold>campañas
                                                     audiovisuales
                                                     de concientización</bold> que destacan el rol del comercio en la
                                                 comunidad y apelan a la responsabilidad sanitaria.
@@ -288,7 +288,7 @@
                                                     data-refresh-interval="10" data-speed="1600">15</span> </div>
 
                                             <p>
-                                                <bold class="display-5 color font-weight-medium">ciudades</bold> de
+                                                <bold>ciudades</bold> de
                                                 6
                                                 provincias recibieron propuestas técnicas para proyectos de CCA en
                                                 desarrollo.
@@ -306,7 +306,7 @@
                                                     data-refresh-interval="10" data-speed="1600">16</span> </div>
 
                                             <p>
-                                                <bold class="display-5 color font-weight-medium">ciudades</bold> de
+                                                <bold>ciudades</bold> de
                                                 7
                                                 provincias recibieron asistencia técnica para CCA ya establecidos.
                                             </p>
@@ -322,7 +322,7 @@
                                                     data-refresh-interval="10" data-speed="1600">2</span> </div>
 
                                             <p>
-                                                <bold class="display-5 color font-weight-medium">coloquios
+                                                <bold>coloquios
                                                     internacionales:</bold> “Los Centros Comerciales Abiertos en
                                                 cuarentena” (con 220 participantes) y “Los desafíos pospandemia para
                                                 el
@@ -340,7 +340,7 @@
                                                     data-refresh-interval="10" data-speed="1600">4</span> </div>
 
                                             <p>
-                                                <bold class="display-5 color font-weight-medium">encuentros</bold>
+                                                <bold>encuentros</bold>
                                                 en el
                                                 marco del ciclo de CCA Sustentables, iniciativa desarrollada junto
                                                 con

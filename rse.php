@@ -78,7 +78,7 @@
                                                     data-refresh-interval="300" data-speed="1600">16</span> </div>
 
                                             <p>
-                                                <bold class="display-5 color font-weight-medium">beneficiarios</bold> de
+                                                <bold>beneficiarios</bold> de
                                                 las acciones solidarias impulsadas por CAME.
                                             </p>
                                         </div>
@@ -93,7 +93,7 @@
                                                     data-refresh-interval="30" data-speed="1600">7</span> </div>
 
                                             <p>
-                                                <bold class="display-5 color font-weight-medium">inscriptos</bold> en
+                                                <bold>inscriptos</bold> en
                                                 nuestros cursos gratuitos y a distancia sobre responsabilidad social y
                                                 desarrollo sustentable.
                                             </p>
@@ -109,7 +109,7 @@
                                                     data-refresh-interval="100" data-speed="1600">58</span> </div>
 
                                             <p>
-                                                <bold class="display-5 color font-weight-medium">kilos de materiales
+                                                <bold>kilos de materiales
                                                     reciclables</bold> recuperados gracias a nuestro programa interno
                                                 Oficina Verde.
                                             </p>
@@ -125,7 +125,7 @@
                                                     data-refresh-interval="20" data-speed="1600">7</span> </div>
 
                                             <p>
-                                                <bold class="display-5 color font-weight-medium">asistentes</bold> a
+                                                <bold>asistentes</bold> a
                                                 encuentros online sobre diversos temas como: comercio responsable,
                                                 género, emprendedurismo de triple impacto, eficiencia energética, Buenas
                                                 Prácticas Manufactureras (BPM) y trazabilidad, entre otros.

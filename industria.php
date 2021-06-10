@@ -102,7 +102,7 @@
                                                         data-refresh-interval="10" data-speed="1600">12</span> </div>
 
                                                 <p>
-                                                    <bold class="display-5 color font-weight-medium">encuentros de
+                                                    <bold>encuentros de
                                                         Comité
                                                         Industrial.</bold>
                                                 </p>
@@ -118,7 +118,7 @@
                                                         data-refresh-interval="10" data-speed="1600">32</span> </div>
 
                                                 <p>
-                                                    <bold class="display-5 color font-weight-medium">circulares</bold>
+                                                    <bold>circulares</bold>
                                                     de
                                                     interés general para pymes industriales.
                                                 </p>
@@ -134,7 +134,7 @@
                                                         data-refresh-interval="10" data-speed="1600">12</span> </div>
 
                                                 <p>
-                                                    <bold class="display-5 color font-weight-medium">informes del índice
+                                                    <bold>informes del índice
                                                         de
                                                         Producción Industrial Pyme (IPIP).</bold>
                                                 </p>
@@ -150,7 +150,7 @@
                                                         data-refresh-interval="10" data-speed="1600">1</span> </div>
 
                                                 <p> reunión especial de Comité, realizada de manera virtual, en
-                                                    conmemoración del <bold class="display-5 color font-weight-medium">
+                                                    conmemoración del <bold>
                                                         Día
                                                         de la Industria.
 
@@ -169,7 +169,7 @@
                                                         data-refresh-interval="10" data-speed="1600">16</span> </div>
 
                                                 <p>
-                                                    <bold class="display-5 color font-weight-medium">ciudades</bold> de
+                                                    <bold>ciudades</bold> de
                                                     7
                                                     provincias recibieron asistencia técnica para CCA ya establecidos.
                                                 </p>
@@ -185,7 +185,7 @@
                                                         data-refresh-interval="10" data-speed="1600">2</span> </div>
 
                                                 <p>
-                                                    <bold class="display-5 color font-weight-medium">coloquios
+                                                    <bold>coloquios
                                                         internacionales:</bold> “Los Centros Comerciales Abiertos en
                                                     cuarentena” (con 220 participantes) y “Los desafíos pospandemia para
                                                     el
@@ -203,7 +203,7 @@
                                                         data-refresh-interval="10" data-speed="1600">4</span> </div>
 
                                                 <p>
-                                                    <bold class="display-5 color font-weight-medium">encuentros</bold>
+                                                    <bold>encuentros</bold>
                                                     en el
                                                     marco del ciclo de CCA Sustentables, iniciativa desarrollada junto
                                                     con

@@ -119,7 +119,7 @@
                                                 medianas empresas argentinas.
                                             </p>
                                             <a href="http://www.redcame.org.ar/novedades/9794/came-participo-de-la-reunion-la-cancilleria-como-promotora-de-las-exportaciones-argentinas"
-                                                target="_blank" class="button text-right center btn-block">Ver más<i
+                                                target="_blank" class="button button-small button-circle button-border button-blue text-right">Ver más<i
                                                     class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -153,7 +153,7 @@
                                                 flujo de bienes y servicios.
                                             </p>
                                             <a href="http://www.redcame.org.ar/novedades/10032/came-participo-de-la-mesa-sectorial-binacional"
-                                                target="_blank" class="button text-right center btn-block">Ver más<i
+                                                target="_blank" class="button button-small button-circle button-border button-blue text-right">Ver más<i
                                                     class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -184,7 +184,7 @@
                                                 encuentra en niveles muy bajos.
                                             </p>
                                             <a href="http://www.redcame.org.ar/novedades/10279/came-se-reunio-con-uatre-para-analizar-medidas-que-beneficien-a-empresarios-y-trabajadores-rurales"
-                                                target="_blank" class="button text-right center btn-block">Ver más<i
+                                                target="_blank" class="button button-small button-circle button-border button-blue text-right">Ver más<i
                                                     class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -211,7 +211,7 @@
                                                 Díaz Beltrán.
                                             </p>
                                             <a href="http://www.redcame.org.ar/novedades/10295/agustin-rossi-presento-en-came-el-fondo-nacional-de-la-defensa-fondef"
-                                                target="_blank" class="button text-right center btn-block">Ver más<i
+                                                target="_blank" class="button button-small button-circle button-border button-blue text-right">Ver más<i
                                                     class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -233,7 +233,7 @@
                                                 trabajar en temas de movilidad y transporte
                                             </p>
                                             <a href="http://www.redcame.org.ar/novedades/10316/nos-reunimos-con-la-secretaria-de-planificacion-para-trabajar-en-temas-de-movilidad-y-transporte"
-                                                target="_blank" class="button text-right center btn-block">Ver más<i
+                                                target="_blank" class="button button-small button-circle button-border button-blue text-right">Ver más<i
                                                     class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -262,7 +262,7 @@
                                                 organismo con el Gobierno nacional.
                                             </p>
                                             <a href="http://www.redcame.org.ar/novedades/10372/el-fmi-convoco-a-came-para-analizar-la-situacion-de-las-pymes-argentina"
-                                                target="_blank" class="button text-right center btn-block">Ver más<i
+                                                target="_blank" class="button button-small button-circle button-border button-blue text-right">Ver más<i
                                                     class="icon-circle-arrow-right"></i></a>
                                         </div>
                                     </div>
