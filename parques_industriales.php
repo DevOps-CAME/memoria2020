@@ -38,7 +38,7 @@
                             país
                         </h2>
 
-                        <p >A los efectos de promover a un sector pujante del aparato
+                        <p>A los efectos de promover a un sector pujante del aparato
                             productivo nacional que contribuye al desarrollo económico y social del país, a través de la
                             representación de nuestra asociada, la Federación Argentina de Parques Industriales,
                             asistimos brindando fortalecimiento institucional, apoyo técnico y acompañamiento de gestión
@@ -125,13 +125,14 @@
                         <div class="row justify-content-center">
 
                             <div class="col-md-12 mb-0">
-                                <h2>Acciones y encuentros estratégicos:</h2>
+                                <h3>Acciones y encuentros estratégicos:</h3>
                             </div>
                             <div class="clear"></div>
 
                             <div class="col-lg-6 col-md-6 my-4">
-                                <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
-                                <p >
+                                <div class="d-flex justify-content-center"> <i
+                                        class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
+                                <p>
                                     Reunión entre el Ministro de Industria, Trabajo y Comercio de la Provincia de
                                     Corrientes
                                     y las autoridades de la Federación Económica de Corrientes, la Asociación de la
@@ -141,8 +142,9 @@
                                 </p>
                             </div>
                             <div class="col-lg-6 col-md-6 my-4">
-                                <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
-                                <p >
+                                <div class="d-flex justify-content-center"> <i
+                                        class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
+                                <p>
                                     Audiencia con el Dr. Gerardo Gabriel Girón, Subsecretario de Articulación
                                     Territorial, y
                                     el Sr. Manuel Luaces, jefe de Agencia Territorial San Martin, ambos funcionarios del
@@ -154,8 +156,9 @@
                                 </p>
                             </div>
                             <div class="col-lg-4 col-md-4 my-4">
-                                <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
-                                <p >
+                                <div class="d-flex justify-content-center"> <i
+                                        class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
+                                <p>
                                     Organización y participación en la reunión técnica “Programa Desarrollo de Parques
                                     Industriales” junto a Red Parques. Se contó con la participación de la Lic. Mercedes
                                     La
@@ -163,20 +166,23 @@
                                     Desarrollo Productivo Nacional.
                             </div>
                             <div class="col-lg-4 col-md-4 my-4">
-                                <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
-                                <p >
+                                <div class="d-flex justify-content-center"> <i
+                                        class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
+                                <p>
                                     Firma de acuerdo junto a “Red Parques” a fin de fortalecer el sector.
                                 </p>
                             </div>
                             <div class="col-lg-4 col-md-4 my-4">
-                                <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
-                                <p >
+                                <div class="d-flex justify-content-center"> <i
+                                        class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
+                                <p>
                                     Stand de FAPI en la 6ta. Exposición de Parques Industriales, EPIBA 2020
                                 </p>
                             </div>
                             <div class="col-lg-6 col-md-6 my-4">
-                                <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
-                                <p >
+                                <div class="d-flex justify-content-center"> <i
+                                        class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
+                                <p>
                                     Coorganización y participación del panel “Desarrollo provincial de parques
                                     industriales”
                                     en EPIBA 2020, en el cual se abordó la temática de la planificación y desarrollo de
@@ -188,8 +194,9 @@
                                 </p>
                             </div>
                             <div class="col-lg-6 col-md-6 my-4">
-                                <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
-                                <p >
+                                <div class="d-flex justify-content-center"> <i
+                                        class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
+                                <p>
                                     Presentación de la reglamentación y modelos de formularios del Programa Nacional
                                     Para el
                                     Desarrollo de Parques/ reunión técnica <bold>“Programa Desarrollo de

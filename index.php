@@ -72,7 +72,7 @@ include "header.html";
                                 </div>
                             </div>
                             <div class="col-md-6">
-                                <h2 class="display-4 font-weight-semibold ls--2 mt-3">
+                                <h2 class="display-4 font-weight-semibold ls--2 mt-3" style="font-size:3.2rem;">
                                     Representamos a 1491 entidades de<br>
                                     <span class="text-rotater" data-separator="|" data-rotate="fadeIn"
                                         data-speed="2000">
@@ -84,8 +84,7 @@ include "header.html";
                                 </h2>
 
                                 <p class="lead">
-                                    que agrupan a más 600.000 empresas pymes
-                                    dan trabajo a 4.200.000 personas.
+                                    que agrupan a más 600.000 empresas pymes que dan trabajo a 4.200.000 personas.
                                 </p>
                             </div>
                         </div>
@@ -109,11 +108,12 @@ include "header.html";
                                 <div class="row">
                                     <div class="col-6 col-sm-6 mb-4">
 
-                                        <div class="counter color font-weight-semibold">
+                                        <div class="counter color font-weight-semibold mb-3">
                                             +<span data-from="1" data-to="150" data-refresh-interval="2"
                                                 data-speed="600"></span>
                                         </div>
-                                        <h4 class="mt-0 mb-0 font-weight-medium">Gestiones realizadas para morigerar
+                                        <h4 class="mt-0 mb-0 font-weight-medium text-justify">Gestiones realizadas para
+                                            morigerar
                                             impacto
                                             de la pandemia</h4>
 
@@ -123,16 +123,13 @@ include "header.html";
 
                                     <div class="col-6 col-sm-6 mb-4">
 
-                                        <div class="counter color font-weight-semibold">
+                                        <div class="counter color font-weight-semibold mb-3">
                                             <span data-from="1" data-to="80" data-refresh-interval="11"
                                                 data-speed="900"></span>%
                                         </div>
-                                        <h4 class="mt-0 mb-0 font-weight-medium">Personas capacitadas a través de la
-                                            oferta
-                                            de cursos regular de
-                                            CAME Educativa, en relación con 2019, impulsando la modernización de las
-                                            pymes, clave en el nuevo
-                                            contexto mundial.</h4>
+                                        <h4 class="mt-0 mb-0 font-weight-medium text-justify">Creció la cantidad de
+                                            personas que se capacitaron a distancia en nuestra oferta regular, en
+                                            relación a 2019.</h4>
 
 
                                     </div>
@@ -140,11 +137,12 @@ include "header.html";
 
                                     <div class="col-6 col-sm-6 mb-4">
 
-                                        <div class="counter color font-weight-semibold">
+                                        <div class="counter color font-weight-semibold mb-3">
                                             <span data-from="1" data-to="53" data-refresh-interval="3"
                                                 data-speed="1000"></span>
                                         </div>
-                                        <h4 class="mt-0 mb-0 font-weight-medium">Nuevos seminarios web (webinars)
+                                        <h4 class="mt-0 mb-0 font-weight-medium text-justify">Nuevos seminarios web
+                                            (webinars)
                                             para
                                             satisfacer la demanda de
                                             formación y comunicación de nuestras entidades adheridas.</h4>
@@ -154,11 +152,12 @@ include "header.html";
 
                                     <div class="col-6 col-sm-6 mb-4">
 
-                                        <div class="counter color font-weight-semibold">
+                                        <div class="counter color font-weight-semibold mb-3">
                                             <span data-from="1" data-to="11" data-refresh-interval="2"
                                                 data-speed="1500"></span>
                                         </div>
-                                        <h4 class="mt-0 mb-0 font-weight-medium">Reuniones de Consejo Directivo,
+                                        <h4 class="mt-0 mb-0 font-weight-medium text-justify">Reuniones de Consejo
+                                            Directivo,
                                             para fortalecer la gremial empresaria y generar sinergias que resulten
                                             en propuestas concretas para
                                             la defensa del sector.

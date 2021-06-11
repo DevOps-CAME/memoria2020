@@ -38,7 +38,7 @@
                         <h2 class="subtitulo">Hacia una mirada responsable, sustentable e inclusiva de la gestión pyme
                         </h2>
 
-                        <p >En 2020, ante un contexto totalmente desconocido que exigía
+                        <p>En 2020, ante un contexto totalmente desconocido que exigía
                             grandes cambios y que nos invitó a repensar nuestra forma de interactuar, producir y
                             consumir, hemos reforzado el acompañamiento a entidades, pymes y emprendedores en su proceso
                             de incorporación de la gestión sustentable en su labor cotidiana, motivando así el
@@ -46,7 +46,7 @@
                             sectores de la comunidad.
 
                         </p>
-                        <p >En ese sentido, durante el 2020 continuamos ejecutando – a
+                        <p>En ese sentido, durante el 2020 continuamos ejecutando – a
                             través de cooperación internacional- la 5° Red de Aprendizaje en Gestión de la Energía junto
                             a la Secretaría de Energía de la Nación y a la Confederación Economica de Misiones (CEM),
                             por la que 14 pymes de la región NEA participaron en diferentes encuentros virtuales donde
@@ -65,7 +65,7 @@
                         <div class="col-md-12">
                             <div class="row col-mb-30 mb-5">
                                 <div class="col-md-12 mb-0">
-                                    <h2>Acciones solidarias</h2>
+                                    <h3>Acciones solidarias</h3>
                                 </div>
 
 

@@ -59,17 +59,11 @@
                                 <i class="icon-line-stack-2 color ml-0 mb-3 i-plain d-block float-none"></i>
                                 <h4 class="mb-3">+100 Comunicados</h4>
                                 <p>
-                                    <bold>Relacionados con la problemática del sector</bold>. Entre ellos se encuentran
-                                    los informes
-                                    mensuales de ventas minoristas, de fechas comerciales específicas (Navidad, Día del
-                                    Niño,
-                                    Día de la Madre, Día del Padre, Reyes Magos, Día del Amigo y San Valentín); los
-                                    relevamientos
-                                    de comercio ilegal en la Argentina; la producción de las pymes industriales; el
-                                    Índice de
-                                    Precios en Origen y Destino (IPOD); y los balances de la actividad turística durante
-                                    los fines de
-                                    semana largos y las temporadas (invierno y verano).
+                                    <bold>Relacionados con la problemática del sector.</bold> Entre ellos se encuentran
+                                    los informes mensuales de ventas minoristas de fechas comerciales específicas; los
+                                    relevamientos de comercio ilegal en la Argentina; la producción de las pymes
+                                    industriales; el IPOD; y los balances de la actividad turística durante los fines de
+                                    semana largos y las temporadas.
                                 </p>
                             </div>
 
@@ -127,33 +121,6 @@
 
                         <div id="oc-images" class="owl-carousel image-carousel carousel-widget" data-items-xs="2"
                             data-items-sm="3" data-items-lg="4" data-items-xl="5">
-
-
-                            <div class="oc-item center">
-                                <a href="http://redcame.org.ar/revista/ampliada/81" target="_blank">
-                                    <img class="card-img"
-                                        src="http://redcame.org.ar/advf/imagenes/2021/05/609289b1c7d2f_800x1116.jpg">
-                                    <h4>Abril - 2021</h4>
-                                </a>
-                            </div>
-
-
-                            <div class="oc-item center">
-                                <a href="http://redcame.org.ar/revista/ampliada/80" target="_blank">
-                                    <img class="card-img"
-                                        src="http://redcame.org.ar/advf/imagenes/2021/04/606dd3936c2ae_800x1116.jpg">
-                                    <h4>Marzo - 2021</h4>
-                                </a>
-                            </div>
-
-
-                            <div class="oc-item center">
-                                <a href="http://redcame.org.ar/revista/ampliada/79" target="_blank">
-                                    <img class="card-img"
-                                        src="http://redcame.org.ar/advf/imagenes/2021/03/60417b93e95aa_800x1116.jpg">
-                                    <h4>Febrero - 2021</h4>
-                                </a>
-                            </div>
 
 
                             <div class="oc-item center">
@@ -245,113 +212,6 @@
                             </div>
 
 
-                            <div class="oc-item center">
-                                <a href="http://redcame.org.ar/advf/documentos/2020/04/5ea037c925344.pdf"
-                                    target="_blank">
-                                    <img class="card-img"
-                                        src="http://redcame.org.ar/advf/imagenes/2020/04/5e9f797e17d25_800x1132.jpg">
-                                    <h4>Diciembre - 2019</h4>
-                                </a>
-                            </div>
-
-
-                            <div class="oc-item center">
-                                <a href="http://redcame.org.ar/advf/documentos/2020/04/5ea037c92e45a.pdf"
-                                    target="_blank">
-                                    <img class="card-img"
-                                        src="http://redcame.org.ar/advf/imagenes/2020/04/5e9f842315d11_800x1132.jpg">
-                                    <h4>Octubre - 2019</h4>
-                                </a>
-                            </div>
-
-
-                            <div class="oc-item center">
-                                <a href="http://redcame.org.ar/advf/documentos/2020/04/5e9f854345fe7.pdf"
-                                    target="_blank">
-                                    <img class="card-img"
-                                        src="http://redcame.org.ar/advf/imagenes/2020/04/5e9f8515db378_800x1132.jpg">
-                                    <h4>Septiembre - 2019</h4>
-                                </a>
-                            </div>
-
-                            <div class="oc-item center">
-                                <a href="http://redcame.org.ar/advf/documentos/2020/04/5e9f85e2b2a9e.pdf"
-                                    target="_blank">
-                                    <img class="card-img"
-                                        src="http://redcame.org.ar/advf/imagenes/2020/04/5e9f8586afca2_800x1132.jpg">
-                                    <h4>Agosto - 2019</h4>
-                                </a>
-                            </div>
-
-
-                            <div class="oc-item center">
-                                <a href="http://redcame.org.ar/advf/documentos/2020/04/5e9f864e29096.pdf"
-                                    target="_blank">
-                                    <img class="card-img"
-                                        src="http://redcame.org.ar/advf/imagenes/2020/04/5e9f861c8e926_800x1132.jpg">
-                                    <h4>Julio - 2019</h4>
-                                </a>
-                            </div>
-
-
-                            <div class="oc-item center">
-                                <a href="http://redcame.org.ar/advf/documentos/2020/04/5e9f86c8ce426.pdf"
-                                    target="_blank">
-                                    <img class="card-img"
-                                        src="http://redcame.org.ar/advf/imagenes/2020/04/5e9f869bf2507_800x1132.jpg">
-                                    <h4>Junio - 2019</h4>
-                                </a>
-                            </div>
-
-
-                            <div class="oc-item center">
-                                <a href="http://redcame.org.ar/advf/documentos/2020/04/5e9f87543211b.pdf"
-                                    target="_blank">
-                                    <img class="card-img"
-                                        src="http://redcame.org.ar/advf/imagenes/2020/04/5e9f8704038f1_800x1132.jpg">
-                                    <h4>Mayo - 2019</h4>
-                                </a>
-                            </div>
-
-
-                            <div class="oc-item center">
-                                <a href="http://redcame.org.ar/advf/documentos/2020/04/5e9f881b41580.pdf"
-                                    target="_blank">
-                                    <img class="card-img"
-                                        src="http://redcame.org.ar/advf/imagenes/2020/04/5e9f87f02bae1_800x1132.jpg">
-                                    <h4>Abril - 2019</h4>
-                                </a>
-                            </div>
-
-
-                            <div class="oc-item center">
-                                <a href="http://redcame.org.ar/advf/documentos/2020/04/5e9f88be07093.pdf"
-                                    target="_blank">
-                                    <img class="card-img"
-                                        src="http://redcame.org.ar/advf/imagenes/2020/04/5e9f885bd9d63_800x1132.jpg">
-                                    <h4>Febrero - 2019</h4>
-                                </a>
-                            </div>
-
-
-                            <div class="oc-item center">
-                                <a href="http://redcame.org.ar/advf/documentos/2020/04/5e9f89a171d53.pdf"
-                                    target="_blank">
-                                    <img class="card-img"
-                                        src="http://redcame.org.ar/advf/imagenes/2020/04/5e9f8976ab6ce_800x1132.jpg">
-                                    <h4>Enero - 2019</h4>
-                                </a>
-                            </div>
-
-
-                            <div class="oc-item center">
-                                <a href="http://redcame.org.ar/advf/documentos/2020/04/5e9f8a184d9d6.pdf"
-                                    target="_blank">
-                                    <img class="card-img"
-                                        src="http://redcame.org.ar/advf/imagenes/2020/04/5e9f89f01f6a6_800x1132.jpg">
-                                    <h4>Enero - 2019</h4>
-                                </a>
-                            </div>
 
 
                         </div>
@@ -399,13 +259,13 @@
                 <div class="section border-top-0 topmargin-sm bottommargin-sm border-0 bg-transparent">
                     <div class="container clearfix">
                         <h2 class="subtitulo">
-                            PRINCIPALES RESULTADOS
+                            PRINCIPALES RESULTADOS DE 2020
                         </h2>
                         <div class="row col-mb-50">
                             <div class="col-sm-6 col-lg-3 text-center bounceIn animated" data-animate="bounceIn">
                                 <i class="i-plain i-xlarge mx-auto mb-0 icon-code"></i>
                                 <div class="counter counter-lined">59,4 %</div>
-                                <p class="text-center">de las empresas encuestadas debió tomar nuevos créditos
+                                <p class="text-center mt-3">de las empresas encuestadas debió tomar nuevos créditos
                                     para
                                     poder sostenerse, y los
                                     mismos representaron,
@@ -416,7 +276,7 @@
                             <div class="col-sm-6 col-lg-3 text-center bounceIn animated" data-animate="bounceIn">
                                 <i class="i-plain i-xlarge mx-auto mb-0 icon-magic"></i>
                                 <div class="counter counter-lined">21,4 %</div>
-                                <p class="text-center">Fue la <strong>caída anual promedio</strong> versus el mismo
+                                <p class="text-center mt-3">Fue la <strong>caída anual promedio</strong> versus el mismo
                                     período de 2019, para
                                     <strong>las ventas
                                         minoristas pyme.</strong> En el caso del Índice de <strong>Producción
@@ -429,7 +289,7 @@
                             <div class="col-sm-6 col-lg-3 text-center bounceIn animated" data-animate="bounceIn">
                                 <i class="i-plain i-xlarge mx-auto mb-0 icon-file-text"></i>
                                 <div class="counter counter-lined"> 90.700 Locales</div>
-                                <p class="text-center">Se estima <strong>cerraron en 2020: 41.200 pymes y 185.300
+                                <p class="text-center mt-3">Se estima <strong>cerraron en 2020: 41.200 pymes y 185.300
                                         trabajadores
                                         afectados.</strong> Los
                                     rubros con más cierres fueron indumentaria,
@@ -439,7 +299,7 @@
                             <div class="col-sm-6 col-lg-3 text-center bounceIn animated" data-animate="bounceIn">
                                 <i class="i-plain i-xlarge mx-auto mb-0 icon-time"></i>
                                 <div class="counter counter-lined">15,6 %</div>
-                                <p class="text-center">Se presume fueron los locales comerciales que
+                                <p class="text-center mt-3">Se presume fueron los locales comerciales que
                                     <strong>cerraron,</strong> sin
                                     registro de que se hayan
                                     mudado a zonas más económicas.
@@ -488,22 +348,26 @@
                         </div>
                         <div class="row mt-5">
 
-                            <div class="col-md-4">
-                                <h3 class="color m-0 p-0"> 2.200 circulares informativas</h2>
+                            <div class="col-md-6">
+                                <h3 class="color m-0 p-0  text-left"> 2.200 circulares informativas</h2>
                                     <p class="text-justify"> Sobre actividades de la entidad, disposiciones oficiales de
                                         distintas instituciones,
                                         comunicados de prensa, información general para pymes, entre otros temas.</p>
 
-                                    <h3 class="color m-0 p-0">Proceso de crecimiento </br>en las redes sociales</h2>
-                                        <p class="text-justify"> Con la especial dinámica que trajo este 2020 producto
-                                            de la
-                                            pandemia, hemos mantenido la
-                                            información actualizada minuto a minuto, logrando canales de excelencia para
-                                            el
-                                            acceso a
-                                            la información.</p>
                             </div>
-                            <div class="col-md-8 text-left">
+                            <div class="col-md-6">
+
+
+                                <h3 class="color m-0 p-0  text-left">Proceso de crecimiento en las redes sociales</h2>
+                                    <p class="text-justify"> Con la especial dinámica que trajo este 2020 producto
+                                        de la
+                                        pandemia, hemos mantenido la
+                                        información actualizada minuto a minuto, logrando canales de excelencia para
+                                        el
+                                        acceso a
+                                        la información.</p>
+                            </div>
+                            <div class="col-md-12 text-left">
                                 <h3 class="color "> Algunos números de la gestión anual 2020:</h3>
                                 <div class="row">
                                     <div class="col-md-6">
@@ -707,7 +571,7 @@
                                         <span data-from="1" data-to="3361" data-refresh-interval="10"
                                             data-speed="1000">3361</span>
                                     </div>
-                                    <p class="text-center">Cartas y solicitudes recibidas</p>
+                                    <p class="text-center">Cartas y solicitudes recibidas y gestionadas</p>
                                 </div>
                             </div>
                         </div>
@@ -718,7 +582,7 @@
                                         <span data-from="1" data-to="1801" data-refresh-interval="10"
                                             data-speed="1300">1801</span>
                                     </div>
-                                    <p class="text-center">Consejeros titulares</p>
+                                    <p class="text-center">Cartas y solicitudes enviadas</p>
                                 </div>
                             </div>
                         </div>
@@ -763,7 +627,7 @@
                             de la respuesta del sector.
                         </p>
                         <div class="clear"></div>
-                        <div class="row justify-content-between">
+                        <!--    <div class="row justify-content-between">
 
                             <div class="col-sm-6">
                                 <div class="feature-box fbox-small fbox-effect">
@@ -788,8 +652,9 @@
                                     </div>
                                 </div>
                             </div>
+
                         </div>
-                        <div class="clear m-5"></div>
+                        <div class="clear m-5"></div> -->
 
                         <div class="row justify-content-between">
 

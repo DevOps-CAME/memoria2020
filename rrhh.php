@@ -5,7 +5,7 @@
     <div class="container clearfix">
         <div class="row justify-content-between mt-4 mb-4">
 
-            <div id="rrhh" class="heading-block border-bottom-0 center">
+            <div id="rrhh" class="heading-block border-bottom-0 center mt-0 mb-2">
 
                 <h2 class="nott font-weight-semibold">Humanos con recursos</h2>
 
@@ -38,40 +38,40 @@
                         <!-- <div class="masonry-thumbs grid-container grid-4" data-big="" data-lightbox="gallery">
                             <a class="grid-item" href="imgs/rrhh/01.jpg" data-lightbox="gallery-item">
                                 <img src="imgs/rrhh/01.jpg" alt="Gallery Thumb 1">
-                            </a>
+                           
                             <a class="grid-item" href="imgs/rrhh/02.jpg" data-lightbox="gallery-item">
                                 <img src="imgs/rrhh/02.jpg" alt="Gallery Thumb 1">
-                            </a>
+                           
                             <a class="grid-item" href="imgs/rrhh/03.jpg" data-lightbox="gallery-item">
                                 <img src="imgs/rrhh/03.jpg" alt="Gallery Thumb 1">
-                            </a>
+                           
                             <a class="grid-item" href="imgs/rrhh/04.jpg" data-lightbox="gallery-item">
                                 <img src="imgs/rrhh/04.jpg" alt="Gallery Thumb 1">
-                            </a>
+                           
                             <a class="grid-item" href="imgs/rrhh/05.jpg" data-lightbox="gallery-item">
                                 <img src="imgs/rrhh/05.jpg" alt="Gallery Thumb 1">
-                            </a>
+                           
                             <a class="grid-item" href="imgs/rrhh/06.jpg" data-lightbox="gallery-item">
                                 <img src="imgs/rrhh/06.jpg" alt="Gallery Thumb 1">
-                            </a>
+                           
                             <a class="grid-item" href="imgs/rrhh/07.jpg" data-lightbox="gallery-item">
                                 <img src="imgs/rrhh/07.jpg" alt="Gallery Thumb 1">
-                            </a>
+                           
                             <a class="grid-item" href="imgs/rrhh/08.jpg" data-lightbox="gallery-item">
                                 <img src="imgs/rrhh/08.jpg" alt="Gallery Thumb 1">
-                            </a>
+                           
                             <a class="grid-item" href="imgs/rrhh/09.jpg" data-lightbox="gallery-item">
                                 <img src="imgs/rrhh/09.jpg" alt="Gallery Thumb 1">
-                            </a>
+                           
                             <a class="grid-item" href="imgs/rrhh/10.jpg" data-lightbox="gallery-item">
                                 <img src="imgs/rrhh/10.jpg" alt="Gallery Thumb 1">
-                            </a>
+                           
                             <a class="grid-item" href="imgs/rrhh/11.jpg" data-lightbox="gallery-item">
                                 <img src="imgs/rrhh/11.jpg" alt="Gallery Thumb 1">
-                            </a>
+                           
                             <a class="grid-item" href="imgs/rrhh/12.jpg" data-lightbox="gallery-item">
                                 <img src="imgs/rrhh/12.jpg" alt="Gallery Thumb 1">
-                            </a>
+                           
 
                         </div> -->
 
@@ -81,64 +81,64 @@
                                 <div class="slider-wrap">
 
                                     <div class="slide" data-thumb="imgs/rrhh/01.jpg">
-                                        <a href="#">
-                                            <img src="imgs/rrhh/01.jpg" alt="Image">
-                                        </a>
+
+                                        <img src="imgs/rrhh/01.jpg" alt="Image">
+
                                     </div>
                                     <div class="slide" data-thumb="imgs/rrhh/02.jpg">
-                                        <a href="#">
-                                            <img src="imgs/rrhh/02.jpg" alt="Image">
-                                        </a>
+
+                                        <img src="imgs/rrhh/02.jpg" alt="Image">
+
                                     </div>
                                     <div class="slide" data-thumb="imgs/rrhh/03.jpg">
-                                        <a href="#">
-                                            <img src="imgs/rrhh/03.jpg" alt="Image">
-                                        </a>
+
+                                        <img src="imgs/rrhh/03.jpg" alt="Image">
+
                                     </div>
                                     <div class="slide" data-thumb="imgs/rrhh/04.jpg">
-                                        <a href="#">
-                                            <img src="imgs/rrhh/04.jpg" alt="Image">
-                                        </a>
+
+                                        <img src="imgs/rrhh/04.jpg" alt="Image">
+
                                     </div>
                                     <div class="slide" data-thumb="imgs/rrhh/05.jpg">
-                                        <a href="#">
-                                            <img src="imgs/rrhh/05.jpg" alt="Image">
-                                        </a>
+
+                                        <img src="imgs/rrhh/05.jpg" alt="Image">
+
                                     </div>
                                     <div class="slide" data-thumb="imgs/rrhh/06.jpg">
-                                        <a href="#">
-                                            <img src="imgs/rrhh/06.jpg" alt="Image">
-                                        </a>
+
+                                        <img src="imgs/rrhh/06.jpg" alt="Image">
+
                                     </div>
                                     <div class="slide" data-thumb="imgs/rrhh/07.jpg">
-                                        <a href="#">
-                                            <img src="imgs/rrhh/07.jpg" alt="Image">
-                                        </a>
+
+                                        <img src="imgs/rrhh/07.jpg" alt="Image">
+
                                     </div>
                                     <div class="slide" data-thumb="imgs/rrhh/08.jpg">
-                                        <a href="#">
-                                            <img src="imgs/rrhh/08.jpg" alt="Image">
-                                        </a>
+
+                                        <img src="imgs/rrhh/08.jpg" alt="Image">
+
                                     </div>
                                     <div class="slide" data-thumb="imgs/rrhh/09.jpg">
-                                        <a href="#">
-                                            <img src="imgs/rrhh/09.jpg" alt="Image">
-                                        </a>
+
+                                        <img src="imgs/rrhh/09.jpg" alt="Image">
+
                                     </div>
                                     <div class="slide" data-thumb="imgs/rrhh/10.jpg">
-                                        <a href="#">
-                                            <img src="imgs/rrhh/10.jpg" alt="Image">
-                                        </a>
+
+                                        <img src="imgs/rrhh/10.jpg" alt="Image">
+
                                     </div>
                                     <div class="slide" data-thumb="imgs/rrhh/11.jpg">
-                                        <a href="#">
-                                            <img src="imgs/rrhh/11.jpg" alt="Image">
-                                        </a>
+
+                                        <img src="imgs/rrhh/11.jpg" alt="Image">
+
                                     </div>
                                     <div class="slide" data-thumb="imgs/rrhh/12.jpg">
-                                        <a href="#">
-                                            <img src="imgs/rrhh/12.jpg" alt="Image">
-                                        </a>
+
+                                        <img src="imgs/rrhh/12.jpg" alt="Image">
+
                                     </div>
 
 

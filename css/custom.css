@@ -17,6 +17,14 @@ h5,
 h6 {
   color: #000000;
 }
+.heading-block h1,
+.heading-block h2,
+.heading-block h3,
+.heading-block h4,
+.emphasis-title h1,
+.emphasis-title h2 {
+  color: #000000;
+}
 .titulo_seccion {
   font-size: 1.8em;
   color: #5fd0ba;
@@ -162,7 +170,8 @@ div.alignleft {
   margin-bottom: 0.25rem;
 }
 .counter {
-  font-size: 2.1em;
+  font-size: 2.5em;
+  text-align: center;
 }
 
 @media (max-width: 629px) {
@@ -221,11 +230,11 @@ div.alignleft {
 }
 
 .subtitulo {
-  color: #267df4;
+  color: #267df4 !important;
   letter-spacing: 0px;
   text-transform: none;
   text-align: left;
-  font-size: 1.6rem;
+  font-size: 1.8rem;
   font-weight: 500;
 }
 .lead {
@@ -233,6 +242,7 @@ div.alignleft {
 }
 .testi-meta span {
   font-size: 0.9rem;
+  color: #000;
 }
 
 .dark .testi-meta span {
@@ -261,7 +271,7 @@ div.alignleft {
 }
 
 .breadcrumbs .titulo-sec {
-  font-size: 1.8rem;
+  font-size: 2rem;
   font-weight: 600;
   line-height: 3rem;
 }

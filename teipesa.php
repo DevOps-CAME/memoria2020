@@ -33,7 +33,7 @@
                     <div class="container clearfix">
 
                         <h2 class="subtitulo">
-                            Modernización para potenciar la competitividad
+                            Tecnología para potenciar la competitividad
                         </h2>
                         <p>
                             Frente a un contexto que ha impuesto la digitalización de prácticas y consumos de nuestra

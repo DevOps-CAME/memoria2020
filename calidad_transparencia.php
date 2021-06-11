@@ -76,7 +76,7 @@
                             <i class="i-circled icon-bar-chart inline-block" style="margin-bottom: 15px;"></i>
                             <div class="heading-block border-bottom-0" style="margin-bottom: 15px;">
                             </div>
-                            <h4>Preservar los salarios de los empleados.</h4>
+                            <h4 class="text-justify">Preservar los salarios de los empleados.</h4>
                         </div>
 
                         <div class="col-lg-3">
@@ -84,7 +84,8 @@
                             <div class="heading-block border-bottom-0" style="margin-bottom: 15px;">
 
                             </div>
-                            <h4>Cumplir con los compromisos asumidos con todas las entidades, asegurando los aportes a
+                            <h4 class="text-justify">Cumplir con los compromisos asumidos con todas las entidades,
+                                asegurando los aportes a
                                 aquellas que perciben
                                 fondos del INACAP, teniendo en cuenta que debían afrontan gastos de sueldos, servicios,
                                 infraestructura y
@@ -98,7 +99,8 @@
                             <div class="heading-block border-bottom-0" style="margin-bottom: 15px;">
 
                             </div>
-                            <h4>Realizar un estricto ajuste de todos los gastos que no fueran indispensables. Para ello,
+                            <h4 class="text-justify">Realizar un estricto ajuste de todos los gastos que no fueran
+                                indispensables. Para ello,
                                 fue fundamental
                                 el apoyo de todos los sectores de la entidad, los cuales analizaron uno a uno cada
                                 servicio que tenían contratado.</h4>
@@ -109,7 +111,8 @@
                             <div class="heading-block border-bottom-0" style="margin-bottom: 15px;">
 
                             </div>
-                            <h4>Renegociar los contratos vigentes, logrando obtener una disminución en el costo de
+                            <h4 class="text-justify">Renegociar los contratos vigentes, logrando obtener una disminución
+                                en el costo de
                                 varios servicios,
                                 como ser limpieza, seguridad, mantenimiento, entre otros.</h4>
                         </div>
@@ -224,7 +227,8 @@
                                         <i class="i-circled icon-envelope inline-block" style="margin-bottom:15px;"></i>
                                         <div class="heading-block border-bottom-0" style="margin-bottom: 15px;">
                                         </div>
-                                        <h4 class=" text-left">Exitosa Auditoría de Seguimiento del Instituto Argentino
+                                        <h4 class="text-justify">Exitosa Auditoría de Seguimiento del Instituto
+                                            Argentino
                                             de
                                             Normalización y Certificación (IRAM), quien evaluó el grado de cumplimiento
                                             de
@@ -243,7 +247,8 @@
                                         <div class="heading-block border-bottom-0" style="margin-bottom: 15px;">
 
                                         </div>
-                                        <h4 class=" text-left">Se establecieron objetivos de velocidad en la respuesta,
+                                        <h4 class="text-justify">Se establecieron objetivos de velocidad en la
+                                            respuesta,
                                             tanto en la gestión de comprobantes como en la respuesta a solicitudes
                                             concretas,
                                             logrando sostenerlos durante todo el año. </h4>
@@ -255,7 +260,7 @@
                                         <div class="heading-block border-bottom-0" style="margin-bottom: 15px;">
 
                                         </div>
-                                        <h4 class=" text-left">Encuesta de satisfacción a las entidades a las que se
+                                        <h4 class="text-justify">Encuesta de satisfacción a las entidades a las que se
                                             brinda
                                             apoyo:</h4>
                                         <p>* 73 % de respuestas</p>
@@ -275,7 +280,8 @@
 
 
 
-                                <div class="promo promo-light p-4 p-md-5 mb-5">
+                                <div class="promo promo-light mt-3 mb-5"
+                                    style="border-radius: 10px;border: 1px solid #0293d6;background-color: #f2f9ff;padding: 1rem 2rem 1rem 2rem;">
                                     <div class="row align-items-center">
                                         <div class="col-12 col-lg">
                                             <p class="m-0">
@@ -297,7 +303,7 @@
                                 <div class="row justify-content-between">
                                     <div class="col-md-12">
 
-                                        <div class="fancy-title title-center title-border mt-0 mb-2">
+                                        <div class="fancy-title title-center title-border">
                                             <h4>
                                                 De enero a diciembre 2020, se brindó asistencia a un total de 267
                                                 entidades por un total de $ 352.405.220
@@ -307,42 +313,42 @@
                                     </div>
 
                                     <div class="row col-md-12 col-mb-50 justify-content-center">
-                                        <div class="col-sm-6 col-lg-4 text-center m-0 p-0">
+                                        <div class="col-sm-6 col-lg-4 text-center">
 
-                                            <div class="counter counter-medium" style="color: #e74c3c">
+                                            <div class="counter counter-medium" style="color: #267df4">
                                                 $ <span data-places="0" data-from="" data-to=" 0"
                                                     data-refresh-interval="500" data-speed="2000">331.790.516</span>
                                             </div>
                                             <h5>presupuestos para capacitación y fortalecimiento institucional</h5>
                                         </div>
-                                        <div class="col-sm-6 col-lg-4 text-center m-0 p-0">
+                                        <div class="col-sm-6 col-lg-4 text-center">
 
-                                            <div class="counter counter-medium" style="color: #e74c3c">
+                                            <div class="counter counter-medium" style="color: #267df4">
                                                 $ <span data-places="1" data-from="" data-to="12.899.029"
                                                     data-refresh-interval="50" data-speed="2000">12.899.029 </span>
                                             </div>
                                             <h5>aportes especiales: exposiciones / eventos / talleres/ jornadas</h5>
                                         </div>
-                                        <div class="col-sm-6 col-lg-4 text-center m-0 p-0">
+                                        <div class="col-sm-6 col-lg-4 text-center">
 
-                                            <div class="counter counter-medium" style="color: #e74c3c">
+                                            <div class="counter counter-medium" style="color: #267df4">
                                                 $ <span data-places="1" data-from="" data-to="1.539.747"
                                                     data-refresh-interval="50" data-speed="2000">1.539.747</span>
                                             </div>
                                             <h5>reintegro de gastos</h5>
                                         </div>
-                                        <div class="col-sm-6 col-lg-6 text-center m-0 p-0">
+                                        <div class="col-sm-6 col-lg-6 text-center">
 
-                                            <div class="counter counter-medium" style="color: #e74c3c">
+                                            <div class="counter counter-medium" style="color: #267df4">
                                                 $ <span d data-places="1" data-from="" data-to="49"
                                                     data-refresh-interval="50" data-speed="2000">4.902.909</span>
                                             </div>
                                             <h5>encuestas / estadísticas / relevamiento datos</h5>
                                         </div>
 
-                                        <div class="col-sm-6 col-lg-6 text-center m-0 p-0">
+                                        <div class="col-sm-6 col-lg-6 text-center">
 
-                                            <div class="counter counter-medium" style="color: #e74c3c">
+                                            <div class="counter counter-medium" style="color: #267df4">
                                                 $ <span data-places="1" data-from="" data-to="1273019"
                                                     data-refresh-interval="10000" data-speed="20000">1.273.019</span>
                                             </div>
@@ -350,7 +356,7 @@
                                         </div>
 
                                     </div>
-                                    <div class="clear m-3"></div>
+
 
 
 
@@ -364,10 +370,10 @@
 
 
 
-                    <div class="clear"></div>
+
 
                 </div>
-                <div class="clear"></div>
+
             </div>
     </div>
 

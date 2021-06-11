@@ -38,7 +38,7 @@
                         <h2 class="subtitulo">Bregando por la representación de las pymes constructoras
                         </h2>
 
-                        <p >A través de nuestra asociada, la Confederación de Pymes
+                        <p>A través de nuestra asociada, la Confederación de Pymes
                             Constructoras de la República Argentina (CPC), representante del sector Construcción de
                             CAME, desplegamos acciones tendientes a fortalecer a las las pymes constructoras con el
                             objeto de impulsar el desarrollo sustentable de las regiones donde estas empresas se
@@ -54,12 +54,13 @@
                     <div class="container clearfix">
                         <div class="row justify-content-center">
                             <div class="col-md-12 mb-0">
-                                <h2>Gestiones impulsadas en 2020:</h2>
+                                <h3>Gestiones impulsadas en 2020:</h3>
                             </div>
 
 
                             <div class="col-md-6">
-                                <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
+                                <div class="d-flex justify-content-center"> <i
+                                        class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
                                 <p>
                                     Con el propósito de que el Estado Nacional, a través del Ministerio de Trabajo,
                                     Empleo y
@@ -74,7 +75,8 @@
                                 </p>
                             </div>
                             <div class="col-md-6">
-                                <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
+                                <div class="d-flex justify-content-center"> <i
+                                        class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
                                 <p>
                                     Convocados por la cartera que gestiona el área, nos incorporamos al <bold>
                                         Observatorio
@@ -86,7 +88,8 @@
                                 </p>
                             </div>
                             <div class="col-md-6">
-                                <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
+                                <div class="d-flex justify-content-center"> <i
+                                        class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
                                 <p>
                                     Suscribimos un <bold>convenio con la Unión Obrera de la
                                         Construcción de la República Argentina (UOCRA)</bold> a los efectos de inaugurar
@@ -96,7 +99,8 @@
                                     cual contempla beneficios para las pymes constructoras.
                             </div>
                             <div class="col-md-6">
-                                <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
+                                <div class="d-flex justify-content-center"> <i
+                                        class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
                                 <p>
                                     Elevamos a las autoridades competentes una <bold>
                                         propuesta sustentable de construcción de viviendas</bold> (con subsidios
@@ -117,11 +121,12 @@
                     <div class="container clearfix">
                         <div class="row justify-content-center">
                             <div class="col-md-12 mb-0">
-                                <h2>Reuniones y actividades relacionadas con la actividad:</h2>
+                                <h3>Reuniones y actividades relacionadas con la actividad:</h3>
                             </div>
 
                             <div class="col-md-6">
-                                <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
+                                <div class="d-flex justify-content-center"> <i
+                                        class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
                                 <p>
                                     En el mes de enero de 2020, mantuvimos un encuentro con el ministro de Obras
                                     Públicas de
@@ -132,7 +137,8 @@
                                 </p>
                             </div>
                             <div class="col-md-6">
-                                <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
+                                <div class="d-flex justify-content-center"> <i
+                                        class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
                                 <p>
                                     Nos reunimos en el mes de mayo con el secretario de Trabajo de la Nación, <bold>>Dr.
                                         Marcelo Bellotti,</bold> a quien
@@ -143,7 +149,8 @@
                                 </p>
                             </div>
                             <div class="col-md-6">
-                                <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
+                                <div class="d-flex justify-content-center"> <i
+                                        class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
                                 <p>
                                     Participamos en una reunión con la Comisión Nacional de Valores (CNV) en junio de
                                     2020
@@ -151,7 +158,8 @@
                                     Valores.
                             </div>
                             <div class="col-md-6">
-                                <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
+                                <div class="d-flex justify-content-center"> <i
+                                        class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
                                 <p>
                                     Asistimos al encuentro sobre Metodología para la Evaluación de los Sistemas de
                                     Contratación Pública (MAPS) invitados por el Ministerio de Obras Públicas de la
@@ -168,19 +176,21 @@
                     <div class="container clearfix">
                         <div class="row justify-content-center">
                             <div class="col-md-12 mb-0">
-                                <h2>Gestión institucional:</h2>
+                                <h3>Gestión institucional:</h3>
                             </div>
 
 
                             <div class="col-md-4">
-                                <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
+                                <div class="d-flex justify-content-center"> <i
+                                        class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
                                 <p>
                                     Aprobación de un Acuerdo Institucional de Convivencia.
 
                                 </p>
                             </div>
                             <div class="col-md-8">
-                                <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
+                                <div class="d-flex justify-content-center"> <i
+                                        class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
                                 <p>
                                     Redacción del Protocolo COVID19-CPC, adaptado a la realidad pyme, que fue base para
                                     el

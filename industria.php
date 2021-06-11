@@ -43,7 +43,7 @@
 
                         <div class="row  text-justify">
                             <div class="col-md-4">
-                                <p >Durante el 2020, con el propósito de morigerar la
+                                <p>Durante el 2020, con el propósito de morigerar la
                                     situación
                                     de las pymes industriales afectadas por las medidas de prevención que se dispusieron
                                     ante la
@@ -89,7 +89,7 @@
                             <div class="col-md-12">
                                 <div class="row col-mb-30 mb-2">
                                     <div class="col-lg-10 col-md-10 mb-0">
-                                        <h2>Acciones propositivas</h2>
+                                        <h3>Acciones propositivas</h3>
                                     </div>
                                     <div class="clear"></div>
 

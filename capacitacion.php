@@ -107,8 +107,9 @@
                                         </div>
 
                                         <div class="col-md-10 float-left">
-                                            <bold>Videoconferencias
-                                            </bold></br> diarias con más de 5.200 participantes
+                                            <p>
+                                                <bold>Videoconferencias
+                                                </bold></br> diarias con más de 5.200 participantes
                                             </p>
                                         </div>
                                     </div>
@@ -121,12 +122,14 @@
                                                 data-to="3" data-refresh-interval="10" data-speed="1600">3</span> </div>
 
                                         <div class="col-md-10 float-left">
-                                            <bold>Programas específicos
-                                            </bold> sobre “Cómo implementar el comercio electrónico en la Pyme”,
-                                            “Cómo gestionar las ventas del Negocio con herramientas digitales” y
-                                            “Cómo implementar una oficina virtual” donde participaron en total
-                                            más
-                                            de 600 personas.
+                                            <p>
+                                                <bold>Programas específicos
+                                                </bold> sobre “Cómo implementar el comercio electrónico en la Pyme”,
+                                                “Cómo gestionar las ventas del Negocio con herramientas digitales” y
+                                                “Cómo implementar una oficina virtual” donde participaron en total
+                                                más
+                                                de 600 personas.
+                                            </p>
                                         </div>
                                     </div>
                                 </div>
@@ -139,10 +142,12 @@
                                         </div>
 
                                         <div class="col-md-9 float-left">
-                                            <bold>videoconferencias
-                                            </bold> a solicitud de las Entidades de la red CAME que
-                                            representaron
-                                            capacitar a más de 9.000 personas en todo el país.
+                                            <p>
+                                                <bold>videoconferencias
+                                                </bold> a solicitud de las Entidades de la red CAME que
+                                                representaron
+                                                capacitar a más de 9.000 personas en todo el país.
+                                            </p>
                                         </div>
                                     </div>
                                 </div>
@@ -156,9 +161,11 @@
                                         </div>
 
                                         <div class="col-md-9 float-left">
-                                            <bold>actividades</bold> de
-                                            capacitación realizadas por las entidades adheridas a CAME, con una
-                                            participación de 97.450 personas.
+                                            <p>
+                                                <bold>actividades</bold> de
+                                                capacitación realizadas por las entidades adheridas a CAME, con una
+                                                participación de 97.450 personas.
+                                            </p>
                                         </div>
                                     </div>
                                 </div>

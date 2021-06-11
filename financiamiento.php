@@ -42,8 +42,8 @@
                         <div class="col-md-12">
                             <div class="row col-mb-30 mb-5">
                                 <div class="col-lg-10 col-md-10 mb-0">
-                                    <h2>Durante el 2020, desde FINANCAME hemos alcanzado los siguientes resultados en
-                                        cifras: </h2>
+                                    <h3>Durante el 2020, desde FINANCAME hemos alcanzado los siguientes resultados en
+                                        cifras: </h3>
                                 </div>
 
 

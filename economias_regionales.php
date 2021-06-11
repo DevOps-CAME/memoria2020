@@ -63,7 +63,8 @@
                         <div class="row justify-content-center">
 
                             <div class="col-lg-4 col-md-4 ">
-                                <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
+                                   <div class="d-flex justify-content-center"> <i
+                                        class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
                                 <p>
                                     Con el propósito de conocer las demandas de cada sector, organizamos <bold>reuniones
                                         virtuales periódicas</bold> con productores
@@ -72,7 +73,8 @@
                                     Agroalimentaria. </p>
                             </div>
                             <div class="col-lg-4 col-md-4 ">
-                                <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
+                                   <div class="d-flex justify-content-center"> <i
+                                        class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
                                 <p>
                                     Entre las actividades realizadas junto con los productores se destacaron los <bold>
                                         webinarios,</bold> que contaron con un alto nivel de participación
@@ -81,7 +83,8 @@
                                 </p>
                             </div>
                             <div class="col-lg-4 col-md-4 ">
-                                <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
+                                   <div class="d-flex justify-content-center"> <i
+                                        class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
                                 <p>
                                     Desarrollamos encuestas y relevamientos que nos permitieron elaborar <bold>
                                         diagnósticos,</bold> en distintos momentos de la pandemia, sobre
@@ -94,7 +97,8 @@
                                 </p>
                             </div>
                             <div class="col-md-4 ">
-                                <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
+                                   <div class="d-flex justify-content-center"> <i
+                                        class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
                                 <p>
                                     <bold>Gestionamos</bold> en favor de la falta de disponibilidad de
                                     efectivo y la multiplicidad de permisos de circulación, temas estratégicos para la
@@ -108,7 +112,8 @@
                                 </p>
                             </div>
                             <div class="col-md-4 ">
-                                <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
+                                   <div class="d-flex justify-content-center"> <i
+                                        class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
                                 <p>
                                     Como miembro permanente de la Comisión Nacional de Trabajo Agrario (CNTA) y la
                                     Comisión

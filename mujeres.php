@@ -39,7 +39,7 @@
                             de la mujer empresaria
                         </h2>
 
-                        <p >En un año atípico e inesperado, el sector de Mujeres
+                        <p>En un año atípico e inesperado, el sector de Mujeres
                             Empresarias de
                             CAME gestionó de manera horizontal, organizando actividades con las asociadas y,
                             esencialmente con las
@@ -59,12 +59,13 @@
                     <div class="container clearfix">
                         <div class="row justify-content-center">
                             <div class="col-md-12">
-                                <h2>En tal sentido, en 2020, realizamos:</h2>
+                                <h3>En tal sentido, en 2020, realizamos:</h3>
                             </div>
 
 
                             <div class="col-md-6 text-justify">
-                                <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
+                                <div class="d-flex justify-content-center"> <i
+                                        class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
                                 <p>
                                 <h3>Reuniones regionales</h3>
                                 A partir de ellas, logramos la elaboración de <bold>base de
@@ -92,7 +93,8 @@
                                 </p>
                             </div>
                             <div class="col-md-6 text-justify">
-                                <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
+                                <div class="d-flex justify-content-center"> <i
+                                        class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
                                 <p>
                                 <h3>Otras acciones</h3>
                                 <ul class="iconlist">
@@ -132,7 +134,8 @@
 
                             </div>
                             <div class="col-md-4 text-justify">
-                                <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
+                                <div class="d-flex justify-content-center"> <i
+                                        class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
                                 <p>
                                 <h3>Relevamientos de situación</h3>
                                 Junto con el Departamento de Financiamiento y Competitividad Pyme y el Departamento de
@@ -161,7 +164,8 @@
 
                             <div class="col-md-4 text-justify">
 
-                                <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
+                                <div class="d-flex justify-content-center"> <i
+                                        class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
                                 <p>
                                 <h3>Actividades en conjunto con el sector de Turismo </h3>
 

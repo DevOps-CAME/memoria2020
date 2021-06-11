@@ -56,7 +56,8 @@
                             </div>
 
                             <div class="col-md-6 ">
-                                <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
+                                   <div class="d-flex justify-content-center"> <i
+                                        class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
                                 <div class="row">
                                     <div class="col-md-6">
                                         <p>
@@ -74,7 +75,8 @@
                             </div>
 
                             <div class="col-md-6 ">
-                                <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
+                                   <div class="d-flex justify-content-center"> <i
+                                        class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
                                 <p>
                                     Nos reunimos con referentes de entidades colegas y otros actores vinculados al
                                     sector,
@@ -99,7 +101,8 @@
                             </div>
 
                             <div class="col-md-6 ">
-                                <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
+                                   <div class="d-flex justify-content-center"> <i
+                                        class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
                                 <p>
                                     Desarrollamos el innovador Premio Emprendedor Solidario COVID-19 a fin de promover
                                     el
@@ -112,7 +115,8 @@
                                 </p>
                             </div>
                             <div class="col-md-6 ">
-                                <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
+                                   <div class="d-flex justify-content-center"> <i
+                                        class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
                                 <p>
                                     Realizamos 4 reuniones con referentes de la actividad y el sector para intercambiar
                                     inquietudes e impulsar propuestas que promuevan el desarrollo de una nueva
@@ -121,7 +125,8 @@
                             </div>
 
                             <div class="col-md-4 ">
-                                <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
+                                   <div class="d-flex justify-content-center"> <i
+                                        class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
                                 <p>
                                     Relevamos y visibilizamos la situación de los jóvenes empresarios frente a la
                                     pandemia a
@@ -131,12 +136,14 @@
                             </div>
 
                             <div class="col-md-4 ">
-                                <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
+                                   <div class="d-flex justify-content-center"> <i
+                                        class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
                                 <p>
                                     Llevamos a cabo 10 reuniones federales de CAME Joven.</p>
                             </div>
                             <div class="col-md-4 ">
-                                <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
+                                   <div class="d-flex justify-content-center"> <i
+                                        class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
                                 <p>
                                     Desarrollamos 5 Webinars sobre Hidroponía y otros cultivos sin suelo con una gran
                                     convocatoria y la participación de disertantes especializados en el tema. La
@@ -147,7 +154,8 @@
 
 
                             <div class="col-md-12   text-justify">
-                                <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
+                                   <div class="d-flex justify-content-center"> <i
+                                        class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
                                 <p>
                                 <h3>Objetivos del área cumplidos:</h3>
                                 <ul>

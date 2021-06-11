@@ -165,14 +165,15 @@
                         <div class="row justify-content-center">
 
                             <div class="col-md-12 mb-0">
-                                <h2>Gestiones y propuestas:</h2>
+                                <h3>Gestiones y propuestas:</h3>
                             </div>
 
 
 
                             <div class="col-lg-3 col-md-4 my-4">
-                                <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
-                                <p >
+                                <div class="d-flex justify-content-center"> <i
+                                        class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
+                                <p>
                                     - A partir del intercambio con líderes del sector, y referentes de todas las
                                     provincias,
                                     elaboramos el documento denominado <bold>
@@ -184,8 +185,9 @@
                                 </p>
                             </div>
                             <div class="col-lg-3 col-md-4 my-4">
-                                <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
-                                <p >
+                                <div class="d-flex justify-content-center"> <i
+                                        class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
+                                <p>
                                     Convenio de colaboración para desarrollar CCA con el Gobierno de la Provincia de
                                     Santa
                                     Fe, suscripto por CAME, AER, FSCCA, FECECO y el Ministerio de Producción de la
@@ -193,16 +195,18 @@
                                 </p>
                             </div>
                             <div class="col-lg-3 col-md-4 my-4">
-                                <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
-                                <p >
+                                <div class="d-flex justify-content-center"> <i
+                                        class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
+                                <p>
                                     Acompañamiento a la Federación Económica de Tucumán (FET) y rechazo del accionar del
                                     Sindicato de Empleados de Comercio (SEOC) que imposibilitó aperturas en la
                                     provincia.
                                 </p>
                             </div>
                             <div class="col-lg-3 col-md-4 my-4">
-                                <i class="icon-line-check-circle color ml-0 mb-4 i-plain d-block float-none"></i>
-                                <p >
+                                <div class="d-flex justify-content-center"> <i
+                                        class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
+                                <p>
                                     Apoyo para el lanzamiento de promociones de Fin de Año, para 87 CCA y entidades de
                                     12
                                     provincias.
@@ -222,7 +226,7 @@
                         <div class="col-md-12">
                             <div class="row col-mb-30 mb-5">
                                 <div class="col-lg-10 col-md-10 mb-0">
-                                    <h2>Acciones en números:</h2>
+                                    <h3>Acciones en números:</h3>
                                 </div>
                                 <div class="clear"></div>
 
