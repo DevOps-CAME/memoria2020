@@ -63,12 +63,12 @@
                                 <div class="clear"></div>
 
 
-                                <div class="col-md-6">
+                                <div class="col-md-4">
                                     <div class="feature-box fbox-small fbox-effect">
 
                                         <div class="fbox-content">
-                                            <div class="counter color"><span data-from="1" data-to="7"
-                                                    data-refresh-interval="1" data-speed="1600">+ 7</span> </div>
+                                            <div class="counter color">+ <span data-from="1" data-to="7"
+                                                    data-refresh-interval="1" data-speed="1600">7</span> </div>
 
                                             <p>
                                                 <bold>Rondas de Negocios se
@@ -78,12 +78,12 @@
                                     </div>
                                 </div>
 
-                                <div class="col-md-6">
+                                <div class="col-md-4">
                                     <div class="feature-box fbox-small fbox-effect">
 
                                         <div class="fbox-content">
-                                            <div class="counter color"><span data-from="1" data-to="386"
-                                                    data-refresh-interval="40" data-speed="1600">+ 386</span> </div>
+                                            <div class="counter color">+<span data-from="1" data-to="386"
+                                                    data-refresh-interval="40" data-speed="1600"> 386</span> </div>
 
                                             <p>
                                                 <bold>empresas participaron
@@ -93,12 +93,12 @@
                                     </div>
                                 </div>
 
-                                <div class="col-md-6">
+                                <div class="col-md-4">
                                     <div class="feature-box fbox-small fbox-effect">
 
                                         <div class="fbox-content">
-                                            <div class="counter color"><span data-from="1" data-to="2380"
-                                                    data-refresh-interval="400" data-speed="1600">+ 2380</span> </div>
+                                            <div class="counter color">+<span data-from="1" data-to="2380"
+                                                    data-refresh-interval="400" data-speed="1600"> 2380</span> </div>
 
                                             <p>
                                                 <bold>entrevistas fueron
@@ -108,12 +108,12 @@
                                     </div>
                                 </div>
 
-                                <div class="col-md-6">
+                                <div class="col-md-12">
                                     <div class="feature-box fbox-small fbox-effect">
 
                                         <div class="fbox-content">
-                                            <div class="counter color"><span data-from="1" data-to="4"
-                                                    data-refresh-interval="1" data-speed="1600">+ 4</span> </div>
+                                            <div class="counter color">+<span data-from="1" data-to="4"
+                                                    data-refresh-interval="1" data-speed="1600"> 4</span> </div>
 
                                             <p>
                                                 <bold>países participantes:

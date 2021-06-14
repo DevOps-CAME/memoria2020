@@ -558,7 +558,7 @@
 
 
                 </div>
-                <div class="col-md-12">
+                <!--   <div class="col-md-12">
                     <div class="testimonial ml-4 mr-4 mb-5" style="border: 1px solid #0293d6;">
 
                         <div class="testi-content">
@@ -608,7 +608,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
 
             </div>

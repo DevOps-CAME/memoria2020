@@ -43,7 +43,7 @@
                         <h2 class="subtitulo">Hacia una matriz federal, sustentable y competitiva de nuestras Economías
                             Regionales</h2>
 
-                        <p >El 2020 fue el año que no solo dejó en claro que sin
+                        <p>El 2020 fue el año que no solo dejó en claro que sin
                             productores no hay alimentos, sino también visibilizó el compromiso del sector
                             agroalimentario para garantizar el abastecimiento de la mesa diaria de todos los argentinos.
                             Desde el área de Economías Regionales de CAME se gestionó, un año más, en defensa de la
@@ -63,7 +63,7 @@
                         <div class="row justify-content-center">
 
                             <div class="col-lg-4 col-md-4 ">
-                                   <div class="d-flex justify-content-center"> <i
+                                <div class="d-flex justify-content-center"> <i
                                         class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
                                 <p>
                                     Con el propósito de conocer las demandas de cada sector, organizamos <bold>reuniones
@@ -73,7 +73,7 @@
                                     Agroalimentaria. </p>
                             </div>
                             <div class="col-lg-4 col-md-4 ">
-                                   <div class="d-flex justify-content-center"> <i
+                                <div class="d-flex justify-content-center"> <i
                                         class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
                                 <p>
                                     Entre las actividades realizadas junto con los productores se destacaron los <bold>
@@ -83,7 +83,7 @@
                                 </p>
                             </div>
                             <div class="col-lg-4 col-md-4 ">
-                                   <div class="d-flex justify-content-center"> <i
+                                <div class="d-flex justify-content-center"> <i
                                         class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
                                 <p>
                                     Desarrollamos encuestas y relevamientos que nos permitieron elaborar <bold>
@@ -96,8 +96,8 @@
                                     de la Nación.
                                 </p>
                             </div>
-                            <div class="col-md-4 ">
-                                   <div class="d-flex justify-content-center"> <i
+                            <div class="col-md-6 ">
+                                <div class="d-flex justify-content-center"> <i
                                         class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
                                 <p>
                                     <bold>Gestionamos</bold> en favor de la falta de disponibilidad de
@@ -111,8 +111,8 @@
                                     insumos que requerían pago de contado (gasoil, por ejemplo).
                                 </p>
                             </div>
-                            <div class="col-md-4 ">
-                                   <div class="d-flex justify-content-center"> <i
+                            <div class="col-md-6 ">
+                                <div class="d-flex justify-content-center"> <i
                                         class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
                                 <p>
                                     Como miembro permanente de la Comisión Nacional de Trabajo Agrario (CNTA) y la
@@ -125,20 +125,20 @@
                                     durante la pospandemia sigan desapareciendo empresas, pudiendo así conservarse las
                                     fuentes de trabajo.</p>
                             </div>
-                            <div class="col-md-4">
-                                <h3 class="color">Reseña anual 2019</h3>
+
+                            <div class="col-md-6 p-3 m-0" style="
+    border-radius: 15px;
+    height: 100%;
+    border: 2px solid #4eb77c;
+">
                                 <a href="http://came.org.ar/eerr2019/index.html" target="_blank"> <img
                                         src="imgs/tapa_eerr_2019.png" alt="Reseña Economías Regionales 2019"
                                         class="card-img-top" /></a>
                             </div>
-                            <div class="col-md-5">
-                                <img src="imgs/eerr_diciembre.png" alt="Diciembre 2020" class="card-img-top" />
-                                <em> DICIEMBRE 2020</em>
 
-                            </div>
-
-                            <div class="col-md-7 mt-4">
-
+                            <div class="col-md-6">
+                                <img src="imgs/eerr_diciembre.png" alt="Diciembre 2020" class="card-img-top float-left"
+                                    style="width: 60%;" />
                                 <p>Además, el área continuó elaborando mensualmente el
                                     Índice de
                                     Precios en Origen y Destino (IPOD) y comenzó a difundir infografías que desagregan
@@ -148,7 +148,11 @@
                                     la
                                     participación de cada eslabón de la cadena de valor en el precio final.
                                 </p>
+
+                                <em> DICIEMBRE 2020</em>
+
                             </div>
+
 
                         </div>
 

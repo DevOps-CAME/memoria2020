@@ -73,14 +73,16 @@
                     <div class="row mt-4 col-mb-50">
 
                         <div class="col-lg-3">
-                            <i class="i-circled icon-bar-chart inline-block" style="margin-bottom: 15px;"></i>
+                            <div class="d-flex justify-content-center"><i class="i-circled icon-bar-chart inline-block"
+                                    style="margin-bottom: 15px;"></i></div>
                             <div class="heading-block border-bottom-0" style="margin-bottom: 15px;">
                             </div>
                             <h4 class="text-justify">Preservar los salarios de los empleados.</h4>
                         </div>
 
                         <div class="col-lg-3">
-                            <i class=" i-circled icon-refresh inline-block " style="margin-bottom: 15px;"></i>
+                            <div class="d-flex justify-content-center"><i class=" i-circled icon-refresh inline-block "
+                                    style="margin-bottom: 15px;"></i></div>
                             <div class="heading-block border-bottom-0" style="margin-bottom: 15px;">
 
                             </div>
@@ -95,7 +97,8 @@
                         </div>
 
                         <div class="col-lg-3">
-                            <i class="i-circled icon-calendar inline-block" style="margin-bottom: 15px;"></i>
+                            <div class="d-flex justify-content-center"><i class="i-circled icon-calendar inline-block"
+                                    style="margin-bottom: 15px;"></i></div>
                             <div class="heading-block border-bottom-0" style="margin-bottom: 15px;">
 
                             </div>
@@ -107,7 +110,8 @@
                         </div>
 
                         <div class="col-lg-3">
-                            <i class="i-circled icon-cogs inline-block" style="margin-bottom: 15px;"></i>
+                            <div class="d-flex justify-content-center"><i class="i-circled icon-cogs inline-block"
+                                    style="margin-bottom: 15px;"></i></div>
                             <div class="heading-block border-bottom-0" style="margin-bottom: 15px;">
 
                             </div>

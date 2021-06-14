@@ -112,194 +112,193 @@
                                 <div class="col-lg-10 col-md-10 mb-0">
                                     <h3>Acciones en números:</h3>
                                 </div>
-                                <div class="clear"></div>
 
-                                <div class="row">
-                                    <div class="col-md-4">
-                                        <div class="feature-box fbox-small fbox-effect">
+                                <div class="col-md-4">
+                                    <div class="feature-box fbox-small fbox-effect">
 
-                                            <div class="fbox-content">
-                                                <div class="counter color"><span data-from="1" data-to="10"
-                                                        data-refresh-interval="10" data-speed="1600">10</span> </div>
+                                        <div class="fbox-content">
+                                            <div class="counter color"><span data-from="1" data-to="10"
+                                                    data-refresh-interval="10" data-speed="1600">10</span> </div>
 
-                                                <p>
-                                                    <bold>entidades y CCA</bold>
-                                                    recibieron asistencia para actualizar y potenciar plataformas
-                                                    digitales
-                                                    de fidelización de clientes.
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-md-4">
-                                        <div class="feature-box fbox-small fbox-effect">
-
-                                            <div class="fbox-content">
-                                                <div class="counter color"><span data-from="1" data-to="2700"
-                                                        data-refresh-interval="10" data-speed="1600">2700</span> </div>
-
-                                                <p>
-                                                    <bold>participantes</bold> en
-                                                    el XIX Foro Internacional sobre Ciudad, Comercio y Turismo,
-                                                    realizado en
-                                                    formato virtual.
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-4">
-                                        <div class="feature-box fbox-small fbox-effect">
-
-                                            <div class="fbox-content">
-                                                <div class="counter color"><span data-from="1" data-to="2"
-                                                        data-refresh-interval="10" data-speed="1600">2</span> </div>
-
-                                                <p>
-                                                    <bold>coloquios
-                                                        internacionales:</bold> “Los Centros Comerciales Abiertos en
-                                                    cuarentena” (con 220 participantes) y “Los desafíos pospandemia para
-                                                    el
-                                                    Comercio Minorista y los CCA” (con 115 participantes).
-                                                </p>
-                                            </div>
+                                            <p>
+                                                <bold>entidades y CCA</bold>
+                                                recibieron asistencia para actualizar y potenciar plataformas
+                                                digitales
+                                                de fidelización de clientes.
+                                            </p>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="row d-flex align-items-center">
 
-                                    <div class="col-md-3">
-                                        <div class="feature-box fbox-small fbox-effect">
+                                <div class="col-md-4">
+                                    <div class="feature-box fbox-small fbox-effect">
 
-                                            <div class="fbox-content">
-                                                <div class="counter color"><span data-from="1" data-to="6"
-                                                        data-refresh-interval="10" data-speed="1600">6</span> </div>
+                                        <div class="fbox-content">
+                                            <div class="counter color"><span data-from="1" data-to="2700"
+                                                    data-refresh-interval="10" data-speed="1600">2700</span> </div>
 
-                                                <p>
-                                                    <bold>campañas audiovisuales
-                                                        de concientización</bold> que destacan el rol del comercio en la
-                                                    comunidad y apelan a la responsabilidad sanitaria.
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-9 pt-5 pb-5">
-                                        <div id="related-portfolio"
-                                            class="owl-carousel owl-carousel-full portfolio-carousel carousel-widget"
-                                            data-margin="3" data-pagi="false" data-items-xs="1" data-items-sm="2"
-                                            data-items-md="3" data-items-lg="3">
-
-                                            <article class="portfolio-item pf-graphics pf-uielements">
-                                                <div class="grid-inner">
-                                                    <iframe
-                                                        src="https://player.vimeo.com/video/518719612?byline=0&portrait=0"
-                                                        width="640" height="640" frameborder="0"
-                                                        allow="autoplay; fullscreen; picture-in-picture"
-                                                        allowfullscreen></iframe>
-                                                </div>
-                                            </article>
-                                            <article class="portfolio-item pf-graphics pf-uielements">
-                                                <div class="grid-inner">
-                                                    <iframe
-                                                        src="https://player.vimeo.com/video/413111367?byline=0&portrait=0"
-                                                        width="640" height="640" frameborder="0"
-                                                        allow="autoplay; fullscreen; picture-in-picture"
-                                                        allowfullscreen></iframe>
-                                                </div>
-                                            </article>
-                                            <article class="portfolio-item pf-graphics pf-uielements">
-                                                <div class="grid-inner">
-                                                    <iframe
-                                                        src="https://player.vimeo.com/video/546621874?byline=0&portrait=0"
-                                                        width="640" height="640" frameborder="0"
-                                                        allow="autoplay; fullscreen; picture-in-picture"
-                                                        allowfullscreen></iframe>
-                                                </div>
-                                            </article>
-
-                                            <article class="portfolio-item pf-graphics pf-uielements">
-                                                <div class="grid-inner">
-                                                    <iframe
-                                                        src="https://player.vimeo.com/video/518735564?byline=0&portrait=0"
-                                                        width="640" height="640" frameborder="0"
-                                                        allow="autoplay; fullscreen; picture-in-picture"
-                                                        allowfullscreen></iframe>
-                                                </div>
-                                            </article>
-                                            <article class="portfolio-item pf-graphics pf-uielements">
-                                                <div class="grid-inner">
-                                                    <iframe
-                                                        src="https://player.vimeo.com/video/437850892?byline=0&portrait=0"
-                                                        width="640" height="640" frameborder="0"
-                                                        allow="autoplay; fullscreen; picture-in-picture"
-                                                        allowfullscreen></iframe>
-                                                </div>
-                                            </article>
-                                            <article class="portfolio-item pf-graphics pf-uielements">
-                                                <div class="grid-inner">
-                                                    <iframe
-                                                        src="https://player.vimeo.com/video/518712883?byline=0&portrait=0"
-                                                        width="640" height="640" frameborder="0"
-                                                        allow="autoplay; fullscreen; picture-in-picture"
-                                                        allowfullscreen></iframe>
-                                                </div>
-                                            </article>
+                                            <p>
+                                                <bold>participantes</bold> en
+                                                el XIX Foro Internacional sobre Ciudad, Comercio y Turismo,
+                                                realizado en
+                                                formato virtual.
+                                            </p>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="row">
+                                <div class="col-md-4">
+                                    <div class="feature-box fbox-small fbox-effect">
 
-                                    <div class="col-md-4">
-                                        <div class="feature-box fbox-small fbox-effect">
+                                        <div class="fbox-content">
+                                            <div class="counter color"><span data-from="1" data-to="2"
+                                                    data-refresh-interval="10" data-speed="1600">2</span> </div>
 
-                                            <div class="fbox-content">
-                                                <div class="counter color"><span data-from="1" data-to="15"
-                                                        data-refresh-interval="10" data-speed="1600">15</span> </div>
-
-                                                <p>
-                                                    <bold>ciudades</bold> de 6
-                                                    provincias recibieron propuestas técnicas para proyectos de CCA en
-                                                    desarrollo.
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-
-
-                                    <div class="col-md-4">
-                                        <div class="feature-box fbox-small fbox-effect">
-
-                                            <div class="fbox-content">
-                                                <div class="counter color"><span data-from="1" data-to="16"
-                                                        data-refresh-interval="10" data-speed="1600">16</span> </div>
-
-                                                <p>
-                                                    <bold>ciudades</bold> de 7
-                                                    provincias recibieron asistencia técnica para CCA ya establecidos.
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-
-
-
-                                    <div class="col-md-4">
-                                        <div class="feature-box fbox-small fbox-effect">
-
-                                            <div class="fbox-content">
-                                                <div class="counter color"><span data-from="1" data-to="4"
-                                                        data-refresh-interval="10" data-speed="1600">4</span> </div>
-
-                                                <p>
-                                                    <bold>encuentros</bold> en el
-                                                    marco del ciclo de CCA Sustentables, iniciativa desarrollada junto
-                                                    con
-                                                    el Departamento de RSE de CAME.
-                                                </p>
-                                            </div>
+                                            <p>
+                                                <bold>coloquios
+                                                    internacionales:</bold> “Los Centros Comerciales Abiertos en
+                                                cuarentena” (con 220 participantes) y “Los desafíos pospandemia para
+                                                el
+                                                Comercio Minorista y los CCA” (con 115 participantes).
+                                            </p>
                                         </div>
                                     </div>
                                 </div>
+
+
+
+                                <div class="col-md-3">
+                                    <div class="feature-box fbox-small fbox-effect">
+
+                                        <div class="fbox-content">
+                                            <div class="counter color"><span data-from="1" data-to="6"
+                                                    data-refresh-interval="10" data-speed="1600">6</span> </div>
+
+                                            <p>
+                                                <bold>campañas audiovisuales
+                                                    de concientización</bold> que destacan el rol del comercio en la
+                                                comunidad y apelan a la responsabilidad sanitaria.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-9">
+                                    <div id="related-portfolio"
+                                        class="owl-carousel owl-carousel-full portfolio-carousel carousel-widget"
+                                        data-margin="3" data-pagi="true" data-items-xs="1" data-items-sm="2"
+                                        data-items-md="3" data-items-lg="3">
+
+                                        <article class="portfolio-item pf-graphics pf-uielements">
+                                            <div class="grid-inner">
+                                                <iframe
+                                                    src="https://player.vimeo.com/video/518719612?byline=0&portrait=0"
+                                                    width="640" height="640" frameborder="0"
+                                                    allow="autoplay; fullscreen; picture-in-picture"
+                                                    allowfullscreen></iframe>
+                                            </div>
+                                        </article>
+                                        <article class="portfolio-item pf-graphics pf-uielements">
+                                            <div class="grid-inner">
+                                                <iframe
+                                                    src="https://player.vimeo.com/video/413111367?byline=0&portrait=0"
+                                                    width="640" height="640" frameborder="0"
+                                                    allow="autoplay; fullscreen; picture-in-picture"
+                                                    allowfullscreen></iframe>
+                                            </div>
+                                        </article>
+                                        <article class="portfolio-item pf-graphics pf-uielements">
+                                            <div class="grid-inner">
+                                                <iframe
+                                                    src="https://player.vimeo.com/video/546621874?byline=0&portrait=0"
+                                                    width="640" height="640" frameborder="0"
+                                                    allow="autoplay; fullscreen; picture-in-picture"
+                                                    allowfullscreen></iframe>
+                                            </div>
+                                        </article>
+
+                                        <article class="portfolio-item pf-graphics pf-uielements">
+                                            <div class="grid-inner">
+                                                <iframe
+                                                    src="https://player.vimeo.com/video/518735564?byline=0&portrait=0"
+                                                    width="640" height="640" frameborder="0"
+                                                    allow="autoplay; fullscreen; picture-in-picture"
+                                                    allowfullscreen></iframe>
+                                            </div>
+                                        </article>
+                                        <article class="portfolio-item pf-graphics pf-uielements">
+                                            <div class="grid-inner">
+                                                <iframe
+                                                    src="https://player.vimeo.com/video/437850892?byline=0&portrait=0"
+                                                    width="640" height="640" frameborder="0"
+                                                    allow="autoplay; fullscreen; picture-in-picture"
+                                                    allowfullscreen></iframe>
+                                            </div>
+                                        </article>
+                                        <article class="portfolio-item pf-graphics pf-uielements">
+                                            <div class="grid-inner">
+                                                <iframe
+                                                    src="https://player.vimeo.com/video/518712883?byline=0&portrait=0"
+                                                    width="640" height="640" frameborder="0"
+                                                    allow="autoplay; fullscreen; picture-in-picture"
+                                                    allowfullscreen></iframe>
+                                            </div>
+                                        </article>
+                                    </div>
+                                </div>
+
+                                <div class="clear mb-5"></div>
+
+
+                                <div class="col-md-4">
+                                    <div class="feature-box fbox-small fbox-effect">
+
+                                        <div class="fbox-content">
+                                            <div class="counter color"><span data-from="1" data-to="15"
+                                                    data-refresh-interval="10" data-speed="1600">15</span> </div>
+
+                                            <p>
+                                                <bold>ciudades</bold> de 6
+                                                provincias recibieron propuestas técnicas para proyectos de CCA en
+                                                desarrollo.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                                <div class="col-md-4">
+                                    <div class="feature-box fbox-small fbox-effect">
+
+                                        <div class="fbox-content">
+                                            <div class="counter color"><span data-from="1" data-to="16"
+                                                    data-refresh-interval="10" data-speed="1600">16</span> </div>
+
+                                            <p>
+                                                <bold>ciudades</bold> de 7
+                                                provincias recibieron asistencia técnica para CCA ya establecidos.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+
+                                <div class="col-md-4">
+                                    <div class="feature-box fbox-small fbox-effect">
+
+                                        <div class="fbox-content">
+                                            <div class="counter color"><span data-from="1" data-to="4"
+                                                    data-refresh-interval="10" data-speed="1600">4</span> </div>
+
+                                            <p>
+                                                <bold>encuentros</bold> en el
+                                                marco del ciclo de CCA Sustentables, iniciativa desarrollada junto
+                                                con
+                                                el Departamento de RSE de CAME.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
 
                             </div>
                         </div>

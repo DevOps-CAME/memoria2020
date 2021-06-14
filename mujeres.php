@@ -65,15 +65,19 @@
 
                             <div class="col-md-6 text-justify">
                                 <div class="d-flex justify-content-center"> <i
-                                        class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
+                                        class="icon-line-check-circle color ml-0 mb-4 i-plain "></i>
+
+                                </div>
+                                <h3 class="text-center">Reuniones regionales</h3>
                                 <p>
-                                <h3>Reuniones regionales</h3>
-                                A partir de ellas, logramos la elaboración de <bold>base de
-                                    datos de
-                                    protocolos</bold> para los distintos rubros, así como la conformación de un <bold>
-                                    diagnóstico de situación</bold> que reflejó las
-                                dificultades de cada
-                                provincia, algunas transversales y otras puntuales:<br><br>
+
+                                    A partir de ellas, logramos la elaboración de <bold>base de
+                                        datos de
+                                        protocolos</bold> para los distintos rubros, así como la conformación de un
+                                    <bold>
+                                        diagnóstico de situación</bold> que reflejó las
+                                    dificultades de cada
+                                    provincia, algunas transversales y otras puntuales:<br><br>
                                 <ul class="iconlist">
                                     <li><i class="icon-line-check"></i>La necesidad de auxilios financieros.
                                         Refinanciamiento de deudas </li>
@@ -95,8 +99,8 @@
                             <div class="col-md-6 text-justify">
                                 <div class="d-flex justify-content-center"> <i
                                         class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
+                                <h3 class="text-center">Otras acciones</h3>
                                 <p>
-                                <h3>Otras acciones</h3>
                                 <ul class="iconlist">
                                     <li><i class="icon-line-check"></i>Encuentro virtual por el Día de la Madre, con
                                         la participación de Mujeres. </li>
@@ -136,25 +140,27 @@
                             <div class="col-md-4 text-justify">
                                 <div class="d-flex justify-content-center"> <i
                                         class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
+                                <h3 class="text-center">Relevamientos de situación</h3>
                                 <p>
-                                <h3>Relevamientos de situación</h3>
-                                Junto con el Departamento de Financiamiento y Competitividad Pyme y el Departamento de
-                                Estadísticas e
-                                Informes y Base de Datos de CAME, generamos tres importantes informes sobre la
-                                actividad,
-                                así como
-                                actividades en conjunto con entidades financieras federales, como la <bold>Mesa de
-                                    trabajo
-                                    con funcionarios y representantes del
-                                    Banco Nación de
-                                    Argentina</bold> (BNA), vinculada a la nueva gerencia de Género y créditos a para
-                                pymes
-                                lideradas por
-                                mujeres; y el dictado del <bold>Webinar de Finanzas con
-                                    toda la red
-                                    “Herramientas financieras para mujeres pymes”,</bold> acompañados por el BNA, el
-                                BICE y
-                                GARANTIZAR.
+                                    Junto con el Departamento de Financiamiento y Competitividad Pyme y el Departamento
+                                    de
+                                    Estadísticas e
+                                    Informes y Base de Datos de CAME, generamos tres importantes informes sobre la
+                                    actividad,
+                                    así como
+                                    actividades en conjunto con entidades financieras federales, como la <bold>Mesa de
+                                        trabajo
+                                        con funcionarios y representantes del
+                                        Banco Nación de
+                                        Argentina</bold> (BNA), vinculada a la nueva gerencia de Género y créditos a
+                                    para
+                                    pymes
+                                    lideradas por
+                                    mujeres; y el dictado del <bold>Webinar de Finanzas con
+                                        toda la red
+                                        “Herramientas financieras para mujeres pymes”,</bold> acompañados por el BNA, el
+                                    BICE y
+                                    GARANTIZAR.
                                 </p>
 
                             </div>
@@ -166,8 +172,8 @@
 
                                 <div class="d-flex justify-content-center"> <i
                                         class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
+                                <h3 class="text-center">Actividades en conjunto con el sector de Turismo </h3>
                                 <p>
-                                <h3>Actividades en conjunto con el sector de Turismo </h3>
 
                                 <ul class="iconlist">
                                     <li><i class="icon-line-check"></i>Seminario de Turismo Rural y Naturaleza, con

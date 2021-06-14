@@ -159,11 +159,9 @@
                                 <div class="d-flex justify-content-center"> <i
                                         class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
                                 <p>
-                                    Organización y participación en la reunión técnica “Programa Desarrollo de Parques
-                                    Industriales” junto a Red Parques. Se contó con la participación de la Lic. Mercedes
-                                    La
-                                    Gioiosa, directora nacional de Desarrollo Regional dependiente del Ministerio de
-                                    Desarrollo Productivo Nacional.
+                                    Participación en la reunión “Programa Desarrollo de Parques Industriales” junto a
+                                    Red Parques y a la Lic. Mercedes La Gioiosa, directora nacional de Desarrollo
+                                    Regional dependiente del Ministerio de Desarrollo Productivo Nacional.</p>
                             </div>
                             <div class="col-lg-4 col-md-4 my-4">
                                 <div class="d-flex justify-content-center"> <i

@@ -32,13 +32,13 @@
 
                 <!--Comunicacion Comienzo-->
 
-                <div class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
+                <div class="center page-section col-lg-12 col-md-12 mt-5 mb-5 ">
                     <div class="container clearfix">
                         <h2 class="subtitulo">
                             Comunicación estratégica con el asociado y el mundo pyme
                         </h2>
 
-                        <h3>Impulso a la agenda pyme en medios de comunicación</h3>
+                        <h3 class="text-justify">Impulso a la agenda pyme en medios de comunicación</h3>
                         <p>
                             Considerando la incidencia que la visibilización de nuestras acciones y
                             propuestas adquieren al ser difundidas en medios de prensa, propiciando el debate,
@@ -56,8 +56,10 @@
                         <div class="row justify-content-between mt-4 mb-4">
 
                             <div class="col-lg-4 col-md-6 my-4" data-animate="bounceInUp" data-delay="50">
-                                <i class="icon-line-stack-2 color ml-0 mb-3 i-plain d-block float-none"></i>
-                                <h4 class="mb-3">+100 Comunicados</h4>
+                                <div class="d-flex justify-content-center">
+                                    <i class="icon-line-stack-2 color ml-0 mb-3 i-plain"></i>
+                                </div>
+                                <h4 class="mb-3 center">+100 Comunicados</h4>
                                 <p>
                                     <bold>Relacionados con la problemática del sector.</bold> Entre ellos se encuentran
                                     los informes mensuales de ventas minoristas de fechas comerciales específicas; los
@@ -68,8 +70,9 @@
                             </div>
 
                             <div class="col-lg-4 col-md-6 my-4" data-animate="bounceInUp" data-delay="100">
-                                <i class="icon-line-mail color ml-0 mb-3 i-plain d-block float-none"></i>
-                                <h4 class="mb-3">+ 365 informes de prensa </h4>
+                                <div class="d-flex justify-content-center"><i
+                                        class="icon-line-mail color ml-0 mb-3 i-plain "></i></div>
+                                <h4 class="mb-3 center">+ 365 informes de prensa </h4>
                                 <p>
                                     Se enviaron a las 1.491 entidades adheridas y proveen información estratégica para
                                     la toma de
@@ -78,8 +81,9 @@
                             </div>
 
                             <div class="col-lg-4 col-md-6 my-4" data-animate="bounceInUp" data-delay="150">
-                                <i class="icon-line-microphone color ml-0 mb-3 i-plain d-block float-none"></i>
-                                <h4 class="mb-3">Líderes de opinión</h4>
+                                <div class="d-flex justify-content-center"><i
+                                        class="icon-line-microphone color ml-0 mb-3 i-plain "></i></div>
+                                <h4 class="mb-3 center">Líderes de opinión</h4>
                                 <p>
                                     Dimos continuidad a la formación de referentes en temáticas específicas, por sector
                                     y por zona
@@ -259,7 +263,8 @@
                 <div class="section border-top-0 topmargin-sm bottommargin-sm border-0 bg-transparent">
                     <div class="container clearfix">
                         <h2 class="subtitulo">
-                            PRINCIPALES RESULTADOS DE 2020
+
+                            Principales resultados de 2020
                         </h2>
                         <div class="row col-mb-50">
                             <div class="col-sm-6 col-lg-3 text-center bounceIn animated" data-animate="bounceIn">
@@ -349,7 +354,7 @@
                         <div class="row mt-5">
 
                             <div class="col-md-6">
-                                <h3 class="color m-0 p-0  text-left"> 2.200 circulares informativas</h2>
+                                <h3 class=" m-0 p-0  text-left"> 2.200 circulares informativas</h2>
                                     <p class="text-justify"> Sobre actividades de la entidad, disposiciones oficiales de
                                         distintas instituciones,
                                         comunicados de prensa, información general para pymes, entre otros temas.</p>
@@ -358,7 +363,7 @@
                             <div class="col-md-6">
 
 
-                                <h3 class="color m-0 p-0  text-left">Proceso de crecimiento en las redes sociales</h2>
+                                <h3 class=" m-0 p-0  text-left">Proceso de crecimiento en las redes sociales</h2>
                                     <p class="text-justify"> Con la especial dinámica que trajo este 2020 producto
                                         de la
                                         pandemia, hemos mantenido la
@@ -368,7 +373,7 @@
                                         la información.</p>
                             </div>
                             <div class="col-md-12 text-left">
-                                <h3 class="color "> Algunos números de la gestión anual 2020:</h3>
+                                <h3> Algunos números de la gestión anual 2020:</h3>
                                 <div class="row">
                                     <div class="col-md-6">
 
@@ -562,41 +567,51 @@
 
 
 
-                    <div class="row justify-content-between center ml-4 mr-4">
 
-                        <div class="col-sm-4 col-lg-3">
-                            <div class="feature-box fbox-small fbox-effect">
+
+                    <div class="row justify-content-center col-mb-50 mb-0">
+                        <div class="col-md-4">
+                            <div class="feature-box fbox-center fbox-bg  fbox-lg fbox-border fbox-effect">
+                                <div class="fbox-icon">
+                                    <a href="#"><i style="
+    font-size: 2rem;
+    font-weight: 600;
+">3361</i></a>
+                                </div>
                                 <div class="fbox-content">
-                                    <div class="counter color">
-                                        <span data-from="1" data-to="3361" data-refresh-interval="10"
-                                            data-speed="1000">3361</span>
-                                    </div>
-                                    <p class="text-center">Cartas y solicitudes recibidas y gestionadas</p>
+                                    <h4 class="p-0 m-0 color">Cartas y solicitudes recibidas y gestionadas</h4>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm-4 col-lg-3">
-                            <div class="feature-box fbox-small fbox-effect">
+
+                        <div class="col-md-4">
+                            <div class="feature-box fbox-center fbox-bg fbox-lg  fbox-border fbox-effect">
+                                <div class="fbox-icon">
+                                    <a href="#"><i style="
+    font-size: 2rem;
+    font-weight: 600;
+">1801</i></a>
+                                </div>
                                 <div class="fbox-content">
-                                    <div class="counter color">
-                                        <span data-from="1" data-to="1801" data-refresh-interval="10"
-                                            data-speed="1300">1801</span>
-                                    </div>
-                                    <p class="text-center">Cartas y solicitudes enviadas</p>
+                                    <h4 class="p-0 m-0 color">Cartas y solicitudes enviadas</h4>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm-4 col-lg-3">
-                            <div class="feature-box fbox-small fbox-effect">
+
+                        <div class="col-md-4">
+                            <div class="feature-box fbox-center fbox-bg fbox-lg  fbox-border fbox-effect">
+                                <div class="fbox-icon">
+                                    <a href="#"><i style="
+    font-size: 2rem;
+    font-weight: 600;
+">255</i></a>
+                                </div>
                                 <div class="fbox-content">
-                                    <div class="counter color">
-                                        <span data-from="1" data-to="255" data-refresh-interval="10"
-                                            data-speed="1600">255</span>
-                                    </div>
-                                    <p class="text-center">Invitaciones recibidas y gestionadas</p>
+                                    <h4 class="p-0 m-0 color">Invitaciones recibidas y gestionadas</h4>
                                 </div>
                             </div>
                         </div>
+
                     </div>
                 </div>
 

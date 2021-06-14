@@ -1,11 +1,10 @@
-<div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel"
+<div class="modal fade bs-example-modal-lg2" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel"
     aria-hidden="true">
     <div class="modal-dialog modal-lg">
         <div class="modal-body">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h4 class="modal-title" id="myModalLabel">LA FALTA DE COLABORACIÓN DE LOS BANCOS ESTÁ MATANDO A LAS
-                        PYMES</h4>
+                    <h4 class="modal-title" id="myModalLabel">Palabras del Dr. Díaz Beltrán</h4>
 
                 </div>
                 <div class="testimonial ml-4 mr-4 mb-5" style="border: 1px solid #0293d6;">
@@ -15,22 +14,16 @@
                             <img src="imgs/gest_bcra/GDB_BCRA_01.jpg" alt="Gerardo Díaz Beltrán"
                                 style="border-radius: 5px;">
                         </div>
-                        <p>Esta pandemia dio visibilidad a los problemas
-                            estructurales de las pymes y la sociedad. Es el
-                            momento de trabajar regionalmente para potenciar las
-                            oportunidades. Debemos formar una mesa de diálogo
-                            permanente. De nosotros depende el futuro en los
-                            países de la región</p>
+                        <p>Esta pandemia dio visibilidad a los problemas estructurales de las pymes y la sociedad. Es el
+                            momento de trabajar regionalmente para potenciar las oportunidades. Debemos formar una mesa
+                            de diálogo permanente. De nosotros depende el futuro en los países de la región</p>
                         <div class="col-md-12 float-left testi-meta">
                             Gerardo Díaz Beltrán
                             <span>Presidente de la Confederación Argentina de la Mediana
                                 Empresa
                                 (CAME)</span>
                         </div>
-                        <a href="http://www.redcame.org.ar/novedades/8026/la-falta-de-colaboracin-de-los-bancos-est-matando-a-las-pymes"
-                            target="_blank"
-                            class="button button-small button-circle button-border button-blue text-right">Ver
-                            más<i class="icon-circle-arrow-right"></i></a>
+
                     </div>
                 </div>
 
@@ -41,7 +34,7 @@
 <div id="car_gestiones_pandemia" class="owl-carousel portfolio-carousel carousel-widget" data-pagi="true"
     data-items-xs="1" data-items-sm="2" data-items-md="4" data-items-lg="4">
 
-    <div class="portfolio-item-bcra" style="cursor: pointer" data-toggle="modal" data-target=".bs-example-modal-lg">
+    <div class="portfolio-item-bcra" style="cursor: pointer" data-toggle="modal" data-target=".bs-example-modal-lg2">
         <div class="portfolio-image">
 
             <img src="imgs/gest_bcra/GDB_BCRA_01.jpg"
@@ -49,7 +42,7 @@
 
         </div>
         <div class="portfolio-desc">
-            <h4 class="car_titulo color">La falta de colaboración de los bancos está matando a las pymes</h4>
+            <h4 class="car_titulo color">Palabras del Dr. Díaz Beltrán</h4>
 
 
         </div>

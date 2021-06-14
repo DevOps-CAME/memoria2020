@@ -38,14 +38,78 @@
                         <h2 class="subtitulo">Formación para la modernización de nuestros asociados y sus pymes
                         </h2>
 
-                        <p>Más de 245.000 personas fueron capacitadas durante 2020 a
-                            través de la oferta de capacitación que brinda CAME.</p>
-                        <p>Creció un 80% la cantidad de personas que se capacitaron a
-                            distancia en nuestra oferta regular, en relación a 2019.</p>
-                        <p>Registramos un incremento del 72% en los egresos de las
-                            Diplomaturas de nuestra Escuela de Negocios, en relación con 2019.</p>
-                        <p>Diseñamos 53 seminarios web para brindar a todas las
-                            entidades adheridas a CAME ante la imposibilidad de dictar actividades presenciales.</p>
+
+
+
+                        <div class="row justify-content-center col-mb-50 mb-0">
+
+                            <div class="col-md-3">
+
+                                <div class="feature-box fbox-small fbox-effect">
+                                    <div class="fbox-content">
+                                        <h3 class="color center" style="font-size: 1.4rem; text-transform: none;">Más de
+                                            245.000 personas
+                                        </h3>
+                                        <p class="text-center">
+                                            fueron capacitadas durante 2020 a
+                                            través de la oferta de capacitación que brinda CAME.
+                                        </p>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3">
+
+                                <div class="feature-box fbox-small fbox-effect">
+                                    <div class="fbox-content">
+                                        <h3 class="color center" style="font-size: 1.4rem; text-transform: none;">Creció
+                                            un 80%
+                                        </h3>
+                                        <p class="text-center">
+                                            la cantidad de personas que se capacitaron a distancia en nuestra oferta
+                                            regular, en relación a 2019.
+                                        </p>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3">
+
+                                <div class="feature-box fbox-small fbox-effect">
+                                    <div class="fbox-content">
+                                        <h3 class="color center" style="font-size: 1.4rem; text-transform: none;">
+                                            Registramos un incremento del 72%
+                                        </h3>
+                                        <p class="text-center">
+                                            en los egresos de las Diplomaturas de nuestra Escuela de Negocios, en
+                                            relación con 2019.
+
+
+                                        </p>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3">
+
+                                <div class="feature-box fbox-small fbox-effect">
+                                    <div class="fbox-content">
+                                        <h3 class="color center" style="font-size: 1.4rem; text-transform: none;">
+                                            Diseñamos<br> 53 seminarios web
+                                        </h3>
+                                        <p class="text-center">
+                                            para brindar a todas las entidades adheridas a CAME ante la imposibilidad de
+                                            dictar actividades presenciales.
+
+
+                                        </p>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
 
 
                         <div class="col-md-12">
@@ -100,17 +164,18 @@
 
                                 <div class="col-md-6">
 
+                                    <div class="feature-box fbox-small fbox-effect">
+                                        <div class="fbox-content">
+                                            <div class="counter color"><span data-from="1" data-to="40"
+                                                    data-refresh-interval="5" data-speed="1600">40</span>
+                                            </div>
 
-                                    <div class="fbox-content">
-                                        <div class="col-md-1 counter color center float-left mr-2"><span data-from="1"
-                                                data-to="40" data-refresh-interval="5" data-speed="1600">40</span>
-                                        </div>
 
-                                        <div class="col-md-10 float-left">
-                                            <p>
+                                            <p class="text-center">
                                                 <bold>Videoconferencias
-                                                </bold></br> diarias con más de 5.200 participantes
+                                                </bold>diarias con más de 5.200 participantes
                                             </p>
+
                                         </div>
                                     </div>
                                 </div>
@@ -118,37 +183,37 @@
                                 <div class="col-md-6">
 
                                     <div class="fbox-content">
-                                        <div class="col-md-1 counter color center float-left mr-2"><span data-from="1"
-                                                data-to="3" data-refresh-interval="10" data-speed="1600">3</span> </div>
+                                        <div class="counter color"><span data-from="1" data-to="3"
+                                                data-refresh-interval="10" data-speed="1600">3</span> </div>
 
-                                        <div class="col-md-10 float-left">
-                                            <p>
-                                                <bold>Programas específicos
-                                                </bold> sobre “Cómo implementar el comercio electrónico en la Pyme”,
-                                                “Cómo gestionar las ventas del Negocio con herramientas digitales” y
-                                                “Cómo implementar una oficina virtual” donde participaron en total
-                                                más
-                                                de 600 personas.
-                                            </p>
-                                        </div>
+
+                                        <p>
+                                            <bold>Programas específicos
+                                            </bold> sobre “Cómo implementar el comercio electrónico en la Pyme”,
+                                            “Cómo gestionar las ventas del Negocio con herramientas digitales” y
+                                            “Cómo implementar una oficina virtual” donde participaron en total
+                                            más
+                                            de 600 personas.
+                                        </p>
+
                                     </div>
                                 </div>
 
                                 <div class="col-md-6">
 
                                     <div class="fbox-content">
-                                        <div class="col-md-2 counter color center float-left mr-2"><span data-from="1"
-                                                data-to="245" data-refresh-interval="10" data-speed="1600">245</span>
+                                        <div class="counter color"><span data-from="1" data-to="245"
+                                                data-refresh-interval="10" data-speed="1600">245</span>
                                         </div>
 
-                                        <div class="col-md-9 float-left">
-                                            <p>
-                                                <bold>videoconferencias
-                                                </bold> a solicitud de las Entidades de la red CAME que
-                                                representaron
-                                                capacitar a más de 9.000 personas en todo el país.
-                                            </p>
-                                        </div>
+
+                                        <p>
+                                            <bold>videoconferencias
+                                            </bold> a solicitud de las Entidades de la red CAME que
+                                            representaron
+                                            capacitar a más de 9.000 personas en todo el país.
+                                        </p>
+
                                     </div>
                                 </div>
 
@@ -156,17 +221,16 @@
                                 <div class="col-md-6">
 
                                     <div class="fbox-content">
-                                        <div class="col-md-2 counter color center float-left mr-2"><span data-from="1"
-                                                data-to="2100" data-refresh-interval="10" data-speed="1600">2100</span>
+                                        <div class="counter color"><span data-from="1" data-to="2100"
+                                                data-refresh-interval="10" data-speed="1600">2100</span>
                                         </div>
 
-                                        <div class="col-md-9 float-left">
-                                            <p>
-                                                <bold>actividades</bold> de
-                                                capacitación realizadas por las entidades adheridas a CAME, con una
-                                                participación de 97.450 personas.
-                                            </p>
-                                        </div>
+                                        <p>
+                                            <bold>actividades</bold> de
+                                            capacitación realizadas por las entidades adheridas a CAME, con una
+                                            participación de 97.450 personas.
+                                        </p>
+
                                     </div>
                                 </div>
 
@@ -181,7 +245,7 @@
 
                 <div class="promo promo-light p-4 p-md-5 mb-5">
                     <div class="row align-items-center">
-                        <div class="col-md-8 text-justify">
+                        <div class="col-md-12 text-justify">
                             <h3>Durante 2020, CAME ha brindado directa e indirectamente un total de <span>2500
                                     actividades
                                     de
@@ -195,11 +259,11 @@
                                 CAME.</h3>
 
                         </div>
-                        <div class="col-md-4">
+                        <!--   <div class="col-md-4">
                             <iframe src="https://player.vimeo.com/video/521103718" width="500" height="281"
                                 allow="autoplay; fullscreen" allowfullscreen></iframe>
                         </div>
-
+ -->
 
                     </div>
                 </div>

@@ -49,13 +49,13 @@
                         </p>
 
 
-                        <div class="col-lg-12 col-md-10 mb-0">
-                            <h3>
-                                En ese sentido, en 2020, se registraron los siguientes avances en las diferentes áreas
-                                de trabajo que componen nuestro ecosistema de negocios:
 
-                            </h3>
-                        </div>
+                        <h3 class="text-justify">
+                            En ese sentido, en 2020, se registraron los siguientes avances en las diferentes áreas
+                            de trabajo que componen nuestro ecosistema de negocios:
+
+                        </h3>
+
 
 
                         <div class="clear"></div>
