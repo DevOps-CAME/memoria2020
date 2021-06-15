@@ -379,19 +379,19 @@
 
                     <a href="http://www.redcame.org.ar/novedades/10084/se-firmo-el-acuerdo-paritario-mercantil-2020"
                         target="_blank">
-                        <h3 style="line-height: 2rem" class="color">
+                        <h3 style="line-height: 2rem" class="color p-0 m-0">
                             <i class="icon-ok"></i> Se firmó el acuerdo paritario mercantil 2020
                         </h3>
 
                     </a>
                     <a href="http://www.redcame.org.ar/novedades/10084/se-firmo-el-acuerdo-paritario-mercantil-2020"
                         target="_blank"
-                        class="button button-small button-circle button-border button-blue text-right">Ver
+                        class="button button-small button-circle button-border button-blue text-right mb-5">Ver
                         más<i class="icon-circle-arrow-right"></i></a>
 
                     <a href="http://www.redcame.org.ar/novedades/10491/exitosa-gestion-en-la-revision-de-la-paritaria-de-comercio"
                         target="_blank">
-                        <h3 style="line-height: 2rem" class="color">
+                        <h3 style="line-height: 2rem" class="color p-0 m-0">
                             <i class="icon-ok"></i> Exitosa gestión en la revisión de la paritaria
                             de
                             Comercio
