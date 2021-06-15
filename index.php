@@ -374,7 +374,7 @@ include "header.html";
 
                             <div class="col-lg-4 col-md-6 my-4" data-animate="bounceInUp" data-delay="150">
                                 <a href="teipesa.php" style="color:#000;">
-                                    <i class="icon-wifi-full color ml-0 mb-4 i-plain d-block float-none"></i>
+                                    <i class="icon-wifi-full color ml-0 mb-3 i-plain d-block float-none"></i>
                                     <h4 class="mb-3">Modernización</h4>
                                     <p>
                                         En 2020 lanzamos CAME PAGOS, aplicación digital de gestión de pagos orientada a

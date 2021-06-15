@@ -6,7 +6,7 @@
     <div class="col-md-4 my-4 center col-padding">
         <i class="icon-line-target color i-plain i-large mx-auto" style="cursor: default"></i>
         <h3 class="m-0">MISIÓN</h3>
-        <p>
+        <p class="pb-5">
             Defender los derechos e intereses de las entidades asociadas y sus pequeñas y medianas empresas,
             de los distintos sectores productivos, a lo largo de todo el país, de forma apartidaria, ética y
             representativa.
@@ -16,10 +16,10 @@
     <div class="col-md-4 my-4 center col-padding">
         <i class="icon-binoculars color i-plain i-large mx-auto" style="cursor: default"></i>
         <h3 class="m-0">VISIÓN</h3>
-        <P>Ser la entidad gremial empresaria que impulsa la modernización de las pymes, fomentando su
+        <p class="pt-1">Ser la entidad gremial empresaria que impulsa la modernización de las pymes, fomentando su
             crecimiento sustentable y brindándole las herramientas necesarias para que puedan fortalecerse y
             adoptar un panorama innovador con conciencia social y ambiental que les permita desarrollarse en
-            el plano nacional e internacional.</P>
+            el plano nacional e internacional.</p>
     </div>
 
     <div class="col-md-4 my-4 center col-padding">
