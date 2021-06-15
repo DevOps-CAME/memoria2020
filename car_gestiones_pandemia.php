@@ -4,7 +4,7 @@
         <div class="modal-body">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h4 class="modal-title" id="myModalLabel">Palabras del Dr. Díaz Beltrán</h4>
+                    <h4 class="modal-title" id="myModalLabel">Palabras del Dr. Gerardo Díaz Beltrán</h4>
 
                 </div>
                 <div class="testimonial ml-4 mr-4 mb-5" style="border: 1px solid #0293d6;">
@@ -18,10 +18,8 @@
                             momento de trabajar regionalmente para potenciar las oportunidades. Debemos formar una mesa
                             de diálogo permanente. De nosotros depende el futuro en los países de la región</p>
                         <div class="col-md-12 float-left testi-meta">
-                            Gerardo Díaz Beltrán
-                            <span>Presidente de la Confederación Argentina de la Mediana
-                                Empresa
-                                (CAME)</span>
+                            Dr. Gerardo Díaz Beltrán
+                            <span>Presidente de la CAME</span>
                         </div>
 
                     </div>
@@ -42,7 +40,7 @@
 
         </div>
         <div class="portfolio-desc">
-            <h4 class="car_titulo color">Palabras del Dr. Díaz Beltrán</h4>
+            <h4 class="car_titulo color">Palabras del Dr. Gerardo Díaz Beltrán</h4>
 
 
         </div>

@@ -22,10 +22,8 @@
                             permanente. De nosotros depende el futuro en los
                             países de la región</p>
                         <div class="col-md-12 float-left testi-meta">
-                            Gerardo Díaz Beltrán
-                            <span>Presidente de la Confederación Argentina de la Mediana
-                                Empresa
-                                (CAME)</span>
+                            Dr. Gerardo Díaz Beltrán
+                            <span>Presidente de la CAME</span>
                         </div>
                         <a href="http://www.redcame.org.ar/novedades/8026/la-falta-de-colaboracin-de-los-bancos-est-matando-a-las-pymes"
                             target="_blank"

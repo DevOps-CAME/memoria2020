@@ -125,41 +125,61 @@
                                     durante la pospandemia sigan desapareciendo empresas, pudiendo así conservarse las
                                     fuentes de trabajo.</p>
                             </div>
-
-                            <div class="col-md-6 p-3 m-0" style="
-    border-radius: 15px;
-    height: 100%;
-    border: 2px solid #4eb77c;
-">
-                                <a href="http://came.org.ar/eerr2019/index.html" target="_blank"> <img
-                                        src="imgs/tapa_eerr_2019.png" alt="Reseña Economías Regionales 2019"
-                                        class="card-img-top" /></a>
-                            </div>
-
-                            <div class="col-md-6">
-                                <img src="imgs/eerr_diciembre.png" alt="Diciembre 2020" class="card-img-top float-left"
-                                    style="width: 60%;" />
-                                <p>Además, el área continuó elaborando mensualmente el
-                                    Índice de
-                                    Precios en Origen y Destino (IPOD) y comenzó a difundir infografías que desagregan
-                                    los
-                                    precios
-                                    de los productos agropecuarios, visibilizando el impacto de la presión tributaria y
-                                    la
-                                    participación de cada eslabón de la cadena de valor en el precio final.
-                                </p>
-
-                                <em> DICIEMBRE 2020</em>
-
-                            </div>
-
-
                         </div>
 
 
                     </div>
 
                 </div>
+                <div class="section parallax p-5 skrollable skrollable-between"
+                    style="background-image: url(&quot;images/parallax/3.jpg&quot;); padding: 100px 0px; background-position: 0px 27.7599px;"
+                    data-bottom-top="background-position:0px 100px;" data-top-bottom="background-position:0px -100px;">
+
+
+
+                    <div class="container clearfix">
+                        <div class="row justify-content-center">
+
+
+                            <div class="col-md-6">
+                                <h3>Reseña 2019</h3>
+
+
+                                <a href="http://came.org.ar/eerr2019/index.html" target="_blank"> <img
+                                        src="imgs/tapa_eerr_2019.png" alt="Reseña Economías Regionales 2019"
+                                        class="card-img-top" /></a>
+                            </div>
+
+                            <div class="col-md-6">
+                                <h3>Infografías</h3>
+                                <div class="col-md-12 center">
+                                    <img src="imgs/eerr_diciembre.png" alt="Diciembre 2020" class="card-img-top"
+                                        style="width: 56%;" /> </br><em> DICIEMBRE 2020</em>
+                                </div>
+                                <div class="col-md-12">
+                                    <p class="pl-2">Además, el área continuó elaborando mensualmente el
+                                        Índice de
+                                        Precios en Origen y Destino (IPOD) y comenzó a difundir <bold>infografías</bold>
+                                        que
+                                        desagregan
+                                        los
+                                        precios
+                                        de los productos agropecuarios, visibilizando el impacto de la presión
+                                        tributaria y
+                                        la
+                                        participación de cada eslabón de la cadena de valor en el precio final.
+                                    </p>
+                                </div>
+
+
+
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+
 
 
 

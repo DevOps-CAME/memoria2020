@@ -51,8 +51,9 @@
                                 <h3>Reuniones y encuentros federales</h3>
                             </div>
                             <div class="col-md-4 mt-2 mb-2">
-                                <img src="imgs/foro_turismo.jpg"
-                                    alt="XIX Foro Internacional de Ciudad, Comercio y Turismo " class="card-img-top" />
+                                <div class="d-flex justify-content-center">
+                                    <i class="icon-bullhorn color ml-0 mb-3 i-plain"></i>
+                                </div>
                                 <bold>XIX Foro Internacional de Ciudad, Comercio y Turismo “Turismo y Comercio ante la
                                     pandemia”:</bold>
                                 Esta especial edición se realizó el 30 y 31 de julio de 2020, de forma virtual.
@@ -60,12 +61,18 @@
                                 más 2700 dirigentes.
                             </div>
                             <div class="col-md-4  mt-2 mb-2">
+                                <div class="d-flex justify-content-center">
+                                    <i class="icon-users color ml-0 mb-3 i-plain"></i>
+                                </div>
                                 Llevamos a cabo <bold>9 reuniones de la Mesa Nacional de CAME Turismo,</bold> 8 de las
                                 cuales se
-                                realizaron de forma virtual.</div>
+                                realizaron de forma virtual.
+                            </div>
 
                             <div class="col-md-4  mt-2 mb-2">
-                                <img src="imgs/turismo_reuniones.jpg" alt="" class="card-img-top" />
+                                <div class="d-flex justify-content-center">
+                                    <i class="icon-user-friends color ml-0 mb-3 i-plain"></i>
+                                </div>
                                 <bold>Realizamos reuniones de nuestro equipo técnico, </bold> que
                                 fortalecimos a través
                                 de
@@ -75,6 +82,7 @@
                                 la
                                 pandemia.
                             </div>
+                            <div class="clear mb-5"></div>
 
                             <div class="col-md-12 mt-2 mb-2">Organizamos encuentros con referentes destacados de la
                                 actividad turística, con el objetivo de realizar un diagnóstico de situación por la que
@@ -259,24 +267,24 @@
                             <div class="col-md-6">
                                 <h3 class="m-0 p-0"> </br></h3>
 
-                                <bold> Asimismo, impulsamos las siguientes formaciones, de carácter específico:
+                                <bold> Impulsamos las siguientes seminarios:
                                 </bold>
                                 <ul class="pl-4 iconlist">
-                                    <li><i class="icon-check"></i>Seminario “Turismo religioso”</li>
-                                    <li><i class="icon-check"></i>Seminario “Turismo circular, regenerativo y con
+                                    <li><i class="icon-check"></i>“Turismo religioso”</li>
+                                    <li><i class="icon-check"></i>“Turismo circular, regenerativo y con
                                         impacto post pandemia”</li>
-                                    <li><i class="icon-check"></i>Seminario "Turismo Urbano - La Ruta Argentina del
+                                    <li><i class="icon-check"></i>"Turismo Urbano - La Ruta Argentina del
                                         Art
                                         Nouveau"</li>
-                                    <li><i class="icon-check"></i>Seminario “Turismo accesible y Productos post
+                                    <li><i class="icon-check"></i>“Turismo accesible y Productos post
                                         pandemia" </li>
-                                    <li><i class="icon-check"></i>Seminario "Modelo de negocios turísticos de
+                                    <li><i class="icon-check"></i>"Modelo de negocios turísticos de
                                         triple
                                         impacto: experiencias y oportunidades" </li>
-                                    <li><i class="icon-check"></i>Seminario “Herramientas para una correcta gestión
+                                    <li><i class="icon-check"></i>“Herramientas para una correcta gestión
                                         de
                                         riesgos jurídicos en el Turismo de Naturaleza” </li>
-                                    <li><i class="icon-check"></i>Seminario "Turismo de proximidad y naturaleza
+                                    <li><i class="icon-check"></i>"Turismo de proximidad y naturaleza
                                         como
                                         eje de reactivación de las Economías Regionales"</li>
                                 </ul>

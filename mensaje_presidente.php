@@ -2,7 +2,7 @@
     <div class="container">
         <div id="mensaje_presidente" class="heading-block border-bottom-0 center">
 
-            <h2 class="nott font-weight-semibold">Mensaje del Presidente</h2>
+            <h2 class="nott font-weight-semibold text-left">Mensaje del Presidente</h2>
 
         </div>
 
@@ -14,9 +14,8 @@
                 <div style="float: left; width: 20vw; margin-right: 2rem; margin-bottom: 1rem;"><img
                         src="imgs/GerardoDiazBeltran.jpg" alt="Gerardo Díaz Beltrán" style="border-radius: 10px;" />
                     <div class="testi-meta mt-4">
-                        Gerardo Díaz Beltrán
-                        <span class="ls0">Presidente de la Confederación Argentina de la Mediana Empresa
-                            (CAME)</span>
+                        Dr. Gerardo Díaz Beltrán
+                        <span class="ls0">Presidente de la CAME</span>
                     </div>
                 </div>
 

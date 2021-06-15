@@ -105,11 +105,11 @@
                                         <img src="imgs/rrhh/05.jpg" alt="Image">
 
                                     </div>
-                                    <div class="slide" data-thumb="imgs/rrhh/06.jpg">
+                                    <!--  <div class="slide" data-thumb="imgs/rrhh/06.jpg">
 
                                         <img src="imgs/rrhh/06.jpg" alt="Image">
 
-                                    </div>
+                                    </div> -->
                                     <div class="slide" data-thumb="imgs/rrhh/07.jpg">
 
                                         <img src="imgs/rrhh/07.jpg" alt="Image">

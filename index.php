@@ -84,7 +84,8 @@ include "header.html";
                                 </h2>
 
                                 <p class="lead">
-                                    que agrupan a más 600.000 empresas pymes que dan trabajo a 4.200.000 personas.
+                                    que agrupan a más de 600.000 empresas pymes</br> que dan trabajo a 4.200.000
+                                    personas.
                                 </p>
                             </div>
                         </div>

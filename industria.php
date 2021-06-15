@@ -140,100 +140,108 @@
                                             </div>
                                         </div>
                                     </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="section parallax p-5"
+                        style="background-image: url('images/parallax/3.jpg'); padding: 100px 0;"
+                        data-bottom-top="background-position:0px 100px;"
+                        data-top-bottom="background-position:0px -100px;">
+                        <div class="row  justify border-bottom-0 mb-0 d-flex align-items-center">
 
-                                    <div class="col-md-12 d-flex align-items-center">
-                                        <div class="col-md-6">
-                                            <div class="feature-box fbox-small fbox-effect">
+                            <div class="col-md-12 d-flex align-items-center">
+                                <div class="col-md-2"></div>
+                                <div class="col-md-5">
+                                    <div class="feature-box fbox-small fbox-effect">
 
-                                                <div class="fbox-content">
-                                                    <div class="counter color"><span data-from="1" data-to="1"
-                                                            data-refresh-interval="10" data-speed="1600">1</span> </div>
-
-                                                    <p> reunión especial de Comité, realizada de manera virtual, en
-                                                        conmemoración del <bold>
-                                                            Día
-                                                            de la Industria.
-
-                                                        </bold>
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
+                                        <div class="fbox-content col-lg-6 text-right">
 
 
-                                        <div class="col-md-6">
-                                            <iframe src="https://player.vimeo.com/video/454027719" width="500"
-                                                height="281" allow="autoplay; fullscreen" allowfullscreen></iframe>
+                                            <h2> Realizamos una reunión especial de Comité, de manera virtual,
+                                                en
+                                                conmemoración<br> del Día de la Industria.
 
+                                            </h2>
                                         </div>
                                     </div>
+                                </div>
+
+
+                                <div class="col-md-4">
+                                    <iframe src="https://player.vimeo.com/video/454027719" width="500" height="281"
+                                        allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+                                </div>
+                                <div class="col-md-1"></div>
+                            </div>
+                        </div>
+                    </div>
 
 
 
 
 
+                    <div class="center page-section col-md-12">
+                        <div class="container clearfix">
+                            <div class="row  text-justify d-flex align-items-center">
+                                <div class="col-md-6">
+                                    <p>Asimismo, el sector participó en <bold>eventos
+                                            virtuales</bold> afines a la actividad, entre los que se destacan el webinar
+                                        “Economía
+                                        circular, energía y residuos: desafíos para la nueva década"; la
+                                        videoconferencia de
+                                        UADA "¿Cómo
+                                        actuar ante un caso de COVID-19 en mi empresa?”; y la Convención CEMA
+                                        2020.</br></br>
+
+                                        Por su parte la Comisión de Ambiente del Sector Industrial, realizó 12
+                                        encuentros a
+                                        lo
+                                        largo del
+                                        año, y mantuvo una <bold>audiencia virtual con el Ministerio de Ambiente y
+                                            Desarrollo Sostenible de la Nación,</bold> Sr. Juan Cabandié, en la que
+                                        abordamos
+                                        inquietudes vinculadas a los residuos industriales, entre otros temas
+                                        relacionados
+                                        con
+                                        la
+                                        industria pyme y el ambiente.</br>
+
+                                        Como proyecto especial, trabajamos durante el 2020 en una <bold>Zonificación del
+                                            sector industrial</bold> en todo el país. Esta agrupación se generó pensando
+                                        en
+                                        la
+                                        producción y las distintas problemáticas de cada rubro. A su vez, se resolvió
+                                        designar
+                                        referentes zonales para atender con mayores herramientas sus necesidades, hacer
+                                        un
+                                        mejor
+                                        seguimiento del trabajo y poder llevar adelante encuentros regionales.
+
+                                    </p>
+                                </div>
+                                <div class="col-md-6">
+                                    <img src="imgs/industria_reunion.png" alt="" class="card-img-top" />
                                 </div>
                             </div>
 
+
                         </div>
                     </div>
-                </div>
-
-                <div class="center page-section col-md-12">
-                    <div class="container clearfix">
-                        <div class="row  text-justify d-flex align-items-center">
-                            <div class="col-md-6">
-                                <p>Asimismo, el sector participó en <bold>eventos
-                                        virtuales</bold> afines a la actividad, entre los que se destacan el webinar
-                                    “Economía
-                                    circular, energía y residuos: desafíos para la nueva década"; la videoconferencia de
-                                    UADA "¿Cómo
-                                    actuar ante un caso de COVID-19 en mi empresa?”; y la Convención CEMA
-                                    2020.</br></br>
-
-                                    Por su parte la Comisión de Ambiente del Sector Industrial, realizó 12 encuentros a
-                                    lo
-                                    largo del
-                                    año, y mantuvo una <bold>audiencia virtual con el Ministerio de Ambiente y
-                                        Desarrollo Sostenible de la Nación,</bold> Sr. Juan Cabandié, en la que
-                                    abordamos
-                                    inquietudes vinculadas a los residuos industriales, entre otros temas relacionados
-                                    con
-                                    la
-                                    industria pyme y el ambiente.</br>
-
-                                    Como proyecto especial, trabajamos durante el 2020 en una <bold>Zonificación del
-                                        sector industrial</bold> en todo el país. Esta agrupación se generó pensando en
-                                    la
-                                    producción y las distintas problemáticas de cada rubro. A su vez, se resolvió
-                                    designar
-                                    referentes zonales para atender con mayores herramientas sus necesidades, hacer un
-                                    mejor
-                                    seguimiento del trabajo y poder llevar adelante encuentros regionales.
-
-                                </p>
-                            </div>
-                            <div class="col-md-6">
-                                <img src="imgs/industria_reunion.png" alt="" class="card-img-top" />
-                            </div>
-                        </div>
-
-
-                    </div>
-                </div>
 
 
 
 
-                <?php include "anterior_siguiente.php"; ?>
+                    <?php include "anterior_siguiente.php"; ?>
 
-                <!-- fin Contenido
+                    <!-- fin Contenido
     ============================================= -->
 
 
 
 
-            </div>
+                </div>
         </section>
         <!-- #content end -->
 

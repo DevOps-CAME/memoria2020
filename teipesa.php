@@ -78,7 +78,7 @@
                                 y
                                 apoyo de federaciones y cámaras, mediante la incorporación de TIENDA CHACO y la
                                 firma
-                                del acuerdo para sumar a TIENDA SANJUANINA. TIENDA SALTA, lanzada en 2019, continuó
+                                del acuerdo para sumar a TIENDA SANJUANINA. TIENDA SALTA continuó
                                 su
                                 operación luego del lanzamiento realizado en 2019. Así, entre ambas tiendas contamos
                                 con
@@ -112,9 +112,7 @@
                                 de
                                 los comercios pymes. En breve contaremos con la funcionalidad de pago de impuestos y
                                 servicios
-                                e incorporaremos el programa AHORA 12. A raíz de un acuerdo con VISA, lanzaremos la
-                                primera
-                                tarjeta prepaga business de Latinoamérica en los primeros meses de 2021.
+                                e incorporaremos el programa AHORA 12.
                             </p>
 
                         </div>

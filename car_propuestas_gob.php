@@ -1,5 +1,5 @@
 <div id="car_propuestas_gob" class="owl-carousel portfolio-carousel carousel-widget" data-pagi="true" data-items-xs="1"
-    data-items-sm="2" data-items-md="4" data-items-lg="4">
+    data-items-sm="2" data-items-md="4" data-items-lg="4" autoplay="true">
 
     <div class="portfolio-item">
         <div class="portfolio-image">

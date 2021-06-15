@@ -33,7 +33,7 @@
                     <div class="container clearfix">
 
                         <h2 class="subtitulo">
-                            HACIENDA
+                            Hacienda
                         </h2>
                         <p>
                             El escenario de pandemia trajo grandes oportunidades para la Secretaría de Hacienda,
@@ -72,21 +72,33 @@
 
                     <div class="row mt-4 col-mb-50">
 
-                        <div class="col-lg-3">
+                        <div class="col-md-6 mt-0 mb-0">
                             <div class="d-flex justify-content-center"><i class="i-circled icon-bar-chart inline-block"
                                     style="margin-bottom: 15px;"></i></div>
                             <div class="heading-block border-bottom-0" style="margin-bottom: 15px;">
                             </div>
-                            <h4 class="text-justify">Preservar los salarios de los empleados.</h4>
+                            <h4 class="text-center">Preservar los salarios de los empleados de la Confederación
+                                Argentina de la Mediana Empresa (CAME).</h4>
                         </div>
+                        <div class="col-md-6 mt-0 mb-0 pb-0">
+                            <div class="d-flex justify-content-center"><i class="i-circled icon-calendar inline-block"
+                                    style="margin-bottom: 15px;"></i></div>
+                            <div class="heading-block border-bottom-0" style="margin-bottom: 15px;">
 
-                        <div class="col-lg-3">
+                            </div>
+                            <h4 class="text-center">Realizar un estricto ajuste de todos los gastos que no fueran
+                                indispensables. Para ello,
+                                fue fundamental
+                                el apoyo de todos los sectores de la entidad, los cuales analizaron uno a uno cada
+                                servicio que tenían contratado.</h4>
+                        </div>
+                        <div class="col-md-6 mt-0 mb-0">
                             <div class="d-flex justify-content-center"><i class=" i-circled icon-refresh inline-block "
                                     style="margin-bottom: 15px;"></i></div>
                             <div class="heading-block border-bottom-0" style="margin-bottom: 15px;">
 
                             </div>
-                            <h4 class="text-justify">Cumplir con los compromisos asumidos con todas las entidades,
+                            <h4 class="text-center">Cumplir con los compromisos asumidos con todas las entidades,
                                 asegurando los aportes a
                                 aquellas que perciben
                                 fondos del INACAP, teniendo en cuenta que debían afrontan gastos de sueldos, servicios,
@@ -96,26 +108,15 @@
                                 sino el único ingreso.</h4>
                         </div>
 
-                        <div class="col-lg-3">
-                            <div class="d-flex justify-content-center"><i class="i-circled icon-calendar inline-block"
-                                    style="margin-bottom: 15px;"></i></div>
-                            <div class="heading-block border-bottom-0" style="margin-bottom: 15px;">
 
-                            </div>
-                            <h4 class="text-justify">Realizar un estricto ajuste de todos los gastos que no fueran
-                                indispensables. Para ello,
-                                fue fundamental
-                                el apoyo de todos los sectores de la entidad, los cuales analizaron uno a uno cada
-                                servicio que tenían contratado.</h4>
-                        </div>
 
-                        <div class="col-lg-3">
+                        <div class="col-md-6 mt-0 mb-0">
                             <div class="d-flex justify-content-center"><i class="i-circled icon-cogs inline-block"
                                     style="margin-bottom: 15px;"></i></div>
                             <div class="heading-block border-bottom-0" style="margin-bottom: 15px;">
 
                             </div>
-                            <h4 class="text-justify">Renegociar los contratos vigentes, logrando obtener una disminución
+                            <h4 class="text-center">Renegociar los contratos vigentes, logrando obtener una disminución
                                 en el costo de
                                 varios servicios,
                                 como ser limpieza, seguridad, mantenimiento, entre otros.</h4>
@@ -206,7 +207,7 @@
                     <div id="section-about" class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
                         <div class="container clearfix">
                             <h2 class="subtitulo">
-                                ADMINISTRACIÓN DE PRESUPUESTOS
+                                Administración de presupuestos
                             </h2>
 
 
@@ -264,16 +265,19 @@
                                         <div class="heading-block border-bottom-0" style="margin-bottom: 15px;">
 
                                         </div>
-                                        <h4 class="text-justify">Encuesta de satisfacción a las entidades a las que se
+                                        <h4 class="text-justify mb-0 pb-0">Encuesta de satisfacción a las entidades a
+                                            las que se
                                             brinda
                                             apoyo:</h4>
-                                        <p>* 73 % de respuestas</p>
-                                        <p>* Resultado promedio de 9.20 entre los ítems: Velocidad de respuesta a
-                                            solicitudes, Atención del personal y Calidad del servicio prestado.</p>
-                                        <p>* Encuesta interna a los directivos involucrados. Su resultado fue un
-                                            promedio de
-                                            9.33 entre los puntos: Gestión de autorizaciones y Reportes de gestión.
-                                        </p>
+                                        <ul class="text-justify pl-4">
+                                            <li>73 % de respuestas</li>
+                                            <li> Resultado promedio de 9.20 entre los ítems: Velocidad de respuesta a
+                                                solicitudes, Atención del personal y Calidad del servicio prestado.</li>
+                                            <li> Encuesta interna a los directivos involucrados. Su resultado fue un
+                                                promedio de
+                                                9.33 entre los puntos: Gestión de autorizaciones y Reportes de gestión.
+                                            </li>
+                                        </ul>
                                     </div>
 
 

@@ -377,7 +377,9 @@
                                 <div class="row">
                                     <div class="col-md-6">
 
-                                        <h4 class="p-0 m-0"><i class="icon-facebook1"></i> Facebook</h4>
+                                        <a href="https://www.facebook.com/redcame" target="_blank">
+                                            <h4 class="p-0 m-0 color"><i class="icon-facebook1"></i> Facebook</h4>
+                                        </a>
                                         <ul class="iconlist">
                                             <li><i class="icon-ok"></i>Cantidad de seguidores actual: 560.661 personas.
                                             </li>
@@ -386,27 +388,32 @@
                                             <li><i class="icon-ok"></i>Se sumaron 33.796 nuevos seguidores.</li>
                                             <li><i class="icon-ok"></i>Se lograron 2.193.746 interacciones.</li>
                                         </ul>
-                                        <h4 class="p-0 m-0"><i class="icon-twitter1"></i> Twitter</h4>
-                                        <ul class="iconlist">
-                                            <li><i class="icon-ok"></i>Se lograron 3.6 millones de apariciones a
-                                                diferentes
-                                                usuarios de nuestros tweets (impresiones).</li>
-                                            <li><i class="icon-ok"></i>Se ganaron 1.772 nuevos seguidores.</li>
-                                            <li><i class="icon-ok"></i>Tuiteamos 1.017 publicaciones.</li>
-                                            <li><i class="icon-ok"></i>11.527 cuentas institucionales, de personas, de
-                                                medios,
-                                                etc. mencionaron a @redcame en sus cuentas.
-                                        </ul>
-                                    </div>
-                                    <div class="col-md-6">
-                                        <h4 class="p-0 m-0"><i class="icon-instagram1"></i> Instagram</h4>
+                                        <a href="https://www.instagram.com/redcame/" target="_blank">
+                                            <h4 class="p-0 m-0 color"><i class="icon-instagram1"></i> Instagram</h4>
+                                        </a>
                                         <ul class="iconlist">
                                             <li><i class="icon-ok"></i>Se publicaron 488 posteos en el feed.</li>
                                             <li><i class="icon-ok"></i>Se lograron en el 1° año del uso de la red social
                                                 4.100
                                                 seguidores de manera orgánica.</li>
                                         </ul>
-                                        <h4 class="p-0 m-0"><i class="icon-linkedin1"></i> LinkedIn</h4>
+
+                                    </div>
+                                    <div class="col-md-6">
+                                        <a href="https://twitter.com/redcame" target="_blank">
+                                            <h4 class="p-0 m-0 color"><i class="icon-twitter1"></i> Twitter</h4>
+                                        </a>
+                                        <ul class="iconlist">
+                                            <li><i class="icon-ok"></i>Se lograron 3.6 millones de impresiones de
+                                                nuestros tweets.</li>
+                                            <li><i class="icon-ok"></i>Se ganaron 1.772 nuevos seguidores.</li>
+                                            <li><i class="icon-ok"></i>Tuiteamos 1.017 publicaciones.</li>
+                                            <li><i class="icon-ok"></i>11.527 cuentas mencionaron a @redcame.
+                                        </ul>
+                                        <a href="https://www.linkedin.com/company/confederaci-n-argentina-de-la-mediana-empresa-came-/mycompany/"
+                                            target="_blank">
+                                            <h4 class="p-0 m-0 color"><i class="icon-linkedin1"></i> LinkedIn</h4>
+                                        </a>
                                         <ul class="iconlist">
                                             <li><i class="icon-ok"></i>Se publicaron 150 posteos.</li>
                                             <li><i class="icon-ok"></i>Actualmente hay 4.852 seguidores en la
@@ -616,7 +623,7 @@
                 </div>
 
 
-                <div class="center page-section col-lg-12 col-md-12 mt-5 mb-5">
+                <div class="center page-section col-lg-12 col-md-12 mt-2 mb-5">
                     <div class="container clearfix">
 
                         <p>

@@ -164,86 +164,91 @@
                                     </div>
                                 </div>
 
+                            </div>
+                        </div>
+                    </div>
+                </div>
 
+                <div class="section parallax p-5"
+                    style="background-image: url('images/parallax/3.jpg'); padding: 100px 0;"
+                    data-bottom-top="background-position:0px 100px;" data-top-bottom="background-position:0px -100px;">
+                    <div class="row  justify border-bottom-0 mb-0 d-flex align-items-center">
+                        <div class="col-md-4">
+                            <div class="feature-box fbox-small fbox-effect">
 
-                                <div class="col-md-3">
-                                    <div class="feature-box fbox-small fbox-effect">
-
-                                        <div class="fbox-content">
-                                            <div class="counter color"><span data-from="1" data-to="6"
-                                                    data-refresh-interval="10" data-speed="1600">6</span> </div>
-
-                                            <p>
-                                                <bold>campañas audiovisuales
-                                                    de concientización</bold> que destacan el rol del comercio en la
-                                                comunidad y apelan a la responsabilidad sanitaria.
-                                            </p>
-                                        </div>
-                                    </div>
+                                <div class="fbox-content">
+                                    <p>
+                                        <bold>6 campañas audiovisuales
+                                            de concientización</bold> que destacan el rol del comercio
+                                        en la
+                                        comunidad y apelan a la responsabilidad sanitaria.
+                                    </p>
                                 </div>
-                                <div class="col-md-9">
-                                    <div id="related-portfolio"
-                                        class="owl-carousel owl-carousel-full portfolio-carousel carousel-widget"
-                                        data-margin="3" data-pagi="true" data-items-xs="1" data-items-sm="2"
-                                        data-items-md="3" data-items-lg="3">
+                            </div>
+                        </div>
+                        <div class="col-md-8">
 
-                                        <article class="portfolio-item pf-graphics pf-uielements">
-                                            <div class="grid-inner">
-                                                <iframe
-                                                    src="https://player.vimeo.com/video/518719612?byline=0&portrait=0"
-                                                    width="640" height="640" frameborder="0"
-                                                    allow="autoplay; fullscreen; picture-in-picture"
-                                                    allowfullscreen></iframe>
-                                            </div>
-                                        </article>
-                                        <article class="portfolio-item pf-graphics pf-uielements">
-                                            <div class="grid-inner">
-                                                <iframe
-                                                    src="https://player.vimeo.com/video/413111367?byline=0&portrait=0"
-                                                    width="640" height="640" frameborder="0"
-                                                    allow="autoplay; fullscreen; picture-in-picture"
-                                                    allowfullscreen></iframe>
-                                            </div>
-                                        </article>
-                                        <article class="portfolio-item pf-graphics pf-uielements">
-                                            <div class="grid-inner">
-                                                <iframe
-                                                    src="https://player.vimeo.com/video/546621874?byline=0&portrait=0"
-                                                    width="640" height="640" frameborder="0"
-                                                    allow="autoplay; fullscreen; picture-in-picture"
-                                                    allowfullscreen></iframe>
-                                            </div>
-                                        </article>
 
-                                        <article class="portfolio-item pf-graphics pf-uielements">
-                                            <div class="grid-inner">
-                                                <iframe
-                                                    src="https://player.vimeo.com/video/518735564?byline=0&portrait=0"
-                                                    width="640" height="640" frameborder="0"
-                                                    allow="autoplay; fullscreen; picture-in-picture"
-                                                    allowfullscreen></iframe>
-                                            </div>
-                                        </article>
-                                        <article class="portfolio-item pf-graphics pf-uielements">
-                                            <div class="grid-inner">
-                                                <iframe
-                                                    src="https://player.vimeo.com/video/437850892?byline=0&portrait=0"
-                                                    width="640" height="640" frameborder="0"
-                                                    allow="autoplay; fullscreen; picture-in-picture"
-                                                    allowfullscreen></iframe>
-                                            </div>
-                                        </article>
-                                        <article class="portfolio-item pf-graphics pf-uielements">
-                                            <div class="grid-inner">
-                                                <iframe
-                                                    src="https://player.vimeo.com/video/518712883?byline=0&portrait=0"
-                                                    width="640" height="640" frameborder="0"
-                                                    allow="autoplay; fullscreen; picture-in-picture"
-                                                    allowfullscreen></iframe>
-                                            </div>
-                                        </article>
+                            <div id="related-portfolio"
+                                class="owl-carousel owl-carousel-full portfolio-carousel carousel-widget"
+                                data-margin="3" data-pagi="true" data-items="6" data-items-xs="1" data-items-sm="2"
+                                data-items-md="3" data-items-lg="4">
+
+                                <article class="portfolio-item pf-graphics pf-uielements">
+                                    <div class="grid-inner">
+                                        <iframe src="https://player.vimeo.com/video/518719612?byline=0&portrait=0"
+                                            width="640" height="640" frameborder="0"
+                                            allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
                                     </div>
-                                </div>
+                                </article>
+                                <article class="portfolio-item pf-graphics pf-uielements">
+                                    <div class="grid-inner">
+                                        <iframe src="https://player.vimeo.com/video/413111367?byline=0&portrait=0"
+                                            width="640" height="640" frameborder="0"
+                                            allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+                                    </div>
+                                </article>
+                                <article class="portfolio-item pf-graphics pf-uielements">
+                                    <div class="grid-inner">
+                                        <iframe src="https://player.vimeo.com/video/546621874?byline=0&portrait=0"
+                                            width="640" height="640" frameborder="0"
+                                            allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+                                    </div>
+                                </article>
+
+                                <article class="portfolio-item pf-graphics pf-uielements">
+                                    <div class="grid-inner">
+                                        <iframe src="https://player.vimeo.com/video/518735564?byline=0&portrait=0"
+                                            width="640" height="640" frameborder="0"
+                                            allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+                                    </div>
+                                </article>
+                                <article class="portfolio-item pf-graphics pf-uielements">
+                                    <div class="grid-inner">
+                                        <iframe src="https://player.vimeo.com/video/437850892?byline=0&portrait=0"
+                                            width="640" height="640" frameborder="0"
+                                            allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+                                    </div>
+                                </article>
+                                <article class="portfolio-item pf-graphics pf-uielements">
+                                    <div class="grid-inner">
+                                        <iframe src="https://player.vimeo.com/video/518712883?byline=0&portrait=0"
+                                            width="640" height="640" frameborder="0"
+                                            allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+                                    </div>
+                                </article>
+                            </div>
+
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container clearfix">
+                    <div class="row justify-content-center">
+                        <div class="col-md-12">
+                            <div class="row col-mb-30 mb-5">
+
 
                                 <div class="clear mb-5"></div>
 
