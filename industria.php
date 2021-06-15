@@ -43,6 +43,8 @@
 
                         <div class="row  text-justify">
                             <div class="col-md-4">
+                                <div class="d-flex justify-content-center"> <i
+                                        class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
                                 <p>
                                     Durante el 2020, con el propósito de morigerar la situación de las pymes
                                     industriales afectadas por las medidas de prevención que se dispusieron ante la
@@ -53,6 +55,8 @@
                                 </p>
                             </div>
                             <div class="col-md-4">
+                                <div class="d-flex justify-content-center"> <i
+                                        class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
                                 <p>
                                     Con el mismo espíritu, solicitamos a la Secretaría de Energía de la Nación la
                                     reducción de
@@ -62,6 +66,8 @@
                                         Comisión Pymes de ENARGAS,</bold> asistiendo a las reuniones mensuales.</p>
                             </div>
                             <div class="col-md-4">
+                                <div class="d-flex justify-content-center"> <i
+                                        class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
                                 <p>
                                     Durante este especial período, también, se creó la <bold>Comisión de Minería
                                     </bold> del Sector Industrial, que se propone elaborar un Manual de Procedimientos,

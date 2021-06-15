@@ -63,7 +63,7 @@
                                 <div class="clear"></div>
 
 
-                                <div class="col-md-4">
+                                <div class="col-md-3">
                                     <div class="feature-box fbox-small fbox-effect">
 
                                         <div class="fbox-content">
@@ -78,7 +78,7 @@
                                     </div>
                                 </div>
 
-                                <div class="col-md-4">
+                                <div class="col-md-3">
                                     <div class="feature-box fbox-small fbox-effect">
 
                                         <div class="fbox-content">
@@ -93,7 +93,7 @@
                                     </div>
                                 </div>
 
-                                <div class="col-md-4">
+                                <div class="col-md-3">
                                     <div class="feature-box fbox-small fbox-effect">
 
                                         <div class="fbox-content">
@@ -108,7 +108,7 @@
                                     </div>
                                 </div>
 
-                                <div class="col-md-12">
+                                <div class="col-md-3">
                                     <div class="feature-box fbox-small fbox-effect">
 
                                         <div class="fbox-content">
@@ -117,10 +117,8 @@
 
                                             <p>
                                                 <bold>países participantes:
-                                                </bold> Paraguay, Chile, EEUU y Argentina, que contó con representación
-                                                de las provincias de Buenos Aires, CABA, Mendoza, Santa Fe, Córdoba,
-                                                Chaco, Corrientes, Entre Ríos, Misiones, Río Negro, Santa Cruz y Tierra
-                                                del Fuego.
+                                                </bold>Paraguay, Chile, EEUU y Argentina, que contó con representación
+                                                de 12 provincias
                                             </p>
                                         </div>
                                     </div>

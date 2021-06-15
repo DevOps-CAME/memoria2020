@@ -54,50 +54,25 @@
                                 </p>
                             </div>
 
-                            <div class="col-md-6 ">
 
-                                <div class="row">
-                                    <div class="col-md-6">
-                                        <p>
-                                            Llevamos a cabo la 19° edición del Premio Joven Empresario, encuentro que en
-                                            este
-                                            particular contexto se desarrolló de manera virtual, con la participación de
-                                            finalistas
-                                            de 16 provincias.
 
-                                        </p>
-                                    </div>
-                                    <div class="col-md-6"><img src="imgs/jovenes_premio.jpg" alt=""
-                                            class="card-img-top float-left" /></div>
-                                </div>
-                            </div>
 
-                            <div class="col-md-6 ">
+                            <div class="col-md-4 ">
+                                <div class="d-flex justify-content-center"> <i
+                                        class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
+
 
                                 <p>
-                                    Nos reunimos con referentes de entidades colegas y otros actores vinculados al
-                                    sector,
-                                    con el propósito de compartir experiencias en el marco de la crisis económica
-                                    producida
-                                    por la pandemia:</p>
-                                <ul class="ml-4">
-                                    <li>Encuentro multisectorial con representantes de: Juventud CGT, UNAJE, CGERA
-                                        Joven,
-                                        ACDE Joven y el Observatorio de la Juventud de la Cámara de Diputados de la
-                                        Nación.
-                                    </li>
-                                    <li>Reunión con la Sra. Mariela Balbo, Subsecretaria de Emprendedores (Secretaría de
-                                        la
-                                        Pequeña y Mediana Empresa y de los Emprendedores del Ministerio de Desarrollo
-                                        Productivo de la Nación).</li>
-                                    <li>Encuentro virtual con el Diputado por la provincia de San Luis, Sr. Alejandro
-                                        Cacace.</li>
-                                    <li>Audiencia virtual con la senadora nacional Eugenia Catalfamo (San Luis).</li>
-                                </ul>
+                                    Llevamos a cabo la 19° edición del Premio Joven Empresario, encuentro que en
+                                    este
+                                    particular contexto se desarrolló de manera virtual, con la participación de
+                                    finalistas
+                                    de 16 provincias.
+
+                                </p>
 
                             </div>
-
-                            <div class="col-md-6 ">
+                            <div class="col-md-4">
                                 <div class="d-flex justify-content-center"> <i
                                         class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
                                 <p>
@@ -111,7 +86,7 @@
 
                                 </p>
                             </div>
-                            <div class="col-md-6 ">
+                            <div class="col-md-4">
                                 <div class="d-flex justify-content-center"> <i
                                         class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
                                 <p>
@@ -150,6 +125,31 @@
                             </div>
 
 
+                            <div class="col-md-12 ">
+
+                                <h3>
+                                    Nos reunimos con referentes de entidades colegas y otros actores vinculados al
+                                    sector,
+                                    con el propósito de compartir experiencias en el marco de la crisis económica
+                                    producida
+                                    por la pandemia:</h3>
+                                <ul class=" pl-5">
+                                    <li>Encuentro multisectorial con representantes de: Juventud CGT, UNAJE, CGERA
+                                        Joven,
+                                        ACDE Joven y el Observatorio de la Juventud de la Cámara de Diputados de la
+                                        Nación.
+                                    </li>
+                                    <li>Reunión con la Sra. Mariela Balbo, Subsecretaria de Emprendedores (Secretaría de
+                                        la
+                                        Pequeña y Mediana Empresa y de los Emprendedores del Ministerio de Desarrollo
+                                        Productivo de la Nación).</li>
+                                    <li>Encuentro virtual con el Diputado por la provincia de San Luis, Sr. Alejandro
+                                        Cacace.</li>
+                                    <li>Audiencia virtual con la senadora nacional Eugenia Catalfamo (San Luis).</li>
+                                </ul>
+
+                            </div>
+
                             <div class="col-md-12   text-justify">
                                 <h3>Objetivos del área cumplidos:</h3>
                                 <p>
@@ -170,6 +170,8 @@
                                 </ul>
                                 </p>
                             </div>
+
+
 
 
 

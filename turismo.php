@@ -191,7 +191,7 @@
                                 <div class="d-flex justify-content-center"> <i
                                         class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
                                 <p>
-                                    - A partir del intercambio con líderes del sector, y referentes de todas las
+                                    A partir del intercambio con líderes del sector, y referentes de todas las
                                     provincias,
                                     elaboramos el documento denominado <bold>
                                         <a href="https://www.redcame.org.ar/novedades/10141/enviamos-al-presidente-de-la-nacion-reflexiones-y-propuestas-para-apoyar-la-recuperacion-del-turismo-en-el-marco-de-la-pandemia"

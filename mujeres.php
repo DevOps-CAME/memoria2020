@@ -137,7 +137,7 @@
                                 </p>
 
                             </div>
-                            <div class="col-md-4 text-justify">
+                            <div class="col-md-6 text-justify">
                                 <div class="d-flex justify-content-center"> <i
                                         class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
                                 <h3 class="text-center">Relevamientos de situación</h3>
@@ -164,11 +164,9 @@
                                 </p>
 
                             </div>
-                            <div class="col-md-4 mt-5"></br></br></br>
-                                <img src="imgs/mujeres_reunion.png" alt="" class="card-img-top float-right" />
-                            </div>
 
-                            <div class="col-md-4 text-justify">
+
+                            <div class="col-md-6 text-justify">
 
                                 <div class="d-flex justify-content-center"> <i
                                         class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>

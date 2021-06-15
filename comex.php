@@ -38,26 +38,45 @@
                         <h2 class="subtitulo">Impulso a la internacionalización de la producción nacional pyme
                         </h2>
 
-                        <p>En el marco de un proyecto de internacionalización que CAME
+                        <h3 class="text-left">En el marco de un proyecto de internacionalización que CAME
                             viene realizando en los últimos años, en 2020:
-                        </p>
-                        <p>• Mantuvimos diferentes encuentros con empresarios para realizar relevamientos sobre el
-                            impacto de los cambios normativos que alcanzaron a exportadores durante el período de la
-                            emergencia sanitaria.
-                        </p>
+                        </h3>
+                        <div class="row">
+                            <div class="col-md-4">
+                                <div class="d-flex justify-content-center"> <i
+                                        class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
+                                <p>Mantuvimos diferentes encuentros con empresarios para realizar relevamientos sobre el
+                                    impacto de los cambios normativos que alcanzaron a exportadores durante el período
+                                    de la
+                                    emergencia sanitaria.
+                                </p>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="d-flex justify-content-center"> <i
+                                        class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
 
-                        <p>• Informamos a nuestras entidades asociadas, a través de circulares institucionales, sobre
-                            los cambios relevantes que afectaron al sector pyme.
-                        </p>
+                                <p>Informamos a nuestras entidades asociadas, a través de circulares institucionales,
+                                    sobre
+                                    los cambios relevantes que afectaron al sector pyme.
+                                </p>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="d-flex justify-content-center"> <i
+                                        class="icon-line-check-circle color ml-0 mb-4 i-plain "></i></div>
 
-                        <p>• Se consolidó la promoción y apoyo al Consorcio de Exportación 1790 – Cueros Argentinos para
-                            la adaptación a los desafíos de nuevos escenarios para las acciones concernientes al
-                            comienzo de la actividad del mismo. En ese sentido, se registran negociaciones avanzadas
-                            para exportaciones a Uruguay y Chile.
+                                <p>Se consolidó la promoción y apoyo al Consorcio de Exportación 1790 – Cueros
+                                    Argentinos
+                                    para
+                                    la adaptación a los desafíos de nuevos escenarios para las acciones concernientes al
+                                    comienzo de la actividad del mismo. En ese sentido, se registran negociaciones
+                                    avanzadas
+                                    para exportaciones a Uruguay y Chile.
 
 
 
-                        </p>
+                                </p>
+                            </div>
+                        </div>
 
                         <div class="clear"></div>
                     </div>
