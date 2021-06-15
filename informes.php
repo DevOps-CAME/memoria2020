@@ -44,7 +44,7 @@
                             propuestas adquieren al ser difundidas en medios de prensa, propiciando el debate,
                             amplificando la perspectiva sobre el sector y enriqueciendo la agenda en torno a la
                             recuperación económica y productiva, tanto a nivel regional como federal, desde CAME
-                            durante 2020:
+                            durante 2020 realizamos:
                         </p>
                         <div class="clear"></div>
                     </div>
