@@ -15,12 +15,9 @@
                             <img src="imgs/gest_bcra/GDB_BCRA_01.jpg" alt="Gerardo Díaz Beltrán"
                                 style="border-radius: 5px;">
                         </div>
-                        <p>Esta pandemia dio visibilidad a los problemas
-                            estructurales de las pymes y la sociedad. Es el
-                            momento de trabajar regionalmente para potenciar las
-                            oportunidades. Debemos formar una mesa de diálogo
-                            permanente. De nosotros depende el futuro en los
-                            países de la región</p>
+                        <p>Ante la agonía de las pequeñas y medianas empresas, los bancos no muestran ningún gesto
+                            solidario para salvaguardar al sector más importante generador de empleo privado. En estos
+                            momentos necesitamos apoyo económico, no especulación.</p>
                         <div class="col-md-12 float-left testi-meta">
                             Dr. Gerardo Díaz Beltrán
                             <span>Presidente de la CAME</span>
