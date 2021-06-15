@@ -132,7 +132,7 @@
                         <div class="row">
                             <div class="col-md-12 mt-5 mb-0">
                                 <h2 class="subtitulo">
-                                    CAME a la vanguardia: propuestas para las pymes en el escenario
+                                    CAME a la vanguardia: propuestas para sostener a las pymes en el escenario
                                     de la pandemia
                                 </h2>
                             </div>
@@ -175,7 +175,7 @@
                             </div>
                             <div class="col-md-12 mb-3">
                                 <p class="lead mx-auto m-0 p-0">
-                                    En un año que ha ejercido presión en muchas aristas, seguimos
+                                    En un año que ha ejercido presión, seguimos
                                     desde esta Confederación bregando por generar acuerdos con las
                                     autoridades tributarias, que brinden herramientas para mejorar
                                     la situación impositiva, financiera, de competitividad y de
@@ -377,12 +377,18 @@
                         trabajadores y familias en un contexto tan delicado.
                     </p>
 
-                    <a href="http://www.redcame.org.ar/novedades/10491/exitosa-gestion-en-la-revision-de-la-paritaria-de-comercio"
+                    <a href="http://www.redcame.org.ar/novedades/10084/se-firmo-el-acuerdo-paritario-mercantil-2020"
                         target="_blank">
                         <h3 style="line-height: 2rem" class="color">
                             <i class="icon-ok"></i> Se firmó el acuerdo paritario mercantil 2020
                         </h3>
+
                     </a>
+                    <a href="http://www.redcame.org.ar/novedades/10084/se-firmo-el-acuerdo-paritario-mercantil-2020"
+                        target="_blank"
+                        class="button button-small button-circle button-border button-blue text-right">Ver
+                        más<i class="icon-circle-arrow-right"></i></a>
+
                     <a href="http://www.redcame.org.ar/novedades/10491/exitosa-gestion-en-la-revision-de-la-paritaria-de-comercio"
                         target="_blank">
                         <h3 style="line-height: 2rem" class="color">
@@ -391,6 +397,10 @@
                             Comercio
                         </h3>
                     </a>
+                    <a href="http://www.redcame.org.ar/novedades/10491/exitosa-gestion-en-la-revision-de-la-paritaria-de-comercio"
+                        target="_blank"
+                        class="button button-small button-circle button-border button-blue text-right">Ver
+                        más<i class="icon-circle-arrow-right"></i></a>
                 </div>
                 <div class="col-md-4">
                     <img class="card-img" src="imgs/voz_pymes.jpg"
@@ -633,7 +643,7 @@
                 </div>
                 <div class="col-md-8">
                     <p>
-                        La Comisión, integrada por dirigentes de la entidad, tiene como
+                        La Comisión de sectoriales, integrada por dirigentes de la entidad, tiene como
                         objetivo fortalecer los sectores de la economía trabajando
                         aspectos específicos de la cadena de valor. Realizó, durante el
                         segundo semestre del año, diversas gestiones que apuntan a
