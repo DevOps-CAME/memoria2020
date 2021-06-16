@@ -21,6 +21,10 @@
                             Dr. Gerardo Díaz Beltrán
                             <span>Presidente de la CAME</span>
                         </div>
+                        <a href="http://www.redcame.org.ar/novedades/10367/historica-jornada-internacional-de-came-junto-a-adm-en-el-ii-encuentro-iberoamericano-de-convergencia-empresarial"
+                            target="_blank"
+                            class="button button-small button-circle button-border button-blue text-right">Ver
+                            más<i class="icon-circle-arrow-right"></i></a>
 
                     </div>
                 </div>
@@ -32,31 +36,17 @@
 <div id="car_gestiones_pandemia" class="owl-carousel portfolio-carousel carousel-widget" data-pagi="true"
     data-items-xs="1" data-items-sm="2" data-items-md="4" data-items-lg="4">
 
+
+
     <div class="portfolio-item-bcra" style="cursor: pointer" data-toggle="modal" data-target=".bs-example-modal-lg2">
         <div class="portfolio-image">
 
-            <img src="imgs/gest_bcra/GDB_BCRA_01.jpg"
-                alt="La falta de colaboración de los bancos está matando a las pymes" />
+            <img src="imgs/gest_pand/001.jpg" alt="II Encuentro Iberoamericano de Convergencia Empresarial" />
 
-        </div>
-        <div class="portfolio-desc">
-            <h4 class="car_titulo color">Palabras del Dr. Gerardo Díaz Beltrán</h4>
-
-
-        </div>
-    </div>
-
-    <div class="portfolio-item-bcra">
-        <div class="portfolio-image">
-            <a href="http://www.redcame.org.ar/novedades/10367/historica-jornada-internacional-de-came-junto-a-adm-en-el-ii-encuentro-iberoamericano-de-convergencia-empresarial"
-                target="_blank">
-                <img src="imgs/gest_pand/001.jpg" alt="II Encuentro Iberoamericano de Convergencia Empresarial" />
-            </a>
             <div class="portfolio-desc">
-                <p class="car_titulo">
-                    <a href="http://www.redcame.org.ar/novedades/10367/historica-jornada-internacional-de-came-junto-a-adm-en-el-ii-encuentro-iberoamericano-de-convergencia-empresarial"
-                        target="_blank">II Encuentro Iberoamericano de Convergencia Empresarial “Pandemia: crisis y
-                        desafíos”</a>
+                <p class="car_titulo color">
+                    II Encuentro Iberoamericano de Convergencia Empresarial “Pandemia: crisis y
+                    desafíos”
                 </p>
             </div>
         </div>
