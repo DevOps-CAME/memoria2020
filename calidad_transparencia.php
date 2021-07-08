@@ -157,7 +157,7 @@
                             transferencia directa a las entidades y proveedores.
                         </p>
 
-                        <p>
+                       <!--  <p>
                             Hubo un aumento significativo en el activo producto del avance de la obra que otorga mayor
                             valor
                             al inmueble, sito en Roque Sáenz Peña 900, quedando valuado al 31 de diciembre de 2020 en
@@ -185,7 +185,7 @@
                                 21.487.136,21.</bold> al 31 de
                             diciembre de 2020, quedando valuada nuestra participación en <bold>$
                                 20.412.779,40. </bold>
-                        </p>
+                        </p> -->
 
                         <p>
                             De acuerdo lo dispuesto por la Resolución Técnica 21 de la Federación Argentina de Consejos
@@ -320,7 +320,7 @@
                                         </div>
                                     </div>
 
-                                    <div class="row col-md-12 col-mb-50 justify-content-center">
+                                    <!-- <div class="row col-md-12 col-mb-50 justify-content-center">
                                         <div class="col-sm-6 col-lg-4 text-center">
 
                                             <div class="counter counter-medium" style="color: #267df4">
@@ -363,7 +363,7 @@
                                             <h5>aportes al CCCA</h5>
                                         </div>
 
-                                    </div>
+                                    </div> -->
 
 
 
