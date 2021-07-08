@@ -308,7 +308,7 @@
 
 
 
-                                <div class="row justify-content-between">
+                                <!-- <div class="row justify-content-between">
                                     <div class="col-md-12">
 
                                         <div class="fancy-title title-center title-border">
@@ -320,7 +320,7 @@
                                         </div>
                                     </div>
 
-                                    <!-- <div class="row col-md-12 col-mb-50 justify-content-center">
+                                    <div class="row col-md-12 col-mb-50 justify-content-center">
                                         <div class="col-sm-6 col-lg-4 text-center">
 
                                             <div class="counter counter-medium" style="color: #267df4">
@@ -363,13 +363,13 @@
                                             <h5>aportes al CCCA</h5>
                                         </div>
 
-                                    </div> -->
+                                    </div>
 
 
 
 
 
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>
