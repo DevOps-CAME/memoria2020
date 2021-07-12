@@ -207,13 +207,6 @@
                             </div>
 
 
-                            <div class="oc-item center">
-                                <a href="http://redcame.org.ar/revista/ampliada/10" target="_blank">
-                                    <img class="card-img"
-                                        src="http://redcame.org.ar/advf/imagenes/2020/04/5e9f78b5b0f83_800x1132.jpg">
-                                    <h4>Enero - 2020</h4>
-                                </a>
-                            </div>
 
 
 
