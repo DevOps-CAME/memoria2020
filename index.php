@@ -188,8 +188,8 @@ include "header.html";
                                     <div class="card-body">
 
                                         <p class="card-text">
-                                            Elevamos propuestas de vanguardia sobre los ejes impositivo, tributario y
-                                            financiero al Gobierno nacional, alentando el consumo y generando alianzas,
+                                            Elevamos propuestas de vanguardia sobre los ejes tributario, financiero y laboral
+                                            al Gobierno nacional, alentando el consumo y generando alianzas,
                                             en un momento histórico por su complejidad para la matriz productiva.
                                         </p>
                                     </div>
