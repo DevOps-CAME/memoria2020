@@ -42,7 +42,15 @@
                         <div class="col-md-12">
                             <div class="row col-mb-30 mb-5">
                                 <div class="col-lg-10 col-md-10 mb-0">
-                                    <h3>Durante el 2020, desde FINANCAME hemos alcanzado los siguientes resultados:
+<p>
+<strong>Durante el 2020,</strong> desde <strong>FINANCAME</strong> brindamos orientación y apoyo técnico en materia de acceso al financiamiento y/o asistencia pública a entidades, MiPymes y emprendedores sobre los diferentes programas de emergencia económica lanzados por el Gobierno nacional, a raíz de la pandemia por el virus COVID-19. Los hemos acompañado en un contexto y coyuntura muy complejos para las empresas y emprendimientos nacionales de los diferentes sectores económicos, realizamos charlas y capacitaciones virtuales para acercar las herramientas e instrumentos disponibles en financiamiento.  </p>
+<p>
+<strong>A través de CAME INCUBA y para el Ecosistema Emprendedor,</strong> potenciamos el trabajo junto con los mentores con las propuestas virtuales de Encuentros de Casos de Éxito Emprendedor, Talleres de formalización, Gestión de los Negocios y Marketing, Mentorías virtuales, entre otros; allí acercamos herramientas a emprendedores y microempresas de todo el país con temáticas pensadas especialmente para ellos, que fueron los protagonistas por haber iniciado un proceso de reconversión obligado y ágil en la difícil situación de pandemia.
+
+
+</p>
+
+                                    <h3>Les dejamos algunas cifras y resultados de nuestra gestión 2020: 
                                     </h3>
                                 </div>
 
